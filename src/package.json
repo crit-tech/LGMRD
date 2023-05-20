@@ -1,0 +1,32 @@
+{
+  "name": "lgmrd-parser",
+  "version": "1.0.0",
+  "description": "Parses The Lazy GM's Resource Document and coverts it to various digital formats.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "ts-node-esm index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crit-tech/LGMRD.git"
+  },
+  "author": "David Prothero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crit-tech/LGMRD/issues"
+  },
+  "homepage": "https://github.com/crit-tech/LGMRD#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "rehype-parse": "^8.0.4",
+    "rehype-remark": "^9.1.2",
+    "remark-gfm": "^3.0.1",
+    "remark-stringify": "^10.0.3",
+    "unified": "^10.1.2"
+  }
+}
