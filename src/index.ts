@@ -12,6 +12,7 @@ const __dirname = path.dirname(__filename);
 
 const LGMRD_URL = "https://slyflourish.com/lazy_gm_resource_document.html";
 const CACHED_FILE = path.join(__dirname, "cache", "cached.html");
+const OUTPUT_PATH = path.resolve(__dirname, "..");
 
 async function convertToMarkdown(html: string): Promise<void> {
   const markdown = await unified()
@@ -20,7 +21,7 @@ async function convertToMarkdown(html: string): Promise<void> {
     .use(remarkGfm)
     .use(remarkStringify)
     .process(html);
-  fs.writeFileSync(path.join(__dirname, "LGMRD.md"), markdown.toString());
+  fs.writeFileSync(path.join(OUTPUT_PATH, "LGMRD.md"), markdown.toString());
 }
 
 async function run() {
