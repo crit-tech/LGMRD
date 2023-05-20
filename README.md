@@ -10,4 +10,4 @@ This work includes material taken from the System Reference Document 5.1 ("SRD 5
 
 ## Available formats
 
-- All-in-one Markdown: [lgmrd.md](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md)
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md)
