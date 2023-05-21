@@ -46,7 +46,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Random Dungeon Monsters](#randomdungeonmonsters)
 *   [Lazy Solo 5e](#lazysolo5e)
 
-## The Eight Steps of Lazy RPG Prep
+## <a id="eightsteps"></a>The Eight Steps of Lazy RPG Prep
 
 For a typical game session, the Lazy RPG Prep checklist looks like this:
 
@@ -111,7 +111,7 @@ If you have very little time, reduce the checklist to the most important things 
 *   Define secrets and clues
 *   Develop fantastic locations
 
-## The Lazy RPG Preparation Process
+## <a id="prepprocess"></a>The Lazy RPG Preparation Process
 
 ### The Lazy RPG Prep Toolkit
 
@@ -169,7 +169,7 @@ If you have very little time, reduce the checklist to the most important things 
 *   Delegate certain tasks to the players
 *   Use static monster damage
 
-## Example Strong Starts
+## <a id="strongstarts"></a>Example Strong Starts
 
 A strong start kicks your game off in the middle of the action. It helps the players to let go of the real world and fall into the story unfolding at the table. Depending on where your adventure takes place, you can use any of the following strong starts in your own game, whether running a single-session adventure or a longer campaign.
 
@@ -233,7 +233,7 @@ Subterranean adventures lend themselves to the widest possible range of strong s
 9.  Stars swim in a moonlit well, then rise up to reveal themselves as will-o'-wisps.
 10. A spectral hound guides the characters to the camp of a reclusive mage.
 
-## Creating Secrets and Clues
+## <a id="creatingsecrets"></a>Creating Secrets and Clues
 
 Secrets and clues are short pieces of information the characters might discover during an adventure. Secrets and clues are initially written without regard to the method by which they might be discovered. Instead, we improvise their discovery as the characters engage with the adventure's locations and NPCs.
 
@@ -305,7 +305,7 @@ Characters might learn these secrets from quest-giving NPCs, notes found on defe
 9.  What unnatural being has appeared in the world?
 10. What unusual creature was seen walking the wilds?
 
-## Building an RPG Group
+## <a id="buildingagroup"></a>Building an RPG Group
 
 ### Finding and Maintaining a Solid Group
 
@@ -355,7 +355,7 @@ If you find that certain players are regularly missing the game, ask if they wou
 
 Don't worry about what happens to characters in-game when a player misses the session. If there is an easy way for the character to step out of the story, take it. Otherwise, just let the character fade into the background. Your players will understand why you're taking such liberties with the universe, and that in-world consistency isn't as important as making allowances for the realities of people's lives.
 
-## Session Zero Checklist
+## <a id="sessionzerochecklist"></a>Session Zero Checklist
 
 Session zero is a vital tool for getting players and GMs on the same page about a new campaign. A session zero takes place before the first session of a campaign. This special session gives you time to ensure that the players are on board with the themes of the campaign, and that their characters will integrate well together and with the adventures to come.
 
@@ -418,7 +418,7 @@ If desired, you can connect the characters together with individual relationship
 
 Once the characters are built and your players are ready, you can run a short adventure at the end of session zero to introduce the characters to the campaign in a fast and exciting way. You might choose to run a single combat encounter with some added negotiation and exploration, after which the characters advance to 2nd level and are ready to fully engage with the story of the campaign.
 
-## Safety Tools
+## <a id="safetytools"></a>Safety Tools
 
 Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run – especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
 
@@ -495,7 +495,7 @@ The following resources offer further options for RPG safety tools, and influenc
 *   [Script Change](https://briebeau.com/scriptchange) by Beau Jágr Sheldon
 *   [The TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj) by Kienna Shaw and Lauren Bryant-Monk
 
-## Connecting Characters
+## <a id="connectingcharacters"></a>Connecting Characters
 
 During your session zero of a new campaign, or if you're running a single-session one-shot game, consider establishing connections between the characters to help build a cohesive bond between them before the game begins. This can help prevent ham-fisted and convoluted attempts to build a story that connects the characters, when all the players already know perfectly well that they're coming together simply for the adventure.
 
@@ -551,7 +551,7 @@ For single-session games, consider establishing a single group relationship for 
 19. Dueling partner of
 20. On the run with
 
-## Spiral Campaign Development
+## <a id="spiralcampaigns"></a>Spiral Campaign Development
 
 Spiral campaign development builds campaign worlds starting in the area immediately surrounding the characters, then spirals out, expanding the world as the characters experience it. This section offers suggestions and inspiration for building a spiral campaign.
 
@@ -662,7 +662,7 @@ As the campaign spirals outward, the characters will become aware of local adven
 19. Dead hollow tree
 20. Sundered shipwreck
 
-## Quest Templates
+## <a id="questtemplates"></a>Quest Templates
 
 Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs. This section offers ten quest templates you can customize for your own adventures. If generating a random adventure, just roll a d10 to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators found later in this document.
 
@@ -706,7 +706,7 @@ The characters must defend a location from oncoming enemies. As with the "Steal 
 
 In this quest template, the characters must end an ongoing ritual. Doing so usually requires the disruption of multiple components, such as destroying glyph-marked pillars or corrupting magic pools. Suitable rituals might include those dedicated to opening or closing a gate, summoning a fiend, resurrecting a dead god, and so forth. In a variant of this quest template, the characters must defend those performing a ritual against other forces that seek to stop it.
 
-## Tools for 5e Improvisation
+## <a id="toolsforimprov"></a>Tools for 5e Improvisation
 
 ### Difficulty Checks
 
@@ -763,7 +763,7 @@ First Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typ
 
 Last Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](#npcgenerator)" section later in this document.
 
-## Quick Tricks for Lazier 5e Games
+## <a id="quicktricks"></a>Quick Tricks for Lazier 5e Games
 
 ### Start with Inspiration
 
@@ -813,7 +813,7 @@ The following tricks make excellent additions to every GM's toolbox:
 *   Reveal monster ACs and the DCs for ability checks to the players, and help them calculate ahead of time what they'll need on their d20 roll to succeed. This lets the players focus on the excitement of the die roll rather than the math.
 *   When appropriate, roll on a character's behalf so the player doesn't know the result for something their character wouldn't know.
 
-## 5e Quick Encounter Building
+## <a id="quickencounterbuilding"></a>5e Quick Encounter Building
 
 When building encounters, start by choosing the type and number of monsters that make sense for the situation. Then use the following guidelines to compare the challenge rating of the monsters, the level of the characters, and the ratio of monsters to characters. If the quantity of monsters or their challenge rating is beyond the indicated guidelines, the encounter might be deadly. Be especially careful with potentially deadly encounters when the characters are 1st level.
 
@@ -844,7 +844,7 @@ Finally, tune encounters by adjusting the number of monsters, increasing or decr
 
 **Named Monsters:** Adding an extra attack or maximizing damage can make a named monster or unique foe more challenging. Named monsters can also be given legendary actions or the Legendary Resistance feature to make the fight more interesting.
 
-## Lazy Combat Encounter Building for 5e
+## <a id="lazycombatencounterbuilding"></a>Lazy Combat Encounter Building for 5e
 
 This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
 
@@ -896,7 +896,7 @@ At 11th level and higher, an encounter might be deadly if the total of all the m
 
 This sets up encounters of a much greater challenge than the baseline benchmark, but it might work more accurately for higher-powered characters.
 
-## Theater of the Mind Guidelines (Extended)
+## <a id="totmguidelines1"></a>Theater of the Mind Guidelines (Extended)
 
 The following guidelines can help Gamemasters run combat in the "theater of the mind," without the need for a gridded battle map or miniatures. This style of combat takes the emphasis away from tactical features such as distance, range, and the specific size of areas of effect. Instead, it focuses on the in-game action, the intent of the characters, and what happens in the story.
 
@@ -969,7 +969,7 @@ Ask each player to describe the physical traits of a monster their character is 
 
 Theater-of-the-mind combat can go stale if you don't continually reinforce the story of what's happening. Go big with your descriptions of the location and the action. Ask players to describe their attacks and killing blows. Between turns, describe the current situation using in-story language. These descriptions are vital to keeping the scene interesting.
 
-## Theater of the Mind Guidelines (Abbreviated)
+## <a id="totm2"></a>Theater of the Mind Guidelines (Abbreviated)
 
 This section offers abbreviated guidelines for running "theater of the mind" combat – no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
 
@@ -1019,7 +1019,7 @@ A GM running a theater-of-the-mind game should keep the following points in mind
 
 Add theater of the mind to your collection of ways to run combat, including abstract maps, zone-based combat (described later in this document), gridded combat, or 3D terrain. Choose the right style of combat for the pace and complexity of the scene. Keep each approach as a tool in your GM's toolbox to help you share exciting tales of action and high adventure.
 
-## Zone-Based Combat
+## <a id="zonebasedcombat"></a>Zone-Based Combat
 
 Zone-based combat can help GMs run fast, dynamic, and high-action combat without worrying about all the details of tactical combat played out on a grid. It supports multiple combat styles, including pure narrative theater-of-the-mind combat, quickly drawn abstract sketches, or miniatures used with detailed maps or 3D terrain. Using zone-based combat means you have to worry less about the details of a 5-foot-per-square grid and can focus more on big heroic action. Zone-based combat simply requires that the GM and the players work together with the shared goal of creating fantastic stories of high adventure.
 
@@ -1057,7 +1057,7 @@ GMs can adjudicate and adjust these numbers based on the current situation. For 
 
 Zone-based combat doesn't account for a wide range of features that make use of specific distances. In those cases, it's up to the GM to work with a player's intent to help them make use of those features. In all cases, the GM should ask what the player wants to do, then help them figure out how to do it.
 
-## Monster Difficulty Dials
+## <a id="monsterdifficultydials"></a>Monster Difficulty Dials
 
 Balancing combat encounters is notoriously difficult. Different groups of characters can bring very different capabilities to each battle, even at the same level. However, because monsters as they are typically presented are the average of their type, you can adjust the averages to subtly or dramatically change the difficulty of a given monster or group of monsters. By turning these "difficulty dials" for monsters, you can easily shift the tone of combat even in the middle of a battle.
 
@@ -1095,7 +1095,7 @@ You can turn any or all of these dials to tune a combat encounter and bring the 
 
 Turning several dials together can change combat dramatically, helping to keep things feeling fresh. For example, a group of starving ogres might be weakened (lowering the hit point dial) but also frenzied in combat (turning up the attack dial). By adjusting these dials when designing encounters and during your game, you can keep the pacing of combat exciting and fun.
 
-## Running Hordes
+## <a id="runninghordes"></a>Running Hordes
 
 This section helps you more easily run battles in which the characters face large numbers of monsters.
 
@@ -1146,7 +1146,7 @@ Adjudicate the number of creatures caught up in an area of effect based on the c
 *   Augment a horde with a handful of more powerful monsters when desired. Track the hit points and attacks of these powerful monsters normally.
 *   As hordes diminish to a manageable level, return to tracking individual hit points, attacks, and saving throws normally.
 
-## Stress Effects
+## <a id="stresseffects"></a>Stress Effects
 
 The guidelines in this section replace the madness rules found in other books. The concept of "madness" has long been used to malign and marginalize complex psychological symptoms and the individuals coping with them.
 
@@ -1222,7 +1222,7 @@ Be mindful to avoid terms such as "madness" or "crazy" to describe the long-term
 
 Special thanks to Dr. Megan Connell and Dr. Michael Mallen for their feedback on this section.
 
-## Core Adventure Generators
+## <a id="coreadventuregenerators"></a>Core Adventure Generators
 
 The tables in this section can help you generate a core fantasy adventure based on the traditional concept of getting hired by a patron or other NPC to take on a quest in a specific location. Often these adventures take place in small settlements surrounded by ancient ruins and monstrous lairs on the edge of civilization.
 
@@ -1500,7 +1500,7 @@ Some commonly discovered relics might grant a single- use spell, while less comm
 19. *Haste*
 20. *Fly*
 
-## NPC Generator
+## <a id="npcgenerator"></a>NPC Generator
 
 NPCs bring our game worlds to life. You can use the generator in this section to quickly build NPCs to drop into your game, rolling on the tables below to generate baseline characteristics. To really bring the NPC to life, you can then model their personality and roleplaying off characters from your favorite books, TV shows, or movies, switching up gender and other traits to make them feel fresh.
 
@@ -1608,7 +1608,7 @@ Assign a profession to your NPC to add color to their stat block. The commoner i
 19. Knight
 20. Mage
 
-## Treasure Generator
+## <a id="treasuregenerator"></a>Treasure Generator
 
 Piles of coins, shining gems, and powerful relics hidden away in the depths of the world await adventurers brave enough to seek them. This section offers a simple set of tables and guidelines that let you quickly reward treasure for your fantasy RPG, and which work well alongside the more detailed treasure rules of the game.
 
@@ -1693,7 +1693,7 @@ Permanent magic items can be included with treasure as desired, with the uncommo
 39. *Wand of magic missiles*
 40. *Wand of web*
 
-## Random Traps
+## <a id="randomtraps"></a>Random Traps
 
 Use these lists to generate simple or complex traps, incorporating multiple features, plus energy damage or conditions.
 
@@ -1785,7 +1785,7 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 | Dangerous   | 12 - 15 | +6 to +8     |
 | Deadly      | 16 - 20 | +9 to +12    |
 
-## Random Monuments
+## <a id="randommonuments"></a>Random Monuments
 
 Filling the various chambers and locations in your game with interesting features is always a challenge – and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
 
@@ -1911,7 +1911,7 @@ Filling the various chambers and locations in your game with interesting feature
 49. Pool
 50. Orb
 
-## Random Items
+## <a id="randomitems"></a>Random Items
 
 The following lists allow you to generate useful relics and objects, from mundane discoveries to powerful magical artifacts. If you want to come up with an interesting magic weapon, for example, you might roll on the Item Condition, Item Origin, Weapon, and Spell Effect tables. If you just want a weird mundane item, roll on the Item Condition, Item Origin, and Mundane Item tables without adding any effect.
 
@@ -2118,7 +2118,7 @@ Also included is a table noting the four types of *healing potions* and how many
 | 17 - 19 | Superior healing | Rare      | 8d4 + 8     |
 | 20      | Supreme healing  | Very rare | 10d4 + 20   |
 
-## Random Town Events
+## <a id="randomtownevents"></a>Random Town Events
 
 Whenever the characters enter a new town or start a new session there, adding some detail and context to the setting can help bring things to life. These "Town Events" lists help determine what might be going on in a town, how the townsfolk are currently feeling, what the weather is, and what mundane or fantastic event might be taking place.
 
@@ -2214,7 +2214,7 @@ Whenever the characters enter a new town or start a new session there, adding so
 19. The border to the fey realm grows thin
 20. The world of shadow bleeds over into the material realm
 
-## Random Dungeon Monsters
+## <a id="randomdungeonmonsters"></a>Random Dungeon Monsters
 
 The following tables let you randomly select monsters based on "dungeon level." Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.
 
@@ -2455,7 +2455,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 9.  Ancient blue dragon
 10. Ancient red dragon
 
-## Lazy Solo 5e
+## <a id="lazysolo5e"></a>Lazy Solo 5e
 
 These rules let you play a solo game of 5e using lists in this document. With these guidelines, a single character explores a dungeon to complete quests. Let your imagination take over as you fill in the story and details of the quest, location, and adventure.
 
