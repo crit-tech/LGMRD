@@ -21,7 +21,7 @@ function getMarkdownPlugin(callback: (tree: Root) => void) {
   };
 }
 
-export async function convertToMarkdown(html: string): Promise<void> {
+export async function convertToMarkdown(html: string): Promise<boolean> {
   const htmlPlugin = getHtmlPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
@@ -53,6 +53,11 @@ export async function convertToMarkdown(html: string): Promise<void> {
 
   process.stdout.write("Converting LGMRD to Markdown...");
 
+  const markdownFilePath = path.join(OUTPUT_PATH, "LGMRD.md");
+  const previousMarkdown = fs.existsSync(markdownFilePath)
+    ? fs.readFileSync(markdownFilePath, "utf-8")
+    : "";
+
   const markdown = await unified()
     .use(rehypeParse)
     .use(htmlPlugin)
@@ -71,7 +76,9 @@ export async function convertToMarkdown(html: string): Promise<void> {
     .use(remarkStringify)
     .process(html);
 
-  fs.writeFileSync(path.join(OUTPUT_PATH, "LGMRD.md"), markdown.toString());
+  fs.writeFileSync(markdownFilePath, markdown.toString());
 
   process.stdout.write("Done\n");
+
+  return previousMarkdown !== markdown.toString();
 }
