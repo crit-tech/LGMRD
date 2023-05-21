@@ -7,7 +7,6 @@ import type { H as State } from "rehype-remark";
 import remarkGfm from "remark-gfm";
 import remarkStringify from "remark-stringify";
 import { Heading as MarkdownHeading } from "mdast";
-import { fileURLToPath } from "url";
 import { Root } from "mdast";
 
 import getHtmlPlugin from "./html.js";
@@ -52,6 +51,8 @@ export async function convertToMarkdown(html: string): Promise<void> {
     };
   }
 
+  process.stdout.write("Converting LGMRD to Markdown...");
+
   const markdown = await unified()
     .use(rehypeParse)
     .use(htmlPlugin)
@@ -71,4 +72,6 @@ export async function convertToMarkdown(html: string): Promise<void> {
     .process(html);
 
   fs.writeFileSync(path.join(OUTPUT_PATH, "LGMRD.md"), markdown.toString());
+
+  process.stdout.write("Done\n");
 }
