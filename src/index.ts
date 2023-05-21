@@ -17,7 +17,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const LGMRD_URL = "https://slyflourish.com/lazy_gm_resource_document.html";
-const CACHED_FILE = path.join(__dirname, "cache", "cached.html");
+const CACHE_FOLDER = path.join(__dirname, "cache");
+const CACHED_FILE = path.join(CACHE_FOLDER, "cached.html");
 const OUTPUT_PATH = path.resolve(__dirname, "..");
 
 async function convertToMarkdown(html: string): Promise<void> {
@@ -72,6 +73,10 @@ async function convertToMarkdown(html: string): Promise<void> {
 
 async function run() {
   let html: string;
+
+  if (!fs.existsSync(CACHE_FOLDER)) {
+    fs.mkdirSync(CACHE_FOLDER);
+  }
 
   if (!fs.existsSync(CACHED_FILE)) {
     process.stdout.write("Downloading LGMRD...");
