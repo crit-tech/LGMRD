@@ -21,6 +21,30 @@ function getMarkdownPlugin(callback: (tree: Root) => void) {
   };
 }
 
+function getHeadingHandler(tagName: string) {
+  return (state: State, node: any) => {
+    const content = (defaultHandlers as any)[tagName](state, node);
+    if (node?.properties?.id && (content as MarkdownHeading)?.children) {
+      (content as MarkdownHeading).children.unshift({
+        type: "html",
+        value: `<a id="${node.properties.id}"></a>`,
+      });
+    }
+    return content;
+  };
+}
+
+export const rehypeRemarkOptions = {
+  handlers: {
+    h1: getHeadingHandler("h1"),
+    h2: getHeadingHandler("h2"),
+    h3: getHeadingHandler("h3"),
+    h4: getHeadingHandler("h4"),
+    h5: getHeadingHandler("h5"),
+    h6: getHeadingHandler("h6"),
+  },
+};
+
 export async function convertToMarkdown(html: string): Promise<boolean> {
   const htmlPlugin = getHtmlPlugin((tree) => {
     const treeCopy = removePosition(tree);
@@ -38,19 +62,6 @@ export async function convertToMarkdown(html: string): Promise<boolean> {
     );
   });
 
-  function getHeadingHandler(tagName: string) {
-    return (state: State, node: any) => {
-      const content = (defaultHandlers as any)[tagName](state, node);
-      if (node?.properties?.id && (content as MarkdownHeading)?.children) {
-        (content as MarkdownHeading).children.unshift({
-          type: "html",
-          value: `<a id="${node.properties.id}"></a>`,
-        });
-      }
-      return content;
-    };
-  }
-
   process.stdout.write("Converting LGMRD to Markdown...");
 
   const markdownFilePath = path.join(OUTPUT_PATH, "LGMRD.md");
@@ -61,16 +72,7 @@ export async function convertToMarkdown(html: string): Promise<boolean> {
   const markdown = await unified()
     .use(rehypeParse)
     .use(htmlPlugin)
-    .use(rehypeRemark, {
-      handlers: {
-        h1: getHeadingHandler("h1"),
-        h2: getHeadingHandler("h2"),
-        h3: getHeadingHandler("h3"),
-        h4: getHeadingHandler("h4"),
-        h5: getHeadingHandler("h5"),
-        h6: getHeadingHandler("h6"),
-      },
-    })
+    .use(rehypeRemark, rehypeRemarkOptions)
     .use(remarkGfm)
     .use(markdownPlugin)
     .use(remarkStringify)
