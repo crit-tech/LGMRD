@@ -1,8 +1,9 @@
 on:
   schedule:
     - cron: "0 0 * * *"
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
 
 jobs:
   build:
