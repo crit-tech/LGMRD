@@ -1,6 +1,6 @@
 import { fetchDocument } from "./utils/fetch.js";
-import { convertToMarkdown } from "./plugins/markdown.js";
-import { convertToMarkdownSeparate } from "./plugins/markdownSeparate.js";
+import { convertToMarkdown } from "./formats/markdown.js";
+import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
 import { logUpdate } from "./utils/logUpdate.js";
 
 async function run() {
