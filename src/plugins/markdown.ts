@@ -25,7 +25,7 @@ export async function convertToMarkdown(html: string): Promise<boolean> {
   const htmlPlugin = getHtmlPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
-      path.join(OUTPUT_PATH, "LGMRD_hast.json"),
+      path.join(OUTPUT_PATH, "metadata", "LGMRD_hast.json"),
       JSON.stringify(treeCopy, null, 2)
     );
   });
@@ -33,7 +33,7 @@ export async function convertToMarkdown(html: string): Promise<boolean> {
   const markdownPlugin = getMarkdownPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
-      path.join(OUTPUT_PATH, "LGMRD_mdast.json"),
+      path.join(OUTPUT_PATH, "metadata", "LGMRD_mdast.json"),
       JSON.stringify(treeCopy, null, 2)
     );
   });
