@@ -4,7 +4,7 @@ This is the Lazy GM's Resource Document in various digital formats. The formats 
 
 ## Available formats
 
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Sun, 21 May 2023 02:56:23 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Sun, 21 May 2023 03:05:45 GMT</span>**
 
 ## Attribution
 
