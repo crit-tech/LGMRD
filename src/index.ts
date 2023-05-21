@@ -1,6 +1,7 @@
 import { fetchDocument } from "./utils/fetch.js";
 import { convertToMarkdown } from "./formats/markdown.js";
 import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
+import { convertToJson } from "./formats/json.js";
 import { logUpdate } from "./utils/logUpdate.js";
 
 async function run() {
@@ -14,6 +15,11 @@ async function run() {
   const markdownSeparateUpdated = await convertToMarkdownSeparate(html);
   if (markdownSeparateUpdated) {
     logUpdate("markdown_separate");
+  }
+
+  const jsonUpdated = await convertToJson();
+  if (jsonUpdated) {
+    logUpdate("json");
   }
 }
 

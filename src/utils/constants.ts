@@ -9,3 +9,7 @@ export const LGMRD_URL =
 export const CACHE_FOLDER = path.join(__dirname, "..", "cache");
 export const CACHED_FILE = path.join(CACHE_FOLDER, "cached.html");
 export const OUTPUT_PATH = path.resolve(__dirname, "..", "..");
+export const MARKDOWN_SEPARATE_PATH = path.join(
+  OUTPUT_PATH,
+  "markdown_separate"
+);

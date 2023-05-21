@@ -1,0 +1,208 @@
+import fs from "fs";
+import path from "path";
+import {
+  Heading as MarkdownHeading,
+  List,
+  Paragraph,
+  Root,
+  Table,
+} from "mdast";
+import { toMarkdown } from "mdast-util-to-markdown";
+import { fromMarkdown } from "mdast-util-from-markdown";
+import { gfmFromMarkdown, gfmToMarkdown } from "mdast-util-gfm";
+import { gfm } from "micromark-extension-gfm";
+import { toString as mdastToString } from "mdast-util-to-string";
+import { Node } from "unist";
+import slugify from "slugify";
+
+import { OUTPUT_PATH, MARKDOWN_SEPARATE_PATH } from "../utils/constants.js";
+
+interface SubSectionContent {
+  type: "paragraph" | "table";
+  order: number;
+  content?: string;
+  table?: (string | number)[][];
+}
+
+interface SubSection {
+  id: string;
+  title: string;
+  order: number;
+  content: SubSectionContent[];
+}
+
+interface Section {
+  id: string;
+  title: string;
+  intro?: string;
+  subsections: SubSection[];
+}
+
+interface Output {
+  timestamp: Date;
+  sections: Section[];
+}
+
+function convertTreeToMarkdown(tree: Root): string {
+  const markdown = toMarkdown(tree, { extensions: [gfmToMarkdown()] });
+  return markdown.trim();
+}
+
+function convertTreeToString(tree: Root): string {
+  const markdown = mdastToString(tree);
+  return markdown.trim().replace(/\\/g, "");
+}
+
+export async function convertToJson(): Promise<boolean> {
+  process.stdout.write("Converting LGMRD to JSON...");
+
+  const jsonFilePath = path.join(OUTPUT_PATH, "LGMRD.json");
+  const previousJson = fs.existsSync(jsonFilePath)
+    ? fs.readFileSync(jsonFilePath, "utf8")
+    : "";
+
+  const output: Output = {
+    timestamp: new Date(),
+    sections: [],
+  };
+
+  const markdownFiles = fs
+    .readdirSync(MARKDOWN_SEPARATE_PATH)
+    .filter((file) => file.endsWith(".md"))
+    .sort();
+
+  output.sections = markdownFiles.map((file) => {
+    const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATH, file);
+    const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
+    const id = path.basename(file, ".md");
+    const tree = fromMarkdown(markdownFileContent, {
+      extensions: [gfm()],
+      mdastExtensions: [gfmFromMarkdown()],
+    });
+
+    let title = id;
+    if (tree.children[0].type === "heading") {
+      const titleNode = tree.children.shift() as MarkdownHeading;
+      title = convertTreeToString({
+        type: "root",
+        children: titleNode.children,
+      });
+    }
+
+    let intro = "";
+    while (tree.children[0].type !== "heading") {
+      if (intro) {
+        intro += "\n\n";
+      }
+      const introNode = tree.children.shift() as MarkdownHeading;
+      intro += convertTreeToMarkdown({
+        type: "root",
+        children: introNode.children,
+      });
+    }
+
+    const subsections: SubSection[] = [];
+    while (tree.children.length > 0) {
+      let node = tree.children.shift() as Node;
+
+      const newSubsection: SubSection = {
+        id: "",
+        title: "",
+        content: [],
+        order: subsections.length,
+      };
+      subsections.push(newSubsection);
+
+      if (node.type !== "heading") {
+        console.debug(node);
+        throw new Error(`Expected heading, got ${node.type}`);
+      }
+
+      const heading = node as MarkdownHeading;
+      const depth = heading.depth;
+      newSubsection.title = convertTreeToString({
+        type: "root",
+        children: heading.children,
+      });
+      newSubsection.id = slugify.default(
+        newSubsection.title.replace(/ \(.*?\)$/, ""),
+        {
+          lower: true,
+          replacement: "",
+          remove: /[*+~.()'"!:@\\/]/g,
+        }
+      );
+
+      let textSubsection: SubSectionContent = {
+        type: "paragraph",
+        order: newSubsection.content.length,
+        content: "",
+      };
+
+      node = tree.children[0] as Node;
+      if (newSubsection.id === "potionsofhealing") {
+        console.debug(id, node);
+      }
+      while (
+        node &&
+        (node.type !== "heading" || (node as MarkdownHeading).depth > depth)
+      ) {
+        tree.children.shift();
+        if (node.type === "table") {
+          const table = node as Table;
+          newSubsection.content.push({
+            type: "table",
+            order: newSubsection.content.length,
+            table: table.children.map((row) =>
+              row.children.map((cell) =>
+                convertTreeToString({
+                  type: "root",
+                  children: cell.children,
+                })
+              )
+            ),
+          });
+        } else if (node.type === "list") {
+          const list = node as List;
+          newSubsection.content.push({
+            type: "table",
+            order: newSubsection.content.length,
+            table: list.children.map((item, index) => {
+              const itemText = convertTreeToString({
+                type: "root",
+                children: item.children,
+              });
+              return list.ordered ? [index + 1, itemText] : [itemText];
+            }),
+          });
+        } else {
+          const paragraph = node as Paragraph;
+          if (textSubsection.content === "") {
+            newSubsection.content.push(textSubsection);
+          } else {
+            textSubsection.content += "\n\n";
+          }
+          textSubsection.content += convertTreeToMarkdown({
+            type: "root",
+            children: [paragraph],
+          });
+        }
+        node = tree.children[0] as Node;
+      }
+    }
+
+    return {
+      id,
+      title,
+      intro,
+      subsections,
+    };
+  });
+
+  const newJson = JSON.stringify(output, null, 2);
+  fs.writeFileSync(jsonFilePath, newJson);
+
+  process.stdout.write("Done\n");
+
+  return previousJson !== newJson;
+}

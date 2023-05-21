@@ -12,17 +12,15 @@ import { Node } from "unist";
 import { visit } from "unist-util-visit";
 
 import { rehypeRemarkOptions } from "./markdown.js";
-import { OUTPUT_PATH } from "../utils/constants.js";
+import { MARKDOWN_SEPARATE_PATH } from "../utils/constants.js";
 
 export async function convertToMarkdownSeparate(
   html: string
 ): Promise<boolean> {
   process.stdout.write("Converting LGMRD to Markdown (separate files)...");
 
-  const markdownPath = path.join(OUTPUT_PATH, "markdown_separate");
-  // Load every markdown file in the markdown_separate directory into a single string
   const markdownFiles = fs
-    .readdirSync(markdownPath)
+    .readdirSync(MARKDOWN_SEPARATE_PATH)
     .filter((file) => file.endsWith(".md"))
     .sort();
 
@@ -30,7 +28,7 @@ export async function convertToMarkdownSeparate(
     "\n" +
     markdownFiles
       .map((file) => {
-        const markdownFilePath = path.join(markdownPath, file);
+        const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATH, file);
         const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
         return markdownFileContent;
       })
@@ -70,7 +68,10 @@ export async function convertToMarkdownSeparate(
   let newMarkdown = "";
   for (const sectionName of Object.keys(sections).sort()) {
     const section = sections[sectionName];
-    const markdownFilePath = path.join(markdownPath, `${sectionName}.md`);
+    const markdownFilePath = path.join(
+      MARKDOWN_SEPARATE_PATH,
+      `${sectionName}.md`
+    );
     const tree = { type: "root", children: section } as Root;
     if (sectionName !== "index") {
       visit(tree, "heading", (node: MarkdownHeading) => {
