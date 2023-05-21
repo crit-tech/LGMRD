@@ -9,7 +9,7 @@ import remarkStringify from "remark-stringify";
 import { Heading as MarkdownHeading } from "mdast";
 import { Root } from "mdast";
 
-import getHtmlPlugin from "./html.js";
+import getHtmlPlugin from "../utils/html.js";
 import removePosition from "../utils/removePosition.js";
 import { OUTPUT_PATH } from "../utils/constants.js";
 
