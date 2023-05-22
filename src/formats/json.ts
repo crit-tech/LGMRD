@@ -43,6 +43,7 @@ interface Section {
 
 interface Output {
   version: string;
+  attribution?: string;
   sections: Section[];
 }
 
@@ -251,6 +252,11 @@ export async function convertToJson(): Promise<boolean> {
   } else {
     output.version = semver.inc(previousVersion, "patch") as string;
   }
+
+  output.attribution = fs.readFileSync(
+    path.join(OUTPUT_PATH, "src", "attribution.md"),
+    "utf8"
+  );
 
   fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
 
