@@ -30,6 +30,7 @@ export async function convertToMarkdownSeparate(
       .map((file) => {
         const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATH, file);
         const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
+        fs.unlinkSync(markdownFilePath);
         return markdownFileContent;
       })
       .join("\n");
