@@ -6,7 +6,7 @@ This is the Lazy GM's Resource Document in various digital formats. The formats 
 
 - [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Mon, 22 May 2023 02:21:04 GMT</span>**
 - [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Mon, 22 May 2023 02:21:04 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Mon, 22 May 2023 02:21:04 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Mon, 22 May 2023 02:26:12 GMT</span>**
 
 ## Attribution
 
