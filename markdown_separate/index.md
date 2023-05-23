@@ -12,7 +12,7 @@ This work includes material taken from the System Reference Document 5.1 ("SRD 5
 
 The publication and release of this document is made possible by [patrons of Sly Flourish](https://www.patreon.com/slyflourish). Thank you for your support!
 
-This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
+This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle. You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD)
 
 ## Table of Contents
 
