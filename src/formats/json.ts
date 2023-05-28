@@ -205,18 +205,21 @@ export async function convertToJson(): Promise<boolean> {
     };
   });
 
+  output.attribution = fs.readFileSync(
+    path.join(OUTPUT_PATH, "src", "attribution.md"),
+    "utf8"
+  );
+
   const previousVersion = previousJson
     ? JSON.parse(previousJson).version ?? "0.0.1"
     : "0.0.1";
 
-  let newJson = JSON.stringify(output, null, 2);
+  output.version = previousVersion;
+  const newJson = JSON.stringify(output, null, 2);
   if (previousJson === newJson) {
     process.stdout.write("Done\n");
     return false;
   }
-
-  output.version = previousVersion;
-  newJson = JSON.stringify(output, null, 2);
 
   let previousKeys: Set<string> = new Set();
   if (previousJson) {
@@ -254,11 +257,6 @@ export async function convertToJson(): Promise<boolean> {
   } else {
     output.version = semver.inc(previousVersion, "patch") as string;
   }
-
-  output.attribution = fs.readFileSync(
-    path.join(OUTPUT_PATH, "src", "attribution.md"),
-    "utf8"
-  );
 
   fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
 
