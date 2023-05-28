@@ -209,12 +209,14 @@ export async function convertToJson(): Promise<boolean> {
     ? JSON.parse(previousJson).version ?? "0.0.1"
     : "0.0.1";
 
-  output.version = previousVersion;
-  const newJson = JSON.stringify(output, null, 2);
+  let newJson = JSON.stringify(output, null, 2);
   if (previousJson === newJson) {
     process.stdout.write("Done\n");
     return false;
   }
+
+  output.version = previousVersion;
+  newJson = JSON.stringify(output, null, 2);
 
   let previousKeys: Set<string> = new Set();
   if (previousJson) {
