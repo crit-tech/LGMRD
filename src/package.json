@@ -25,8 +25,10 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "mdast-util-to-string": "^3.2.0",
     "micromark-extension-gfm": "^2.0.3",
+    "puppeteer": "^20.5.0",
     "rehype-parse": "^8.0.4",
     "rehype-remark": "^9.1.2",
     "remark-gfm": "^3.0.1",

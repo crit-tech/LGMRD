@@ -7,6 +7,7 @@ import { convertToMarkdown } from "./formats/markdown.js";
 import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
 import { convertToJson } from "./formats/json.js";
 import { logUpdate } from "./utils/logUpdate.js";
+import { convertToPdf } from "./formats/pdf.js";
 
 async function run() {
   const filePath = path.join(OUTPUT_PATH, "LGMRD.html");
@@ -18,6 +19,14 @@ async function run() {
   if (html !== prevHtml) {
     fs.writeFileSync(filePath, html);
     logUpdate("html");
+  }
+
+  if (
+    html !== prevHtml ||
+    !fs.existsSync(path.join(OUTPUT_PATH, "LGMRD.pdf"))
+  ) {
+    await convertToPdf(html);
+    logUpdate("pdf");
   }
 
   const markdownUpdated = await convertToMarkdown(html);

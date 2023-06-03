@@ -12,4 +12,9 @@ export const MARKDOWN_SEPARATE_PATH = path.join(
   "markdown_separate"
 );
 
-export type OutputFormat = "html" | "markdown" | "markdown_separate" | "json";
+export type OutputFormat =
+  | "html"
+  | "pdf"
+  | "markdown"
+  | "markdown_separate"
+  | "json";
