@@ -2,7 +2,7 @@
 
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
-Updated 8 May 2023
+Updated 6 August 2023
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
