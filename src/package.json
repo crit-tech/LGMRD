@@ -1,12 +1,13 @@
 {
   "name": "lgmrd-parser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Parses The Lazy GM's Resource Document and coverts it to various digital formats.",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "jest",
-    "start": "cross-env NODE_OPTIONS=--no-warnings ts-node-esm index.ts"
+    "start": "cross-env NODE_OPTIONS=--no-warnings ts-node-esm index.ts",
+    "postinstall": "./utils/postInstall.sh"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     "cheerio": "^1.0.0-rc.12",
     "mdast-util-to-string": "^3.2.0",
     "micromark-extension-gfm": "^2.0.3",
+    "pandoc-wrapper": "^0.3.1",
     "puppeteer": "^20.5.0",
     "rehype-parse": "^8.0.4",
     "rehype-remark": "^9.1.2",

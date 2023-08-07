@@ -8,6 +8,7 @@ import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
 import { convertToJson } from "./formats/json.js";
 import { logUpdate } from "./utils/logUpdate.js";
 import { convertToPdf } from "./formats/pdf.js";
+import { convertToEpub } from "./formats/epub.js";
 
 async function run() {
   const filePath = path.join(OUTPUT_PATH, "LGMRD.html");
@@ -27,6 +28,12 @@ async function run() {
   ) {
     await convertToPdf(html);
     logUpdate("pdf");
+  }
+
+  const epubPath = path.join(OUTPUT_PATH, "LGMRD.epub");
+  if (html !== prevHtml || !fs.existsSync(epubPath)) {
+    await convertToEpub(filePath, epubPath);
+    logUpdate("epub");
   }
 
   const markdownUpdated = await convertToMarkdown(html);

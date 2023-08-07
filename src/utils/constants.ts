@@ -15,6 +15,7 @@ export const MARKDOWN_SEPARATE_PATH = path.join(
 export type OutputFormat =
   | "html"
   | "pdf"
+  | "epub"
   | "markdown"
   | "markdown_separate"
   | "json";

@@ -9,7 +9,7 @@ This is the Lazy GM's Resource Document in various digital formats. The formats 
 - [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Mon, 07 Aug 2023 01:03:32 GMT</span>**
 - [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Mon, 07 Aug 2023 01:03:32 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Mon, 07 Aug 2023 01:03:31 GMT</span>**
-- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Mon, 22 May 2023 14:26:48 GMT</span>** (note EPUB format not yet auto-synchronized)
+- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Mon, 22 May 2023 14:26:48 GMT</span>**
 
 ## Attribution
 
