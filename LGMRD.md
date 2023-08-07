@@ -29,6 +29,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Tools for 5e Improvisation](#toolsforimprov)
 *   [Quick Tricks for Lazier 5e Games](#quicktricks)
 *   [5e Quick Encounter Building](#quickencounterbuilding)
+*   [Wilderness Travel and Exploration](#wildernesstravel)
 *   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
 *   [Theater of the Mind Guidelines (Extended)](#totmguidelines1)
 *   [Theater of the Mind Guidelines (Abbreviated)](#totm2)
@@ -813,6 +814,56 @@ The following tricks make excellent additions to every GM's toolbox:
 *   Reveal monster ACs and the DCs for ability checks to the players, and help them calculate ahead of time what they'll need on their d20 roll to succeed. This lets the players focus on the excitement of the die roll rather than the math.
 *   When appropriate, roll on a character's behalf so the player doesn't know the result for something their character wouldn't know.
 
+## <a id="wildernesstravel"></a>Wilderness Travel and Exploration
+
+This section offers a systematic approach for handling travel through wild lands filled with potential dangers, and can be used with both point crawls (see the previous page) or hex crawls.
+
+As the characters travel overland, they undertake specific activities related to the journey. Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.
+
+### Character Roles
+
+When the characters choose to travel through the wilderness, each player chooses a role for their character to take on. If two characters feel like good choices for a particular role, one character can use the Help action to assist the other, granting advantage on the check.
+
+#### Trailhand
+
+**Applicable Skills:** Nature, Survival
+
+A trailhand ensures that the party follows the right path to reach an intended destination, masterfully navigating the natural or constructed paths that crisscross the wilds. With a successful check, the characters stay on the correct paths. On a failure, they might become lost, stumbling into a hostile area or losing resources. Characters might also be subject to exhaustion as they try to make their way back to the correct path, or might find it difficult to take a short or long rest until they do.
+
+#### Scount
+
+**Applicable Skills:** Insight, Investigation, Nature, Perception, Survival
+
+A scout keeps an eye out for potentially hostile creatures during the characters' journey. These might be creatures stalking the characters, creatures that have earlier crossed the characters' path, or creatures that are traveling in the same direction and overtake the party. With a successful check, the characters spot the potentially hostile creatures and can plan their response. On a failure, the scout might unknowingly lead the party into a hostile encounter or an ambush.
+
+#### Quartermaster
+
+**Applicable Skills:** Medicine, Survival
+
+A quartermaster ensures that the characters remain well fed and hydrated during their journey. They ensure that provisions remain unspoiled, and help forage for additional resources along the way. Shorter journeys might not require a character to take on this role.
+
+With a successful check, the characters have plenty of food and water for the journey, with provisions remaining unspoiled. On a failure, the characters might lose precious resources of food and water (potentially leading to exhaustion), or need to spend additional time searching for resources.
+
+### Group Stealth
+
+If the characters decide to move stealthily through the wilderness, doing so doubles the length of their travel time and might impose disadvantage on other checks at your discretion. To move stealthily through the wilderness, the characters make a group Dexterity (Stealth) check and compare that result to the passive Wisdom (Perception) scores of any potentially hostile creatures that might spot or hear them.
+
+### Creating the Wilderness
+
+When an adventure sees the characters trekking across the wilds, use the following steps to create an adventure framework for that wilderness journey. You can use random tables to generate locations for wilderness journeys, including encounter ideas and suggestions for landmarks.
+
+#### Determine the Weather
+
+Choose or randomly select potential weather for the characters' journey. Weather mostly adds to the in-world atmosphere, but harsh weather can change the DCs of the characters' activities as they travel if you wish.
+
+#### Determine Potential Encounters
+
+As the characters travel through the wilderness, choose or randomly select potential encounters. These might be face-to-face encounters with denizens of the wilderness, but not all such encounters need to be hostile. The characters could run into friendly travelers, fearful monsters, weak foes, or signs of a previous battle. Likewise, they might spot the tracks of creatures recently passed by, or that are heading in the party's direction.
+
+#### Place Notable Landmarks
+
+Use notable landmarks to mark key points along the characters' journey. Such landmarks can serve as a backdrop for random encounters or as places to rest. They might also serve as a source of secrets and clues that the characters can discover.
+
 ## <a id="quickencounterbuilding"></a>5e Quick Encounter Building
 
 When building encounters, start by choosing the type and number of monsters that make sense for the situation. Then use the following guidelines to compare the challenge rating of the monsters, the level of the characters, and the ratio of monsters to characters. If the quantity of monsters or their challenge rating is beyond the indicated guidelines, the encounter might be deadly. Be especially careful with potentially deadly encounters when the characters are 1st level.
@@ -866,7 +917,7 @@ By giving you a rough estimation of how tough characters of a given level are, t
 
 Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
 
-An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.
+**An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.**
 
 To use this benchmark for characters of 1st through 4th level, add up the challenge ratings of all monsters in the encounter. Then add up the levels of all of the characters and divide that number by 4. If the challenge level summation is greater than the sum of character levels divided by 4, the encounter might be deadly. If the characters are above 5th level, use the same process but divide the total character levels by 2 instead of 4.
 

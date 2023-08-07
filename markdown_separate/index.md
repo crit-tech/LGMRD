@@ -29,6 +29,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Tools for 5e Improvisation](toolsforimprov.md)
 *   [Quick Tricks for Lazier 5e Games](quicktricks.md)
 *   [5e Quick Encounter Building](quickencounterbuilding.md)
+*   [Wilderness Travel and Exploration](wildernesstravel.md)
 *   [Lazy Combat Encounter Building for 5e](lazycombatencounterbuilding.md)
 *   [Theater of the Mind Guidelines (Extended)](totmguidelines1.md)
 *   [Theater of the Mind Guidelines (Abbreviated)](totm2.md)

@@ -20,7 +20,7 @@ By giving you a rough estimation of how tough characters of a given level are, t
 
 Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
 
-An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.
+**An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.**
 
 To use this benchmark for characters of 1st through 4th level, add up the challenge ratings of all monsters in the encounter. Then add up the levels of all of the characters and divide that number by 4. If the challenge level summation is greater than the sum of character levels divided by 4, the encounter might be deadly. If the characters are above 5th level, use the same process but divide the total character levels by 2 instead of 4.
 
