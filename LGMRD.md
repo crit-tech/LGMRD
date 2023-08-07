@@ -830,7 +830,7 @@ When the characters choose to travel through the wilderness, each player chooses
 
 A trailhand ensures that the party follows the right path to reach an intended destination, masterfully navigating the natural or constructed paths that crisscross the wilds. With a successful check, the characters stay on the correct paths. On a failure, they might become lost, stumbling into a hostile area or losing resources. Characters might also be subject to exhaustion as they try to make their way back to the correct path, or might find it difficult to take a short or long rest until they do.
 
-#### Scount
+#### Scout
 
 **Applicable Skills:** Insight, Investigation, Nature, Perception, Survival
 
