@@ -132,3 +132,4 @@ dist
 .pnp.*
 
 LGMRD_new.pdf
+pandoc*
