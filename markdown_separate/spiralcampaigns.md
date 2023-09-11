@@ -33,7 +33,7 @@ Start off by describing the central theme of your campaign in a single sentence.
 
 Once you have your pitch, identify six truths that set your campaign apart from others, then share them with your players. Here are six example truths for a campaign built around the coming of the Black Moon from above.
 
-*   Sages and cultists describe the coming of the Black Moon – an elder evil that will swallow the world.
+*   Sages and cultists describe the coming of the Black Moon — an elder evil that will swallow the world.
 *   Monsters have been sighted along what were once the safest roads. The populations of whole villages are disappearing without a trace.
 *   A floating obsidian citadel has appeared above the Cragteeth Mountains to the north.
 *   Folk once had to deal with the coming of the Black Moon, but their secrets for surviving it were lost.

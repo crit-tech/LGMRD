@@ -13,21 +13,21 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 |               | Monster List |       |       |       |       |       |       |       |       |       |
 | ------------- | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Dungeon Level | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    |
-| 1             | 1–16         | 17–19 | 20    | –     | –     | –     | –     | –     | –     |       |
-| 2             | 1–12         | 13–16 | 17–18 | 19    | 20    | –     | –     | –     | –     |       |
-| 3             | 1–12         | 13–16 | 17–18 | 19    | 20    | –     | –     | –     | –     |       |
-| 4             | 1–5          | 6–10  | 11–16 | 17–18 | 19    | 20    | –     | –     | –     |       |
-| 5             | 1–3          | 4–6   | 7–12  | 13–16 | 17–18 | 19    | 20    | –     | –     |       |
-| 6             | 1–2          | 3–4   | 5–6   | 7–12  | 13–16 | 17–18 | 19    | 20    | –     |       |
-| 7             | 1            | 2–3   | 4–5   | 6–10  | 11–14 | 15–16 | 17–18 | 19    | 20    | –     |
-| 8             | 1            | 2     | 3–4   | 5–7   | 8–10  | 11–14 | 15–16 | 17–18 | 19    | 20    |
-| 9             | 1            | 2     | 3     | 4–5   | 6–8   | 9–12  | 13–15 | 16–17 | 18–19 | 20    |
-| 10–11         | 1            | 2     | 3     | 4     | 5–6   | 7–9   | 10–12 | 13–16 | 17–19 | 20    |
-| 12–13         | 1            | 2     | 3     | 4     | 5     | 6–7   | 8–9   | 10–12 | 13–18 | 19–20 |
-| 14–15         | 1            | 2     | 3     | 4     | 5     | 6     | 7–8   | 9–11  | 12–17 | 18–20 |
-| 16+           | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8–10  | 11–16 | 17–20 |
+| 1             | 1—16         | 17—19 | 20    | —     | —     | —     | —     | —     | —     |       |
+| 2             | 1—12         | 13—16 | 17—18 | 19    | 20    | —     | —     | —     | —     |       |
+| 3             | 1—12         | 13—16 | 17—18 | 19    | 20    | —     | —     | —     | —     |       |
+| 4             | 1—5          | 6—10  | 11—16 | 17—18 | 19    | 20    | —     | —     | —     |       |
+| 5             | 1—3          | 4—6   | 7—12  | 13—16 | 17—18 | 19    | 20    | —     | —     |       |
+| 6             | 1—2          | 3—4   | 5—6   | 7—12  | 13—16 | 17—18 | 19    | 20    | —     |       |
+| 7             | 1            | 2—3   | 4—5   | 6—10  | 11—14 | 15—16 | 17—18 | 19    | 20    | —     |
+| 8             | 1            | 2     | 3—4   | 5—7   | 8—10  | 11—14 | 15—16 | 17—18 | 19    | 20    |
+| 9             | 1            | 2     | 3     | 4—5   | 6—8   | 9—12  | 13—15 | 16—17 | 18—19 | 20    |
+| 10—11         | 1            | 2     | 3     | 4     | 5—6   | 7—9   | 10—12 | 13—16 | 17—19 | 20    |
+| 12—13         | 1            | 2     | 3     | 4     | 5     | 6—7   | 8—9   | 10—12 | 13—18 | 19—20 |
+| 14—15         | 1            | 2     | 3     | 4     | 5     | 6     | 7—8   | 9—11  | 12—17 | 18—20 |
+| 16+           | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8—10  | 11—16 | 17—20 |
 
-## Monster List 1 (CR 1/8–1/4)
+## Monster List 1 (CR 1/8—1/4)
 
 1.  Bandit
 2.  Cultist
@@ -50,7 +50,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Swarm of bats
 20. Swarm of rats
 
-## Monster List 2 (CR 1/4–1)
+## Monster List 2 (CR 1/4—1)
 
 1.  Wolf
 2.  Zombie
@@ -73,7 +73,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bugbear
 20. Death dog
 
-## Monster List 3 (CR 1–2)
+## Monster List 3 (CR 1—2)
 
 1.  Dire wolf
 2.  Duergar
@@ -96,7 +96,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Giant constrictor snake
 20. Gibbering mouther
 
-## Monster List 4 (CR 2–3)
+## Monster List 4 (CR 2—3)
 
 1.  Azer
 2.  Green dragon wyrmling
@@ -119,7 +119,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bearded devil
 20. Blue dragon wyrmling
 
-## Monster List 5 (CR 3–4)
+## Monster List 5 (CR 3—4)
 
 1.  Doppelganger
 2.  Giant scorpion
@@ -142,7 +142,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Ettin
 20. Ghost
 
-## Monster List 6 (CR 4–5)
+## Monster List 6 (CR 4—5)
 
 1.  Lamia
 2.  Red dragon wyrmling
@@ -165,7 +165,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Shambling mound
 20. Troll
 
-## Monster List 7 (CR 5–8)
+## Monster List 7 (CR 5—8)
 
 1.  Salamander
 2.  Vampire spawn
@@ -188,7 +188,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Chain devil
 20. Cloaker
 
-## Monster List 8 (CR 8–12)
+## Monster List 8 (CR 8—12)
 
 1.  Frost giant
 2.  Hezrou
@@ -211,7 +211,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Remorhaz
 20. Archmage
 
-## Monster List 9 (CR 12–16)
+## Monster List 9 (CR 12—16)
 
 1.  Erinyes
 2.  Adult white dragon
@@ -226,7 +226,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 11. Purple worm
 12. Adult blue dragon
 
-## Monster List 10 (CR 16–24)
+## Monster List 10 (CR 16—24)
 
 1.  Iron golem
 2.  Marilith

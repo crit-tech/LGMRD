@@ -12,7 +12,7 @@ You can turn this dial before a battle begins or even during the battle itself. 
 
 ## "Number of Monsters" Dial
 
-The "number of monsters in a battle" dial alters combat challenge the most dramatically of all the dials – but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight.
+The "number of monsters in a battle" dial alters combat challenge the most dramatically of all the dials — but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight.
 
 If circumstances allow for it, some monsters might flee or automatically fall depending on the events of a fight. Undead might break if their necromancer master is killed, and many intelligent creatures will flee a fight they can't win. Other times, more monsters might enter the fray in a second wave if the first wave isn't standing up to the characters.
 
@@ -24,7 +24,7 @@ Increasing the amount of damage a monster deals on each attack increases the mon
 
 The static damage value noted in a monster's stat block represents the average of the damage formula for the monster's attack. If you use average damage, you can adjust the damage based on that formula. For example, an ogre deals 13 (2d8 + 4) bludgeoning damage with their greatclub attack, so you can set this damage at anywhere from 6 to 20 and still be within the range of what you might roll.
 
-If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand – and it has no upper limit.
+If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand — and it has no upper limit.
 
 ## "Number of Attacks" Dial
 

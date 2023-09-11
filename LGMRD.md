@@ -2,7 +2,7 @@
 
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
-Updated 6 August 2023
+Updated 10 September 2023
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
@@ -35,6 +35,8 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Theater of the Mind Guidelines (Abbreviated)](#totm2)
 *   [Zone-Based Combat](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
+*   [Monster Templates](#monstertemplates)
+*   [Undead Templates](#undeadtemplates)
 *   [Running Hordes](#runninghordes)
 *   [Stress Effects](#stresseffects)
 *   [Core Adventure Generators](#coreadventuregenerators)
@@ -66,7 +68,7 @@ Here's a brief summary of each of the steps.
 
 Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table?
 
-You might not even write anything down during this step, but reviewing the characters helps wire them into your mind – and ensures that the rest of your preparation fits around them.
+You might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them.
 
 ### Create a Strong Start
 
@@ -74,7 +76,7 @@ How a game starts is likely the most important piece of preparation we can do. S
 
 ### Outline Potential Scenes
 
-With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction – as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
+With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction — as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
 
 ### Define Secrets and Clues
 
@@ -88,7 +90,7 @@ Describe each location with a short evocative title such as "The Sunspire." Then
 
 ### Outline Important NPCs
 
-During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs – maybe even most of them – can be improvised right at the table.
+During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs — maybe even most of them — can be improvised right at the table.
 
 ### Choose Relevant Monsters
 
@@ -98,7 +100,7 @@ Additionally, understanding the loose relationship between monster challenge rat
 
 ### Select Magic Item Rewards
 
-Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters – by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
+Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
 
 ### The Lazy RPG Prep Checklist and Online Play
 
@@ -421,7 +423,7 @@ Once the characters are built and your players are ready, you can run a short ad
 
 ## <a id="safetytools"></a>Safety Tools
 
-Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run – especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
+Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run — especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
 
 ### Potentially Sensitive Topics
 
@@ -486,7 +488,7 @@ This safety tool can "pause" the game to discuss any issues out of character and
 
 It can be used to edit content ("Pause for a second. I'm not comfortable beating a helpless character for information.") or to check in with the group ("Pause for a second. Are we okay making a deal with a vampire?").
 
-As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances – which might cause players to avoid using it at all.
+As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances — which might cause players to avoid using it at all.
 
 ### Other Resources
 
@@ -587,7 +589,7 @@ Start off by describing the central theme of your campaign in a single sentence.
 
 Once you have your pitch, identify six truths that set your campaign apart from others, then share them with your players. Here are six example truths for a campaign built around the coming of the Black Moon from above.
 
-*   Sages and cultists describe the coming of the Black Moon – an elder evil that will swallow the world.
+*   Sages and cultists describe the coming of the Black Moon — an elder evil that will swallow the world.
 *   Monsters have been sighted along what were once the safest roads. The populations of whole villages are disappearing without a trace.
 *   A floating obsidian citadel has appeared above the Cragteeth Mountains to the north.
 *   Folk once had to deal with the coming of the Black Moon, but their secrets for surviving it were lost.
@@ -748,9 +750,9 @@ The following tricks can also help make it easier for you to improvise during yo
 
 ### Deadly Encounter Benchmark
 
-Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is "balanced" – except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.
+Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is "balanced" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.
 
-If an encounter might be deadly, warn the players – and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding) later in this document.
+If an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding) later in this document.
 
 ### Running Hordes
 
@@ -792,7 +794,7 @@ For simple battles, use a passive initiative score for monsters, equal to 10 plu
 
 ### Stars and Wishes
 
-Every few games, take time to ask each player for their "stars and wishes" – a concept described on the Gauntlet RPG blog. Ask each player two questions:
+Every few games, take time to ask each player for their "stars and wishes" — a concept described on the Gauntlet RPG blog. Ask each player two questions:
 
 *   What have they enjoyed about the game so far?
 *   What do they want to see more of in future games?
@@ -915,7 +917,7 @@ By giving you a rough estimation of how tough characters of a given level are, t
 
 ### Potential Deadliness
 
-Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
+Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty — unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
 
 **An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.**
 
@@ -955,7 +957,7 @@ This style of combat works just like any other scene in your game. On each playe
 
 Theater-of-the-mind combat requires that the players trust you as the Gamemaster, knowing that you'll describe the situation and adjudicate the results of the characters' actions fairly. As the GM, you'll earn this trust by favoring the players whenever possible, and by focusing on sharing an action-packed story.
 
-Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more – perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
+Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
 
 When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game. Instead, everyone will focus on the action and the story.
 
@@ -1002,7 +1004,7 @@ The following guidelines offer a rough baseline for determining the number of ta
 *   **Short Line:** 2 creatures (*wall of fire*)
 *   **Long Line:** 3 creatures (*blade barrier*, *lightning bolt*)
 
-Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets – including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
+Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets — including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
 
 ### Locations, Features, Environment, and Terrain
 
@@ -1010,7 +1012,7 @@ When first describing the combat encounter, describe notable locations, objects,
 
 ### Randomly Selected Targets
 
-Avoid biases – whether perceived or actual – by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
+Avoid biases — whether perceived or actual — by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
 
 ### Physical Traits and Identifying Enemies
 
@@ -1022,7 +1024,7 @@ Theater-of-the-mind combat can go stale if you don't continually reinforce the s
 
 ## <a id="totm2"></a>Theater of the Mind Guidelines (Abbreviated)
 
-This section offers abbreviated guidelines for running "theater of the mind" combat – no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
+This section offers abbreviated guidelines for running "theater of the mind" combat — no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
 
 ### Core Principles
 
@@ -1088,7 +1090,7 @@ The following guidelines establish the broad strokes of zone-based combat:
 *   Attacks with a range of 25 feet or greater can target creatures within a zone or one zone away.
 *   Attacks with a range of 50 feet or greater can also target creatures two or more zones away.
 *   If a character attacks with or is attacked by a melee attack with a 5-foot reach, that character will provoke opportunity attacks if they attempt to move away from their opponent. A character attacked by a melee attack with a 5-foot reach also has disadvantage on ranged attacks.
-*   Players can make best use of zone-based combat by describing their intent – for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
+*   Players can make best use of zone-based combat by describing their intent — for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
 *   The GM then works with the players to help them achieve their intent.
 
 ### Areas of Effect in Zones
@@ -1122,7 +1124,7 @@ You can turn this dial before a battle begins or even during the battle itself. 
 
 ### "Number of Monsters" Dial
 
-The "number of monsters in a battle" dial alters combat challenge the most dramatically of all the dials – but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight.
+The "number of monsters in a battle" dial alters combat challenge the most dramatically of all the dials — but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight.
 
 If circumstances allow for it, some monsters might flee or automatically fall depending on the events of a fight. Undead might break if their necromancer master is killed, and many intelligent creatures will flee a fight they can't win. Other times, more monsters might enter the fray in a second wave if the first wave isn't standing up to the characters.
 
@@ -1134,7 +1136,7 @@ Increasing the amount of damage a monster deals on each attack increases the mon
 
 The static damage value noted in a monster's stat block represents the average of the damage formula for the monster's attack. If you use average damage, you can adjust the damage based on that formula. For example, an ogre deals 13 (2d8 + 4) bludgeoning damage with their greatclub attack, so you can set this damage at anywhere from 6 to 20 and still be within the range of what you might roll.
 
-If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand – and it has no upper limit.
+If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand — and it has no upper limit.
 
 ### "Number of Attacks" Dial
 
@@ -1145,6 +1147,144 @@ Increasing or decreasing the number of attacks a monster makes has a larger effe
 You can turn any or all of these dials to tune a combat encounter and bring the most excitement to your game. Don't turn the dials just to make every battle harder, though. Sometimes cutting through great swaths of easy monsters is exactly the sort of situation players love.
 
 Turning several dials together can change combat dramatically, helping to keep things feeling fresh. For example, a group of starving ogres might be weakened (lowering the hit point dial) but also frenzied in combat (turning up the attack dial). By adjusting these dials when designing encounters and during your game, you can keep the pacing of combat exciting and fun.
+
+## <a id="monstertemplates"></a>Monster Templates
+
+The following monster templates can help you customize existing monsters into new unique variants that can fit a variety of locations and circumstances. With just a few templates in hand, your core monster books can become much more useful.
+
+### Challenge Rating Increase?
+
+The challenge ratings described in these templates are loose guides, so use your best judgment with them. Apply these templates only when you have a good handle on your characters' capabilities, and be prepared to tune your new monsters accordingly.
+
+### Elemental Monsters
+
+Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:
+
+| d8 | Elemental Template | d8 | Elemental Template |
+| -- | ------------------ | -- | ------------------ |
+| 1  | Fire               | 5  | Poison             |
+| 2  | Cold               | 6  | Necrotic           |
+| 3  | Lighting           | 7  | Radiant            |
+| 4  | Acid               | 8  | Thunder            |
+
+Then choose one or more of the following traits to customize your monster, making use of the damage type determined by the elemental template:
+
+*   **Elemental Resistance.** The templated creature has resistance against its damage type.
+*   **Elemental Damage.** When the templated creature scores a hit using a weapon attack, the attack deals extra damage of its damage type.
+*   **Elemental Aura.** Any creature that starts their turn within an area surrounding the templated creature, or that enters that area for the first time on a turn, takes damage of the templated creature's type.
+*   **Elemental Shield.** Any creature that touches the templated creature or hits them with a melee attack while within 5 feet of them takes damage of the templated creature's type.
+
+The amount of damage and the size of a templated creature's elemental aura is determined by the base creature's challenge rating. The damage noted is the same for both attacks and the creature's aura.
+
+| CR    | Damage   | Aura Size |
+| ----- | -------- | --------- |
+| 0-1   | 3 (1d6)  | 5 feet    |
+| 2-5   | 7 (2d6)  | 10 feet   |
+| 6-10  | 10 (3d6) | 15 feet   |
+| 11-15 | 14 (4d6) | 20 feet   |
+| 16+   | 21 (6d6) | 25 feet   |
+
+This elemental template increases a monster's challenge rating by 1 or 2.
+
+### Dire Monsters
+
+Dire monsters are particularly large and dangerous versions of typical monsters, and can be created using the following guidelines:
+
+*   The monster's hit points are doubled.
+*   The monster's size increases one category.
+*   The monster gains a +2 bonus to attack rolls.
+*   The monster can use one or more of its standard attacks multiple times on its attack action. Use your best judgment to choose which of the monster's attacks to use for multiple attacks.
+*   The monster's challenge rating increases by 2 or 3.
+
+### Fiendish Monsters
+
+Infernal or abyssal variants of existing monsters are endlessly spawned across the Lower Planes. This template can turn any monster into a fiendish variant:
+
+*   The monster's type becomes fiend.
+*   The monster has advantage on saving throws against spells and other magical effects.
+*   The monster has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+*   The monster has resistance to cold and fire damage.
+*   The monster has immunity to poison damage and the poisoned condition.
+*   The monster's weapon attacks are magical.
+*   The monster has darkvision out to a range of 120 feet.
+*   The monster's challenge rating increases by 1.
+
+### Spell-Infused Monsters
+
+Some monsters can innately cast magical spells. Spell-infused monsters typically have a spell attack bonus of 3 + one-half the monster's challenge rating, and a spell save DC of 12 + one-half the monster's challenge rating (rounded down in both cases).
+
+Spell-infused creatures do not require components to cast their spells. They typically use each of their spells once, recovering the ability to do so when they finish a long rest. Roll for or choose from the table to determine which spells a creature can use. Spells that deal high damage can affect a creature's challenge rating.
+
+| d20 | Spell          | d20 | Spell            |
+| --- | -------------- | --- | ---------------- |
+| 1   | Burning hands  | 11  | Invisibility     |
+| 2   | Magic missile  | 12  | Misty step       |
+| 3   | Disguise self  | 13  | Scorching ray    |
+| 4   | Fog cloud      | 14  | Shatter          |
+| 5   | Shield         | 15  | Spirit guardians |
+| 6   | Inflict wounds | 16  | Dispel magic     |
+| 7   | Faerie fire    | 17  | Fly              |
+| 8   | Thunderwave    | 18  | Gaseous form     |
+| 9   | Blur           | 19  | Lightning bolt   |
+| 10  | Darkness       | 20  | Fireball         |
+
+## <a id="undeadtemplates"></a>Undead Templates
+
+Death comes to all things, but not even death can keep a good monster down. You can easily create an undead variant of any monster simply by giving it the undead type and describing its undead appearance, letting the narrative feed the players' impression of fighting undead without requiring any mechanical changes. But for even more realistic undead, you can use any of the following templates to give a monster some of the properties and attributes of a specific type of undead creature.
+
+### Undead Templates
+
+All creatures that take on one of these templates gain the following universal changes:
+
+*   The creature's type becomes undead.
+*   The creature has darkvision out to a range of 60 feet.
+*   Any new trait of the creature's that requires a saving throw uses a DC of 12 + one-half the undead creature's challenge rating.
+
+Then apply the traits and actions of any of the following specific templates.
+
+### Skeleton
+
+*   Vulnerability to bludgeoning damage.
+*   Immunity to poison damage, to exhaustion, and to the poisoned condition.
+
+### Zombie
+
+*   Immunity to poison damage and the poisoned condition.
+*   **Undead Fortitude.** If damage reduces the creature to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the creature drops to 1 hit point instead.
+
+### Ghoul
+
+*   Immunity to poison damage, to exhaustion, and to the charmed and poisoned conditions.
+*   **Paralyzing Touch.** When this creature hits with a melee attack using a natural weapon, the target must succeed on a Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Elves and undead are immune to this effect.
+
+### Wight
+
+*   Resistance to necrotic and poison damage, and to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
+*   Immunity to exhaustion and the poisoned condition.
+*   **Life Drain.** When this creature hits with a melee attack using a natural weapon, the attack deals necrotic damage equal to 1d6 + one-half the creature's challenge rating, and the target must succeed on a Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+### Wraith
+
+*   Resistance to acid, cold, fire, lightning, and thunder damage, and to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
+*   Immunity to necrotic and poison damage, to exhaustion, and to the charmed, grappled, paralyzed, petrified, prone, and restrained conditions.
+*   The creature has the wraith's Incorporeal Movement and Sunlight Sensitivity traits.
+*   The creature gains the following trait: Life Drain. When this creature hits with a melee attack using a natural weapon, the attack deals necrotic damage equal to 1d6 + one-half the creature's challenge rating, and the target must succeed on a Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+### Vampire Spawn
+
+*   Resistance to necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks.
+*   The creature has the vampire spawn's Spider Climb, Vampire Weaknesses, and Regeneration traits.
+*   **Bite.** Melee Weapon Attack: 4 + one-half the creature's CR to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire spawn creature, incapacitated, or restrained. Hit: piercing damage equal to 1d6 + one-half the creature's CR, plus necrotic damage equal to 1d6 per one- half the creature's CR (minimum 1d6). The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the templated creature regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+*   The creature can grapple a target instead of dealing damage with any of its attacks. If it makes multiple attacks, it can replace one of those attacks with the Bite action.
+*   If you want your vampire spawn creature to feel even more vampiric, give it the ability to cast the misty step, command, or hold person spells at will as a bonus action.
+
+### Powerful Undead Templates
+
+To build variants of creatures modeled after more powerful undead, use the undead creature's stat block and add traits from the base creature. It's easier to apply the traits and actions of a stone giant to a lich or vampire stat block than it is to apply lich or vampire traits to a stone giant stat block.
+
+### Ability Modifications
+
+Ability score modifications to undead creatures aren't covered in these templates. For example, skeletons might have reductions to Dexterity and Charisma, and vampire spawn might have boosted Strength, Dexterity, and Constitution scores. Most of the time, you can safely skip such changes, simply improvising adjustments to the baseline abilities of the monster when needed.
 
 ## <a id="runninghordes"></a>Running Hordes
 
@@ -1838,7 +1978,7 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 
 ## <a id="randommonuments"></a>Random Monuments
 
-Filling the various chambers and locations in your game with interesting features is always a challenge – and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
+Filling the various chambers and locations in your game with interesting features is always a challenge — and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
 
 ### 1d20 Origins
 
@@ -2280,21 +2420,21 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 |               | Monster List |       |       |       |       |       |       |       |       |       |
 | ------------- | ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Dungeon Level | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    |
-| 1             | 1–16         | 17–19 | 20    | –     | –     | –     | –     | –     | –     |       |
-| 2             | 1–12         | 13–16 | 17–18 | 19    | 20    | –     | –     | –     | –     |       |
-| 3             | 1–12         | 13–16 | 17–18 | 19    | 20    | –     | –     | –     | –     |       |
-| 4             | 1–5          | 6–10  | 11–16 | 17–18 | 19    | 20    | –     | –     | –     |       |
-| 5             | 1–3          | 4–6   | 7–12  | 13–16 | 17–18 | 19    | 20    | –     | –     |       |
-| 6             | 1–2          | 3–4   | 5–6   | 7–12  | 13–16 | 17–18 | 19    | 20    | –     |       |
-| 7             | 1            | 2–3   | 4–5   | 6–10  | 11–14 | 15–16 | 17–18 | 19    | 20    | –     |
-| 8             | 1            | 2     | 3–4   | 5–7   | 8–10  | 11–14 | 15–16 | 17–18 | 19    | 20    |
-| 9             | 1            | 2     | 3     | 4–5   | 6–8   | 9–12  | 13–15 | 16–17 | 18–19 | 20    |
-| 10–11         | 1            | 2     | 3     | 4     | 5–6   | 7–9   | 10–12 | 13–16 | 17–19 | 20    |
-| 12–13         | 1            | 2     | 3     | 4     | 5     | 6–7   | 8–9   | 10–12 | 13–18 | 19–20 |
-| 14–15         | 1            | 2     | 3     | 4     | 5     | 6     | 7–8   | 9–11  | 12–17 | 18–20 |
-| 16+           | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8–10  | 11–16 | 17–20 |
+| 1             | 1—16         | 17—19 | 20    | —     | —     | —     | —     | —     | —     |       |
+| 2             | 1—12         | 13—16 | 17—18 | 19    | 20    | —     | —     | —     | —     |       |
+| 3             | 1—12         | 13—16 | 17—18 | 19    | 20    | —     | —     | —     | —     |       |
+| 4             | 1—5          | 6—10  | 11—16 | 17—18 | 19    | 20    | —     | —     | —     |       |
+| 5             | 1—3          | 4—6   | 7—12  | 13—16 | 17—18 | 19    | 20    | —     | —     |       |
+| 6             | 1—2          | 3—4   | 5—6   | 7—12  | 13—16 | 17—18 | 19    | 20    | —     |       |
+| 7             | 1            | 2—3   | 4—5   | 6—10  | 11—14 | 15—16 | 17—18 | 19    | 20    | —     |
+| 8             | 1            | 2     | 3—4   | 5—7   | 8—10  | 11—14 | 15—16 | 17—18 | 19    | 20    |
+| 9             | 1            | 2     | 3     | 4—5   | 6—8   | 9—12  | 13—15 | 16—17 | 18—19 | 20    |
+| 10—11         | 1            | 2     | 3     | 4     | 5—6   | 7—9   | 10—12 | 13—16 | 17—19 | 20    |
+| 12—13         | 1            | 2     | 3     | 4     | 5     | 6—7   | 8—9   | 10—12 | 13—18 | 19—20 |
+| 14—15         | 1            | 2     | 3     | 4     | 5     | 6     | 7—8   | 9—11  | 12—17 | 18—20 |
+| 16+           | 1            | 2     | 3     | 4     | 5     | 6     | 7     | 8—10  | 11—16 | 17—20 |
 
-### Monster List 1 (CR 1/8–1/4)
+### Monster List 1 (CR 1/8—1/4)
 
 1.  Bandit
 2.  Cultist
@@ -2317,7 +2457,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Swarm of bats
 20. Swarm of rats
 
-### Monster List 2 (CR 1/4–1)
+### Monster List 2 (CR 1/4—1)
 
 1.  Wolf
 2.  Zombie
@@ -2340,7 +2480,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bugbear
 20. Death dog
 
-### Monster List 3 (CR 1–2)
+### Monster List 3 (CR 1—2)
 
 1.  Dire wolf
 2.  Duergar
@@ -2363,7 +2503,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Giant constrictor snake
 20. Gibbering mouther
 
-### Monster List 4 (CR 2–3)
+### Monster List 4 (CR 2—3)
 
 1.  Azer
 2.  Green dragon wyrmling
@@ -2386,7 +2526,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bearded devil
 20. Blue dragon wyrmling
 
-### Monster List 5 (CR 3–4)
+### Monster List 5 (CR 3—4)
 
 1.  Doppelganger
 2.  Giant scorpion
@@ -2409,7 +2549,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Ettin
 20. Ghost
 
-### Monster List 6 (CR 4–5)
+### Monster List 6 (CR 4—5)
 
 1.  Lamia
 2.  Red dragon wyrmling
@@ -2432,7 +2572,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Shambling mound
 20. Troll
 
-### Monster List 7 (CR 5–8)
+### Monster List 7 (CR 5—8)
 
 1.  Salamander
 2.  Vampire spawn
@@ -2455,7 +2595,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Chain devil
 20. Cloaker
 
-### Monster List 8 (CR 8–12)
+### Monster List 8 (CR 8—12)
 
 1.  Frost giant
 2.  Hezrou
@@ -2478,7 +2618,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Remorhaz
 20. Archmage
 
-### Monster List 9 (CR 12–16)
+### Monster List 9 (CR 12—16)
 
 1.  Erinyes
 2.  Adult white dragon
@@ -2493,7 +2633,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 11. Purple worm
 12. Adult blue dragon
 
-### Monster List 10 (CR 16–24)
+### Monster List 10 (CR 16—24)
 
 1.  Iron golem
 2.  Marilith

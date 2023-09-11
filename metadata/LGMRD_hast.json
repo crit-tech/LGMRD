@@ -184,7 +184,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Updated 6 August 2023"
+                  "value": "Updated 10 September 2023"
                 }
               ]
             },
@@ -1081,6 +1081,70 @@
                       "type": "element",
                       "tagName": "a",
                       "properties": {
+                        "href": "#monstertemplates"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Monster Templates"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "\n      "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "a",
+                      "properties": {
+                        "href": "#undeadtemplates"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Undead Templates"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "\n      "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "a",
+                      "properties": {
                         "href": "#runninghordes"
                       },
                       "children": [
@@ -1645,7 +1709,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "You might not even write anything down during this step, but reviewing the characters helps wire them into your mind – and ensures that the rest of your preparation fits around them."
+                  "value": "You might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them."
                 }
               ]
             },
@@ -1705,7 +1769,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction – as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it."
+                  "value": "With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction — as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it."
                 }
               ]
             },
@@ -1840,7 +1904,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs – maybe even most of them – can be improvised right at the table."
+                  "value": "During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs — maybe even most of them — can be improvised right at the table."
                 }
               ]
             },
@@ -1932,7 +1996,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters – by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues."
+                  "value": "Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues."
                 }
               ]
             },
@@ -5679,7 +5743,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run – especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game."
+                  "value": "Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run — especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game."
                 }
               ]
             },
@@ -6466,7 +6530,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "As the GM, think about using \"pause for a second\" regularly, so as to break the stigma of using it only for the most extreme circumstances – which might cause players to avoid using it at all."
+                  "value": "As the GM, think about using \"pause for a second\" regularly, so as to break the stigma of using it only for the most extreme circumstances — which might cause players to avoid using it at all."
                 }
               ]
             },
@@ -7790,7 +7854,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Sages and cultists describe the coming of the Black Moon – an elder evil that will swallow the world."
+                      "value": "Sages and cultists describe the coming of the Black Moon — an elder evil that will swallow the world."
                     }
                   ]
                 },
@@ -9570,7 +9634,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" – except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher."
+                  "value": "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher."
                 }
               ]
             },
@@ -9585,7 +9649,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "If an encounter might be deadly, warn the players – and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in "
+                  "value": "If an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in "
                 },
                 {
                   "type": "element",
@@ -9953,7 +10017,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Every few games, take time to ask each player for their \"stars and wishes\" – a concept described on the Gauntlet RPG blog. Ask each player two questions:"
+                  "value": "Every few games, take time to ask each player for their \"stars and wishes\" — a concept described on the Gauntlet RPG blog. Ask each player two questions:"
                 }
               ]
             },
@@ -11124,7 +11188,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:"
+                  "value": "Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty — unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:"
                 }
               ]
             },
@@ -11493,7 +11557,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says \"I move close to the orcs\" potentially leaves too many possibilities open. So encourage the player to focus their intent more – perhaps along the lines of, \"I want to position myself so that at least two orcs are within the reach of my glaive.\""
+                  "value": "Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says \"I move close to the orcs\" potentially leaves too many possibilities open. So encourage the player to focus their intent more — perhaps along the lines of, \"I want to position myself so that at least two orcs are within the reach of my glaive.\""
                 }
               ]
             },
@@ -12219,7 +12283,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets – including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast."
+                  "value": "Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets — including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast."
                 }
               ]
             },
@@ -12279,7 +12343,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Avoid biases – whether perceived or actual – by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand."
+                  "value": "Avoid biases — whether perceived or actual — by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand."
                 }
               ]
             },
@@ -12371,7 +12435,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "This section offers abbreviated guidelines for running \"theater of the mind\" combat – no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table."
+                  "value": "This section offers abbreviated guidelines for running \"theater of the mind\" combat — no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table."
                 }
               ]
             },
@@ -13162,7 +13226,7 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Players can make best use of zone-based combat by describing their intent – for example, \"I want to attack the orc chief with my glaive but stay out of his reach,\" or \"I want to get between our wizard and the ogre.\""
+                      "value": "Players can make best use of zone-based combat by describing their intent — for example, \"I want to attack the orc chief with my glaive but stay out of his reach,\" or \"I want to get between our wizard and the ogre.\""
                     }
                   ]
                 },
@@ -13671,7 +13735,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "The \"number of monsters in a battle\" dial alters combat challenge the most dramatically of all the dials – but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight."
+                  "value": "The \"number of monsters in a battle\" dial alters combat challenge the most dramatically of all the dials — but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight."
                 }
               ]
             },
@@ -13761,7 +13825,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand – and it has no upper limit."
+                  "value": "If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand — and it has no upper limit."
                 }
               ]
             },
@@ -13837,6 +13901,2915 @@
                 {
                   "type": "text",
                   "value": "Turning several dials together can change combat dramatically, helping to keep things feeling fresh. For example, a group of starving ogres might be weakened (lowering the hit point dial) but also frenzied in combat (turning up the attack dial). By adjusting these dials when designing encounters and during your game, you can keep the pacing of combat exciting and fun."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h2",
+              "properties": {
+                "id": "monstertemplates"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Monster Templates"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The following monster templates can help you customize existing monsters into new unique variants that can fit a variety of locations and circumstances. With just a few templates in hand, your core monster books can become much more useful."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Challenge Rating Increase?"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The challenge ratings described in these templates are loose guides, so use your best judgment with them. Apply these templates only when you have a good handle on your characters' capabilities, and be prepared to tune your new monsters accordingly."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Elemental Monsters"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "table",
+              "properties": {
+                "border": 1
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "tbody",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "d8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Elemental Template"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "d8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Elemental Template"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Fire"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Poison"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Cold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Necrotic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Lighting"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "7"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Radiant"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Acid"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Thunder"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Then choose one or more of the following traits to customize your monster, making use of the damage type determined by the elemental template:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Elemental Resistance."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " The templated creature has resistance against its damage type."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Elemental Damage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " When the templated creature scores a hit using a weapon attack, the attack deals extra damage of its damage type."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Elemental Aura."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " Any creature that starts their turn within an area surrounding the templated creature, or that enters that area for the first time on a turn, takes damage of the templated creature's type."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Elemental Shield."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " Any creature that touches the templated creature or hits them with a melee attack while within 5 feet of them takes damage of the templated creature's type."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The amount of damage and the size of a templated creature's elemental aura is determined by the base creature's challenge rating. The damage noted is the same for both attacks and the creature's aura."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "table",
+              "properties": {
+                "border": 1
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "tbody",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "CR"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Damage"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Aura Size"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "0-1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3 (1d6)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5 feet"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2-5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "7 (2d6)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "10 feet"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6-10"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "10 (3d6)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15 feet"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "11-15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14 (4d6)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20 feet"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "16+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "21 (6d6)"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "25 feet"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "This elemental template increases a monster's challenge rating by 1 or 2."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Dire Monsters"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Dire monsters are particularly large and dangerous versions of typical monsters, and can be created using the following guidelines:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's hit points are doubled."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's size increases one category."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster gains a +2 bonus to attack rolls."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster can use one or more of its standard attacks multiple times on its attack action. Use your best judgment to choose which of the monster's attacks to use for multiple attacks."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's challenge rating increases by 2 or 3."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Fiendish Monsters"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Infernal or abyssal variants of existing monsters are endlessly spawned across the Lower Planes. This template can turn any monster into a fiendish variant:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's type becomes fiend."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster has advantage on saving throws against spells and other magical effects."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster has resistance to cold and fire damage."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster has immunity to poison damage and the poisoned condition."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's weapon attacks are magical."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster has darkvision out to a range of 120 feet."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The monster's challenge rating increases by 1."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Spell-Infused Monsters"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Some monsters can innately cast magical spells. Spell-infused monsters typically have a spell attack bonus of 3 + one-half the monster's challenge rating, and a spell save DC of 12 + one-half the monster's challenge rating (rounded down in both cases)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Spell-infused creatures do not require components to cast their spells. They typically use each of their spells once, recovering the ability to do so when they finish a long rest. Roll for or choose from the table to determine which spells a creature can use. Spells that deal high damage can affect a creature's challenge rating."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "table",
+              "properties": {
+                "border": 1
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "tbody",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "d20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Spell"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "d20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Spell"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Burning hands"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "11"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Invisibility"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Magic missile"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "12"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Misty step"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Disguise self"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "13"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Scorching ray"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Fog cloud"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Shatter"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Shield"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Spirit guardians"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Inflict wounds"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "16"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Dispel magic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "7"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Faerie fire"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "17"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Fly"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Thunderwave"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Gaseous form"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "9"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Blur"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "19"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Lightning bolt"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "10"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Darkness"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n      "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Fireball"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h2",
+              "properties": {
+                "id": "undeadtemplates"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Undead Templates"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Death comes to all things, but not even death can keep a good monster down. You can easily create an undead variant of any monster simply by giving it the undead type and describing its undead appearance, letting the narrative feed the players' impression of fighting undead without requiring any mechanical changes. But for even more realistic undead, you can use any of the following templates to give a monster some of the properties and attributes of a specific type of undead creature."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Undead Templates"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "All creatures that take on one of these templates gain the following universal changes:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature's type becomes undead."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature has darkvision out to a range of 60 feet."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Any new trait of the creature's that requires a saving throw uses a DC of 12 + one-half the undead creature's challenge rating."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Then apply the traits and actions of any of the following specific templates."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Skeleton"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Vulnerability to bludgeoning damage."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Immunity to poison damage, to exhaustion, and to the poisoned condition."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Zombie"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Immunity to poison damage and the poisoned condition."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Undead Fortitude."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " If damage reduces the creature to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the creature drops to 1 hit point instead."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Ghoul"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Immunity to poison damage, to exhaustion, and to the charmed and poisoned conditions."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Paralyzing Touch."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " When this creature hits with a melee attack using a natural weapon, the target must succeed on a Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Elves and undead are immune to this effect."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Wight"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resistance to necrotic and poison damage, and to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Immunity to exhaustion and the poisoned condition."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Life Drain."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " When this creature hits with a melee attack using a natural weapon, the attack deals necrotic damage equal to 1d6 + one-half the creature's challenge rating, and the target must succeed on a Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Wraith"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resistance to acid, cold, fire, lightning, and thunder damage, and to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Immunity to necrotic and poison damage, to exhaustion, and to the charmed, grappled, paralyzed, petrified, prone, and restrained conditions."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature has the wraith's Incorporeal Movement and Sunlight Sensitivity traits."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature gains the following trait: Life Drain. When this creature hits with a melee attack using a natural weapon, the attack deals necrotic damage equal to 1d6 + one-half the creature's challenge rating, and the target must succeed on a Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Vampire Spawn"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ul",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Resistance to necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature has the vampire spawn's Spider Climb, Vampire Weaknesses, and Regeneration traits."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "strong",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Bite."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": " Melee Weapon Attack: 4 + one-half the creature's CR to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire spawn creature, incapacitated, or restrained. Hit: piercing damage equal to 1d6 + one-half the creature's CR, plus necrotic damage equal to 1d6 per one- half the creature's CR (minimum 1d6). The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the templated creature regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "The creature can grapple a target instead of dealing damage with any of its attacks. If it makes multiple attacks, it can replace one of those attacks with the Bite action."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "If you want your vampire spawn creature to feel even more vampiric, give it the ability to cast the misty step, command, or hold person spells at will as a bonus action."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Powerful Undead Templates"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "To build variants of creatures modeled after more powerful undead, use the undead creature's stat block and add traits from the base creature. It's easier to apply the traits and actions of a stone giant to a lich or vampire stat block than it is to apply lich or vampire traits to a stone giant stat block."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Ability Modifications"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Ability score modifications to undead creatures aren't covered in these templates. For example, skeletons might have reductions to Dexterity and Charisma, and vampire spawn might have boosted Strength, Dexterity, and Constitution scores. Most of the time, you can safely skip such changes, simply improvising adjustments to the baseline abilities of the monster when needed."
                 }
               ]
             },
@@ -27314,7 +30287,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Filling the various chambers and locations in your game with interesting features is always a challenge – and can be even more difficult to improvise. The following four \"Monuments\" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements."
+                  "value": "Filling the various chambers and locations in your game with interesting features is always a challenge — and can be even more difficult to improvise. The following four \"Monuments\" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements."
                 }
               ]
             },
@@ -34423,7 +37396,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–16"
+                              "value": "1—16"
                             }
                           ]
                         },
@@ -34438,7 +37411,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–19"
+                              "value": "17—19"
                             }
                           ]
                         },
@@ -34468,7 +37441,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34483,7 +37456,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34498,7 +37471,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34513,7 +37486,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34528,7 +37501,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34543,7 +37516,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34598,7 +37571,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–12"
+                              "value": "1—12"
                             }
                           ]
                         },
@@ -34613,7 +37586,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–16"
+                              "value": "13—16"
                             }
                           ]
                         },
@@ -34628,7 +37601,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -34673,7 +37646,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34688,7 +37661,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34703,7 +37676,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34718,7 +37691,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34773,7 +37746,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–12"
+                              "value": "1—12"
                             }
                           ]
                         },
@@ -34788,7 +37761,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–16"
+                              "value": "13—16"
                             }
                           ]
                         },
@@ -34803,7 +37776,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -34848,7 +37821,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34863,7 +37836,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34878,7 +37851,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34893,7 +37866,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -34948,7 +37921,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–5"
+                              "value": "1—5"
                             }
                           ]
                         },
@@ -34963,7 +37936,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "6–10"
+                              "value": "6—10"
                             }
                           ]
                         },
@@ -34978,7 +37951,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "11–16"
+                              "value": "11—16"
                             }
                           ]
                         },
@@ -34993,7 +37966,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -35038,7 +38011,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35053,7 +38026,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35068,7 +38041,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35123,7 +38096,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–3"
+                              "value": "1—3"
                             }
                           ]
                         },
@@ -35138,7 +38111,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "4–6"
+                              "value": "4—6"
                             }
                           ]
                         },
@@ -35153,7 +38126,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "7–12"
+                              "value": "7—12"
                             }
                           ]
                         },
@@ -35168,7 +38141,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–16"
+                              "value": "13—16"
                             }
                           ]
                         },
@@ -35183,7 +38156,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -35228,7 +38201,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35243,7 +38216,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35298,7 +38271,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "1–2"
+                              "value": "1—2"
                             }
                           ]
                         },
@@ -35313,7 +38286,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "3–4"
+                              "value": "3—4"
                             }
                           ]
                         },
@@ -35328,7 +38301,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "5–6"
+                              "value": "5—6"
                             }
                           ]
                         },
@@ -35343,7 +38316,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "7–12"
+                              "value": "7—12"
                             }
                           ]
                         },
@@ -35358,7 +38331,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–16"
+                              "value": "13—16"
                             }
                           ]
                         },
@@ -35373,7 +38346,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -35418,7 +38391,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35488,7 +38461,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "2–3"
+                              "value": "2—3"
                             }
                           ]
                         },
@@ -35503,7 +38476,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "4–5"
+                              "value": "4—5"
                             }
                           ]
                         },
@@ -35518,7 +38491,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "6–10"
+                              "value": "6—10"
                             }
                           ]
                         },
@@ -35533,7 +38506,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "11–14"
+                              "value": "11—14"
                             }
                           ]
                         },
@@ -35548,7 +38521,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "15–16"
+                              "value": "15—16"
                             }
                           ]
                         },
@@ -35563,7 +38536,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -35608,7 +38581,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "–"
+                              "value": "—"
                             }
                           ]
                         },
@@ -35683,7 +38656,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "3–4"
+                              "value": "3—4"
                             }
                           ]
                         },
@@ -35698,7 +38671,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "5–7"
+                              "value": "5—7"
                             }
                           ]
                         },
@@ -35713,7 +38686,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "8–10"
+                              "value": "8—10"
                             }
                           ]
                         },
@@ -35728,7 +38701,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "11–14"
+                              "value": "11—14"
                             }
                           ]
                         },
@@ -35743,7 +38716,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "15–16"
+                              "value": "15—16"
                             }
                           ]
                         },
@@ -35758,7 +38731,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–18"
+                              "value": "17—18"
                             }
                           ]
                         },
@@ -35878,7 +38851,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "4–5"
+                              "value": "4—5"
                             }
                           ]
                         },
@@ -35893,7 +38866,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "6–8"
+                              "value": "6—8"
                             }
                           ]
                         },
@@ -35908,7 +38881,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "9–12"
+                              "value": "9—12"
                             }
                           ]
                         },
@@ -35923,7 +38896,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–15"
+                              "value": "13—15"
                             }
                           ]
                         },
@@ -35938,7 +38911,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "16–17"
+                              "value": "16—17"
                             }
                           ]
                         },
@@ -35953,7 +38926,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "18–19"
+                              "value": "18—19"
                             }
                           ]
                         },
@@ -35998,7 +38971,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "10–11"
+                              "value": "10—11"
                             }
                           ]
                         },
@@ -36073,7 +39046,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "5–6"
+                              "value": "5—6"
                             }
                           ]
                         },
@@ -36088,7 +39061,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "7–9"
+                              "value": "7—9"
                             }
                           ]
                         },
@@ -36103,7 +39076,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "10–12"
+                              "value": "10—12"
                             }
                           ]
                         },
@@ -36118,7 +39091,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–16"
+                              "value": "13—16"
                             }
                           ]
                         },
@@ -36133,7 +39106,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–19"
+                              "value": "17—19"
                             }
                           ]
                         },
@@ -36178,7 +39151,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "12–13"
+                              "value": "12—13"
                             }
                           ]
                         },
@@ -36268,7 +39241,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "6–7"
+                              "value": "6—7"
                             }
                           ]
                         },
@@ -36283,7 +39256,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "8–9"
+                              "value": "8—9"
                             }
                           ]
                         },
@@ -36298,7 +39271,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "10–12"
+                              "value": "10—12"
                             }
                           ]
                         },
@@ -36313,7 +39286,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "13–18"
+                              "value": "13—18"
                             }
                           ]
                         },
@@ -36328,7 +39301,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "19–20"
+                              "value": "19—20"
                             }
                           ]
                         },
@@ -36358,7 +39331,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "14–15"
+                              "value": "14—15"
                             }
                           ]
                         },
@@ -36463,7 +39436,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "7–8"
+                              "value": "7—8"
                             }
                           ]
                         },
@@ -36478,7 +39451,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "9–11"
+                              "value": "9—11"
                             }
                           ]
                         },
@@ -36493,7 +39466,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "12–17"
+                              "value": "12—17"
                             }
                           ]
                         },
@@ -36508,7 +39481,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "18–20"
+                              "value": "18—20"
                             }
                           ]
                         },
@@ -36658,7 +39631,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "8–10"
+                              "value": "8—10"
                             }
                           ]
                         },
@@ -36673,7 +39646,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "11–16"
+                              "value": "11—16"
                             }
                           ]
                         },
@@ -36688,7 +39661,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "value": "17–20"
+                              "value": "17—20"
                             }
                           ]
                         },
@@ -36717,7 +39690,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 1 (CR 1/8–1/4)"
+                  "value": "Monster List 1 (CR 1/8—1/4)"
                 }
               ]
             },
@@ -37047,7 +40020,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 2 (CR 1/4–1)"
+                  "value": "Monster List 2 (CR 1/4—1)"
                 }
               ]
             },
@@ -37377,7 +40350,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 3 (CR 1–2)"
+                  "value": "Monster List 3 (CR 1—2)"
                 }
               ]
             },
@@ -37707,7 +40680,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 4 (CR 2–3)"
+                  "value": "Monster List 4 (CR 2—3)"
                 }
               ]
             },
@@ -38037,7 +41010,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 5 (CR 3–4)"
+                  "value": "Monster List 5 (CR 3—4)"
                 }
               ]
             },
@@ -38367,7 +41340,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 6 (CR 4–5)"
+                  "value": "Monster List 6 (CR 4—5)"
                 }
               ]
             },
@@ -38697,7 +41670,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 7 (CR 5–8)"
+                  "value": "Monster List 7 (CR 5—8)"
                 }
               ]
             },
@@ -39027,7 +42000,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 8 (CR 8–12)"
+                  "value": "Monster List 8 (CR 8—12)"
                 }
               ]
             },
@@ -39357,7 +42330,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 9 (CR 12–16)"
+                  "value": "Monster List 9 (CR 12—16)"
                 }
               ]
             },
@@ -39567,7 +42540,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Monster List 10 (CR 16–24)"
+                  "value": "Monster List 10 (CR 16—24)"
                 }
               ]
             },

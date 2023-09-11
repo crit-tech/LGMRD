@@ -17,7 +17,7 @@ Here's a brief summary of each of the steps.
 
 Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table?
 
-You might not even write anything down during this step, but reviewing the characters helps wire them into your mind – and ensures that the rest of your preparation fits around them.
+You might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them.
 
 ## Create a Strong Start
 
@@ -25,7 +25,7 @@ How a game starts is likely the most important piece of preparation we can do. S
 
 ## Outline Potential Scenes
 
-With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction – as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
+With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction — as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
 
 ## Define Secrets and Clues
 
@@ -39,7 +39,7 @@ Describe each location with a short evocative title such as "The Sunspire." Then
 
 ## Outline Important NPCs
 
-During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs – maybe even most of them – can be improvised right at the table.
+During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs — maybe even most of them — can be improvised right at the table.
 
 ## Choose Relevant Monsters
 
@@ -49,7 +49,7 @@ Additionally, understanding the loose relationship between monster challenge rat
 
 ## Select Magic Item Rewards
 
-Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters – by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
+Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
 
 ## The Lazy RPG Prep Checklist and Online Play
 

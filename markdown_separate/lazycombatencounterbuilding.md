@@ -18,7 +18,7 @@ By giving you a rough estimation of how tough characters of a given level are, t
 
 ## Potential Deadliness
 
-Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
+Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty — unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
 
 **An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.**
 

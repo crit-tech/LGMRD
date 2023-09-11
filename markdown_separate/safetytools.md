@@ -1,6 +1,6 @@
 # Safety Tools
 
-Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run – especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
+Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run — especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
 
 ## Potentially Sensitive Topics
 
@@ -65,7 +65,7 @@ This safety tool can "pause" the game to discuss any issues out of character and
 
 It can be used to edit content ("Pause for a second. I'm not comfortable beating a helpless character for information.") or to check in with the group ("Pause for a second. Are we okay making a deal with a vampire?").
 
-As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances – which might cause players to avoid using it at all.
+As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances — which might cause players to avoid using it at all.
 
 ## Other Resources
 

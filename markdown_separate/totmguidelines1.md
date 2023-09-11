@@ -6,7 +6,7 @@ This style of combat works just like any other scene in your game. On each playe
 
 Theater-of-the-mind combat requires that the players trust you as the Gamemaster, knowing that you'll describe the situation and adjudicate the results of the characters' actions fairly. As the GM, you'll earn this trust by favoring the players whenever possible, and by focusing on sharing an action-packed story.
 
-Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more – perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
+Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
 
 When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game. Instead, everyone will focus on the action and the story.
 
@@ -53,7 +53,7 @@ The following guidelines offer a rough baseline for determining the number of ta
 *   **Short Line:** 2 creatures (*wall of fire*)
 *   **Long Line:** 3 creatures (*blade barrier*, *lightning bolt*)
 
-Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets – including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
+Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets — including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
 
 ## Locations, Features, Environment, and Terrain
 
@@ -61,7 +61,7 @@ When first describing the combat encounter, describe notable locations, objects,
 
 ## Randomly Selected Targets
 
-Avoid biases – whether perceived or actual – by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
+Avoid biases — whether perceived or actual — by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
 
 ## Physical Traits and Identifying Enemies
 

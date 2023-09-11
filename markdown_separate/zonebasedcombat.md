@@ -16,7 +16,7 @@ The following guidelines establish the broad strokes of zone-based combat:
 *   Attacks with a range of 25 feet or greater can target creatures within a zone or one zone away.
 *   Attacks with a range of 50 feet or greater can also target creatures two or more zones away.
 *   If a character attacks with or is attacked by a melee attack with a 5-foot reach, that character will provoke opportunity attacks if they attempt to move away from their opponent. A character attacked by a melee attack with a 5-foot reach also has disadvantage on ranged attacks.
-*   Players can make best use of zone-based combat by describing their intent – for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
+*   Players can make best use of zone-based combat by describing their intent — for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
 *   The GM then works with the players to help them achieve their intent.
 
 ## Areas of Effect in Zones

@@ -2,7 +2,7 @@
 
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
-Updated 6 August 2023
+Updated 10 September 2023
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
@@ -35,6 +35,8 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Theater of the Mind Guidelines (Abbreviated)](totm2.md)
 *   [Zone-Based Combat](zonebasedcombat.md)
 *   [Monster Difficulty Dials](monsterdifficultydials.md)
+*   [Monster Templates](monstertemplates.md)
+*   [Undead Templates](undeadtemplates.md)
 *   [Running Hordes](runninghordes.md)
 *   [Stress Effects](stresseffects.md)
 *   [Core Adventure Generators](coreadventuregenerators.md)

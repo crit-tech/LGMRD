@@ -1,6 +1,6 @@
 # Theater of the Mind Guidelines (Abbreviated)
 
-This section offers abbreviated guidelines for running "theater of the mind" combat – no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
+This section offers abbreviated guidelines for running "theater of the mind" combat — no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
 
 ## Core Principles
 

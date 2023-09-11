@@ -26,7 +26,7 @@ For simple battles, use a passive initiative score for monsters, equal to 10 plu
 
 ## Stars and Wishes
 
-Every few games, take time to ask each player for their "stars and wishes" – a concept described on the Gauntlet RPG blog. Ask each player two questions:
+Every few games, take time to ask each player for their "stars and wishes" — a concept described on the Gauntlet RPG blog. Ask each player two questions:
 
 *   What have they enjoyed about the game so far?
 *   What do they want to see more of in future games?
