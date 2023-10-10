@@ -245,6 +245,30 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "You can find several versions of this document including EPUB, Markdown, and JSON on "
+        },
+        {
+          "type": "link",
+          "title": null,
+          "url": "https://github.com/crit-tech/LGMRD",
+          "children": [
+            {
+              "type": "text",
+              "value": "Crit.Tech's LGMRD Github Repo"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ]
+    },
+    {
       "type": "heading",
       "depth": 3,
       "children": [

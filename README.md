@@ -8,21 +8,21 @@ Also, we now include the [The Lazy GM's 5e Monster Builder Resource Document](ht
 
 ### The Lazy GM's Resource Document
 
-- [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Mon, 11 Sep 2023 00:54:04 GMT</span>**
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Mon, 11 Sep 2023 00:54:12 GMT</span>**
-- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Mon, 11 Sep 2023 00:54:12 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Tue, 10 Oct 2023 20:03:15 GMT</span>**
-- [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Mon, 11 Sep 2023 00:54:10 GMT</span>**
-- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Mon, 11 Sep 2023 00:54:11 GMT</span>**
+- [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Tue, 10 Oct 2023 22:52:30 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
+- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
+- [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Tue, 10 Oct 2023 22:52:32 GMT</span>**
+- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
 
 ### The Lazy GM's 5e Monster Builder Resource Document
 
-- [HTML](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.html) **Updated: <span id="mb-html-last-updated">Tue, 10 Oct 2023 20:03:15 GMT</span>**
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.md) **Updated: <span id="mb-markdown-last-updated">Tue, 10 Oct 2023 20:03:16 GMT</span>**
-- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate_5e_monster_builder) files **Updated: <span id="mb-markdown_separate-last-updated">Tue, 10 Oct 2023 20:03:16 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Tue, 10 Oct 2023 20:03:17 GMT</span>**
-- [PDF](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.pdf) **Updated: <span id="mb-pdf-last-updated">Tue, 10 Oct 2023 20:03:16 GMT</span>**
-- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.epub) **Updated: <span id="mb-epub-last-updated">Tue, 10 Oct 2023 20:03:16 GMT</span>**
+- [HTML](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.html) **Updated: <span id="mb-html-last-updated">Tue, 10 Oct 2023 22:52:34 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.md) **Updated: <span id="mb-markdown-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
+- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate_5e_monster_builder) files **Updated: <span id="mb-markdown_separate-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
+- [PDF](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.pdf) **Updated: <span id="mb-pdf-last-updated">Tue, 10 Oct 2023 22:52:34 GMT</span>**
+- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.epub) **Updated: <span id="mb-epub-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
 
 ## Attribution
 
