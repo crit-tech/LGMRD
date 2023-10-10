@@ -210,7 +210,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
   });
 
   output.attribution = fs.readFileSync(
-    path.join(OUTPUT_PATH, "src", "attribution.md"),
+    path.join(OUTPUT_PATH, "src", `attribution_${docType}.md`),
     "utf8"
   );
 
