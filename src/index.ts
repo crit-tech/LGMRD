@@ -27,13 +27,13 @@ async function createOutput(docType: DocType) {
     html !== prevHtml ||
     !fs.existsSync(path.join(OUTPUT_PATH, `${docType}.pdf`))
   ) {
-    await convertToPdf(html);
+    await convertToPdf(docType, html);
     logUpdate(docType, "pdf");
   }
 
   const epubPath = path.join(OUTPUT_PATH, `${docType}.epub`);
   if (html !== prevHtml || !fs.existsSync(epubPath)) {
-    await convertToEpub(filePath, epubPath);
+    await convertToEpub(docType, filePath, epubPath);
     logUpdate(docType, "epub");
   }
 

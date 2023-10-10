@@ -3,13 +3,14 @@
 import path from "path";
 import PandocJS from "pandoc-wrapper";
 
-import { OUTPUT_PATH } from "../utils/constants.js";
+import { DocType, OUTPUT_PATH } from "../utils/constants.js";
 
 export async function convertToEpub(
+  docType: DocType,
   htmlPath: string,
   epubPath: string
 ): Promise<void> {
-  process.stdout.write("Converting LGMRD to EPUB...");
+  process.stdout.write(`Converting ${docType} to EPUB...`);
 
   process.env.PANDOC_BINARY_PATH = path.resolve(
     OUTPUT_PATH,

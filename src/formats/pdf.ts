@@ -3,12 +3,15 @@ import path from "path";
 import puppeteer from "puppeteer";
 import * as cheerio from "cheerio";
 
-import { OUTPUT_PATH } from "../utils/constants.js";
+import { DocType, OUTPUT_PATH } from "../utils/constants.js";
 
-export async function convertToPdf(html: string): Promise<void> {
-  const pdfPath = path.join(OUTPUT_PATH, "LGMRD.pdf");
+export async function convertToPdf(
+  docType: DocType,
+  html: string
+): Promise<void> {
+  const pdfPath = path.join(OUTPUT_PATH, `${docType}.pdf`);
 
-  process.stdout.write("Converting LGMRD to PDF...");
+  process.stdout.write(`Converting ${docType} to PDF...`);
 
   const $ = cheerio.load(html);
   const h3s = $("h3");
