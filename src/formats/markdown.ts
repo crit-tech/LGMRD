@@ -11,7 +11,7 @@ import { Root } from "mdast";
 
 import getHtmlPlugin from "../utils/html.js";
 import removePosition from "../utils/removePosition.js";
-import { OUTPUT_PATH } from "../utils/constants.js";
+import { DocType, OUTPUT_PATH } from "../utils/constants.js";
 
 function getMarkdownPlugin(callback: (tree: Root) => void) {
   return () => {
@@ -45,11 +45,14 @@ export const rehypeRemarkOptions = {
   },
 };
 
-export async function convertToMarkdown(html: string): Promise<boolean> {
+export async function convertToMarkdown(
+  docType: DocType,
+  html: string
+): Promise<boolean> {
   const htmlPlugin = getHtmlPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
-      path.join(OUTPUT_PATH, "metadata", "LGMRD_hast.json"),
+      path.join(OUTPUT_PATH, "metadata", `${docType}_hast.json`),
       JSON.stringify(treeCopy, null, 2)
     );
   });
@@ -57,14 +60,14 @@ export async function convertToMarkdown(html: string): Promise<boolean> {
   const markdownPlugin = getMarkdownPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
-      path.join(OUTPUT_PATH, "metadata", "LGMRD_mdast.json"),
+      path.join(OUTPUT_PATH, "metadata", `${docType}_mdast.json`),
       JSON.stringify(treeCopy, null, 2)
     );
   });
 
-  process.stdout.write("Converting LGMRD to Markdown...");
+  process.stdout.write(`Converting ${docType} to Markdown...`);
 
-  const markdownFilePath = path.join(OUTPUT_PATH, "LGMRD.md");
+  const markdownFilePath = path.join(OUTPUT_PATH, `${docType}.md`);
   const previousMarkdown = fs.existsSync(markdownFilePath)
     ? fs.readFileSync(markdownFilePath, "utf-8")
     : "";

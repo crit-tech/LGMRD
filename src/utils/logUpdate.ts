@@ -1,13 +1,14 @@
 import fs from "fs";
 import path from "path";
 
-import { OUTPUT_PATH, OutputFormat } from "./constants.js";
+import { DocType, OUTPUT_PATH, OutputFormat } from "./constants.js";
 
 const README_PATH = path.join(OUTPUT_PATH, "README.md");
 const UPDATE_META_PATH = path.join(OUTPUT_PATH, "metadata", "updates.json");
 
-export function logUpdate(type: OutputFormat) {
-  const id = `${type}-last-updated`;
+export function logUpdate(docType: DocType, type: OutputFormat) {
+  const id =
+    (docType === "5e_Monster_Builder" ? "mb-" : "") + `${type}-last-updated`;
   const readme = fs.readFileSync(README_PATH, "utf-8");
   const timestamp = new Date();
 

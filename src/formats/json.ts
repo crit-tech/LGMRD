@@ -16,7 +16,11 @@ import { Node } from "unist";
 import slugify from "slugify";
 import semver from "semver";
 
-import { OUTPUT_PATH, MARKDOWN_SEPARATE_PATH } from "../utils/constants.js";
+import {
+  OUTPUT_PATH,
+  MARKDOWN_SEPARATE_PATHS,
+  DocType,
+} from "../utils/constants.js";
 
 const NEW_MAJOR_VERSION: string = "1.0.0";
 
@@ -57,10 +61,10 @@ function convertTreeToString(tree: Root): string {
   return markdown.trim().replace(/\\/g, "");
 }
 
-export async function convertToJson(): Promise<boolean> {
-  process.stdout.write("Converting LGMRD to JSON...");
+export async function convertToJson(docType: DocType): Promise<boolean> {
+  process.stdout.write(`Converting ${docType} to JSON...`);
 
-  const jsonFilePath = path.join(OUTPUT_PATH, "LGMRD.json");
+  const jsonFilePath = path.join(OUTPUT_PATH, `${docType}.json`);
   const previousJson = fs.existsSync(jsonFilePath)
     ? fs.readFileSync(jsonFilePath, "utf8")
     : "";
@@ -71,13 +75,13 @@ export async function convertToJson(): Promise<boolean> {
   };
 
   const markdownFiles = fs
-    .readdirSync(MARKDOWN_SEPARATE_PATH)
+    .readdirSync(MARKDOWN_SEPARATE_PATHS[docType])
     .filter((file) => file.endsWith(".md"))
     .sort();
 
   const keys: Set<string> = new Set();
   output.sections = markdownFiles.map((file) => {
-    const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATH, file);
+    const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATHS[docType], file);
     const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
     const id = path.basename(file, ".md");
     keys.add(id);
