@@ -453,7 +453,39 @@
             },
             {
               "type": "text",
-              "value": "\n  "
+              "value": "\n  \n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "You can find several versions of this document including EPUB, Markdown, and JSON on "
+                },
+                {
+                  "type": "element",
+                  "tagName": "a",
+                  "properties": {
+                    "href": "https://github.com/crit-tech/LGMRD"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crit.Tech's LGMRD Github Repo"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  \n  "
             },
             {
               "type": "element",

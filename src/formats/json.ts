@@ -22,7 +22,10 @@ import {
   DocType,
 } from "../utils/constants.js";
 
-const NEW_MAJOR_VERSION: string = "1.0.0";
+const NEW_MAJOR_VERSIONS: Record<DocType, string> = {
+  LGMRD: "1.0.0",
+  "5e_Monster_Builder": "0.0.0",
+};
 
 interface SubSectionContent {
   type: "paragraph" | "table";
@@ -244,7 +247,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
   }
 
   const newMajorVersion: boolean =
-    semver.compare(NEW_MAJOR_VERSION, previousVersion) > 0;
+    semver.compare(NEW_MAJOR_VERSIONS[docType], previousVersion) > 0;
   const missingKeys = Array.from(previousKeys).filter((key) => !keys.has(key));
   if (missingKeys.length > 0 && !newMajorVersion) {
     fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
@@ -256,7 +259,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
   }
 
   if (missingKeys.length > 0) {
-    output.version = NEW_MAJOR_VERSION;
+    output.version = NEW_MAJOR_VERSIONS[docType];
   } else if (keys.size !== previousKeys.size) {
     output.version = semver.inc(previousVersion, "minor") as string;
   } else {
