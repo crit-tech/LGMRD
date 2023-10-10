@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "sections": [
     {
       "id": "buildingagroup",
@@ -1722,8 +1722,50 @@
     {
       "id": "eightsteps",
       "title": "The Eight Steps of Lazy RPG Prep",
-      "intro": "For a typical game session, the Lazy RPG Prep checklist looks like this:\n\n*   Review the characters\n\n*   Create a strong start\n\n*   Outline potential scenes\n\n*   Define secrets and clues\n\n*   Develop fantastic locations\n\n*   Outline important NPCs\n\n*   Choose relevant monsters\n\n*   Select magic item rewards\n\nHere's a brief summary of each of the steps.",
+      "intro": "For a typical game session, the Lazy RPG Prep checklist looks like this:",
       "subsections": [
+        {
+          "id": "default",
+          "title": "",
+          "content": [
+            {
+              "type": "table",
+              "order": 0,
+              "table": [
+                [
+                  "Review the characters"
+                ],
+                [
+                  "Create a strong start"
+                ],
+                [
+                  "Outline potential scenes"
+                ],
+                [
+                  "Define secrets and clues"
+                ],
+                [
+                  "Develop fantastic locations"
+                ],
+                [
+                  "Outline important NPCs"
+                ],
+                [
+                  "Choose relevant monsters"
+                ],
+                [
+                  "Select magic item rewards"
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "order": 0,
+              "content": "Here's a brief summary of each of the steps."
+            }
+          ],
+          "order": 0
+        },
         {
           "id": "reviewthecharacters",
           "title": "Review the Characters",
@@ -1734,7 +1776,7 @@
               "content": "Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table?\n\nYou might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them."
             }
           ],
-          "order": 0
+          "order": 1
         },
         {
           "id": "createastrongstart",
@@ -1746,7 +1788,7 @@
               "content": "How a game starts is likely the most important piece of preparation we can do. Setting the stage for the session determines a great deal about how the rest of the game will go. When you define where a game session starts, you figure out what's going on, what the initial focus of the session is, and how you can get close to the action. When in doubt, start with a fight. Example strong starts can be found later in this document."
             }
           ],
-          "order": 1
+          "order": 2
         },
         {
           "id": "outlinepotentialscenes",
@@ -1758,7 +1800,7 @@
               "content": "With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction — as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it."
             }
           ],
-          "order": 2
+          "order": 3
         },
         {
           "id": "definesecretsandclues",
@@ -1770,7 +1812,7 @@
               "content": "The next step is second only in importance to the strong start, and is one of the most powerful tools available to GMs. Secrets and clues are single short sentences that describe a clue, a piece of the story, or a piece of the world that the characters can discover during the game. You don't know exactly *how* the characters will discover these clues. As such, you'll want to **keep these secrets and clues abstract from their place of discovery** so that you can drop them into the game wherever it makes sense. This lets the game flow freely, while still allowing you to reveal important pieces of the story at any point where the characters might discover them. During this step, you might write down ten such secrets or clues. Example secrets and clues are offered later in this document."
             }
           ],
-          "order": 3
+          "order": 4
         },
         {
           "id": "developfantasticlocations",
@@ -1782,7 +1824,7 @@
               "content": "Building evocative locations isn't easily improvised. As such, it's worth spending time writing out a handful of fantastic locations that the characters might discover and explore during the game. Each location can be thought of as a set, a room, or a backdrop for a single scene in your adventure.\n\nDescribe each location with a short evocative title such as \"The Sunspire.\" Then write down three fantastic aspects for it, along the lines of: \"Blazing beam of light shining to the heavens,\" \"Moat of molten rock,\" or \"Huge elven glyphs carved into ancient stone.\" Ultimately, whole dungeons can be built from a series of connected fantastic locations, with each location representing a large area or chamber. A specific location might not come up during the game for which you prepare it, but it will be ready for a later session as the characters explore."
             }
           ],
-          "order": 4
+          "order": 5
         },
         {
           "id": "outlineimportantnpcs",
@@ -1794,7 +1836,7 @@
               "content": "During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs — maybe even most of them — can be improvised right at the table."
             }
           ],
-          "order": 5
+          "order": 6
         },
         {
           "id": "chooserelevantmonsters",
@@ -1806,7 +1848,7 @@
               "content": "What monsters are the characters most likely to face? What monsters make sense for a specific location and situation? We're using the term \"monster\" loosely here, so as to include enemy NPCs as well as truly monstrous foes. Whatever type of enemy you need, reading through books of monsters can give you the fuel to choose the right creatures for the right situation.\n\nAdditionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](lazycombatencounterbuilding.md) for more information."
             }
           ],
-          "order": 6
+          "order": 7
         },
         {
           "id": "selectmagicitemrewards",
@@ -1818,7 +1860,7 @@
               "content": "Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues."
             }
           ],
-          "order": 7
+          "order": 8
         },
         {
           "id": "thelazyrpgprepchecklistandonlineplay",
@@ -1830,7 +1872,7 @@
               "content": "These steps and processes work just as well whether you interact with your players online or around the table. However you play, the Lazy RPG Prep checklist still works."
             }
           ],
-          "order": 8
+          "order": 9
         },
         {
           "id": "the5-minutereducedchecklist",
@@ -1857,7 +1899,7 @@
               ]
             }
           ],
-          "order": 9
+          "order": 10
         }
       ]
     },
@@ -3589,8 +3631,216 @@
     {
       "id": "randomdungeonmonsters",
       "title": "Random Dungeon Monsters",
-      "intro": "The following tables let you randomly select monsters based on \"dungeon level.\" Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.\n\nTo use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.\n\nOnce you have a dungeon level selected, roll a d20 and look across to see which monster table you should use. For example, if the characters are on dungeon level 4 and you roll a 12, you'll use monster table 3. Then go to the indicated monster table and roll a d20 again, to determine which monster might show up. Using the above example, consulting monster table 3 and rolling a 3 gives a result of 'Ghoul.' Instead of using dungeon levels, you can just jump to whichever monster table feels right for the circumstances. If you know you're looking for a monster with a challenge rating of 4 or 5, just roll on Monster Table 6. You can also use these tables to quickly look up monsters at particular challenge ratings. Even if you absolutely hate random encounters, you can use the tables to generate encounter ideas you might never think of otherwise.\n\nThere are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.\n\nBefore the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the \"[5e Quick Encounter Building](quickencounterbuilding.md)\" section of this document.\n\n|   | Monster List |   |   |   |   |   |   |   |   |   |\n\n| Dungeon Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n\n| 1 | 1—16 | 17—19 | 20 | — | — | — | — | — | — |   |\n\n| 2 | 1—12 | 13—16 | 17—18 | 19 | 20 | — | — | — | — |   |\n\n| 3 | 1—12 | 13—16 | 17—18 | 19 | 20 | — | — | — | — |   |\n\n| 4 | 1—5 | 6—10 | 11—16 | 17—18 | 19 | 20 | — | — | — |   |\n\n| 5 | 1—3 | 4—6 | 7—12 | 13—16 | 17—18 | 19 | 20 | — | — |   |\n\n| 6 | 1—2 | 3—4 | 5—6 | 7—12 | 13—16 | 17—18 | 19 | 20 | — |   |\n\n| 7 | 1 | 2—3 | 4—5 | 6—10 | 11—14 | 15—16 | 17—18 | 19 | 20 | — |\n\n| 8 | 1 | 2 | 3—4 | 5—7 | 8—10 | 11—14 | 15—16 | 17—18 | 19 | 20 |\n\n| 9 | 1 | 2 | 3 | 4—5 | 6—8 | 9—12 | 13—15 | 16—17 | 18—19 | 20 |\n\n| 10—11 | 1 | 2 | 3 | 4 | 5—6 | 7—9 | 10—12 | 13—16 | 17—19 | 20 |\n\n| 12—13 | 1 | 2 | 3 | 4 | 5 | 6—7 | 8—9 | 10—12 | 13—18 | 19—20 |\n\n| 14—15 | 1 | 2 | 3 | 4 | 5 | 6 | 7—8 | 9—11 | 12—17 | 18—20 |\n\n| 16+ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8—10 | 11—16 | 17—20 |",
+      "intro": "The following tables let you randomly select monsters based on \"dungeon level.\" Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.\n\nTo use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.\n\nOnce you have a dungeon level selected, roll a d20 and look across to see which monster table you should use. For example, if the characters are on dungeon level 4 and you roll a 12, you'll use monster table 3. Then go to the indicated monster table and roll a d20 again, to determine which monster might show up. Using the above example, consulting monster table 3 and rolling a 3 gives a result of 'Ghoul.' Instead of using dungeon levels, you can just jump to whichever monster table feels right for the circumstances. If you know you're looking for a monster with a challenge rating of 4 or 5, just roll on Monster Table 6. You can also use these tables to quickly look up monsters at particular challenge ratings. Even if you absolutely hate random encounters, you can use the tables to generate encounter ideas you might never think of otherwise.\n\nThere are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.\n\nBefore the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the \"[5e Quick Encounter Building](quickencounterbuilding.md)\" section of this document.",
       "subsections": [
+        {
+          "id": "default",
+          "title": "",
+          "content": [
+            {
+              "type": "table",
+              "order": 0,
+              "table": [
+                [
+                  "",
+                  "Monster List",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Dungeon Level",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+                ],
+                [
+                  "1",
+                  "1—16",
+                  "17—19",
+                  "20",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  ""
+                ],
+                [
+                  "2",
+                  "1—12",
+                  "13—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  ""
+                ],
+                [
+                  "3",
+                  "1—12",
+                  "13—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  ""
+                ],
+                [
+                  "4",
+                  "1—5",
+                  "6—10",
+                  "11—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—",
+                  "—",
+                  "—",
+                  ""
+                ],
+                [
+                  "5",
+                  "1—3",
+                  "4—6",
+                  "7—12",
+                  "13—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—",
+                  "—",
+                  ""
+                ],
+                [
+                  "6",
+                  "1—2",
+                  "3—4",
+                  "5—6",
+                  "7—12",
+                  "13—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—",
+                  ""
+                ],
+                [
+                  "7",
+                  "1",
+                  "2—3",
+                  "4—5",
+                  "6—10",
+                  "11—14",
+                  "15—16",
+                  "17—18",
+                  "19",
+                  "20",
+                  "—"
+                ],
+                [
+                  "8",
+                  "1",
+                  "2",
+                  "3—4",
+                  "5—7",
+                  "8—10",
+                  "11—14",
+                  "15—16",
+                  "17—18",
+                  "19",
+                  "20"
+                ],
+                [
+                  "9",
+                  "1",
+                  "2",
+                  "3",
+                  "4—5",
+                  "6—8",
+                  "9—12",
+                  "13—15",
+                  "16—17",
+                  "18—19",
+                  "20"
+                ],
+                [
+                  "10—11",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5—6",
+                  "7—9",
+                  "10—12",
+                  "13—16",
+                  "17—19",
+                  "20"
+                ],
+                [
+                  "12—13",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6—7",
+                  "8—9",
+                  "10—12",
+                  "13—18",
+                  "19—20"
+                ],
+                [
+                  "14—15",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7—8",
+                  "9—11",
+                  "12—17",
+                  "18—20"
+                ],
+                [
+                  "16+",
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8—10",
+                  "11—16",
+                  "17—20"
+                ]
+              ]
+            }
+          ],
+          "order": 0
+        },
         {
           "id": "monsterlist1",
           "title": "Monster List 1 (CR 1/8—1/4)",
@@ -3682,7 +3932,7 @@
               ]
             }
           ],
-          "order": 0
+          "order": 1
         },
         {
           "id": "monsterlist2",
@@ -3775,7 +4025,7 @@
               ]
             }
           ],
-          "order": 1
+          "order": 2
         },
         {
           "id": "monsterlist3",
@@ -3868,7 +4118,7 @@
               ]
             }
           ],
-          "order": 2
+          "order": 3
         },
         {
           "id": "monsterlist4",
@@ -3961,7 +4211,7 @@
               ]
             }
           ],
-          "order": 3
+          "order": 4
         },
         {
           "id": "monsterlist5",
@@ -4054,7 +4304,7 @@
               ]
             }
           ],
-          "order": 4
+          "order": 5
         },
         {
           "id": "monsterlist6",
@@ -4147,7 +4397,7 @@
               ]
             }
           ],
-          "order": 5
+          "order": 6
         },
         {
           "id": "monsterlist7",
@@ -4240,7 +4490,7 @@
               ]
             }
           ],
-          "order": 6
+          "order": 7
         },
         {
           "id": "monsterlist8",
@@ -4333,7 +4583,7 @@
               ]
             }
           ],
-          "order": 7
+          "order": 8
         },
         {
           "id": "monsterlist9",
@@ -4394,7 +4644,7 @@
               ]
             }
           ],
-          "order": 8
+          "order": 9
         },
         {
           "id": "monsterlist10",
@@ -4447,7 +4697,7 @@
               ]
             }
           ],
-          "order": 9
+          "order": 10
         }
       ]
     },

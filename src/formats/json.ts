@@ -16,7 +16,11 @@ import { Node } from "unist";
 import slugify from "slugify";
 import semver from "semver";
 
-import { OUTPUT_PATH, MARKDOWN_SEPARATE_PATH } from "../utils/constants.js";
+import {
+  OUTPUT_PATH,
+  MARKDOWN_SEPARATE_PATHS,
+  DocType,
+} from "../utils/constants.js";
 
 const NEW_MAJOR_VERSION: string = "1.0.0";
 
@@ -57,10 +61,10 @@ function convertTreeToString(tree: Root): string {
   return markdown.trim().replace(/\\/g, "");
 }
 
-export async function convertToJson(): Promise<boolean> {
-  process.stdout.write("Converting LGMRD to JSON...");
+export async function convertToJson(docType: DocType): Promise<boolean> {
+  process.stdout.write(`Converting ${docType} to JSON...`);
 
-  const jsonFilePath = path.join(OUTPUT_PATH, "LGMRD.json");
+  const jsonFilePath = path.join(OUTPUT_PATH, `${docType}.json`);
   const previousJson = fs.existsSync(jsonFilePath)
     ? fs.readFileSync(jsonFilePath, "utf8")
     : "";
@@ -71,13 +75,13 @@ export async function convertToJson(): Promise<boolean> {
   };
 
   const markdownFiles = fs
-    .readdirSync(MARKDOWN_SEPARATE_PATH)
+    .readdirSync(MARKDOWN_SEPARATE_PATHS[docType])
     .filter((file) => file.endsWith(".md"))
     .sort();
 
   const keys: Set<string> = new Set();
   output.sections = markdownFiles.map((file) => {
-    const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATH, file);
+    const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATHS[docType], file);
     const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
     const id = path.basename(file, ".md");
     keys.add(id);
@@ -96,7 +100,7 @@ export async function convertToJson(): Promise<boolean> {
     }
 
     let intro = "";
-    while (tree.children[0].type !== "heading") {
+    while (tree.children.length > 0 && tree.children[0].type === "paragraph") {
       if (intro) {
         intro += "\n\n";
       }
@@ -109,35 +113,35 @@ export async function convertToJson(): Promise<boolean> {
 
     const subsections: SubSection[] = [];
     while (tree.children.length > 0) {
-      let node = tree.children.shift() as Node;
+      let node = tree.children[0] as Node;
 
       const newSubsection: SubSection = {
-        id: "",
+        id: "default",
         title: "",
         content: [],
         order: subsections.length,
       };
+      let depth = 2;
       subsections.push(newSubsection);
 
-      if (node.type !== "heading") {
-        console.debug(node);
-        throw new Error(`Expected heading, got ${node.type}`);
+      if (node.type === "heading") {
+        const heading = node as MarkdownHeading;
+        depth = heading.depth;
+        newSubsection.title = convertTreeToString({
+          type: "root",
+          children: heading.children,
+        });
+        newSubsection.id = slugify.default(
+          newSubsection.title.replace(/ \(.*?\)$/, ""),
+          {
+            lower: true,
+            replacement: "",
+            remove: /[*+~.()'"!:@\\/]/g,
+          }
+        );
+        tree.children.shift();
       }
 
-      const heading = node as MarkdownHeading;
-      const depth = heading.depth;
-      newSubsection.title = convertTreeToString({
-        type: "root",
-        children: heading.children,
-      });
-      newSubsection.id = slugify.default(
-        newSubsection.title.replace(/ \(.*?\)$/, ""),
-        {
-          lower: true,
-          replacement: "",
-          remove: /[*+~.()'"!:@\\/]/g,
-        }
-      );
       keys.add(id + "/" + newSubsection.id);
 
       let textSubsection: SubSectionContent = {
@@ -206,7 +210,7 @@ export async function convertToJson(): Promise<boolean> {
   });
 
   output.attribution = fs.readFileSync(
-    path.join(OUTPUT_PATH, "src", "attribution.md"),
+    path.join(OUTPUT_PATH, "src", `attribution_${docType}.md`),
     "utf8"
   );
 
@@ -243,6 +247,7 @@ export async function convertToJson(): Promise<boolean> {
     semver.compare(NEW_MAJOR_VERSION, previousVersion) > 0;
   const missingKeys = Array.from(previousKeys).filter((key) => !keys.has(key));
   if (missingKeys.length > 0 && !newMajorVersion) {
+    fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
     throw new Error(
       `The following keys are missing from the new JSON: ${missingKeys.join(
         ", "

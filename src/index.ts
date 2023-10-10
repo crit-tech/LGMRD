@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs";
 
+import type { DocType } from "./utils/constants.js";
 import { OUTPUT_PATH } from "./utils/constants.js";
 import { fetchDocument } from "./utils/fetch.js";
 import { convertToMarkdown } from "./formats/markdown.js";
@@ -10,46 +11,54 @@ import { logUpdate } from "./utils/logUpdate.js";
 import { convertToPdf } from "./formats/pdf.js";
 import { convertToEpub } from "./formats/epub.js";
 
-async function run() {
-  const filePath = path.join(OUTPUT_PATH, "LGMRD.html");
+async function createOutput(docType: DocType) {
+  const filePath = path.join(OUTPUT_PATH, `${docType}.html`);
   const prevHtml = fs.existsSync(filePath)
     ? fs.readFileSync(filePath, "utf-8")
     : "";
-  const html = await fetchDocument();
+  const html = await fetchDocument(docType);
 
   if (html !== prevHtml) {
     fs.writeFileSync(filePath, html);
-    logUpdate("html");
+    logUpdate(docType, "html");
   }
 
   if (
     html !== prevHtml ||
-    !fs.existsSync(path.join(OUTPUT_PATH, "LGMRD.pdf"))
+    !fs.existsSync(path.join(OUTPUT_PATH, `${docType}.pdf`))
   ) {
-    await convertToPdf(html);
-    logUpdate("pdf");
+    await convertToPdf(docType, html);
+    logUpdate(docType, "pdf");
   }
 
-  const epubPath = path.join(OUTPUT_PATH, "LGMRD.epub");
+  const epubPath = path.join(OUTPUT_PATH, `${docType}.epub`);
   if (html !== prevHtml || !fs.existsSync(epubPath)) {
-    await convertToEpub(filePath, epubPath);
-    logUpdate("epub");
+    await convertToEpub(docType, filePath, epubPath);
+    logUpdate(docType, "epub");
   }
 
-  const markdownUpdated = await convertToMarkdown(html);
+  const markdownUpdated = await convertToMarkdown(docType, html);
   if (markdownUpdated) {
-    logUpdate("markdown");
+    logUpdate(docType, "markdown");
   }
 
-  const markdownSeparateUpdated = await convertToMarkdownSeparate(html);
+  const markdownSeparateUpdated = await convertToMarkdownSeparate(
+    docType,
+    html
+  );
   if (markdownSeparateUpdated) {
-    logUpdate("markdown_separate");
+    logUpdate(docType, "markdown_separate");
   }
 
-  const jsonUpdated = await convertToJson();
+  const jsonUpdated = await convertToJson(docType);
   if (jsonUpdated) {
-    logUpdate("json");
+    logUpdate(docType, "json");
   }
+}
+
+async function run() {
+  await createOutput("LGMRD");
+  await createOutput("5e_Monster_Builder");
 }
 
 run();
