@@ -1,5 +1,5 @@
 module.exports.default = {
-  "version": "1.3.1",
+  "version": "1.3.3",
   "sections": [
     {
       "id": "buildingagroup",
