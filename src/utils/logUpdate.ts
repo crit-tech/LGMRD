@@ -13,7 +13,7 @@ export function logUpdate(docType: DocType, type: OutputFormat) {
   const timestamp = new Date();
 
   const updatedReadme = readme.replace(
-    new RegExp(`<span id="${id}">.*?</span>`),
+    new RegExp(`<span id="${id}">.*?</span>`, "g"),
     `<span id="${id}">${timestamp.toUTCString()}</span>`
   );
 

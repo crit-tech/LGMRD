@@ -4,6 +4,7 @@ import fs from "fs";
 import type { DocType } from "./utils/constants.js";
 import { OUTPUT_PATH } from "./utils/constants.js";
 import { fetchDocument } from "./utils/fetch.js";
+import { publishJsonPackage } from "./utils/publishJsonPackages.js";
 import { convertToMarkdown } from "./formats/markdown.js";
 import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
 import { convertToJson } from "./formats/json.js";
@@ -53,6 +54,7 @@ async function createOutput(docType: DocType) {
   const jsonUpdated = await convertToJson(docType);
   if (jsonUpdated) {
     logUpdate(docType, "json");
+    await publishJsonPackage(docType);
   }
 }
 
