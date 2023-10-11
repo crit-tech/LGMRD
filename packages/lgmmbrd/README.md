@@ -2,6 +2,8 @@
 
 This is the [Lazy GM's 5e Monster Builder Resource Document](https://slyflourish.com/lazy_5e_monster_building_resource_document.html) as a JavaScript package (both ESM and CommonJS supported).
 
+LGMMBRD is officially pronounced "Lymm Bard" and [LGMRD](https://www.npmjs.com/package/@crit-tech/lgmrd) "Lymm Grid".
+
 ## Usage
 
 ### ESM

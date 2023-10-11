@@ -1,8 +1,10 @@
 # The Lazy GM's Resource Document Multiformat Distribution
 
-This is the Lazy GM's Resource Document in various digital formats. The formats found in this repository are updated automatically from [the original source](https://slyflourish.com/lazy_gm_resource_document.html). Updates occur daily at 00:00 UTC, or when one of the maintainers runs a manual update.
+This is the Lazy GM's Resource Document (LGMRD) in various digital formats. The formats found in this repository are updated automatically from [the original source](https://slyflourish.com/lazy_gm_resource_document.html). Updates occur daily at 00:00 UTC, or when one of the maintainers runs a manual update.
 
-Also, we now include the [The Lazy GM's 5e Monster Builder Resource Document](https://slyflourish.com/lazy_5e_monster_building_resource_document.html) in the separate `5e_monster_builder` files.
+Also, we now include the [The Lazy GM's 5e Monster Builder Resource Document](https://slyflourish.com/lazy_5e_monster_building_resource_document.html) (LGMMBRD) in the separate `5e_monster_builder` files.
+
+LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 
 ## Available formats
 

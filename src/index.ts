@@ -54,8 +54,9 @@ async function createOutput(docType: DocType) {
   const jsonUpdated = await convertToJson(docType);
   if (jsonUpdated) {
     logUpdate(docType, "json");
-    await publishJsonPackage(docType);
   }
+
+  await publishJsonPackage(docType);
 }
 
 async function run() {

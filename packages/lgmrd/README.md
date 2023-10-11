@@ -2,6 +2,8 @@
 
 This is the [Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) as a JavaScript package (both ESM and CommonJS supported).
 
+LGMRD is officially pronounced "Lymm Grid" and [LGMMBRD](https://www.npmjs.com/package/@crit-tech/lgmmbrd) "Lymm Bard".
+
 ## Usage
 
 ### ESM

@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "sections": [
     {
       "id": "bossesandminions",
@@ -14,18 +14,8 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Boss CR",
-                  "Boss",
-                  "Environments",
-                  "Minions"
-                ],
-                [
-                  "1",
-                  "Goblin boss",
-                  "Caves, mountains",
-                  "Goblins, worgs"
-                ],
+                ["Boss CR", "Boss", "Environments", "Minions"],
+                ["1", "Goblin boss", "Caves, mountains", "Goblins, worgs"],
                 [
                   "2",
                   "Bandit captain",
@@ -38,12 +28,7 @@
                   "Cities, ruins",
                   "Cultists, bandits, thugs, dretches"
                 ],
-                [
-                  "2",
-                  "Ettercap",
-                  "Caves, ruins",
-                  "Giant spiders"
-                ],
+                ["2", "Ettercap", "Caves, ruins", "Giant spiders"],
                 [
                   "2",
                   "Ghast",
@@ -56,12 +41,7 @@
                   "Plains, caves, ruins",
                   "Gnolls, hyenas"
                 ],
-                [
-                  "2",
-                  "Ogre",
-                  "Ruins, caves",
-                  "Orcs, goblins"
-                ],
+                ["2", "Ogre", "Ruins, caves", "Orcs, goblins"],
                 [
                   "2",
                   "Sea hag",
@@ -86,30 +66,15 @@
                   "Frozen mountains, frozen ruins",
                   "Dire wolves, ice mephits"
                 ],
-                [
-                  "4",
-                  "Banshee",
-                  "Ruins, crypts",
-                  "Specters, skeletons"
-                ],
+                ["4", "Banshee", "Ruins, crypts", "Specters, skeletons"],
                 [
                   "4",
                   "Bone naga",
                   "Ruins, crypts",
                   "Skeletons, specters, wights"
                 ],
-                [
-                  "4",
-                  "Ettin",
-                  "Mountains, ruins, caves",
-                  "Ogres, orcs"
-                ],
-                [
-                  "4",
-                  "Lamia",
-                  "Ruins, towers, caves",
-                  "Jackalweres"
-                ],
+                ["4", "Ettin", "Mountains, ruins, caves", "Ogres, orcs"],
+                ["4", "Lamia", "Ruins, towers, caves", "Jackalweres"],
                 [
                   "4",
                   "Lizard king/queen",
@@ -158,12 +123,7 @@
                   "Ruins, caves",
                   "Basilisks, giant constrictor snakes, death dogs"
                 ],
-                [
-                  "7",
-                  "Oni",
-                  "Ruins, caves, cities",
-                  "Hobgoblins, orcs"
-                ],
+                ["7", "Oni", "Ruins, caves, cities", "Hobgoblins, orcs"],
                 [
                   "8",
                   "Frost giant",
@@ -774,33 +734,15 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Interesting monsters"
-                ],
-                [
-                  "A fantastic location"
-                ],
-                [
-                  "Zone-wide effects"
-                ],
-                [
-                  "Traps and hazards"
-                ],
-                [
-                  "Advantageous positions"
-                ],
-                [
-                  "Interactive objects"
-                ],
-                [
-                  "Cover"
-                ],
-                [
-                  "Difficult or fantastic terrain"
-                ],
-                [
-                  "A goal"
-                ]
+                ["Interesting monsters"],
+                ["A fantastic location"],
+                ["Zone-wide effects"],
+                ["Traps and hazards"],
+                ["Advantageous positions"],
+                ["Interactive objects"],
+                ["Cover"],
+                ["Difficult or fantastic terrain"],
+                ["A goal"]
               ]
             },
             {
@@ -920,36 +862,20 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "Crumbling statues that can be easily toppled"
-                ],
-                [
-                  "Pillars that collapse part of the ceiling"
-                ],
-                [
-                  "Chandeliers upon which to swing"
-                ],
-                [
-                  "Ballistas the characters can use to fire upon their foes"
-                ],
+                ["Crumbling statues that can be easily toppled"],
+                ["Pillars that collapse part of the ceiling"],
+                ["Chandeliers upon which to swing"],
+                ["Ballistas the characters can use to fire upon their foes"],
                 [
                   "Obelisks infusing the villain with power until they're destroyed"
                 ],
                 [
                   "Levers that physically or magically transform parts of the battlefield"
                 ],
-                [
-                  "Catapults that can hurl allies to the far side of the fight"
-                ],
-                [
-                  "Cranes lifting heavy objects that can be dropped onto foes"
-                ],
-                [
-                  "Fiery cauldrons or braziers ready to tip over"
-                ],
-                [
-                  "Deep wells into which enemies can be dumped"
-                ]
+                ["Catapults that can hurl allies to the far side of the fight"],
+                ["Cranes lifting heavy objects that can be dropped onto foes"],
+                ["Fiery cauldrons or braziers ready to tip over"],
+                ["Deep wells into which enemies can be dumped"]
               ]
             }
           ],
@@ -980,18 +906,12 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "A crumbling bridge over a deep crevasse"
-                ],
+                ["A crumbling bridge over a deep crevasse"],
                 [
                   "Spikes of sharp glass that cut creatures when they fall or are forced to move through them"
                 ],
-                [
-                  "Jets of flame that randomly erupt"
-                ],
-                [
-                  "Swampy land that belches forth poisonous gas when crossed"
-                ],
+                ["Jets of flame that randomly erupt"],
+                ["Swampy land that belches forth poisonous gas when crossed"],
                 [
                   "Oiled surfaces that cause creatures to slide across them uncontrollably."
                 ],
@@ -1028,36 +948,16 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "Stop a ritual before cultists summon a demon."
-                ],
-                [
-                  "Recover an artifact and escape with it."
-                ],
-                [
-                  "Kill the boss, but don't worry about their minions."
-                ],
-                [
-                  "Activate a gateway and escape through it."
-                ],
-                [
-                  "Recover a prisoner."
-                ],
-                [
-                  "Steal secret plans."
-                ],
-                [
-                  "Destroy a powerful monument."
-                ],
-                [
-                  "Activate the four altars around a temple site."
-                ],
-                [
-                  "Close a magical gateway and prevent the villain's escape."
-                ],
-                [
-                  "Destroy a doomsday device before it blows up the multiverse."
-                ]
+                ["Stop a ritual before cultists summon a demon."],
+                ["Recover an artifact and escape with it."],
+                ["Kill the boss, but don't worry about their minions."],
+                ["Activate a gateway and escape through it."],
+                ["Recover a prisoner."],
+                ["Steal secret plans."],
+                ["Destroy a powerful monument."],
+                ["Activate the four altars around a temple site."],
+                ["Close a magical gateway and prevent the villain's escape."],
+                ["Destroy a doomsday device before it blows up the multiverse."]
               ]
             }
           ],
@@ -1083,14 +983,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "10 (+0)",
                   "12 (+1)",
@@ -1117,14 +1010,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "14 (+2)",
                   "12 (+1)",
@@ -1151,14 +1037,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "16 (+3)",
                   "12 (+1)",
@@ -1185,14 +1064,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "12 (+1)",
                   "18 (+4)",
@@ -1219,14 +1091,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "10 (+0)",
                   "14 (+2)",
@@ -1253,14 +1118,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "20 (+5)",
                   "16 (+3)",
@@ -1287,14 +1145,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "STR",
-                  "DEX",
-                  "CON",
-                  "INT",
-                  "WIS",
-                  "CHA"
-                ],
+                ["STR", "DEX", "CON", "INT", "WIS", "CHA"],
                 [
                   "10 (+0)",
                   "12 (+1)",
@@ -1328,36 +1179,16 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "Building a Quick Monster"
-                ],
-                [
-                  "General-Use Combat Stat Blocks"
-                ],
-                [
-                  "Lazy Tricks for Running Monsters"
-                ],
-                [
-                  "Lightning Rods"
-                ],
-                [
-                  "Monster Roles"
-                ],
-                [
-                  "Bosses and Minions"
-                ],
-                [
-                  "The Combat Encounter Checklist"
-                ],
-                [
-                  "Monster Combinations for a Hard Challenge"
-                ],
-                [
-                  "Monsters by Adventure Location"
-                ],
-                [
-                  "Monsters and the Tiers of Play"
-                ]
+                ["Building a Quick Monster"],
+                ["General-Use Combat Stat Blocks"],
+                ["Lazy Tricks for Running Monsters"],
+                ["Lightning Rods"],
+                ["Monster Roles"],
+                ["Bosses and Minions"],
+                ["The Combat Encounter Checklist"],
+                ["Monster Combinations for a Hard Challenge"],
+                ["Monsters by Adventure Location"],
+                ["Monsters and the Tiers of Play"]
               ]
             }
           ],
@@ -1383,27 +1214,15 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "Armor Class = 12 + 1/2 CR"
-                ],
-                [
-                  "Hit points = (15 × CR) + 15"
-                ],
-                [
-                  "Proficient saving throws and skills = 4 + 1/2 CR"
-                ],
+                ["Armor Class = 12 + 1/2 CR"],
+                ["Hit points = (15 × CR) + 15"],
+                ["Proficient saving throws and skills = 4 + 1/2 CR"],
                 [
                   "Nonproficient saving throws and abilities = −2 to +2, based on the monster's story"
                 ],
-                [
-                  "Attack bonus = 4 + 1/2 CR"
-                ],
-                [
-                  "DC for saving throws = 12 + 1/2 CR"
-                ],
-                [
-                  "Total damage per round = (7 × CR) + 5"
-                ]
+                ["Attack bonus = 4 + 1/2 CR"],
+                ["DC for saving throws = 12 + 1/2 CR"],
+                ["Total damage per round = (7 × CR) + 5"]
               ]
             }
           ],
@@ -1434,110 +1253,19 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "# of dice",
-                  "d4",
-                  "d6",
-                  "d8",
-                  "d10",
-                  "d12"
-                ],
-                [
-                  "1",
-                  "2",
-                  "3",
-                  "4",
-                  "5",
-                  "6"
-                ],
-                [
-                  "2",
-                  "5",
-                  "7",
-                  "9",
-                  "11",
-                  "13"
-                ],
-                [
-                  "3",
-                  "7",
-                  "10",
-                  "13",
-                  "16",
-                  "19"
-                ],
-                [
-                  "4",
-                  "10",
-                  "14",
-                  "18",
-                  "22",
-                  "26"
-                ],
-                [
-                  "5",
-                  "12",
-                  "17",
-                  "22",
-                  "27",
-                  "32"
-                ],
-                [
-                  "6",
-                  "15",
-                  "21",
-                  "27",
-                  "33",
-                  "39"
-                ],
-                [
-                  "7",
-                  "17",
-                  "24",
-                  "31",
-                  "38",
-                  "45"
-                ],
-                [
-                  "8",
-                  "20",
-                  "28",
-                  "36",
-                  "44",
-                  "52"
-                ],
-                [
-                  "9",
-                  "22",
-                  "31",
-                  "40",
-                  "49",
-                  "58"
-                ],
-                [
-                  "10",
-                  "25",
-                  "35",
-                  "45",
-                  "55",
-                  "65"
-                ],
-                [
-                  "11",
-                  "27",
-                  "38",
-                  "49",
-                  "60",
-                  "71"
-                ],
-                [
-                  "12",
-                  "30",
-                  "42",
-                  "54",
-                  "66",
-                  "78"
-                ]
+                ["# of dice", "d4", "d6", "d8", "d10", "d12"],
+                ["1", "2", "3", "4", "5", "6"],
+                ["2", "5", "7", "9", "11", "13"],
+                ["3", "7", "10", "13", "16", "19"],
+                ["4", "10", "14", "18", "22", "26"],
+                ["5", "12", "17", "22", "27", "32"],
+                ["6", "15", "21", "27", "33", "39"],
+                ["7", "17", "24", "31", "38", "45"],
+                ["8", "20", "28", "36", "44", "52"],
+                ["9", "22", "31", "40", "49", "58"],
+                ["10", "25", "35", "45", "55", "65"],
+                ["11", "27", "38", "49", "60", "71"],
+                ["12", "30", "42", "54", "66", "78"]
               ]
             }
           ],
@@ -1568,9 +1296,7 @@
                 [
                   "Have constructs and undead be destroyed when the creature controlling them dies."
                 ],
-                [
-                  "Run multiple waves of monsters for big battles."
-                ]
+                ["Run multiple waves of monsters for big battles."]
               ]
             }
           ],
@@ -1648,15 +1374,9 @@
               "type": "table",
               "order": 2,
               "table": [
-                [
-                  "For a deadly challenge: +1 or +2"
-                ],
-                [
-                  "For a medium challenge: −2"
-                ],
-                [
-                  "For an easy challenge: −4"
-                ]
+                ["For a deadly challenge: +1 or +2"],
+                ["For a medium challenge: −2"],
+                ["For an easy challenge: −4"]
               ]
             }
           ],
@@ -2690,14 +2410,8 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
-                [
-                  "1st",
-                  "*   A thug leads bandits intending to rob a caravan."
-                ]
+                ["Level", "Example Encounters"],
+                ["1st", "*   A thug leads bandits intending to rob a caravan."]
               ]
             },
             {
@@ -2713,15 +2427,11 @@
                 [
                   "A gnoll pack lord bounty hunter leads gnolls and hyenas after an escaped prisoner."
                 ],
-                [
-                  "A death dog protected by wolves lairs in a ruined cave."
-                ],
+                ["A death dog protected by wolves lairs in a ruined cave."],
                 [
                   "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | *   A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne."
                 ],
-                [
-                  "A cyclops matriarch leads fanatically loyal ogres."
-                ],
+                ["A cyclops matriarch leads fanatically loyal ogres."],
                 [
                   "A solitary medusa dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs."
                 ],
@@ -2741,10 +2451,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A pair of skeletons rises from a pile of crawling claws."
@@ -2778,10 +2485,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A wandering zombie is covered by a swarm of rats."
@@ -2818,10 +2522,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A giant rat and the swarm of rats that travels with them are feeding on a dead body."
@@ -2860,10 +2561,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A loyal imp commands a squad of guardian flying swords."
@@ -2898,10 +2596,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "5th to 10th",
                   "*   A fire giant with pet hell hounds commands an azer to dig for them."
@@ -2928,10 +2623,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "2nd to 4th",
                   "*   A night hag and their pet quasit schemes within a chamber guarded by hell hounds."
@@ -2958,10 +2650,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   An elf cultist hunts prey with bloodthirsty wolves."
@@ -2976,9 +2665,7 @@
               "type": "table",
               "order": 1,
               "table": [
-                [
-                  "An ettin warlord commands a host of orc mercenaries."
-                ],
+                ["An ettin warlord commands a host of orc mercenaries."],
                 [
                   "A green hag lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs."
                 ],
@@ -3004,10 +2691,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "2nd to 4th",
                   "*   A bearded devil draws lemures through a portal connected to the river Styx."
@@ -3037,10 +2721,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "5th to 10th",
                   "*   Frost giant hunters enjoy the sport of their remorhaz pet stalking commoners."
@@ -3067,10 +2748,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A cockatrice pecks at a crumbling statue, while stirges linger above."
@@ -3106,10 +2784,7 @@
               "type": "table",
               "order": 0,
               "table": [
-                [
-                  "Level",
-                  "Example Encounters"
-                ],
+                ["Level", "Example Encounters"],
                 [
                   "1st",
                   "*   A lizardfolk hunter is teaching their trained giant crabs how to hunt."
