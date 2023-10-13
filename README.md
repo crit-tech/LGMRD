@@ -13,8 +13,8 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 - [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Tue, 10 Oct 2023 22:52:30 GMT</span>**
 - [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
 - [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Fri, 13 Oct 2023 15:16:38 GMT</span>**
-- [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Fri, 13 Oct 2023 15:16:38 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Fri, 13 Oct 2023 15:24:13 GMT</span>**
+- [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Fri, 13 Oct 2023 15:24:13 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Tue, 10 Oct 2023 22:52:32 GMT</span>**
 - [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Tue, 10 Oct 2023 22:52:33 GMT</span>**
 
@@ -23,8 +23,8 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 - [HTML](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.html) **Updated: <span id="mb-html-last-updated">Tue, 10 Oct 2023 22:52:34 GMT</span>**
 - [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.md) **Updated: <span id="mb-markdown-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
 - [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate_5e_monster_builder) files **Updated: <span id="mb-markdown_separate-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Fri, 13 Oct 2023 15:16:39 GMT</span>**
-- [NPM](https://www.npmjs.com/package/@crit-tech/lgmmbrd) **Updated: <span id="mb-json-last-updated">Fri, 13 Oct 2023 15:16:39 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Fri, 13 Oct 2023 15:24:14 GMT</span>**
+- [NPM](https://www.npmjs.com/package/@crit-tech/lgmmbrd) **Updated: <span id="mb-json-last-updated">Fri, 13 Oct 2023 15:24:14 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.pdf) **Updated: <span id="mb-pdf-last-updated">Tue, 10 Oct 2023 22:52:34 GMT</span>**
 - [EPUB](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.epub) **Updated: <span id="mb-epub-last-updated">Tue, 10 Oct 2023 22:52:35 GMT</span>**
 

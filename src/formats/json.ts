@@ -15,6 +15,7 @@ import { toString as mdastToString } from "mdast-util-to-string";
 import { Node } from "unist";
 import slugify from "slugify";
 import semver from "semver";
+import * as prettier from "prettier";
 
 import {
   OUTPUT_PATH,
@@ -71,6 +72,12 @@ function convertTreeToMarkdown(tree: Root): string {
 function convertTreeToString(tree: Root): string {
   const markdown = mdastToString(tree);
   return markdown.trim().replace(/\\/g, "");
+}
+
+function serializeJson(output: Output): Promise<string> {
+  return prettier.format(JSON.stringify(output, null, 2), {
+    parser: "json",
+  });
 }
 
 export async function convertToJson(docType: DocType): Promise<boolean> {
@@ -231,7 +238,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
     : "0.0.1";
 
   output.version = previousVersion;
-  const newJson = JSON.stringify(output, null, 2);
+  const newJson = await serializeJson(output);
   if (previousJson === newJson) {
     process.stdout.write("Done\n");
     return false;
@@ -275,7 +282,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
     output.version = semver.inc(previousVersion, "patch") as string;
   }
 
-  fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
+  fs.writeFileSync(jsonFilePath, await serializeJson(output));
 
   process.stdout.write("Done\n");
 

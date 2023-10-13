@@ -56,7 +56,7 @@ async function createOutput(docType: DocType) {
     logUpdate(docType, "json");
   }
 
-  await publishJsonPackage(docType);
+  // await publishJsonPackage(docType);
 }
 
 async function run() {
