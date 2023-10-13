@@ -561,7 +561,7 @@
           "order": 2
         },
         {
-          "id": "locations,monuments,anditems",
+          "id": "locationsmonumentsanditems",
           "title": "Locations, Monuments, and Items",
           "content": [
             {
@@ -705,7 +705,7 @@
           "order": 3
         },
         {
-          "id": "condition,description,andorigin",
+          "id": "conditiondescriptionandorigin",
           "title": "Condition, Description, and Origin",
           "content": [
             {
@@ -7891,7 +7891,7 @@
           "order": 2
         },
         {
-          "id": "dungeons,caves,andcaverns",
+          "id": "dungeonscavesandcaverns",
           "title": "Dungeons, Caves, and Caverns",
           "content": [
             {
@@ -8326,7 +8326,7 @@
           "order": 1
         },
         {
-          "id": "movement,distance,andrange",
+          "id": "movementdistanceandrange",
           "title": "Movement, Distance, and Range",
           "content": [
             {
@@ -8338,7 +8338,7 @@
           "order": 2
         },
         {
-          "id": "positioning,opportunityattacks,andcover",
+          "id": "positioningopportunityattacksandcover",
           "title": "Positioning, Opportunity Attacks, and Cover",
           "content": [
             {
@@ -8386,7 +8386,7 @@
           "order": 4
         },
         {
-          "id": "locations,features,environment,andterrain",
+          "id": "locationsfeaturesenvironmentandterrain",
           "title": "Locations, Features, Environment, and Terrain",
           "content": [
             {

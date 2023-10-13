@@ -3,8 +3,13 @@ import fs from "fs/promises";
 import path from "path";
 
 import semver from "semver";
+import * as prettier from "prettier";
 
 import { DocType, OUTPUT_PATH } from "./constants.js";
+
+function formatJs(js: string): Promise<string> {
+  return prettier.format(js, { parser: "babel" });
+}
 
 export async function publishJsonPackage(docType: DocType): Promise<void> {
   const packageName =
@@ -32,21 +37,37 @@ export async function publishJsonPackage(docType: DocType): Promise<void> {
   await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
   await fs.writeFile(
     path.join(packagePath, "index.cjs"),
-    `module.exports.default = ${sourceJsonContents};`
+    await formatJs(`module.exports.default = ${sourceJsonContents};`)
   );
   await fs.writeFile(
     path.join(packagePath, "index.mjs"),
-    `export default ${sourceJsonContents};`
+    await formatJs(`export default ${sourceJsonContents};`)
   );
 
-  const npmPublish = exec("npm publish --access=public", { cwd: packagePath });
-  npmPublish.stdout?.pipe(process.stdout);
-  npmPublish.stderr?.pipe(process.stderr);
-  await new Promise((resolve) => npmPublish.on("exit", resolve));
+  // find all tables in sourceJson
 
-  if (npmPublish.exitCode !== 0) {
-    console.error(`npm publish failed for ${packageName}`);
-    packageJson.version = previousVersion;
-    await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
+  const tables: Record<string, any> = {};
+  const sections = sourceJson.sections;
+  for (const section of sections) {
+    for (const subsection of section.subsections) {
+      for (const content of subsection.content) {
+        if (content.type === "table") {
+          const tableId = `${section.id}/${subsection.id}/${content.order}`;
+          console.log(tableId);
+          tables[tableId] = content;
+        }
+      }
+    }
   }
+
+  // const npmPublish = exec("npm publish --access=public", { cwd: packagePath });
+  // npmPublish.stdout?.pipe(process.stdout);
+  // npmPublish.stderr?.pipe(process.stderr);
+  // await new Promise((resolve) => npmPublish.on("exit", resolve));
+
+  // if (npmPublish.exitCode !== 0) {
+  //   console.error(`npm publish failed for ${packageName}`);
+  //   packageJson.version = previousVersion;
+  //   await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
+  // }
 }

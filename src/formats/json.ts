@@ -154,11 +154,14 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
           children: heading.children,
         });
         newSubsection.id = slugify.default(
-          newSubsection.title.replace(/ \(.*?\)$/, ""),
+          newSubsection.title
+            .replace(/ \(.*?\)$/, "")
+            .replace(/\#/g, "number")
+            .replace(/\&/g, "and"),
           {
             lower: true,
             replacement: "",
-            remove: /[*+~.()'"!:@\\/]/g,
+            remove: /[*+~.,()'"!:@\\/]/g,
           }
         );
         tree.children.shift();
@@ -219,7 +222,6 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
               return obj;
             }),
           });
-          keys.add(id + "/" + newSubsection.id + "/table");
         } else if (node.type === "list") {
           const list = node as List;
           newSubsection.content.push({
@@ -235,7 +237,6 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
                 : ({ item: itemText } as TableRow);
             }),
           });
-          keys.add(id + "/" + newSubsection.id + "/table");
         } else {
           const paragraph = node as Paragraph;
           if (textSubsection.markdown === "") {
@@ -248,6 +249,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
             children: [paragraph],
           });
         }
+        keys.add(`${id}/${newSubsection.id}/${newSubsection.content.length}`);
         node = tree.children[0] as Node;
       }
     }
@@ -283,11 +285,9 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
       previousOutput.sections.flatMap((section) =>
         section.subsections.flatMap((subsection) =>
           [`${section.id}`, `${section.id}/${subsection.id}`].concat(
-            subsection.content.flatMap((content) =>
-              content.type === "table"
-                ? [`${section.id}/${subsection.id}/table`]
-                : []
-            )
+            subsection.content.flatMap((content) => [
+              `${section.id}/${subsection.id}/${content.order}`,
+            ])
           )
         )
       )
