@@ -38,10 +38,13 @@ interface SubSectionMarkdown extends SubSectionBase {
   markdown?: string;
 }
 
+type TableRow = Record<string, string | number>;
+
 interface SubSectionTable extends SubSectionBase {
   type: "table";
-  table: (string | number)[][];
-  data?: Record<string, string | number>[];
+  table?: (string | number)[][];
+  headers?: Record<string, string>;
+  data?: TableRow[];
 }
 
 interface SubSection {
@@ -177,17 +180,44 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
         tree.children.shift();
         if (node.type === "table") {
           const table = node as Table;
+          const rows = table.children.map((row) =>
+            row.children.map((cell) =>
+              convertTreeToString({
+                type: "root",
+                children: cell.children,
+              })
+            )
+          );
+
+          const headers: Record<string, string> | undefined = rows
+            .shift()
+            ?.reduce(
+              (a, currentValue) => {
+                const fieldName = slugify.default(
+                  currentValue.replace(/\#/g, "num"),
+                  {
+                    lower: true,
+                    replacement: "_",
+                  }
+                );
+                a[fieldName ? fieldName : "item"] = currentValue;
+                return a;
+              },
+              {} as Record<string, string>
+            );
+
           newSubsection.content.push({
             type: "table",
             order: newSubsection.content.length,
-            table: table.children.map((row) =>
-              row.children.map((cell) =>
-                convertTreeToString({
-                  type: "root",
-                  children: cell.children,
-                })
-              )
-            ),
+            headers,
+            data: rows.map((row) => {
+              const obj: TableRow = {};
+              row.forEach((cell, index) => {
+                const fieldName = Object.keys(headers ?? {})[index];
+                obj[fieldName ? fieldName : "item"] = cell;
+              });
+              return obj;
+            }),
           });
           keys.add(id + "/" + newSubsection.id + "/table");
         } else if (node.type === "list") {
@@ -195,12 +225,14 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
           newSubsection.content.push({
             type: "table",
             order: newSubsection.content.length,
-            table: list.children.map((item, index) => {
+            data: list.children.map((item, index) => {
               const itemText = convertTreeToString({
                 type: "root",
                 children: item.children,
               });
-              return list.ordered ? [index + 1, itemText] : [itemText];
+              return list.ordered
+                ? { item_num: index + 1, item: itemText }
+                : ({ item: itemText } as TableRow);
             }),
           });
           keys.add(id + "/" + newSubsection.id + "/table");
