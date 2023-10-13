@@ -22,12 +22,28 @@ import("@crit-tech/lgmmbrd").then((lgmmbrd) => {
 });
 ```
 
+Or, you can just import specific sections (see `package.json` for the full list of exported sections):
+
+```js
+import data from "@crit-tech/lgmmbrd/bossesandminions/default";
+
+console.log(data);
+```
+
 ### CommonJS
 
 ```js
 const lgmmbrd = require("@crit-tech/lgmmbrd");
 
 console.log(lgmmbrd);
+```
+
+Or, you can just import specific sections (see `package.json` for the full list of exported sections):
+
+```js
+const data = require("@crit-tech/lgmmbrd/bossesandminions/default");
+
+console.log(data);
 ```
 
 ## Attribution

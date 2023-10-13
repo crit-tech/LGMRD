@@ -7,6 +7,7 @@ import * as prettier from "prettier";
 import wrap from "word-wrap";
 
 import { DocType, OUTPUT_PATH } from "./constants.js";
+import { updateReadme } from "./packageReadme.js";
 
 function formatJs(js: string): Promise<string> {
   return prettier.format(js, { parser: "babel" });
@@ -122,14 +123,25 @@ export async function publishJsonPackage(docType: DocType): Promise<void> {
   } as Record<string, ModuleResolution>;
   await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
 
-  // const npmPublish = exec("npm publish --access=public", { cwd: packagePath });
-  // npmPublish.stdout?.pipe(process.stdout);
-  // npmPublish.stderr?.pipe(process.stderr);
-  // await new Promise((resolve) => npmPublish.on("exit", resolve));
+  // Update README.md
+  const readmePath = path.join(packagePath, "README.md");
+  const readmeContents = await fs.readFile(readmePath, "utf-8");
+  const newReadmeContents = updateReadme(
+    readmeContents,
+    packageName,
+    sourceJson.attribution,
+    sections[0].id + "/" + sections[0].subsections[0].id
+  );
+  await fs.writeFile(readmePath, newReadmeContents);
 
-  // if (npmPublish.exitCode !== 0) {
-  //   console.error(`npm publish failed for ${packageName}`);
-  //   packageJson.version = previousVersion;
-  //   await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
-  // }
+  const npmPublish = exec("npm publish --access=public", { cwd: packagePath });
+  npmPublish.stdout?.pipe(process.stdout);
+  npmPublish.stderr?.pipe(process.stderr);
+  await new Promise((resolve) => npmPublish.on("exit", resolve));
+
+  if (npmPublish.exitCode !== 0) {
+    console.error(`npm publish failed for ${packageName}`);
+    packageJson.version = previousVersion;
+    await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
+  }
 }
