@@ -15,6 +15,7 @@ import { toString as mdastToString } from "mdast-util-to-string";
 import { Node } from "unist";
 import slugify from "slugify";
 import semver from "semver";
+import * as prettier from "prettier";
 
 import {
   OUTPUT_PATH,
@@ -23,22 +24,34 @@ import {
 } from "../utils/constants.js";
 
 const NEW_MAJOR_VERSIONS: Record<DocType, string> = {
-  LGMRD: "1.0.0",
-  "5e_Monster_Builder": "0.0.0",
+  LGMRD: "2.0.0",
+  "5e_Monster_Builder": "2.0.0",
 };
 
-interface SubSectionContent {
+interface SubSectionBase {
   type: "paragraph" | "table";
   order: number;
-  content?: string;
+}
+
+interface SubSectionMarkdown extends SubSectionBase {
+  type: "paragraph";
+  markdown?: string;
+}
+
+type TableRow = Record<string, string | number>;
+
+interface SubSectionTable extends SubSectionBase {
+  type: "table";
   table?: (string | number)[][];
+  headers?: Record<string, string>;
+  data?: TableRow[];
 }
 
 interface SubSection {
   id: string;
   title: string;
   order: number;
-  content: SubSectionContent[];
+  content: (SubSectionMarkdown | SubSectionTable)[];
 }
 
 interface Section {
@@ -62,6 +75,12 @@ function convertTreeToMarkdown(tree: Root): string {
 function convertTreeToString(tree: Root): string {
   const markdown = mdastToString(tree);
   return markdown.trim().replace(/\\/g, "");
+}
+
+function serializeJson(output: Output): Promise<string> {
+  return prettier.format(JSON.stringify(output, null, 2), {
+    parser: "json",
+  });
 }
 
 export async function convertToJson(docType: DocType): Promise<boolean> {
@@ -135,11 +154,14 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
           children: heading.children,
         });
         newSubsection.id = slugify.default(
-          newSubsection.title.replace(/ \(.*?\)$/, ""),
+          newSubsection.title
+            .replace(/ \(.*?\)$/, "")
+            .replace(/\#/g, "number")
+            .replace(/\&/g, "and"),
           {
             lower: true,
             replacement: "",
-            remove: /[*+~.()'"!:@\\/]/g,
+            remove: /[*+~.,()'"!:@\\/]/g,
           }
         );
         tree.children.shift();
@@ -147,10 +169,10 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
 
       keys.add(id + "/" + newSubsection.id);
 
-      let textSubsection: SubSectionContent = {
+      let textSubsection: SubSectionMarkdown = {
         type: "paragraph",
         order: newSubsection.content.length,
-        content: "",
+        markdown: "",
       };
 
       node = tree.children[0] as Node;
@@ -161,45 +183,73 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
         tree.children.shift();
         if (node.type === "table") {
           const table = node as Table;
+          const rows = table.children.map((row) =>
+            row.children.map((cell) =>
+              convertTreeToString({
+                type: "root",
+                children: cell.children,
+              })
+            )
+          );
+
+          const headers: Record<string, string> | undefined = rows
+            .shift()
+            ?.reduce(
+              (a, currentValue) => {
+                const fieldName = slugify.default(
+                  currentValue.replace(/\#/g, "num"),
+                  {
+                    lower: true,
+                    replacement: "_",
+                  }
+                );
+                a[fieldName ? fieldName : "item"] = currentValue;
+                return a;
+              },
+              {} as Record<string, string>
+            );
+
           newSubsection.content.push({
             type: "table",
             order: newSubsection.content.length,
-            table: table.children.map((row) =>
-              row.children.map((cell) =>
-                convertTreeToString({
-                  type: "root",
-                  children: cell.children,
-                })
-              )
-            ),
+            headers,
+            data: rows.map((row) => {
+              const obj: TableRow = {};
+              row.forEach((cell, index) => {
+                const fieldName = Object.keys(headers ?? {})[index];
+                obj[fieldName ? fieldName : "item"] = cell;
+              });
+              return obj;
+            }),
           });
-          keys.add(id + "/" + newSubsection.id + "/table");
         } else if (node.type === "list") {
           const list = node as List;
           newSubsection.content.push({
             type: "table",
             order: newSubsection.content.length,
-            table: list.children.map((item, index) => {
+            data: list.children.map((item, index) => {
               const itemText = convertTreeToString({
                 type: "root",
                 children: item.children,
               });
-              return list.ordered ? [index + 1, itemText] : [itemText];
+              return list.ordered
+                ? { item_num: index + 1, item: itemText }
+                : ({ item: itemText } as TableRow);
             }),
           });
-          keys.add(id + "/" + newSubsection.id + "/table");
         } else {
           const paragraph = node as Paragraph;
-          if (textSubsection.content === "") {
+          if (textSubsection.markdown === "") {
             newSubsection.content.push(textSubsection);
           } else {
-            textSubsection.content += "\n\n";
+            textSubsection.markdown += "\n\n";
           }
-          textSubsection.content += convertTreeToMarkdown({
+          textSubsection.markdown += convertTreeToMarkdown({
             type: "root",
             children: [paragraph],
           });
         }
+        keys.add(`${id}/${newSubsection.id}/${newSubsection.content.length}`);
         node = tree.children[0] as Node;
       }
     }
@@ -222,7 +272,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
     : "0.0.1";
 
   output.version = previousVersion;
-  const newJson = JSON.stringify(output, null, 2);
+  const newJson = await serializeJson(output);
   if (previousJson === newJson) {
     process.stdout.write("Done\n");
     return false;
@@ -235,11 +285,9 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
       previousOutput.sections.flatMap((section) =>
         section.subsections.flatMap((subsection) =>
           [`${section.id}`, `${section.id}/${subsection.id}`].concat(
-            subsection.content.flatMap((content) =>
-              content.type === "table"
-                ? [`${section.id}/${subsection.id}/table`]
-                : []
-            )
+            subsection.content.flatMap((content) => [
+              `${section.id}/${subsection.id}/${content.order}`,
+            ])
           )
         )
       )
@@ -266,7 +314,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
     output.version = semver.inc(previousVersion, "patch") as string;
   }
 
-  fs.writeFileSync(jsonFilePath, JSON.stringify(output, null, 2));
+  fs.writeFileSync(jsonFilePath, await serializeJson(output));
 
   process.stdout.write("Done\n");
 

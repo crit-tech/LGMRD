@@ -22,12 +22,28 @@ import("@crit-tech/lgmrd").then((lgmrd) => {
 });
 ```
 
+Or, you can just import specific sections (see `package.json` for the full list of exported sections):
+
+```js
+import data from "@crit-tech/lgmrd/buildingagroup/findingandmaintainingasolidgroup";
+
+console.log(data);
+```
+
 ### CommonJS
 
 ```js
 const lgmrd = require("@crit-tech/lgmrd");
 
 console.log(lgmrd);
+```
+
+Or, you can just import specific sections (see `package.json` for the full list of exported sections):
+
+```js
+const data = require("@crit-tech/lgmrd/buildingagroup/findingandmaintainingasolidgroup");
+
+console.log(data);
 ```
 
 ## Attribution
