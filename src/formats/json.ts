@@ -23,22 +23,31 @@ import {
 } from "../utils/constants.js";
 
 const NEW_MAJOR_VERSIONS: Record<DocType, string> = {
-  LGMRD: "1.0.0",
-  "5e_Monster_Builder": "0.0.0",
+  LGMRD: "2.0.0",
+  "5e_Monster_Builder": "2.0.0",
 };
 
-interface SubSectionContent {
+interface SubSectionBase {
   type: "paragraph" | "table";
   order: number;
-  content?: string;
-  table?: (string | number)[][];
+}
+
+interface SubSectionMarkdown extends SubSectionBase {
+  type: "paragraph";
+  markdown?: string;
+}
+
+interface SubSectionTable extends SubSectionBase {
+  type: "table";
+  table: (string | number)[][];
+  data?: Record<string, string | number>[];
 }
 
 interface SubSection {
   id: string;
   title: string;
   order: number;
-  content: SubSectionContent[];
+  content: (SubSectionMarkdown | SubSectionTable)[];
 }
 
 interface Section {
@@ -147,10 +156,10 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
 
       keys.add(id + "/" + newSubsection.id);
 
-      let textSubsection: SubSectionContent = {
+      let textSubsection: SubSectionMarkdown = {
         type: "paragraph",
         order: newSubsection.content.length,
-        content: "",
+        markdown: "",
       };
 
       node = tree.children[0] as Node;
@@ -190,12 +199,12 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
           keys.add(id + "/" + newSubsection.id + "/table");
         } else {
           const paragraph = node as Paragraph;
-          if (textSubsection.content === "") {
+          if (textSubsection.markdown === "") {
             newSubsection.content.push(textSubsection);
           } else {
-            textSubsection.content += "\n\n";
+            textSubsection.markdown += "\n\n";
           }
-          textSubsection.content += convertTreeToMarkdown({
+          textSubsection.markdown += convertTreeToMarkdown({
             type: "root",
             children: [paragraph],
           });
