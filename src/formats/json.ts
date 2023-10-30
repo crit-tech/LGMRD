@@ -167,7 +167,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
         tree.children.shift();
       }
 
-      keys.add(id + "/" + newSubsection.id);
+      keys.add(id + "/" + newSubsection.id + "/0");
 
       let textSubsection: SubSectionMarkdown = {
         type: "paragraph",
@@ -284,7 +284,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
     previousKeys = new Set(
       previousOutput.sections.flatMap((section) =>
         section.subsections.flatMap((subsection) =>
-          [`${section.id}`, `${section.id}/${subsection.id}`].concat(
+          [`${section.id}`, `${section.id}/${subsection.id}/0`].concat(
             subsection.content.flatMap((content) => [
               `${section.id}/${subsection.id}/${content.order}`,
             ])
