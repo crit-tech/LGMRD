@@ -1,6 +1,6 @@
 {
   "name": "@crit-tech/lgmrd",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "The Lazy GM's Resource Document as JSON",
   "private": false,
   "exports": {
@@ -171,6 +171,10 @@
     "./eightsteps/the5-minutereducedchecklist": {
       "import": "./sections/eightsteps/the5-minutereducedchecklist.mjs",
       "require": "./sections/eightsteps/the5-minutereducedchecklist.cjs"
+    },
+    "./index/default": {
+      "import": "./sections/index/default.mjs",
+      "require": "./sections/index/default.cjs"
     },
     "./index/tableofcontents": {
       "import": "./sections/index/tableofcontents.mjs",

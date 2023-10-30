@@ -88,22 +88,66 @@
         },
         {
           "type": "text",
-          "value": ". Please attribute Michael E. Shea of "
-        },
+          "value": ". You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:"
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "children": [
         {
-          "type": "link",
-          "title": null,
-          "url": "https://slyflourish.com",
+          "type": "paragraph",
           "children": [
             {
               "type": "text",
-              "value": "SlyFlourish.com"
+              "value": "This work includes material taken from the "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://slyflourish.com/lazy_gm_resource_document.html",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Lazy GM's Resource Document"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": " by Michael E. Shea of "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "https://slyflourish.com",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "SlyFlourish.com"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": ", available under a "
+            },
+            {
+              "type": "link",
+              "title": null,
+              "url": "http://creativecommons.org/licenses/by/4.0/",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Creative Commons Attribution 4.0 International License"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "."
             }
           ]
-        },
-        {
-          "type": "text",
-          "value": " in any works derived from this document."
         }
       ]
     },

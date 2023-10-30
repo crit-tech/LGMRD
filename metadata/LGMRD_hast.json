@@ -251,7 +251,45 @@
                 },
                 {
                   "type": "text",
-                  "value": ". Please attribute Michael E. Shea of "
+                  "value": ". You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  \n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": []
+            },
+            {
+              "type": "element",
+              "tagName": "blockquote",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "This work includes material taken from the "
+                },
+                {
+                  "type": "element",
+                  "tagName": "a",
+                  "properties": {
+                    "href": "https://slyflourish.com/lazy_gm_resource_document.html"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lazy GM's Resource Document"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " by Michael E. Shea of "
                 },
                 {
                   "type": "element",
@@ -268,13 +306,39 @@
                 },
                 {
                   "type": "text",
-                  "value": " in any works derived from this document."
+                  "value": ", available under a "
+                },
+                {
+                  "type": "element",
+                  "tagName": "a",
+                  "properties": {
+                    "rel": [
+                      "license"
+                    ],
+                    "href": "http://creativecommons.org/licenses/by/4.0/"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Creative Commons Attribution 4.0 International License"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "."
                 }
               ]
             },
             {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": []
+            },
+            {
               "type": "text",
-              "value": "\n  "
+              "value": "\n  \n  "
             },
             {
               "type": "element",

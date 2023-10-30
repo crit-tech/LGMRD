@@ -55,5 +55,5 @@ export default {
       ],
     },
   ],
-  order: 0,
+  order: 1,
 };
