@@ -37,6 +37,7 @@ export default {
         { item: "Bosses and Minions" },
         { item: "The Combat Encounter Checklist" },
         { item: "Monster Combinations for a Hard Challenge" },
+        { item: "The Lazy Encounter Benchmark" },
         { item: "Monsters by Adventure Location" },
         { item: "Monsters and the Tiers of Play" },
       ],

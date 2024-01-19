@@ -26,5 +26,6 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 *   [Bosses and Minions](bossesandminions.md)
 *   [The Combat Encounter Checklist](combatencounterchecklist.md)
 *   [Monster Combinations for a Hard Challenge](monstercombinationsforahardchallenge.md)
+*   [The Lazy Encounter Benchmark](lazyencounterbenchmark.md)
 *   [Monsters by Adventure Location](monstersbyadventurelocation.md)
 *   [Monsters and the Tiers of Play](monstersandthetiersofplay.md)

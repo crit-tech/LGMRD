@@ -1,6 +1,6 @@
 {
   "name": "@crit-tech/lgmmbrd",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "The Lazy GM's Resource 5e Monster Builder Resource Document as JSON",
   "private": false,
   "exports": {
@@ -99,6 +99,26 @@
     "./index/default": {
       "import": "./sections/index/default.mjs",
       "require": "./sections/index/default.cjs"
+    },
+    "./lazyencounterbenchmark/usingthebenchmark": {
+      "import": "./sections/lazyencounterbenchmark/usingthebenchmark.mjs",
+      "require": "./sections/lazyencounterbenchmark/usingthebenchmark.cjs"
+    },
+    "./lazyencounterbenchmark/optionalscalingforhigherlevels": {
+      "import": "./sections/lazyencounterbenchmark/optionalscalingforhigherlevels.mjs",
+      "require": "./sections/lazyencounterbenchmark/optionalscalingforhigherlevels.cjs"
+    },
+    "./lazyencounterbenchmark/thecrcapforasinglemonster": {
+      "import": "./sections/lazyencounterbenchmark/thecrcapforasinglemonster.mjs",
+      "require": "./sections/lazyencounterbenchmark/thecrcapforasinglemonster.cjs"
+    },
+    "./lazyencounterbenchmark/tuningthebenchmark": {
+      "import": "./sections/lazyencounterbenchmark/tuningthebenchmark.mjs",
+      "require": "./sections/lazyencounterbenchmark/tuningthebenchmark.cjs"
+    },
+    "./lazyencounterbenchmark/otherconsiderations": {
+      "import": "./sections/lazyencounterbenchmark/otherconsiderations.mjs",
+      "require": "./sections/lazyencounterbenchmark/otherconsiderations.cjs"
     },
     "./lazytricksforrunningmonsters/quickmonsterstatistics": {
       "import": "./sections/lazytricksforrunningmonsters/quickmonsterstatistics.mjs",
