@@ -16,7 +16,7 @@
  */
 
 module.exports = {
-  version: "2.1.0",
+  version: "2.2.0",
   sections: [
     {
       id: "bossesandminions",
@@ -1321,7 +1321,7 @@ module.exports = {
       id: "index",
       title: "The Lazy GM's 5e Monster Builder Resource Document",
       intro:
-        "Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.\n\nUpdated 9 October 2023\n\nThis document includes tools and material for building, modifying, and running monsters for your 5th edition fantasy roleplaying games.\n\nThe material in this document is copyright 2023 Scott Fitzgerald Gray, Teos Abadía, and Michael E. Shea and is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:",
+        "Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.\n\nUpdated 18 January 2024\n\nThis document includes tools and material for building, modifying, and running monsters for your 5th edition fantasy roleplaying games.\n\nThe material in this document is copyright 2023 Scott Fitzgerald Gray, Teos Abadía, and Michael E. Shea and is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:",
       subsections: [
         {
           id: "default",

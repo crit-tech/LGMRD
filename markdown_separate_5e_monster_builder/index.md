@@ -2,7 +2,7 @@
 
 Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.
 
-Updated 9 October 2023
+Updated 18 January 2024
 
 This document includes tools and material for building, modifying, and running monsters for your 5th edition fantasy roleplaying games.
 
