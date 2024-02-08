@@ -1,6 +1,6 @@
 {
   "name": "@crit-tech/lgmrd",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "The Lazy GM's Resource Document as JSON",
   "private": false,
   "exports": {
@@ -500,9 +500,9 @@
       "import": "./sections/randommonuments/1d20unusualeffects.mjs",
       "require": "./sections/randommonuments/1d20unusualeffects.cjs"
     },
-    "./randommonuments/50monumentstructures": {
-      "import": "./sections/randommonuments/50monumentstructures.mjs",
-      "require": "./sections/randommonuments/50monumentstructures.cjs"
+    "./randommonuments/100monumentstructures": {
+      "import": "./sections/randommonuments/100monumentstructures.mjs",
+      "require": "./sections/randommonuments/100monumentstructures.cjs"
     },
     "./randomtownevents/1d20townsentiments": {
       "import": "./sections/randomtownevents/1d20townsentiments.mjs",

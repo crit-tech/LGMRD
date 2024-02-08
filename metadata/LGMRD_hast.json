@@ -31375,7 +31375,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "50 Monument Structures"
+                  "value": "100 Monument Structures"
                 }
               ]
             },
@@ -31390,7 +31390,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -31399,343 +31399,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Sarcophagus"
+                      "value": "Aerie"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Banner"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Standing stone"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Machine"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Construct"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Keep"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Sundial"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Mirror"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Spire"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Bridge"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Sinkhole"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Effigy"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Gallows"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Ziggurat"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Crystal"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Idol"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Obelisk"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Pillar"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Tomb"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Monolith"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Ruin"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Mosaic"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Ship"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -31750,7 +31420,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -31759,13 +31429,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Shrine"
+                      "value": "Aqueduct"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -31774,238 +31444,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Tree"
+                      "value": "Arcane circle"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Statue"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Stone circle"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Throne"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Podium"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Rock"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Fossil"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Fountain"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Mausoleum"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Gravestone"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Cairn"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Geode"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Skull"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Barrow"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Well"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
-                },
-                {
-                  "type": "element",
-                  "tagName": "li",
-                  "properties": {},
-                  "children": [
-                    {
-                      "type": "text",
-                      "value": "Meteorite"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32020,7 +31465,37 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Aviary"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Barrow"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32035,7 +31510,247 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bell"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bone pile"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Boneyard"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bonfire"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Brazier"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bridge"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cage"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cairn"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Campsite"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Canal"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Carcass"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Carriage "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cauldron"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cave"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cenotaph "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cesspit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32050,7 +31765,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32059,13 +31774,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Slaughter field"
+                      "value": "Columns"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32074,13 +31789,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Siege engine"
+                      "value": "Crater"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32089,13 +31804,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Tower"
+                      "value": "Crossroads"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32104,13 +31819,673 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Lectern"
+                      "value": "Crystal"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dome"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Doorway"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Earthmote"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Effigy"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fighting pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Firepit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fossil"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fountain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gallows"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gateway"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Geode"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Geyser"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Graveyard"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gravestone"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Grotto"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Grove"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hollow"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Huge skull"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Idol"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Illusion"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Keep"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lantern"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Machine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mausoleum"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Megalith"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Meteorite"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Midden"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mill"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mirror"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Monolith"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Monument"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mosaic"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Nest"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Obelisk "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Orb"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Orrery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Oubliette "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Petrified creature"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Pillar"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Planar rift"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Platform"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Podium"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32125,7 +32500,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n    "
+                  "value": "\n\t"
                 },
                 {
                   "type": "element",
@@ -32134,7 +32509,382 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Orb"
+                      "value": "Rock"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ruin"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sacred circle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sarcophagus"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shipwreck "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sigil"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sinkhole"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Slab"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Spell effect"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sphere"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Spire"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Statue"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stone circle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stone tablets"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sundial"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Throne"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Tomb"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Totem"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Tower"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Trash heap"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Tree"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Wall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Waymarker"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Well"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n\t"
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Windmill"
                     }
                   ]
                 },

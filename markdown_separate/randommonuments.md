@@ -71,55 +71,105 @@ Filling the various chambers and locations in your game with interesting feature
 19. Thunder
 20. Tentacles
 
-## 50 Monument Structures
+## 100 Monument Structures
 
-1.  Sarcophagus
-2.  Banner
-3.  Standing stone
-4.  Machine
-5.  Construct
-6.  Keep
-7.  Sundial
-8.  Mirror
-9.  Spire
-10. Bridge
-11. Sinkhole
-12. Effigy
-13. Gallows
-14. Ziggurat
-15. Crystal
-16. Idol
-17. Obelisk
-18. Pillar
-19. Tomb
-20. Monolith
-21. Ruin
-22. Mosaic
-23. Ship
-24. Altar
-25. Shrine
-26. Tree
-27. Statue
-28. Stone circle
-29. Throne
-30. Podium
-31. Rock
-32. Fossil
-33. Fountain
-34. Mausoleum
-35. Gravestone
-36. Cairn
-37. Geode
-38. Skull
-39. Barrow
-40. Well
-41. Meteorite
-42. Archway
-43. Battlefield
-44. Charnel pit
-45. Slaughter field
-46. Siege engine
-47. Tower
-48. Lectern
-49. Pool
-50. Orb
+1.  Aerie
+2.  Altar
+3.  Aqueduct
+4.  Arcane circle
+5.  Archway
+6.  Aviary
+7.  Barrow
+8.  Battlefield
+9.  Bell
+10. Bone pile
+11. Boneyard
+12. Bonfire
+13. Brazier
+14. Bridge
+15. Cage
+16. Cairn
+17. Campsite
+18. Canal
+19. Carcass
+20. Carriage
+21. Cauldron
+22. Cave
+23. Cenotaph
+24. Cesspit
+25. Charnel pit
+26. Columns
+27. Crater
+28. Crossroads
+29. Crystal
+30. Dome
+31. Doorway
+32. Earthmote
+33. Effigy
+34. Fighting pit
+35. Firepit
+36. Fossil
+37. Fountain
+38. Gallows
+39. Gateway
+40. Geode
+41. Geyser
+42. Graveyard
+43. Gravestone
+44. Grotto
+45. Grove
+46. Hollow
+47. Huge skull
+48. Idol
+49. Illusion
+50. Keep
+51. Lantern
+52. Machine
+53. Mausoleum
+54. Megalith
+55. Meteorite
+56. Midden
+57. Mill
+58. Mine
+59. Mirror
+60. Monolith
+61. Monument
+62. Mosaic
+63. Nest
+64. Obelisk
+65. Orb
+66. Orrery
+67. Oubliette
+68. Petrified creature
+69. Pillar
+70. Pit
+71. Planar rift
+72. Platform
+73. Podium
+74. Pool
+75. Rock
+76. Ruin
+77. Sacred circle
+78. Sarcophagus
+79. Shipwreck
+80. Shrine
+81. Sigil
+82. Sinkhole
+83. Slab
+84. Spell effect
+85. Sphere
+86. Spire
+87. Statue
+88. Stone circle
+89. Stone tablets
+90. Sundial
+91. Throne
+92. Tomb
+93. Totem
+94. Tower
+95. Trash heap
+96. Tree
+97. Wall
+98. Waymarker
+99. Well
+100.    Windmill
