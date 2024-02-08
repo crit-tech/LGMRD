@@ -24,7 +24,7 @@ import {
 } from "../utils/constants.js";
 
 const NEW_MAJOR_VERSIONS: Record<DocType, string> = {
-  LGMRD: "2.0.0",
+  LGMRD: "3.0.0",
   "5e_Monster_Builder": "2.0.0",
 };
 
