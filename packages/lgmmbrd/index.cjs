@@ -16,7 +16,7 @@
  */
 
 module.exports = {
-  version: "2.2.0",
+  version: "2.3.0",
   sections: [
     {
       id: "bossesandminions",
@@ -536,7 +536,7 @@ module.exports = {
                   prof_bonus: "+8",
                   damage_per_round: "59",
                   num_attacks: "3",
-                  damage: "22 (3d12 + 3)",
+                  damage: "19 (3d10 + 3)",
                   example_monster: "Bone devil, fire giant, young blue dragon",
                 },
                 {

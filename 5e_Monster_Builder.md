@@ -110,7 +110,7 @@ At this point, you have enough information on hand to run your monster in a game
 | 6   | 11           | 15    | 112 (84-140)  | +7         | 41               | 3         | 14 (3d6 + 4)   | Mage, medusa, wyvern                        |
 | 7   | 12           | 15    | 130 (98-162)  | +7         | 47               | 3         | 16 (3d8 + 3)   | Stone giant, young black dragon             |
 | 8   | 13           | 15    | 136 (102-170) | +7         | 53               | 3         | 18 (3d10 + 2)  | Assassin, frost giant                       |
-| 9   | 15           | 16    | 145 (109-181) | +8         | 59               | 3         | 22 (3d12 + 3)  | Bone devil, fire giant, young blue dragon   |
+| 9   | 15           | 16    | 145 (109-181) | +8         | 59               | 3         | 19 (3d10 + 3)  | Bone devil, fire giant, young blue dragon   |
 | 10  | 16           | 17    | 155 (116-194) | +9         | 65               | 4         | 16 (3d8 + 3)   | Stone golem, young red dragon               |
 | 11  | 17           | 17    | 165 (124-206) | +9         | 71               | 4         | 18 (3d10 + 2)  | Djinni, efreeti, horned devil               |
 | 12  | 18           | 17    | 175 (131-219) | +9         | 77               | 4         | 19 (3d10 + 3)  | Archmage, erinyes                           |

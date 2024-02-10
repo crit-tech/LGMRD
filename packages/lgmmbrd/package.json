@@ -1,6 +1,6 @@
 {
   "name": "@crit-tech/lgmmbrd",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "The Lazy GM's Resource 5e Monster Builder Resource Document as JSON",
   "private": false,
   "exports": {
