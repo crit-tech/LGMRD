@@ -20,8 +20,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://slyflourish.com",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -53,8 +53,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://slyflourish.com",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -77,8 +77,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "http://creativecommons.org/licenses/by/4.0/",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -104,8 +104,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://slyflourish.com/lazy_gm_resource_document.html",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -119,8 +119,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://slyflourish.com",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -134,8 +134,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "http://creativecommons.org/licenses/by/4.0/",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -160,8 +160,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://dnd.wizards.com/resources/systems-reference-document",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -175,8 +175,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -199,8 +199,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://www.patreon.com/slyflourish",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -223,8 +223,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://calibre-ebook.com",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -238,8 +238,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://pandoc.org",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -253,8 +253,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://www.amazon.com/sendtokindle",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -277,8 +277,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://github.com/crit-tech/LGMRD",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -318,8 +318,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#eightsteps",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -341,8 +341,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#prepprocess",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -364,8 +364,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#strongstarts",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -387,8 +387,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#creatingsecrets",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -410,8 +410,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#buildingagroup",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -433,8 +433,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#sessionzerochecklist",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -456,8 +456,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#safetytools",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -479,8 +479,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#connectingcharacters",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -502,8 +502,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#spiralcampaigns",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -525,8 +525,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#questtemplates",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -548,8 +548,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#toolsforimprov",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -571,8 +571,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#quicktricks",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -594,8 +594,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#quickencounterbuilding",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -617,8 +617,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#wildernesstravel",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -640,8 +640,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#lazycombatencounterbuilding",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -663,8 +663,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#totmguidelines1",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -686,8 +686,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#totm2",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -709,8 +709,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#zonebasedcombat",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -732,8 +732,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monsterdifficultydials",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -755,8 +755,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monstertemplates",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -778,8 +778,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#undeadtemplates",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -801,8 +801,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#runninghordes",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -824,8 +824,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#stresseffects",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -847,8 +847,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#coreadventuregenerators",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -870,8 +870,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#npcgenerator",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -893,8 +893,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#treasuregenerator",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -916,8 +916,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#randomtraps",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -939,8 +939,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#randommonuments",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -962,8 +962,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#randomitems",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -985,8 +985,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#randomtownevents",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -1008,8 +1008,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#randomdungeonmonsters",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -1031,8 +1031,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#lazysolo5e",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -1400,8 +1400,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#lazycombatencounterbuilding",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -5574,8 +5574,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "http://tinyurl.com/x-card-rpg",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -5601,8 +5601,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "https://briebeau.com/scriptchange",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -5628,8 +5628,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -8374,8 +8374,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#lazycombatencounterbuilding",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -8408,8 +8408,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#runninghordes",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -8460,8 +8460,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#npcgenerator",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -31609,8 +31609,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#quickencounterbuilding",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36265,8 +36265,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#coreadventuregenerators",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36280,8 +36280,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#npcgenerator",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36304,8 +36304,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#coreadventuregenerators",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36337,8 +36337,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#coreadventuregenerators",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36585,8 +36585,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#coreadventuregenerators",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36619,8 +36619,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#randomdungeonmonsters",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36662,8 +36662,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#coreadventuregenerators",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -36983,8 +36983,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "#treasuregenerator",
+          "title": null,
           "children": [
             {
               "type": "text",

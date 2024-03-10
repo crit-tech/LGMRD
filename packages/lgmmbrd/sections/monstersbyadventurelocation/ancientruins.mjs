@@ -27,7 +27,7 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "*   A thug leads bandits intending to rob a caravan.",
+            "* A thug leads bandits intending to rob a caravan.",
         },
       ],
     },
@@ -36,8 +36,14 @@ export default {
       order: 1,
       data: [
         {
-          item: "A vengeful shadow shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                       |\n| 2nd to 4th   | *   A pair of bugbear entrepreneurs use goblin actors as bait to seek adventurers as prey.",
+          item: "A vengeful shadow shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                 |\n| 2nd to 4th   | - A pair of bugbear entrepreneurs use goblin actors as bait to seek adventurers as prey.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
           item: "A sorrowful banshee orders specters to recreate their former beautiful life.",
         },
@@ -46,14 +52,20 @@ export default {
         },
         { item: "A death dog protected by wolves lairs in a ruined cave." },
         {
-          item: "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | *   A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne.",
+          item: "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | * A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 3,
+      data: [
         { item: "A cyclops matriarch leads fanatically loyal ogres." },
         {
           item: "A solitary medusa dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.",
         },
         {
-          item: "A noble oni in a posh den is guarded by loyal spirit naga storytellers.                                                                      |\n| 11th to 16th | *   An adult blue dragon is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                            |\n| 17th to 20th | *   An ancient blue dragon protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                              |",
+          item: "A noble oni in a posh den is guarded by loyal spirit naga storytellers.                                                                    |\n| 11th to 16th | - An adult blue dragon is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                    |\n| 17th to 20th | * An ancient blue dragon protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                      |",
         },
       ],
     },

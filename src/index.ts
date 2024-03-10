@@ -7,6 +7,7 @@ import { fetchDocument } from "./utils/fetch.js";
 import { publishJsonPackage } from "./utils/publishJsonPackages.js";
 import { convertToMarkdown } from "./formats/markdown.js";
 import { convertToMarkdownSeparate } from "./formats/markdownSeparate.js";
+import { convertToMarkdownObsidian } from "./formats/markdownObsidian.js";
 import { convertToJson } from "./formats/json.js";
 import { logUpdate } from "./utils/logUpdate.js";
 import { convertToPdf } from "./formats/pdf.js";
@@ -49,6 +50,14 @@ async function createOutput(docType: DocType) {
   );
   if (markdownSeparateUpdated) {
     logUpdate(docType, "markdown_separate");
+  }
+
+  const markdownObsidianUpdated = await convertToMarkdownObsidian(
+    docType,
+    html
+  );
+  if (markdownObsidianUpdated) {
+    logUpdate(docType, "markdown_obsidian");
   }
 
   const jsonUpdated = await convertToJson(docType);

@@ -27,17 +27,17 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "*   A loyal imp commands a squad of guardian flying swords.",
+            "* A loyal imp commands a squad of guardian flying swords.",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   A summoned succubus or incubus directs animated armor serving as guards.",
+            "- A summoned succubus or incubus directs animated armor serving as guards.",
         },
         {
           level: "5th to 10th",
           example_encounters:
-            "*   Apprentice mages command elementals and flesh golems.",
+            "* Apprentice mages command elementals and flesh golems.",
         },
       ],
     },
@@ -46,7 +46,7 @@ export default {
       order: 1,
       data: [
         {
-          item: "An important chamber is guarded by two flameskulls and a number of helmed horrors. |\n| 11th to 16th | *   An impatient archmage is protected by two stone golems in an arcane laboratory.                                                                  |\n| 17th to 20th | *   A lich studies the multiverse while protected by bound balors and iron golems.                                                                   |",
+          item: "An important chamber is guarded by two flameskulls and a number of helmed horrors. |\n| 11th to 16th | - An impatient archmage is protected by two stone golems in an arcane laboratory.                                                                |\n| 17th to 20th | * A lich studies the multiverse while protected by bound balors and iron golems.                                                                 |",
         },
       ],
     },

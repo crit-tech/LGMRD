@@ -16,7 +16,7 @@
  */
 
 export default {
-  version: "2.3.0",
+  version: "2.4.0",
   sections: [
     {
       id: "bossesandminions",
@@ -2290,7 +2290,7 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A thug leads bandits intending to rob a caravan.",
+                    "* A thug leads bandits intending to rob a caravan.",
                 },
               ],
             },
@@ -2299,8 +2299,14 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A vengeful shadow shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                       |\n| 2nd to 4th   | *   A pair of bugbear entrepreneurs use goblin actors as bait to seek adventurers as prey.",
+                  item: "A vengeful shadow shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                 |\n| 2nd to 4th   | - A pair of bugbear entrepreneurs use goblin actors as bait to seek adventurers as prey.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
                   item: "A sorrowful banshee orders specters to recreate their former beautiful life.",
                 },
@@ -2311,14 +2317,20 @@ export default {
                   item: "A death dog protected by wolves lairs in a ruined cave.",
                 },
                 {
-                  item: "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | *   A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne.",
+                  item: "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | * A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 3,
+              data: [
                 { item: "A cyclops matriarch leads fanatically loyal ogres." },
                 {
                   item: "A solitary medusa dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.",
                 },
                 {
-                  item: "A noble oni in a posh den is guarded by loyal spirit naga storytellers.                                                                      |\n| 11th to 16th | *   An adult blue dragon is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                            |\n| 17th to 20th | *   An ancient blue dragon protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                              |",
+                  item: "A noble oni in a posh den is guarded by loyal spirit naga storytellers.                                                                    |\n| 11th to 16th | - An adult blue dragon is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                    |\n| 17th to 20th | * An ancient blue dragon protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                      |",
                 },
               ],
             },
@@ -2340,12 +2352,12 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A pair of skeletons rises from a pile of crawling claws.",
+                    "* A pair of skeletons rises from a pile of crawling claws.",
                 },
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   A lost ghost wanders, surrounded by specters.",
+                    "- A lost ghost wanders, surrounded by specters.",
                 },
               ],
             },
@@ -2354,10 +2366,16 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A bone naga rises from an obsidian sarcophagus to command a host of skeletons.                                  |\n| 5th to 10th  | *   A mummy lord entombed in a cold-iron sarcophagus is guarded by mummies and wights.",
+                  item: "A bone naga rises from an obsidian sarcophagus to command a host of skeletons.                                  |\n| 5th to 10th  | * A mummy lord entombed in a cold-iron sarcophagus is guarded by mummies and wights.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
-                  item: "A pair of wraiths float above unholy urns surrounded by vengeful specters. |\n| 11th to 16th | *   A vampire in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                             |\n| 17th to 20th | *   A lich in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                               |",
+                  item: "A pair of wraiths float above unholy urns surrounded by vengeful specters. |\n| 11th to 16th | - A vampire in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                           |\n| 17th to 20th | * A lich in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                             |",
                 },
               ],
             },
@@ -2379,12 +2397,12 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A wandering zombie is covered by a swarm of rats.",
+                    "* A wandering zombie is covered by a swarm of rats.",
                 },
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   An erudite ghast weaves fantastic tales to their ravenous ghoul followers.",
+                    "- An erudite ghast weaves fantastic tales to their ravenous ghoul followers.",
                 },
               ],
             },
@@ -2421,7 +2439,7 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A giant rat and the swarm of rats that travels with them are feeding on a dead body.",
+                    "* A giant rat and the swarm of rats that travels with them are feeding on a dead body.",
                 },
               ],
             },
@@ -2430,14 +2448,26 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A thug and a pack of bandit toadies are waiting for someone to rob.                                                                                                                     |\n| 2nd to 4th  | *   A spy assisted by thugs has been hired to steal something from the characters.",
+                  item: "A thug and a pack of bandit toadies are waiting for someone to rob.                                                                                                                   |\n| 2nd to 4th  | - A spy assisted by thugs has been hired to steal something from the characters.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
                   item: "A bandit captain with berserker bodyguards and bandit followers is easily insulted.",
                 },
                 {
-                  item: "A cult fanatic leads cultists who have summoned ravenous dretches into the world.                 |\n| 5th to 10th | *   A mage commanding veterans is seeking something the characters seek as well.",
+                  item: "A cult fanatic leads cultists who have summoned ravenous dretches into the world.                 |\n| 5th to 10th | * A mage commanding veterans is seeking something the characters seek as well.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 3,
+              data: [
                 {
                   item: "A bandit captain protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.",
                 },
@@ -2464,17 +2494,17 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A loyal imp commands a squad of guardian flying swords.",
+                    "* A loyal imp commands a squad of guardian flying swords.",
                 },
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   A summoned succubus or incubus directs animated armor serving as guards.",
+                    "- A summoned succubus or incubus directs animated armor serving as guards.",
                 },
                 {
                   level: "5th to 10th",
                   example_encounters:
-                    "*   Apprentice mages command elementals and flesh golems.",
+                    "* Apprentice mages command elementals and flesh golems.",
                 },
               ],
             },
@@ -2483,7 +2513,7 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "An important chamber is guarded by two flameskulls and a number of helmed horrors. |\n| 11th to 16th | *   An impatient archmage is protected by two stone golems in an arcane laboratory.                                                                  |\n| 17th to 20th | *   A lich studies the multiverse while protected by bound balors and iron golems.                                                                   |",
+                  item: "An important chamber is guarded by two flameskulls and a number of helmed horrors. |\n| 11th to 16th | - An impatient archmage is protected by two stone golems in an arcane laboratory.                                                                |\n| 17th to 20th | * A lich studies the multiverse while protected by bound balors and iron golems.                                                                 |",
                 },
               ],
             },
@@ -2505,7 +2535,7 @@ export default {
                 {
                   level: "5th to 10th",
                   example_encounters:
-                    "*   A fire giant with pet hell hounds commands an azer to dig for them.",
+                    "* A fire giant with pet hell hounds commands an azer to dig for them.",
                 },
               ],
             },
@@ -2514,7 +2544,7 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A trapped efreeti uses fire elementals to fight for freedom. |\n| 11th to 16th | *   An adult red dragon served by salamanders demands fealty from the characters.                                                            |\n| 17th to 20th | *   An ancient red dragon worshiped by fire giants awakens from slumber.                                                                     |",
+                  item: "A trapped efreeti uses fire elementals to fight for freedom. |\n| 11th to 16th | - An adult red dragon served by salamanders demands fealty from the characters.                                                          |\n| 17th to 20th | * An ancient red dragon worshiped by fire giants awakens from slumber.                                                                   |",
                 },
               ],
             },
@@ -2536,7 +2566,7 @@ export default {
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   A night hag and their pet quasit schemes within a chamber guarded by hell hounds.",
+                    "* A night hag and their pet quasit schemes within a chamber guarded by hell hounds.",
                 },
               ],
             },
@@ -2545,7 +2575,7 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A summoning circle disgorges a barlgura and a gang of dretches. |\n| 5th to 10th  | *   A glabrezu commands from a throne flanked by chasmes.                                                                                                     |\n| 11th to 16th | *   A marilith, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                                |\n| 17th to 20th | *   A balor, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                          |",
+                  item: "A summoning circle disgorges a barlgura and a gang of dretches. |\n| 5th to 10th  | - A glabrezu commands from a throne flanked by chasmes.                                                                                                   |\n| 11th to 16th | * A marilith, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                              |\n| 17th to 20th | - A balor, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                        |",
                 },
               ],
             },
@@ -2567,12 +2597,12 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   An elf cultist hunts prey with bloodthirsty wolves.",
+                    "* An elf cultist hunts prey with bloodthirsty wolves.",
                 },
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   Two ettercaps and their giant spiders stalk adventurers.",
+                    "- Two ettercaps and their giant spiders stalk adventurers.",
                 },
               ],
             },
@@ -2587,13 +2617,19 @@ export default {
                   item: "A green hag lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.",
                 },
                 {
-                  item: "A werewolf prowls the shadows with their dire wolf companions. |\n| 5th to 10th  | *   An orc war chief commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                              |\n| 11th to 16th | *   An adult black dragon commands a host of trolls made loyal through fear.",
+                  item: "A werewolf prowls the shadows with their dire wolf companions. |\n| 5th to 10th  | * An orc war chief commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                        |\n| 11th to 16th | - An adult black dragon commands a host of trolls made loyal through fear.",
                 },
                 {
-                  item: "An adult green dragon lurks in a dead forest, protected by shambling mounds.                                                                                                                                  |\n| 17th to 20th | *   An ancient black dragon dwells in a sunken bog filled with giant crocodiles.",
+                  item: "An adult green dragon lurks in a dead forest, protected by shambling mounds.                                                                                                                              |\n| 17th to 20th | * An ancient black dragon dwells in a sunken bog filled with giant crocodiles.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
-                  item: "An ancient green dragon rules from an ancient wooden throne guarded by loyal treants.                                                                                                                     |",
+                  item: "An ancient green dragon rules from an ancient wooden throne guarded by loyal treants.                                                                                                                 |",
                 },
               ],
             },
@@ -2615,7 +2651,7 @@ export default {
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   A bearded devil draws lemures through a portal connected to the river Styx.",
+                    "* A bearded devil draws lemures through a portal connected to the river Styx.",
                 },
               ],
             },
@@ -2624,10 +2660,16 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A barbed devil and a host of imps keep watch on enemy forces.        |\n| 5th to 10th  | *   An armored erinyes commanding a host of spined devils prepares for war.",
+                  item: "A barbed devil and a host of imps keep watch on enemy forces.        |\n| 5th to 10th  | - An armored erinyes commanding a host of spined devils prepares for war.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
-                  item: "A horned devil leading bearded devil soldiers guards an oracular sphere. |\n| 11th to 16th | *   Ice devil wardens and bone devil guards protect a valuable prisoner.                                                                                     |\n| 17th to 20th | *   Pit fiend commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                                |",
+                  item: "A horned devil leading bearded devil soldiers guards an oracular sphere. |\n| 11th to 16th | * Ice devil wardens and bone devil guards protect a valuable prisoner.                                                                                   |\n| 17th to 20th | - Pit fiend commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                              |",
                 },
               ],
             },
@@ -2649,7 +2691,7 @@ export default {
                 {
                   level: "5th to 10th",
                   example_encounters:
-                    "*   Frost giant hunters enjoy the sport of their remorhaz pet stalking commoners.",
+                    "* Frost giant hunters enjoy the sport of their remorhaz pet stalking commoners.",
                 },
               ],
             },
@@ -2658,7 +2700,7 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "The bone-cluttered cave of an abominable yeti is guarded by winter wolves. |\n| 11th to 16th | *   An adult white dragon is served by loyal frost giants.                                                                                                           |\n| 17th to 20th | *   An ancient white dragon lairing atop an inaccessible peak is worshiped by generations of abominable yetis.                                                       |",
+                  item: "The bone-cluttered cave of an abominable yeti is guarded by winter wolves. |\n| 11th to 16th | - An adult white dragon is served by loyal frost giants.                                                                                                         |\n| 17th to 20th | * An ancient white dragon lairing atop an inaccessible peak is worshiped by generations of abominable yetis.                                                     |",
                 },
               ],
             },
@@ -2680,7 +2722,7 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A cockatrice pecks at a crumbling statue, while stirges linger above.",
+                    "* A cockatrice pecks at a crumbling statue, while stirges linger above.",
                 },
               ],
             },
@@ -2689,11 +2731,23 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A giant bat surrounded by swarms of bats skulks in the shadows.                                                                                         |\n| 2nd to 4th  | *   Darkmantles and piercers lurk in pools of shadow.",
+                  item: "A giant bat surrounded by swarms of bats skulks in the shadows.                                                                                       |\n| 2nd to 4th  | - Darkmantles and piercers lurk in pools of shadow.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
-                  item: "A worg-riding goblin boss commands a squad of goblin hunters.                                                                                                               |\n| 5th to 10th | *   Basilisks and cockatrices lair in a hall full of petrified adventurers.",
+                  item: "A worg-riding goblin boss commands a squad of goblin hunters.                                                                                                             |\n| 5th to 10th | * Basilisks and cockatrices lair in a hall full of petrified adventurers.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 3,
+              data: [
                 {
                   item: "A cloaker lurks above a pack of hook horrors disemboweling a dead bulette.",
                 },
@@ -2720,12 +2774,12 @@ export default {
                 {
                   level: "1st",
                   example_encounters:
-                    "*   A lizardfolk hunter is teaching their trained giant crabs how to hunt.",
+                    "* A lizardfolk hunter is teaching their trained giant crabs how to hunt.",
                 },
                 {
                   level: "2nd to 4th",
                   example_encounters:
-                    "*   A sea hag commands loyal kuo-toa to set up an effigy to a fictitious god.",
+                    "- A sea hag commands loyal kuo-toa to set up an effigy to a fictitious god.",
                 },
               ],
             },
@@ -2734,13 +2788,19 @@ export default {
               order: 1,
               data: [
                 {
-                  item: "A lizard king with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                  |\n| 5th to 10th  | *   An aboleth in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.",
+                  item: "A lizard king with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                |\n| 5th to 10th  | * An aboleth in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.",
                 },
+              ],
+            },
+            {
+              type: "table",
+              order: 2,
+              data: [
                 {
                   item: "A sahuagin baron watches a pack of sahuagin fight water weirds.",
                 },
                 {
-                  item: "A corrupt sahuagin priestess feeds sacrificial victims to giant crocodiles. |\n| 11th to 16th | *   A kraken rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                           |",
+                  item: "A corrupt sahuagin priestess feeds sacrificial victims to giant crocodiles. |\n| 11th to 16th | - A kraken rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                       |",
                 },
               ],
             },

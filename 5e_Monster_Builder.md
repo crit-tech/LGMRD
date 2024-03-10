@@ -18,17 +18,17 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 
 ### Table of Contents
 
-*   [Building a Quick Monster](#buildingaquickmonster)
-*   [General-Use Combat Stat Blocks](#generalusestatblocks)
-*   [Lazy Tricks for Running Monsters](#lazytricksforrunningmonsters)
-*   [Lightning Rods](#lightingrods)
-*   [Monster Roles](#monsterroles)
-*   [Bosses and Minions](#bossesandminions)
-*   [The Combat Encounter Checklist](#combatencounterchecklist)
-*   [Monster Combinations for a Hard Challenge](#monstercombinationsforahardchallenge)
-*   [The Lazy Encounter Benchmark](#lazyencounterbenchmark)
-*   [Monsters by Adventure Location](#monstersbyadventurelocation)
-*   [Monsters and the Tiers of Play](#monstersandthetiersofplay)
+* [Building a Quick Monster](#buildingaquickmonster)
+* [General-Use Combat Stat Blocks](#generalusestatblocks)
+* [Lazy Tricks for Running Monsters](#lazytricksforrunningmonsters)
+* [Lightning Rods](#lightingrods)
+* [Monster Roles](#monsterroles)
+* [Bosses and Minions](#bossesandminions)
+* [The Combat Encounter Checklist](#combatencounterchecklist)
+* [Monster Combinations for a Hard Challenge](#monstercombinationsforahardchallenge)
+* [The Lazy Encounter Benchmark](#lazyencounterbenchmark)
+* [Monsters by Adventure Location](#monstersbyadventurelocation)
+* [Monsters and the Tiers of Play](#monstersandthetiersofplay)
 
 ## <a id="buildingaquickmonster"></a>Building a Quick Monster
 
@@ -431,13 +431,13 @@ This section presents a number of tricks and tips that can help you more easily 
 
 First, choose a challenge rating for your monster, based on their perceived power in the encounter. When needed, compare your monster to existing monsters to find a suitable challenge rating. Then use the following guidelines to craft their baseline statistics:
 
-*   Armor Class = 12 + 1/2 CR
-*   Hit points = (15 × CR) + 15
-*   Proficient saving throws and skills = 4 + 1/2 CR
-*   Nonproficient saving throws and abilities = −2 to +2, based on the monster's story
-*   Attack bonus = 4 + 1/2 CR
-*   DC for saving throws = 12 + 1/2 CR
-*   Total damage per round = (7 × CR) + 5
+* Armor Class = 12 + 1/2 CR
+* Hit points = (15 × CR) + 15
+* Proficient saving throws and skills = 4 + 1/2 CR
+* Nonproficient saving throws and abilities = −2 to +2, based on the monster's story
+* Attack bonus = 4 + 1/2 CR
+* DC for saving throws = 12 + 1/2 CR
+* Total damage per round = (7 × CR) + 5
 
 Start your monster out with one attack, then add one additional attack at CR 2, CR 7, CR 11, and CR 15. Split the total damage noted above across all attacks.
 
@@ -494,11 +494,11 @@ You can also compute averages for dice expressions with simple equations you can
 
 Once you're in the middle of an encounter, you can make use of a number of other quick tricks to make running monsters easier, with more flexibility and greater speed. Try any of the following options at your table, and make use of any trick that helps your game:
 
-*   Use fixed initiative for monsters equal to 10 + each monster's Dexterity bonus. Even faster? Just have all monsters act on initiative count 12.
-*   Reduce hit points on the fly to allow monsters to drop or surrender more quickly, or increase a monster's number of attacks or damage if the characters are having too easy a time.
-*   Have foes flee or surrender when it makes sense to move the game forward.
-*   Have constructs and undead be destroyed when the creature controlling them dies.
-*   Run multiple waves of monsters for big battles.
+* Use fixed initiative for monsters equal to 10 + each monster's Dexterity bonus. Even faster? Just have all monsters act on initiative count 12.
+* Reduce hit points on the fly to allow monsters to drop or surrender more quickly, or increase a monster's number of attacks or damage if the characters are having too easy a time.
+* Have foes flee or surrender when it makes sense to move the game forward.
+* Have constructs and undead be destroyed when the creature controlling them dies.
+* Run multiple waves of monsters for big battles.
 
 Include creatures designed to eat "save or suck" attacks such as *banishment* or *polymorph*.
 
@@ -655,15 +655,15 @@ Sometimes all a game needs is an interesting location and some cool monsters to 
 
 Sometimes we need more, though, particularly for big set-piece battles or boss fights. When it's time to build an interesting and dynamic encounter, the following checklist can help determine what options a big combat might need:
 
-*   Interesting monsters
-*   A fantastic location
-*   Zone-wide effects
-*   Traps and hazards
-*   Advantageous positions
-*   Interactive objects
-*   Cover
-*   Difficult or fantastic terrain
-*   A goal
+* Interesting monsters
+* A fantastic location
+* Zone-wide effects
+* Traps and hazards
+* Advantageous positions
+* Interactive objects
+* Cover
+* Difficult or fantastic terrain
+* A goal
 
 No battle needs all these things, but it's worth running through the list to see which options fit the sort of combat scenario you're putting together.
 
@@ -681,16 +681,16 @@ However, you want to ensure that your fantastic location isn't too big. It's no 
 
 Sometimes a combat environment has a big ongoing effect—something that impacts all the creatures in the area, no matter where they are. Such zone-wide effects can make a fight more interesting, as with any of the following examples:
 
-*   Unholy energy in a crypt makes healing magic only half as effective as normal.
-*   Supernatural fire negates any creature's resistance to fire, and turns immunity to fire into resistance.
-*   Psychic wailing forces each character to succeed on a DC 10 Constitution check to successfully cast a spell.
-*   Periodic bolts of lightning strike, with each creature in combat having a 1-in-4 chance of being struck at the start of their turn.
-*   An arcane rift causes each damaging spell cast in a fight to deal an extra 2d6 force damage.
-*   An aura of bloody rage fills the area, granting each combatant advantage on attack rolls.
-*   A rift to a realm of chaos causes all spells to trigger a wild magic surge.
-*   The god of blood infuses all melee attacks with an extra die of damage.
-*   A rift in space-time lets a creature swap places with an enemy within 60 feet if that enemy fails a DC 12 Wisdom saving throw.
-*   A thick fog makes it impossible to see creatures more than 30 feet away.
+* Unholy energy in a crypt makes healing magic only half as effective as normal.
+* Supernatural fire negates any creature's resistance to fire, and turns immunity to fire into resistance.
+* Psychic wailing forces each character to succeed on a DC 10 Constitution check to successfully cast a spell.
+* Periodic bolts of lightning strike, with each creature in combat having a 1-in-4 chance of being struck at the start of their turn.
+* An arcane rift causes each damaging spell cast in a fight to deal an extra 2d6 force damage.
+* An aura of bloody rage fills the area, granting each combatant advantage on attack rolls.
+* A rift to a realm of chaos causes all spells to trigger a wild magic surge.
+* The god of blood infuses all melee attacks with an extra die of damage.
+* A rift in space-time lets a creature swap places with an enemy within 60 feet if that enemy fails a DC 12 Wisdom saving throw.
+* A thick fog makes it impossible to see creatures more than 30 feet away.
 
 Avoid zone-wide effects that are just plain annoying. Having creatures fall down a lot because of icy floors sounds fun—until all the characters are lying on their backs and the players are wishing they'd never entered the fight in the first place.
 
@@ -712,16 +712,16 @@ Getting the characters to enter an arena (literal or metaphorical) and move arou
 
 Make sure that the battlefield features some interactive objects. This can include any physical features the characters can manipulate and use to their advantage in a fight, including things like the following:
 
-*   Crumbling statues that can be easily toppled
-*   Pillars that collapse part of the ceiling
-*   Chandeliers upon which to swing
-*   Ballistas the characters can use to fire upon their foes
-*   Obelisks infusing the villain with power until they're destroyed
-*   Levers that physically or magically transform parts of the battlefield
-*   Catapults that can hurl allies to the far side of the fight
-*   Cranes lifting heavy objects that can be dropped onto foes
-*   Fiery cauldrons or braziers ready to tip over
-*   Deep wells into which enemies can be dumped
+* Crumbling statues that can be easily toppled
+* Pillars that collapse part of the ceiling
+* Chandeliers upon which to swing
+* Ballistas the characters can use to fire upon their foes
+* Obelisks infusing the villain with power until they're destroyed
+* Levers that physically or magically transform parts of the battlefield
+* Catapults that can hurl allies to the far side of the fight
+* Cranes lifting heavy objects that can be dropped onto foes
+* Fiery cauldrons or braziers ready to tip over
+* Deep wells into which enemies can be dumped
 
 ### Cover
 
@@ -735,31 +735,31 @@ Different areas of a location might have some sort of terrain feature that can i
 
 Any of the following terrain features can make a big battle location more interesting:
 
-*   A crumbling bridge over a deep crevasse
-*   Spikes of sharp glass that cut creatures when they fall or are forced to move through them
-*   Jets of flame that randomly erupt
-*   Swampy land that belches forth poisonous gas when crossed
-*   Oiled surfaces that cause creatures to slide across them uncontrollably.
-*   Electrified floors that deal damage to creatures at the start of each turn
-*   An area filled with antigravity magic that causes creatures to fall to the ceiling
-*   An ethereal rift where creatures become invisible and insubstantial
-*   Pockets of shadow where characters have their life energy drained away
-*   An area of antilife magic where living creatures gain vulnerability to necrotic damage
+* A crumbling bridge over a deep crevasse
+* Spikes of sharp glass that cut creatures when they fall or are forced to move through them
+* Jets of flame that randomly erupt
+* Swampy land that belches forth poisonous gas when crossed
+* Oiled surfaces that cause creatures to slide across them uncontrollably.
+* Electrified floors that deal damage to creatures at the start of each turn
+* An area filled with antigravity magic that causes creatures to fall to the ceiling
+* An ethereal rift where creatures become invisible and insubstantial
+* Pockets of shadow where characters have their life energy drained away
+* An area of antilife magic where living creatures gain vulnerability to necrotic damage
 
 ### A Goal
 
 Finally, think about what objective an encounter might have beyond simply taking out all the enemies. What might the characters do to "complete" the encounter? The following sorts of goals work well in a big set-piece encounter:
 
-*   Stop a ritual before cultists summon a demon.
-*   Recover an artifact and escape with it.
-*   Kill the boss, but don't worry about their minions.
-*   Activate a gateway and escape through it.
-*   Recover a prisoner.
-*   Steal secret plans.
-*   Destroy a powerful monument.
-*   Activate the four altars around a temple site.
-*   Close a magical gateway and prevent the villain's escape.
-*   Destroy a doomsday device before it blows up the multiverse.
+* Stop a ritual before cultists summon a demon.
+* Recover an artifact and escape with it.
+* Kill the boss, but don't worry about their minions.
+* Activate a gateway and escape through it.
+* Recover a prisoner.
+* Steal secret plans.
+* Destroy a powerful monument.
+* Activate the four altars around a temple site.
+* Close a magical gateway and prevent the villain's escape.
+* Destroy a doomsday device before it blows up the multiverse.
 
 ## <a id="monstercombinationsforahardchallenge"></a>Monster Combinations for a Hard Challenge
 
@@ -785,19 +785,19 @@ The rightmost column under Boss Scenarios builds encounters with eight minions, 
 
 To build encounters using the tables, follow these steps:
 
-*   Select the appropriate table, based on the number of characters in the party—four, five, or six.
-*   In the leftmost column of the selected table, find the row containing the average character level for all the characters. (To find the average, add up all the characters' levels, then divide by the number of characters and round down.)
-*   Follow that row to the column containing the encounter concept you wish to use. For example, to create an encounter with one boss and three lesser monsters, you'd go to the 1 Boss + 3 Monsters column.
-*   The entry you cross-referenced notes the challenge ratings of the creature or creatures in your encounter. If a multiplier is indicated, that's the number of monsters for the preceding CR. For example, wanting to challenge four 3rd-level characters with the encounter concept of one boss and three monsters yields an entry of "2 + 1/4 (×3)." This indicates that you want one CR 2 creature acting as the boss, and three CR 1/4 creatures acting as subordinates.
-*   Choose your monsters! If you're building a quick encounter, the recommendations in "Monsters by Adventure Location" are a good starting point.
+* Select the appropriate table, based on the number of characters in the party—four, five, or six.
+* In the leftmost column of the selected table, find the row containing the average character level for all the characters. (To find the average, add up all the characters' levels, then divide by the number of characters and round down.)
+* Follow that row to the column containing the encounter concept you wish to use. For example, to create an encounter with one boss and three lesser monsters, you'd go to the 1 Boss + 3 Monsters column.
+* The entry you cross-referenced notes the challenge ratings of the creature or creatures in your encounter. If a multiplier is indicated, that's the number of monsters for the preceding CR. For example, wanting to challenge four 3rd-level characters with the encounter concept of one boss and three monsters yields an entry of "2 + 1/4 (×3)." This indicates that you want one CR 2 creature acting as the boss, and three CR 1/4 creatures acting as subordinates.
+* Choose your monsters! If you're building a quick encounter, the recommendations in "Monsters by Adventure Location" are a good starting point.
 
 #### Scaling Encounters
 
 Each of the tables is intended to build a hard encounter. However, you can easily build encounters with other challenge levels in mind by adding or subtracting a modifier to the party's average character level:
 
-*   For a deadly challenge: +1 or +2
-*   For a medium challenge: −2
-*   For an easy challenge: −4
+* For a deadly challenge: +1 or +2
+* For a medium challenge: −2
+* For an easy challenge: −4
 
 For example, when building an encounter for four 10th-level characters, you could use the row for 8th-level characters to create a medium challenge.
 
@@ -893,9 +893,9 @@ The primary calculation of the lazy encounter benchmark compares the challenge r
 
 What exactly does "deadly" mean in this context? In a deadly encounter:
 
-*   Most characters might lose more than half their hit points.
-*   Several characters might go unconscious.
-*   There's a chance that one or more characters might die.
+* Most characters might lose more than half their hit points.
+* Several characters might go unconscious.
+* There's a chance that one or more characters might die.
 
 For example, imagine an encounter pitting five 4th-level characters against four ogres of CR 2. To see how dangerous this fight might be, add all the character levels together and divide by 4 (because they're lower than 5th level), giving a result of 20 ÷ 4 = 5. Now compare that result to the sum of monster challenge ratings, with four CR 2 ogres giving a total of 8. Because 8 is more than 5, this could be a potentially deadly encounter.
 
@@ -935,26 +935,26 @@ For example, if a party in your campaign has companion NPCs who make combat easi
 
 Many circumstances can change how challenging an actual combat encounter might be. All of the following examples set up types of encounters that often play out more easily than the lazy encounter benchmark might suggest:
 
-*   The fight features significantly more characters than foes.
-*   The characters' goals in an encounter can be achieved without eliminating all the foes from the fight.
-*   The environment favors the characters.
-*   The monsters come in waves instead of all at once.
-*   Foes are distracted or in disadvantageous positions.
-*   The monsters are all surprised, or all act after the characters in initiative.
-*   The characters have spells or features well suited for taking out foes.
-*   The players engage in excellent tactical behavior and synergistic strategies.
-*   The characters are well rested and coming in fresh.
-*   The characters have an arsenal of powerful magic items.
-*   The characters have useful companions.
+* The fight features significantly more characters than foes.
+* The characters' goals in an encounter can be achieved without eliminating all the foes from the fight.
+* The environment favors the characters.
+* The monsters come in waves instead of all at once.
+* Foes are distracted or in disadvantageous positions.
+* The monsters are all surprised, or all act after the characters in initiative.
+* The characters have spells or features well suited for taking out foes.
+* The players engage in excellent tactical behavior and synergistic strategies.
+* The characters are well rested and coming in fresh.
+* The characters have an arsenal of powerful magic items.
+* The characters have useful companions.
 
 Likewise, the monsters might be favored over the characters in the following types of encounters:
 
-*   The monsters outnumber the characters.
-*   The characters are surprised by the monsters.
-*   Foes have advantageous position.
-*   The terrain favors the foes.
-*   The monsters fight with a strong tactical synergy.
-*   The characters are coming in well worn by previous fights and have no chance to rest.
+* The monsters outnumber the characters.
+* The characters are surprised by the monsters.
+* Foes have advantageous position.
+* The terrain favors the foes.
+* The monsters fight with a strong tactical synergy.
+* The characters are coming in well worn by previous fights and have no chance to rest.
 
 As you make use of the benchmark, you'll soon come to recognize when the circumstances of a combat encounter might steer it toward an easier or harder fight.
 
@@ -972,10 +972,10 @@ As you make use of the benchmark, you'll soon come to recognize when the circums
 
 This section offers quick starting points for building encounters, in the form of tables that cover a broad range of foes in twelve types of common adventure location. The tables serve four purposes:
 
-*   They show which creatures might inhabit a particular adventure location.
-*   They highlight foes appropriate for a given level range in that location.
-*   They show which foes might naturally pair up with other foes.
-*   They offer example relationships between creatures and suggest what they might be doing in a location.
+* They show which creatures might inhabit a particular adventure location.
+* They highlight foes appropriate for a given level range in that location.
+* They show which foes might naturally pair up with other foes.
+* They offer example relationships between creatures and suggest what they might be doing in a location.
 
 Though you can use the setups in the tables directly, you'll get even more value from them by customizing your own list of foes for these common locations and scenarios—or by adding environments and scenarios that fit the specifics of your campaign.
 
@@ -985,145 +985,145 @@ Monsters who are in **bold** represent potential bosses for an encounter.
 
 ### Ancient Ruins
 
-| Level        | Example Encounters                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st          | *   A **thug** leads bandits intending to rob a caravan.
-*   A vengeful **shadow** shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                       |
-| 2nd to 4th   | *   A pair of **bugbear** entrepreneurs use goblin actors as bait to seek adventurers as prey.
-*   A sorrowful **banshee** orders specters to recreate their former beautiful life.
-*   A **gnoll pack lord** bounty hunter leads gnolls and hyenas after an escaped prisoner.
-*   A **death dog** protected by wolves lairs in a ruined cave.
-*   A **lamia** served by jackalweres dwells in an illusory paradise. |
-| 5th to 10th  | *   A wise **bugbear chief** leads bugbear and goblin soldiers from an obsidian throne.
-*   A **cyclops** matriarch leads fanatically loyal ogres.
-*   A solitary **medusa** dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.
-*   A noble **oni** in a posh den is guarded by loyal spirit naga storytellers.                                                                      |
-| 11th to 16th | *   An **adult blue dragon** is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                            |
-| 17th to 20th | *   An **ancient blue dragon** protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                              |
+| Level        | Example Encounters                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st          | * A **thug** leads bandits intending to rob a caravan.
+* A vengeful **shadow** shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                 |
+| 2nd to 4th   | - A pair of **bugbear** entrepreneurs use goblin actors as bait to seek adventurers as prey.
+- A sorrowful **banshee** orders specters to recreate their former beautiful life.
+- A **gnoll pack lord** bounty hunter leads gnolls and hyenas after an escaped prisoner.
+- A **death dog** protected by wolves lairs in a ruined cave.
+- A **lamia** served by jackalweres dwells in an illusory paradise. |
+| 5th to 10th  | * A wise **bugbear chief** leads bugbear and goblin soldiers from an obsidian throne.
+* A **cyclops** matriarch leads fanatically loyal ogres.
+* A solitary **medusa** dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.
+* A noble **oni** in a posh den is guarded by loyal spirit naga storytellers.                                                                    |
+| 11th to 16th | - An **adult blue dragon** is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                    |
+| 17th to 20th | * An **ancient blue dragon** protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                      |
 
 ### Crypts, Catacombs, Necropolises
 
-| Level        | Example Encounters                                                                                                                                                            |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st          | *   A pair of **skeletons** rises from a pile of crawling claws.                                                                                                              |
-| 2nd to 4th   | *   A lost **ghost** wanders, surrounded by specters.
-*   A **bone naga** rises from an obsidian sarcophagus to command a host of skeletons.                                  |
-| 5th to 10th  | *   A **mummy lord** entombed in a cold-iron sarcophagus is guarded by mummies and wights.
-*   A pair of **wraiths** float above unholy urns surrounded by vengeful specters. |
-| 11th to 16th | *   A **vampire** in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                             |
-| 17th to 20th | *   A **lich** in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                               |
+| Level        | Example Encounters                                                                                                                                                        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st          | * A pair of **skeletons** rises from a pile of crawling claws.                                                                                                            |
+| 2nd to 4th   | - A lost **ghost** wanders, surrounded by specters.
+- A **bone naga** rises from an obsidian sarcophagus to command a host of skeletons.                                  |
+| 5th to 10th  | * A **mummy lord** entombed in a cold-iron sarcophagus is guarded by mummies and wights.
+* A pair of **wraiths** float above unholy urns surrounded by vengeful specters. |
+| 11th to 16th | - A **vampire** in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                           |
+| 17th to 20th | * A **lich** in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                             |
 
 ### City Sewers
 
-| Level      | Example Encounters                                                                                                                                                                                                                                                                                                                                               |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st        | *   A wandering **zombie** is covered by a swarm of rats.                                                                                                                                                                                                                                                                                                        |
-| 2nd to 4th | *   An erudite **ghast** weaves fantastic tales to their ravenous ghoul followers.
-*   A **spy** is guarded by unscrupulous bandits while awaiting the arrival of a contact.
-*   An **otyugh** luxuriates in a watery pit, surrounded by concealed gray oozes.
-*   **Wererats** try to be intimidating by threatening to feed prisoners to their giant rat pets. |
+| Level      | Example Encounters                                                                                                                                                                                                                                                                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st        | * A wandering **zombie** is covered by a swarm of rats.                                                                                                                                                                                                                                                                                                  |
+| 2nd to 4th | - An erudite **ghast** weaves fantastic tales to their ravenous ghoul followers.
+- A **spy** is guarded by unscrupulous bandits while awaiting the arrival of a contact.
+- An **otyugh** luxuriates in a watery pit, surrounded by concealed gray oozes.
+- **Wererats** try to be intimidating by threatening to feed prisoners to their giant rat pets. |
 
 ### Seedy City Streets
 
-| Level       | Example Encounters                                                                                                                                                                                                                                                                           |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | *   A **giant rat** and the swarm of rats that travels with them are feeding on a dead body.
-*   A **thug** and a pack of bandit toadies are waiting for someone to rob.                                                                                                                     |
-| 2nd to 4th  | *   A **spy** assisted by thugs has been hired to steal something from the characters.
-*   A **bandit captain** with berserker bodyguards and bandit followers is easily insulted.
-*   A **cult fanatic** leads cultists who have summoned ravenous dretches into the world.                 |
-| 5th to 10th | *   A **mage** commanding veterans is seeking something the characters seek as well.
-*   A **bandit captain** protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.
-*   A careful **assassin** backed up by spies and thugs hunts the characters. |
+| Level       | Example Encounters                                                                                                                                                                                                                                                                     |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st         | * A **giant rat** and the swarm of rats that travels with them are feeding on a dead body.
+* A **thug** and a pack of bandit toadies are waiting for someone to rob.                                                                                                                   |
+| 2nd to 4th  | - A **spy** assisted by thugs has been hired to steal something from the characters.
+- A **bandit captain** with berserker bodyguards and bandit followers is easily insulted.
+- A **cult fanatic** leads cultists who have summoned ravenous dretches into the world.                 |
+| 5th to 10th | * A **mage** commanding veterans is seeking something the characters seek as well.
+* A **bandit captain** protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.
+* A careful **assassin** backed up by spies and thugs hunts the characters. |
 
 ### Wizard's Tower
 
-| Level        | Example Encounters                                                                                                                                       |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st          | *   A loyal **imp** commands a squad of guardian flying swords.                                                                                          |
-| 2nd to 4th   | *   A summoned **succubus** or **incubus** directs animated armor serving as guards.                                                                     |
-| 5th to 10th  | *   Apprentice **mages** command elementals and flesh golems.
-*   An important chamber is guarded by two **flameskulls** and a number of helmed horrors. |
-| 11th to 16th | *   An impatient **archmage** is protected by two stone golems in an arcane laboratory.                                                                  |
-| 17th to 20th | *   A **lich** studies the multiverse while protected by bound balors and iron golems.                                                                   |
+| Level        | Example Encounters                                                                                                                                   |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st          | * A loyal **imp** commands a squad of guardian flying swords.                                                                                        |
+| 2nd to 4th   | - A summoned **succubus** or **incubus** directs animated armor serving as guards.                                                                   |
+| 5th to 10th  | * Apprentice **mages** command elementals and flesh golems.
+* An important chamber is guarded by two **flameskulls** and a number of helmed horrors. |
+| 11th to 16th | - An impatient **archmage** is protected by two stone golems in an arcane laboratory.                                                                |
+| 17th to 20th | * A **lich** studies the multiverse while protected by bound balors and iron golems.                                                                 |
 
 ### Volcano Lair
 
-| Level        | Example Encounters                                                                                                                               |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5th to 10th  | *   A **fire giant** with pet hell hounds commands an azer to dig for them.
-*   A trapped **efreeti** uses fire elementals to fight for freedom. |
-| 11th to 16th | *   An **adult red dragon** served by salamanders demands fealty from the characters.                                                            |
-| 17th to 20th | *   An **ancient red dragon** worshiped by fire giants awakens from slumber.                                                                     |
+| Level        | Example Encounters                                                                                                                           |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5th to 10th  | * A **fire giant** with pet hell hounds commands an azer to dig for them.
+* A trapped **efreeti** uses fire elementals to fight for freedom. |
+| 11th to 16th | - An **adult red dragon** served by salamanders demands fealty from the characters.                                                          |
+| 17th to 20th | * An **ancient red dragon** worshiped by fire giants awakens from slumber.                                                                   |
 
 ### Abyssal Keep
 
-| Level        | Example Encounters                                                                                                                                                |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2nd to 4th   | *   A **night hag** and their pet quasit schemes within a chamber guarded by hell hounds.
-*   A summoning circle disgorges a **barlgura** and a gang of dretches. |
-| 5th to 10th  | *   A **glabrezu** commands from a throne flanked by chasmes.                                                                                                     |
-| 11th to 16th | *   A **marilith**, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                                |
-| 17th to 20th | *   A **balor**, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                          |
+| Level        | Example Encounters                                                                                                                                            |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2nd to 4th   | * A **night hag** and their pet quasit schemes within a chamber guarded by hell hounds.
+* A summoning circle disgorges a **barlgura** and a gang of dretches. |
+| 5th to 10th  | - A **glabrezu** commands from a throne flanked by chasmes.                                                                                                   |
+| 11th to 16th | * A **marilith**, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                              |
+| 17th to 20th | - A **balor**, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                        |
 
 ### Dark Forests and Fetid Swamps
 
-| Level        | Example Encounters                                                                                                                                                                                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st          | *   An elf **cultist** hunts prey with bloodthirsty wolves.                                                                                                                                                                                                                                            |
-| 2nd to 4th   | *   Two **ettercaps** and their giant spiders stalk adventurers.
-*   An **ettin** warlord commands a host of orc mercenaries.
-*   A **green hag** lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.
-*   A **werewolf** prowls the shadows with their dire wolf companions. |
-| 5th to 10th  | *   An **orc war chief** commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                              |
-| 11th to 16th | *   An **adult black dragon** commands a host of trolls made loyal through fear.
-*   An **adult green dragon** lurks in a dead forest, protected by shambling mounds.                                                                                                                                  |
-| 17th to 20th | *   An **ancient black dragon** dwells in a sunken bog filled with giant crocodiles.
-*   An **ancient green dragon** rules from an ancient wooden throne guarded by loyal treants.                                                                                                                     |
+| Level        | Example Encounters                                                                                                                                                                                                                                                                             |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st          | * An elf **cultist** hunts prey with bloodthirsty wolves.                                                                                                                                                                                                                                      |
+| 2nd to 4th   | - Two **ettercaps** and their giant spiders stalk adventurers.
+- An **ettin** warlord commands a host of orc mercenaries.
+- A **green hag** lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.
+- A **werewolf** prowls the shadows with their dire wolf companions. |
+| 5th to 10th  | * An **orc war chief** commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                        |
+| 11th to 16th | - An **adult black dragon** commands a host of trolls made loyal through fear.
+- An **adult green dragon** lurks in a dead forest, protected by shambling mounds.                                                                                                                              |
+| 17th to 20th | * An **ancient black dragon** dwells in a sunken bog filled with giant crocodiles.
+* An **ancient green dragon** rules from an ancient wooden throne guarded by loyal treants.                                                                                                                 |
 
 ### Hellish Citadel
 
-| Level        | Example Encounters                                                                                                                                               |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2nd to 4th   | *   A **bearded devil** draws lemures through a portal connected to the river Styx.
-*   A **barbed devil** and a host of imps keep watch on enemy forces.        |
-| 5th to 10th  | *   An armored **erinyes** commanding a host of spined devils prepares for war.
-*   A **horned devil** leading bearded devil soldiers guards an oracular sphere. |
-| 11th to 16th | *   **Ice devil** wardens and bone devil guards protect a valuable prisoner.                                                                                     |
-| 17th to 20th | *   **Pit fiend** commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                                |
+| Level        | Example Encounters                                                                                                                                           |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2nd to 4th   | * A **bearded devil** draws lemures through a portal connected to the river Styx.
+* A **barbed devil** and a host of imps keep watch on enemy forces.        |
+| 5th to 10th  | - An armored **erinyes** commanding a host of spined devils prepares for war.
+- A **horned devil** leading bearded devil soldiers guards an oracular sphere. |
+| 11th to 16th | * **Ice devil** wardens and bone devil guards protect a valuable prisoner.                                                                                   |
+| 17th to 20th | - **Pit fiend** commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                              |
 
 ### Frozen Fortress
 
-| Level        | Example Encounters                                                                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5th to 10th  | *   **Frost giant** hunters enjoy the sport of their remorhaz pet stalking commoners.
-*   The bone-cluttered cave of an **abominable yeti** is guarded by winter wolves. |
-| 11th to 16th | *   An **adult white dragon** is served by loyal frost giants.                                                                                                           |
-| 17th to 20th | *   An **ancient white dragon** lairing atop an inaccessible peak is worshiped by generations of abominable yetis.                                                       |
+| Level        | Example Encounters                                                                                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5th to 10th  | * **Frost giant** hunters enjoy the sport of their remorhaz pet stalking commoners.
+* The bone-cluttered cave of an **abominable yeti** is guarded by winter wolves. |
+| 11th to 16th | - An **adult white dragon** is served by loyal frost giants.                                                                                                         |
+| 17th to 20th | * An **ancient white dragon** lairing atop an inaccessible peak is worshiped by generations of abominable yetis.                                                     |
 
 ### Deep Caverns
 
-| Level       | Example Encounters                                                                                                                                                                                                                            |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st         | *   A **cockatrice** pecks at a crumbling statue, while stirges linger above.
-*   A **giant bat** surrounded by swarms of bats skulks in the shadows.                                                                                         |
-| 2nd to 4th  | *   **Darkmantles** and piercers lurk in pools of shadow.
-*   A worg-riding **goblin boss** commands a squad of goblin hunters.                                                                                                               |
-| 5th to 10th | *   **Basilisks** and cockatrices lair in a hall full of petrified adventurers.
-*   A **cloaker** lurks above a pack of hook horrors disemboweling a dead bulette.
-*   **Ropers** and darkmantles hang above a waterfall, competing for prey. |
+| Level       | Example Encounters                                                                                                                                                                                                                      |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st         | * A **cockatrice** pecks at a crumbling statue, while stirges linger above.
+* A **giant bat** surrounded by swarms of bats skulks in the shadows.                                                                                       |
+| 2nd to 4th  | - **Darkmantles** and piercers lurk in pools of shadow.
+- A worg-riding **goblin boss** commands a squad of goblin hunters.                                                                                                             |
+| 5th to 10th | * **Basilisks** and cockatrices lair in a hall full of petrified adventurers.
+* A **cloaker** lurks above a pack of hook horrors disemboweling a dead bulette.
+* **Ropers** and darkmantles hang above a waterfall, competing for prey. |
 
 ### Sunken Grotto
 
-| Level        | Example Encounters                                                                                                                                                                                                                                           |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st          | *   A **lizardfolk** hunter is teaching their trained giant crabs how to hunt.                                                                                                                                                                               |
-| 2nd to 4th   | *   A **sea hag** commands loyal kuo-toa to set up an effigy to a fictitious god.
-*   A **lizard king** with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                  |
-| 5th to 10th  | *   An **aboleth** in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.
-*   A **sahuagin baron** watches a pack of sahuagin fight water weirds.
-*   A corrupt **sahuagin priestess** feeds sacrificial victims to giant crocodiles. |
-| 11th to 16th | *   A **kraken** rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                           |
+| Level        | Example Encounters                                                                                                                                                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st          | * A **lizardfolk** hunter is teaching their trained giant crabs how to hunt.                                                                                                                                                                           |
+| 2nd to 4th   | - A **sea hag** commands loyal kuo-toa to set up an effigy to a fictitious god.
+- A **lizard king** with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                |
+| 5th to 10th  | * An **aboleth** in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.
+* A **sahuagin baron** watches a pack of sahuagin fight water weirds.
+* A corrupt **sahuagin priestess** feeds sacrificial victims to giant crocodiles. |
+| 11th to 16th | - A **kraken** rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                       |
 
 ## <a id="monstersandthetiersofplay"></a>Monsters and the Tiers of Play
 

@@ -27,12 +27,11 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "*   A pair of skeletons rises from a pile of crawling claws.",
+            "* A pair of skeletons rises from a pile of crawling claws.",
         },
         {
           level: "2nd to 4th",
-          example_encounters:
-            "*   A lost ghost wanders, surrounded by specters.",
+          example_encounters: "- A lost ghost wanders, surrounded by specters.",
         },
       ],
     },
@@ -41,10 +40,16 @@ module.exports = {
       order: 1,
       data: [
         {
-          item: "A bone naga rises from an obsidian sarcophagus to command a host of skeletons.                                  |\n| 5th to 10th  | *   A mummy lord entombed in a cold-iron sarcophagus is guarded by mummies and wights.",
+          item: "A bone naga rises from an obsidian sarcophagus to command a host of skeletons.                                  |\n| 5th to 10th  | * A mummy lord entombed in a cold-iron sarcophagus is guarded by mummies and wights.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
-          item: "A pair of wraiths float above unholy urns surrounded by vengeful specters. |\n| 11th to 16th | *   A vampire in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                             |\n| 17th to 20th | *   A lich in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                               |",
+          item: "A pair of wraiths float above unholy urns surrounded by vengeful specters. |\n| 11th to 16th | - A vampire in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                           |\n| 17th to 20th | * A lich in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                             |",
         },
       ],
     },

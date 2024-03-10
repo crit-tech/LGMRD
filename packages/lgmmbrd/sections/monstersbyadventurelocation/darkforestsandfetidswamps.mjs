@@ -27,12 +27,12 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "*   An elf cultist hunts prey with bloodthirsty wolves.",
+            "* An elf cultist hunts prey with bloodthirsty wolves.",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   Two ettercaps and their giant spiders stalk adventurers.",
+            "- Two ettercaps and their giant spiders stalk adventurers.",
         },
       ],
     },
@@ -45,13 +45,19 @@ export default {
           item: "A green hag lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.",
         },
         {
-          item: "A werewolf prowls the shadows with their dire wolf companions. |\n| 5th to 10th  | *   An orc war chief commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                              |\n| 11th to 16th | *   An adult black dragon commands a host of trolls made loyal through fear.",
+          item: "A werewolf prowls the shadows with their dire wolf companions. |\n| 5th to 10th  | * An orc war chief commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                        |\n| 11th to 16th | - An adult black dragon commands a host of trolls made loyal through fear.",
         },
         {
-          item: "An adult green dragon lurks in a dead forest, protected by shambling mounds.                                                                                                                                  |\n| 17th to 20th | *   An ancient black dragon dwells in a sunken bog filled with giant crocodiles.",
+          item: "An adult green dragon lurks in a dead forest, protected by shambling mounds.                                                                                                                              |\n| 17th to 20th | * An ancient black dragon dwells in a sunken bog filled with giant crocodiles.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
-          item: "An ancient green dragon rules from an ancient wooden throne guarded by loyal treants.                                                                                                                     |",
+          item: "An ancient green dragon rules from an ancient wooden throne guarded by loyal treants.                                                                                                                 |",
         },
       ],
     },

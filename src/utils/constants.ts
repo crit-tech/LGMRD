@@ -12,6 +12,7 @@ export type OutputFormat =
   | "epub"
   | "markdown"
   | "markdown_separate"
+  | "markdown_obsidian"
   | "json";
 
 export type DocType = "LGMRD" | "5e_Monster_Builder";
@@ -27,5 +28,13 @@ export const MARKDOWN_SEPARATE_PATHS: Record<DocType, string> = {
   "5e_Monster_Builder": path.join(
     OUTPUT_PATH,
     "markdown_separate_5e_monster_builder"
+  ),
+};
+
+export const MARKDOWN_OBSIDIAN_PATHS: Record<DocType, string> = {
+  LGMRD: MARKDOWN_SEPARATE_PATHS.LGMRD.replace("separate", "obsidian"),
+  "5e_Monster_Builder": MARKDOWN_SEPARATE_PATHS["5e_Monster_Builder"].replace(
+    "separate",
+    "obsidian"
   ),
 };

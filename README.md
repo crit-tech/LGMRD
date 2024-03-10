@@ -11,8 +11,9 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 ### The Lazy GM's Resource Document
 
 - [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Thu, 08 Feb 2024 02:14:22 GMT</span>**
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Thu, 08 Feb 2024 02:14:26 GMT</span>**
-- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Thu, 08 Feb 2024 02:14:26 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Sun, 10 Mar 2024 23:21:26 GMT</span>**
+- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Sun, 10 Mar 2024 23:21:26 GMT</span>**
+- [Markdown for Obsidian](https://github.com/crit-tech/LGMRD/tree/main/markdown_obsidian) **Updated: <span id="markdown_obsidian-last-updated">Sun, 10 Mar 2024 23:21:53 GMT</span>**
 - [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Thu, 08 Feb 2024 02:14:27 GMT</span>**
 - [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Thu, 08 Feb 2024 02:14:27 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Thu, 08 Feb 2024 02:14:24 GMT</span>**
@@ -22,10 +23,11 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 ### The Lazy GM's 5e Monster Builder Resource Document
 
 - [HTML](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.html) **Updated: <span id="mb-html-last-updated">Sat, 10 Feb 2024 00:52:43 GMT</span>**
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.md) **Updated: <span id="mb-markdown-last-updated">Sat, 10 Feb 2024 00:52:45 GMT</span>**
-- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate_5e_monster_builder) files **Updated: <span id="mb-markdown_separate-last-updated">Sat, 10 Feb 2024 00:52:45 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Sat, 10 Feb 2024 00:52:45 GMT</span>**
-- [NPM](https://www.npmjs.com/package/@crit-tech/lgmmbrd) **Updated: <span id="mb-json-last-updated">Sat, 10 Feb 2024 00:52:45 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.md) **Updated: <span id="mb-markdown-last-updated">Sun, 10 Mar 2024 23:21:27 GMT</span>**
+- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate_5e_monster_builder) files **Updated: <span id="mb-markdown_separate-last-updated">Sun, 10 Mar 2024 23:21:27 GMT</span>**
+- [Markdown for Obsidian](https://github.com/crit-tech/LGMRD/tree/main/markdown_obsidian_5e_monster_builder) **Updated: <span id="mb-markdown_separate-last-updated">Sun, 10 Mar 2024 23:21:27 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.json) **Updated: <span id="mb-json-last-updated">Sun, 10 Mar 2024 23:21:54 GMT</span>**
+- [NPM](https://www.npmjs.com/package/@crit-tech/lgmmbrd) **Updated: <span id="mb-json-last-updated">Sun, 10 Mar 2024 23:21:54 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.pdf) **Updated: <span id="mb-pdf-last-updated">Sat, 10 Feb 2024 00:52:44 GMT</span>**
 - [EPUB](https://github.com/crit-tech/LGMRD/blob/main/5e_Monster_Builder.epub) **Updated: <span id="mb-epub-last-updated">Sat, 10 Feb 2024 00:52:44 GMT</span>**
 - [BRAILLE](https://github.com/crit-tech/LGMRD/blob/main/The_Lazy_GMs_5e_Monster_Builder_Resource_Document.brf) **Updated: <span id="mb-braille-last-updated">Sat, 10 Feb 2024 00:52:44 GMT</span>**

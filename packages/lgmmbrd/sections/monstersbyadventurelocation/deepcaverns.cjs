@@ -27,7 +27,7 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "*   A cockatrice pecks at a crumbling statue, while stirges linger above.",
+            "* A cockatrice pecks at a crumbling statue, while stirges linger above.",
         },
       ],
     },
@@ -36,11 +36,23 @@ module.exports = {
       order: 1,
       data: [
         {
-          item: "A giant bat surrounded by swarms of bats skulks in the shadows.                                                                                         |\n| 2nd to 4th  | *   Darkmantles and piercers lurk in pools of shadow.",
+          item: "A giant bat surrounded by swarms of bats skulks in the shadows.                                                                                       |\n| 2nd to 4th  | - Darkmantles and piercers lurk in pools of shadow.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
-          item: "A worg-riding goblin boss commands a squad of goblin hunters.                                                                                                               |\n| 5th to 10th | *   Basilisks and cockatrices lair in a hall full of petrified adventurers.",
+          item: "A worg-riding goblin boss commands a squad of goblin hunters.                                                                                                             |\n| 5th to 10th | * Basilisks and cockatrices lair in a hall full of petrified adventurers.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 3,
+      data: [
         {
           item: "A cloaker lurks above a pack of hook horrors disemboweling a dead bulette.",
         },

@@ -27,12 +27,12 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "*   A lizardfolk hunter is teaching their trained giant crabs how to hunt.",
+            "* A lizardfolk hunter is teaching their trained giant crabs how to hunt.",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   A sea hag commands loyal kuo-toa to set up an effigy to a fictitious god.",
+            "- A sea hag commands loyal kuo-toa to set up an effigy to a fictitious god.",
         },
       ],
     },
@@ -41,13 +41,19 @@ module.exports = {
       order: 1,
       data: [
         {
-          item: "A lizard king with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                  |\n| 5th to 10th  | *   An aboleth in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.",
+          item: "A lizard king with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                |\n| 5th to 10th  | * An aboleth in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
           item: "A sahuagin baron watches a pack of sahuagin fight water weirds.",
         },
         {
-          item: "A corrupt sahuagin priestess feeds sacrificial victims to giant crocodiles. |\n| 11th to 16th | *   A kraken rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                           |",
+          item: "A corrupt sahuagin priestess feeds sacrificial victims to giant crocodiles. |\n| 11th to 16th | - A kraken rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                       |",
         },
       ],
     },

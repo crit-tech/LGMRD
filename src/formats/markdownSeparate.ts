@@ -5,7 +5,7 @@ import rehypeParse from "rehype-parse";
 import rehypeRemark from "rehype-remark";
 import remarkGfm from "remark-gfm";
 import remarkStringify from "remark-stringify";
-import { Heading as MarkdownHeading, HTML, Link, Root } from "mdast";
+import { Heading as MarkdownHeading, Html, Link, Root } from "mdast";
 import { toMarkdown } from "mdast-util-to-markdown";
 import { gfmToMarkdown } from "mdast-util-gfm";
 import { Node } from "unist";
@@ -13,6 +13,7 @@ import { visit } from "unist-util-visit";
 
 import { rehypeRemarkOptions } from "./markdown.js";
 import { DocType, MARKDOWN_SEPARATE_PATHS } from "../utils/constants.js";
+import { getAndDeletePreviousMarkdown } from "../utils/markdown.js";
 
 export async function convertToMarkdownSeparate(
   docType: DocType,
@@ -20,24 +21,9 @@ export async function convertToMarkdownSeparate(
 ): Promise<boolean> {
   process.stdout.write(`Converting ${docType} to Markdown (separate files)...`);
 
-  const markdownFiles = fs
-    .readdirSync(MARKDOWN_SEPARATE_PATHS[docType])
-    .filter((file) => file.endsWith(".md"))
-    .sort();
-
-  const previousMarkdown =
-    "\n" +
-    markdownFiles
-      .map((file) => {
-        const markdownFilePath = path.join(
-          MARKDOWN_SEPARATE_PATHS[docType],
-          file
-        );
-        const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
-        fs.unlinkSync(markdownFilePath);
-        return markdownFileContent;
-      })
-      .join("\n");
+  const previousMarkdown = getAndDeletePreviousMarkdown(
+    MARKDOWN_SEPARATE_PATHS[docType]
+  );
 
   const sections: Record<string, Node[]> = {};
   let currentSection: Node[] = [];
@@ -48,7 +34,7 @@ export async function convertToMarkdownSeparate(
       for (const node of tree.children) {
         if (node.type === "heading") {
           const heading = node as MarkdownHeading;
-          const id = (heading?.children?.[0] as HTML)?.value;
+          const id = (heading?.children?.[0] as Html)?.value;
           if (heading.depth === 2 && id.startsWith('<a id="')) {
             sections[currentSectionName] = currentSection;
             currentSection = [];

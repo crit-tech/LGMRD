@@ -47,8 +47,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "http://creativecommons.org/licenses/by/4.0/",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -74,8 +74,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://slyflourish.com/lazy_5e_monster_building_resource_document.html",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -89,8 +89,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://alphastream.org",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -104,8 +104,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://insaneangel.com",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -119,8 +119,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "https://slyflourish.com",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -134,8 +134,8 @@
             },
             {
               "type": "link",
-              "title": null,
               "url": "http://creativecommons.org/licenses/by/4.0/",
+              "title": null,
               "children": [
                 {
                   "type": "text",
@@ -160,8 +160,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://dnd.wizards.com/resources/systems-reference-document",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -175,8 +175,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -199,8 +199,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://calibre-ebook.com",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -214,8 +214,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://pandoc.org",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -229,8 +229,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://www.amazon.com/sendtokindle",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -253,8 +253,8 @@
         },
         {
           "type": "link",
-          "title": null,
           "url": "https://github.com/crit-tech/LGMRD",
+          "title": null,
           "children": [
             {
               "type": "text",
@@ -294,8 +294,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#buildingaquickmonster",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -317,8 +317,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#generalusestatblocks",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -340,8 +340,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#lazytricksforrunningmonsters",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -363,8 +363,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#lightingrods",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -386,8 +386,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monsterroles",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -409,8 +409,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#bossesandminions",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -432,8 +432,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#combatencounterchecklist",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -455,8 +455,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monstercombinationsforahardchallenge",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -478,8 +478,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#lazyencounterbenchmark",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -501,8 +501,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monstersbyadventurelocation",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",
@@ -524,8 +524,8 @@
               "children": [
                 {
                   "type": "link",
-                  "title": null,
                   "url": "#monstersandthetiersofplay",
+                  "title": null,
                   "children": [
                     {
                       "type": "text",

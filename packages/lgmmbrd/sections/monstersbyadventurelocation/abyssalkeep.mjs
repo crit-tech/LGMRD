@@ -27,7 +27,7 @@ export default {
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   A night hag and their pet quasit schemes within a chamber guarded by hell hounds.",
+            "* A night hag and their pet quasit schemes within a chamber guarded by hell hounds.",
         },
       ],
     },
@@ -36,7 +36,7 @@ export default {
       order: 1,
       data: [
         {
-          item: "A summoning circle disgorges a barlgura and a gang of dretches. |\n| 5th to 10th  | *   A glabrezu commands from a throne flanked by chasmes.                                                                                                     |\n| 11th to 16th | *   A marilith, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                                |\n| 17th to 20th | *   A balor, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                          |",
+          item: "A summoning circle disgorges a barlgura and a gang of dretches. |\n| 5th to 10th  | - A glabrezu commands from a throne flanked by chasmes.                                                                                                   |\n| 11th to 16th | * A marilith, their cambion advisor, and a number of hezrou servants guard a planar gateway.                                                              |\n| 17th to 20th | - A balor, a servile archmage, and a squad of glabrezu soldiers guard an artifact.                                                                        |",
         },
       ],
     },

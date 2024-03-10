@@ -27,12 +27,12 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "*   A wandering zombie is covered by a swarm of rats.",
+            "* A wandering zombie is covered by a swarm of rats.",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   An erudite ghast weaves fantastic tales to their ravenous ghoul followers.",
+            "- An erudite ghast weaves fantastic tales to their ravenous ghoul followers.",
         },
       ],
     },

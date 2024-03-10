@@ -27,7 +27,7 @@ export default {
         {
           level: "2nd to 4th",
           example_encounters:
-            "*   A bearded devil draws lemures through a portal connected to the river Styx.",
+            "* A bearded devil draws lemures through a portal connected to the river Styx.",
         },
       ],
     },
@@ -36,10 +36,16 @@ export default {
       order: 1,
       data: [
         {
-          item: "A barbed devil and a host of imps keep watch on enemy forces.        |\n| 5th to 10th  | *   An armored erinyes commanding a host of spined devils prepares for war.",
+          item: "A barbed devil and a host of imps keep watch on enemy forces.        |\n| 5th to 10th  | - An armored erinyes commanding a host of spined devils prepares for war.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
-          item: "A horned devil leading bearded devil soldiers guards an oracular sphere. |\n| 11th to 16th | *   Ice devil wardens and bone devil guards protect a valuable prisoner.                                                                                     |\n| 17th to 20th | *   Pit fiend commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                                |",
+          item: "A horned devil leading bearded devil soldiers guards an oracular sphere. |\n| 11th to 16th | * Ice devil wardens and bone devil guards protect a valuable prisoner.                                                                                   |\n| 17th to 20th | - Pit fiend commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                              |",
         },
       ],
     },

@@ -27,7 +27,7 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "*   A giant rat and the swarm of rats that travels with them are feeding on a dead body.",
+            "* A giant rat and the swarm of rats that travels with them are feeding on a dead body.",
         },
       ],
     },
@@ -36,14 +36,26 @@ export default {
       order: 1,
       data: [
         {
-          item: "A thug and a pack of bandit toadies are waiting for someone to rob.                                                                                                                     |\n| 2nd to 4th  | *   A spy assisted by thugs has been hired to steal something from the characters.",
+          item: "A thug and a pack of bandit toadies are waiting for someone to rob.                                                                                                                   |\n| 2nd to 4th  | - A spy assisted by thugs has been hired to steal something from the characters.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 2,
+      data: [
         {
           item: "A bandit captain with berserker bodyguards and bandit followers is easily insulted.",
         },
         {
-          item: "A cult fanatic leads cultists who have summoned ravenous dretches into the world.                 |\n| 5th to 10th | *   A mage commanding veterans is seeking something the characters seek as well.",
+          item: "A cult fanatic leads cultists who have summoned ravenous dretches into the world.                 |\n| 5th to 10th | * A mage commanding veterans is seeking something the characters seek as well.",
         },
+      ],
+    },
+    {
+      type: "table",
+      order: 3,
+      data: [
         {
           item: "A bandit captain protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.",
         },
