@@ -33,10 +33,15 @@ export async function convertToMarkdownObsidian(
   );
 
   let newMarkdown = "";
+  const titleMap = new Map<string, string>();
+  const obsidianMarkdownFiles: string[] = [];
+
+  // First pass over files to get titles
   for (const file of separateMarkdownFiles) {
     const markdownFileContent = fs.readFileSync(file, "utf8");
 
-    let title = path.basename(file, ".md");
+    const oldTitle = path.basename(file, ".md");
+    let title = oldTitle;
     const titleFinderPlugin = () => {
       return (tree: Root) => {
         visit(tree, "heading", (node) => {
@@ -55,14 +60,49 @@ export async function convertToMarkdownObsidian(
       .use(remarkStringify)
       .process(markdownFileContent);
 
+    titleMap.set(oldTitle, title);
+
     const markdownFilePath = path.join(
       MARKDOWN_OBSIDIAN_PATHS[docType],
       `${title}.md`
     );
     fs.writeFileSync(markdownFilePath, data.toString());
+    obsidianMarkdownFiles.push(markdownFilePath);
+  }
 
+  // Second pass over files to update links
+  for (const file of obsidianMarkdownFiles) {
+    const markdownFileContent = fs.readFileSync(file, "utf8");
+
+    const linkUpdaterPlugin = () => {
+      return (tree: Root) => {
+        visit(tree, "link", (node) => {
+          const link = node.url as string;
+          if (link.startsWith("http")) {
+            return;
+          }
+
+          const oldTitle = path.basename(link, ".md");
+          const newTitle = titleMap.get(oldTitle);
+          if (newTitle) {
+            node.url = newTitle + ".md";
+          }
+        });
+      };
+    };
+
+    const data = await unified()
+      .use(remarkParse)
+      .use(remarkGfm)
+      .use(linkUpdaterPlugin)
+      .use(remarkStringify)
+      .process(markdownFileContent);
+
+    fs.writeFileSync(file, data.toString());
     newMarkdown += "\n" + data.toString();
   }
+
+  process.stdout.write("Done\n");
 
   return previousMarkdown !== newMarkdown;
 }

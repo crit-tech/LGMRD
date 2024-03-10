@@ -41,11 +41,11 @@ The following tricks can also help make it easier for you to improvise during yo
 
 Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is "balanced" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.
 
-If an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](lazycombatencounterbuilding.md) later in this document.
+If an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](<Lazy Combat Encounter Building for 5e.md>) later in this document.
 
 ## Running Hordes
 
-When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](runninghordes.md)" later in this document.
+When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](<Running Hordes.md>)" later in this document.
 
 ## Names
 
@@ -53,4 +53,4 @@ You can never have enough names on hand while improvising your game. Here are a 
 
 First Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope
 
-Last Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](npcgenerator.md)" section later in this document.
+Last Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](<NPC Generator.md>)" section later in this document.
