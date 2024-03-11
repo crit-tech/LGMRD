@@ -1,5 +1,3 @@
-# The Lazy GM's Resource Document
-
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
 Updated 10 September 2023

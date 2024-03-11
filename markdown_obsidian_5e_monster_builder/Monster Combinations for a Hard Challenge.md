@@ -1,5 +1,3 @@
-# Monster Combinations for a Hard Challenge
-
 When GMs design encounters, we often have a concept that includes the number of foes the characters will face. An encounter might feature a squad of four monsters going against the characters one-to-one, or perhaps a larger force of six or eight swarming the heroes. Or maybe we want a stronger creature, acting as a boss or captain, with only a few other creatures to back them up. And, of course, it's always fun for characters to face a single dangerous foe.
 
 This section provides guidelines for combining creatures of different challenge ratings to enable these various concepts. Simply pick your concept, consult the appropriate table for the number of characters in your game, look up their average character level, and you have the monster challenge ratings you need to build different types of encounters and boss scenarios. You can then use the other tips in this document to make encounters unique.

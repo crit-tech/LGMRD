@@ -1,5 +1,3 @@
-# Running Hordes
-
 This section helps you more easily run battles in which the characters face large numbers of monsters.
 
 To accommodate running horde combat, we change the rules for running monsters in two ways: adjusting how we track damage done to monsters in a horde, and how we adjudicate attack rolls and saving throws for the horde. You can use these approaches individually or together when running large numbers of monsters.

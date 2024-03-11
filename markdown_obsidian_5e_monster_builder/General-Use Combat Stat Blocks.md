@@ -1,5 +1,3 @@
-# General-Use Combat Stat Blocks
-
 This section contains several general-use stat blocks specifically built for reskinning into whatever monsters you need for your combat encounters.
 
 Each stat block uses d8 Hit Dice, but can be used for creatures in a range of sizes. Each focuses on a primary ability score, but you can shift abilities as needed to better fit the story of the creature the stat block represents. Swap Strength and Intelligence to run a spellcaster instead of a melee combatant, or switch Dexterity and Strength to turn a shifty rogue into a powerful fighter.

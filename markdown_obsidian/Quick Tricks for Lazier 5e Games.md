@@ -1,5 +1,3 @@
-# Quick Tricks for Lazier 5e Games
-
 ## Start with Inspiration
 
 Award inspiration to each character at the beginning of a session. This takes some of the weight off of needing to remember to reward inspiration during the game. You can still award it again during the game if players have used it.

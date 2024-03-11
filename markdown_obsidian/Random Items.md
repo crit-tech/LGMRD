@@ -1,5 +1,3 @@
-# Random Items
-
 The following lists allow you to generate useful relics and objects, from mundane discoveries to powerful magical artifacts. If you want to come up with an interesting magic weapon, for example, you might roll on the Item Condition, Item Origin, Weapon, and Spell Effect tables. If you just want a weird mundane item, roll on the Item Condition, Item Origin, and Mundane Item tables without adding any effect.
 
 Some strange relics might allow a single use of a powerful magical spell. Roll on the Item Condition, Item Origin, Mundane Item, and Spell Effect table to generate a unique single-use magical relic.
@@ -7,6 +5,8 @@ Some strange relics might allow a single use of a powerful magical spell. Roll o
 Also included is a table noting the four types of *healing potions* and how many hit points each potion restores.
 
 ## 1d20 Weapon Types
+
+`dice: [[Random Items#^1d20-weapon-types]]`
 
 1. Dagger
 2. Mace
@@ -29,7 +29,11 @@ Also included is a table noting the four types of *healing potions* and how many
 19. Heavy crossbow
 20. Longbow
 
+^1d20-weapon-types
+
 ## 1d20 Item Origins
+
+`dice: [[Random Items#^1d20-item-origins]]`
 
 1. Draconic
 2. Dwarven
@@ -52,7 +56,11 @@ Also included is a table noting the four types of *healing potions* and how many
 19. Elemental
 20. Gnomish
 
+^1d20-item-origins
+
 ## 1d20 Item Conditions
+
+`dice: [[Random Items#^1d20-item-conditions]]`
 
 1. Grimy
 2. Chipped
@@ -75,7 +83,11 @@ Also included is a table noting the four types of *healing potions* and how many
 19. Shining
 20. Smoldering
 
+^1d20-item-conditions
+
 ## 1d12 Armor Types
+
+`dice: [[Random Items#^1d12-armor-types]]`
 
 1. Leather
 2. Studded leather
@@ -90,7 +102,11 @@ Also included is a table noting the four types of *healing potions* and how many
 11. Plate
 12. Shield
 
+^1d12-armor-types
+
 ## 50 Mundane Items
+
+`dice: [[Random Items#^50-mundane-items]]`
 
 1. Amulet
 2. Arrowhead
@@ -143,7 +159,11 @@ Also included is a table noting the four types of *healing potions* and how many
 49. Vial
 50. Wand
 
+^50-mundane-items
+
 ## 50 Spell Effect
+
+`dice: [[Random Items#^50-spell-effect]]`
 
 1. *Acid arrow*
 2. *Acid splash*
@@ -196,7 +216,13 @@ Also included is a table noting the four types of *healing potions* and how many
 49. *True strike*
 50. *Web*
 
+^50-spell-effect
+
 ## Potions of Healing
+
+**Potion of: **`dice: [[Random Items#^potions-of-healing]]|Potion of`  
+**Rarity: **`dice: [[Random Items#^potions-of-healing]]|Rarity`  
+**HP Regained: **`dice: [[Random Items#^potions-of-healing]]|HP Regained`
 
 | d20     | Potion of        | Rarity    | HP Regained |
 | ------- | ---------------- | --------- | ----------- |
@@ -204,3 +230,5 @@ Also included is a table noting the four types of *healing potions* and how many
 | 13 - 16 | Greater healing  | Uncommon  | 4d4 + 4     |
 | 17 - 19 | Superior healing | Rare      | 8d4 + 8     |
 | 20      | Supreme healing  | Very rare | 10d4 + 20   |
+
+^potions-of-healing

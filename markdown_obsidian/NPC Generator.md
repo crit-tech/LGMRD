@@ -1,5 +1,3 @@
-# NPC Generator
-
 NPCs bring our game worlds to life. You can use the generator in this section to quickly build NPCs to drop into your game, rolling on the tables below to generate baseline characteristics. To really bring the NPC to life, you can then model their personality and roleplaying off characters from your favorite books, TV shows, or movies, switching up gender and other traits to make them feel fresh.
 
 ## Names
@@ -14,6 +12,8 @@ Use the following table to choose a random ancestry for your NPC.
 
 ## 1d10 Ancestries
 
+`dice: [[NPC Generator#^1d10-ancestries]]`
+
 1. Human
 2. Elf
 3. Dwarf
@@ -25,11 +25,15 @@ Use the following table to choose a random ancestry for your NPC.
 9. Dragonborn
 10. Tiefling
 
+^1d10-ancestries
+
 ## Worldview
 
 An NPC's worldview can help determine how they initially react to the characters, adjusted by how the characters approach them. Improvise DCs for social interaction ability checks based on that approach, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.
 
 ## 1d20 Worldviews
+
+`dice: [[NPC Generator#^1d20-worldviews]]`
 
 1. Surly
 2. Friendly
@@ -52,11 +56,15 @@ An NPC's worldview can help determine how they initially react to the characters
 19. Greedy
 20. Outgoing
 
+^1d20-worldviews
+
 ## Appearance and Mannerisms
 
 NPCs will often be most easily remembered by the players based on some unique aspect of their appearance or manners.
 
 ## 1d20 Appearances and Mannerisms
+
+`dice: [[NPC Generator#^1d20-appearances-and-mannerisms]]`
 
 1. Wild hair
 2. Scarred cheek
@@ -79,11 +87,15 @@ NPCs will often be most easily remembered by the players based on some unique as
 19. Missing fingers
 20. Half-shaved head
 
+^1d20-appearances-and-mannerisms
+
 ## Profession
 
 Assign a profession to your NPC to add color to their stat block. The commoner is the default stat block for NPCs of this type.
 
 ## 1d20 Professions
+
+`dice: [[NPC Generator#^1d20-professions]]`
 
 1. Farmer
 2. Blacksmith
@@ -105,3 +117,5 @@ Assign a profession to your NPC to add color to their stat block. The commoner i
 18. Veteran
 19. Knight
 20. Mage
+
+^1d20-professions

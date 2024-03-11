@@ -1,8 +1,8 @@
-# Random Town Events
-
 Whenever the characters enter a new town or start a new session there, adding some detail and context to the setting can help bring things to life. These "Town Events" lists help determine what might be going on in a town, how the townsfolk are currently feeling, what the weather is, and what mundane or fantastic event might be taking place.
 
 ## 1d20 Town Sentiments
+
+`dice: [[Random Town Events#^1d20-town-sentiments]]`
 
 1. Happy
 2. Elated
@@ -25,7 +25,11 @@ Whenever the characters enter a new town or start a new session there, adding so
 19. Busy
 20. Suspicious
 
+^1d20-town-sentiments
+
 ## 1d20 Mundane Events
+
+`dice: [[Random Town Events#^1d20-mundane-events]]`
 
 1. Wedding
 2. Funeral
@@ -48,7 +52,11 @@ Whenever the characters enter a new town or start a new session there, adding so
 19. Wrangling of rampaging beasts
 20. Festival of kites
 
+^1d20-mundane-events
+
 ## 1d20 Notable Weather Condtions
+
+`dice: [[Random Town Events#^1d20-notable-weather-condtions]]`
 
 1. Fog
 2. Heavy mist
@@ -71,7 +79,11 @@ Whenever the characters enter a new town or start a new session there, adding so
 19. Moderate snowfall
 20. Snowstorm
 
+^1d20-notable-weather-condtions
+
 ## 1d20 Fantastic Events
+
+`dice: [[Random Town Events#^1d20-fantastic-events]]`
 
 1. The stars have disappeared from the sky
 2. An unexpected solar eclipse
@@ -93,3 +105,5 @@ Whenever the characters enter a new town or start a new session there, adding so
 18. The lord's castle disappears
 19. The border to the fey realm grows thin
 20. The world of shadow bleeds over into the material realm
+
+^1d20-fantastic-events

@@ -1,5 +1,3 @@
-# Stress Effects
-
 The guidelines in this section replace the madness rules found in other books. The concept of "madness" has long been used to malign and marginalize complex psychological symptoms and the individuals coping with them.
 
 This new approach works with explicitly supernatural hindrances to break away from those stereotypes.
@@ -39,6 +37,8 @@ Whenever a character witnesses a potential stress event, you can ask for a Chari
 
 ## 1d20 Stress Results
 
+`dice: [[Stress Effects#^1d20-stress-results]]`
+
 1. You slip into a mental vision of a restful place.
 2. You whisper in a tongue no mortal understands.
 3. Blood flows from your eyes.
@@ -59,6 +59,8 @@ Whenever a character witnesses a potential stress event, you can ask for a Chari
 18. You hear the whispers of an otherworldly being.
 19. You scream as blood flows from your mouth.
 20. You feel as though all your bones begin to crack.
+
+^1d20-stress-results
 
 You determine how long the effect lasts and can add mechanical hindrances inspired by the effect at your discretion. Alternatively, you can add the following mechanical effect:
 

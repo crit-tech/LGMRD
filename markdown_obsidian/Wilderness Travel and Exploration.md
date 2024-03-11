@@ -1,5 +1,3 @@
-# Wilderness Travel and Exploration
-
 This section offers a systematic approach for handling travel through wild lands filled with potential dangers, and can be used with both point crawls (see the previous page) or hex crawls.
 
 As the characters travel overland, they undertake specific activities related to the journey. Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.

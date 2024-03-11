@@ -45,6 +45,7 @@
     "tsx": "^4.6.2",
     "unified": "^11.0.4",
     "unist-util-visit": "^5.0.0",
+    "unist-util-visit-parents": "^6.0.1",
     "word-wrap": "^1.2.5"
   }
 }

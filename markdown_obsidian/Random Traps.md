@@ -1,10 +1,10 @@
-# Random Traps
-
 Use these lists to generate simple or complex traps, incorporating multiple features, plus energy damage or conditions.
 
 To generate a simple trap, just roll on the Type list and the Trigger table. For a more dangerous trap, add an effect from the Flavor table to put a unique twist on the damage or impose a debilitating condition. For a really devious trap, you can roll on the Flavor table and Type table twice, combining features into deadly combinations such as 'sleep-inducing bolos and thunderous crushing pillars, triggered by an onyx demon's skull.'
 
 ## 1d20 Flavors
+
+`dice: [[Random Traps#^1d20-flavors]]`
 
 1. Fiery
 2. Freezing
@@ -27,7 +27,11 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 19. Maddening
 20. Confusing
 
+^1d20-flavors
+
 ## 1d20 Types
+
+`dice: [[Random Traps#^1d20-types]]`
 
 1. Bolts
 2. Spears
@@ -50,7 +54,11 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 19. Hammers
 20. Shurikens
 
+^1d20-types
+
 ## 1d20 Triggers
+
+`dice: [[Random Traps#^1d20-triggers]]`
 
 1. Door
 2. Floor plate
@@ -72,6 +80,8 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 18. Bound prisoner
 19. Weapon on an altar
 20. Idol on pedestal
+
+^1d20-triggers
 
 ## Damage Severity by Level
 

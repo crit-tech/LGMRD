@@ -1,5 +1,3 @@
-# The Lazy RPG Preparation Process
-
 ## The Lazy RPG Prep Toolkit
 
 * Dice, pencils, and dry-erase markers

@@ -1,10 +1,10 @@
-# Example Strong Starts
-
 A strong start kicks your game off in the middle of the action. It helps the players to let go of the real world and fall into the story unfolding at the table. Depending on where your adventure takes place, you can use any of the following strong starts in your own game, whether running a single-session adventure or a longer campaign.
 
 ## Cities and Towns
 
 In a settlement, a strong start can make use of either combat or roleplaying.
+
+`dice: [[Example Strong Starts#^cities-and-towns]]`
 
 1. The characters interrupt bandits breaking into a shop.
 2. Something slithers out of a nearby sewer.
@@ -17,9 +17,13 @@ In a settlement, a strong start can make use of either combat or roleplaying.
 9. A golem from a wizards' academy goes on a rampage.
 10. The local monarch is assassinated and a villain takes over the government.
 
+^cities-and-towns
+
 ## Sewers
 
 A session that starts in a sewer can make use of numerous monsters and hazards.
+
+`dice: [[Example Strong Starts#^sewers]]`
 
 1. A flood of poisonous water flows past the characters' position.
 2. The sewer collapses into deeper tunnels sealed up for centuries.
@@ -32,9 +36,13 @@ A session that starts in a sewer can make use of numerous monsters and hazards.
 9. A wall collapses, revealing a hidden temple of the god of slimes and oozes.
 10. A flood of water draws the characters into a dangerously large mechanical sluice system.
 
+^sewers
+
 ## Wilderness
 
 Wilderness locations can involve either action or mystery in a strong start.
+
+`dice: [[Example Strong Starts#^wilderness]]`
 
 1. A nearby tree opens up, and a satyr steps through and says "Hi!"
 2. A rampaging werebear storms through the area, mistaking the characters for the hunters who killed their mate.
@@ -47,9 +55,13 @@ Wilderness locations can involve either action or mystery in a strong start.
 9. A skeleton hanging from a tree begs the characters to right the wrong it committed while alive.
 10. A sinkhole opens up, revealing the tunnels of long-forgotten burial chambers.
 
+^wilderness
+
 ## Dungeons, Caves, and Caverns
 
 Subterranean adventures lend themselves to the widest possible range of strong starts.
+
+`dice: [[Example Strong Starts#^dungeons-caves-and-caverns]]`
 
 1. A vampire appears from a sudden rise of mist, introduces herself, and asks the characters for a favor.
 2. An ancient statue turns its head toward the characters and whispers a valuable secret.
@@ -61,3 +73,5 @@ Subterranean adventures lend themselves to the widest possible range of strong s
 8. The ground cracks open and a pillar of chipped obsidian juts out, projecting a prophecy in red Infernal glyphs on the walls of the chamber.
 9. Stars swim in a moonlit well, then rise up to reveal themselves as will-o'-wisps.
 10. A spectral hound guides the characters to the camp of a reclusive mage.
+
+^dungeons-caves-and-caverns

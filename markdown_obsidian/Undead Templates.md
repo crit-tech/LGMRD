@@ -1,5 +1,3 @@
-# Undead Templates
-
 Death comes to all things, but not even death can keep a good monster down. You can easily create an undead variant of any monster simply by giving it the undead type and describing its undead appearance, letting the narrative feed the players' impression of fighting undead without requiring any mechanical changes. But for even more realistic undead, you can use any of the following templates to give a monster some of the properties and attributes of a specific type of undead creature.
 
 ## Undead Templates

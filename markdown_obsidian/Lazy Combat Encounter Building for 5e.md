@@ -1,5 +1,3 @@
-# Lazy Combat Encounter Building for 5e
-
 This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
 
 ## Start with the Story

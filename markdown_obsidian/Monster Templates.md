@@ -1,5 +1,3 @@
-# Monster Templates
-
 The following monster templates can help you customize existing monsters into new unique variants that can fit a variety of locations and circumstances. With just a few templates in hand, your core monster books can become much more useful.
 
 ## Challenge Rating Increase?
@@ -10,12 +8,18 @@ The challenge ratings described in these templates are loose guides, so use your
 
 Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:
 
+**Elemental Template: **`dice: [[Monster Templates#^elemental-monsters]]|Elemental Template`  
+**d8: **`dice: [[Monster Templates#^elemental-monsters]]|d8`  
+**Elemental Template: **`dice: [[Monster Templates#^elemental-monsters]]|Elemental Template`
+
 | d8 | Elemental Template | d8 | Elemental Template |
 | -- | ------------------ | -- | ------------------ |
 | 1  | Fire               | 5  | Poison             |
 | 2  | Cold               | 6  | Necrotic           |
 | 3  | Lighting           | 7  | Radiant            |
 | 4  | Acid               | 8  | Thunder            |
+
+^elemental-monsters
 
 Then choose one or more of the following traits to customize your monster, making use of the damage type determined by the elemental template:
 
@@ -65,6 +69,10 @@ Some monsters can innately cast magical spells. Spell-infused monsters typically
 
 Spell-infused creatures do not require components to cast their spells. They typically use each of their spells once, recovering the ability to do so when they finish a long rest. Roll for or choose from the table to determine which spells a creature can use. Spells that deal high damage can affect a creature's challenge rating.
 
+**Spell: **`dice: [[Monster Templates#^spell-infused-monsters]]|Spell`  
+**d20: **`dice: [[Monster Templates#^spell-infused-monsters]]|d20`  
+**Spell: **`dice: [[Monster Templates#^spell-infused-monsters]]|Spell`
+
 | d20 | Spell          | d20 | Spell            |
 | --- | -------------- | --- | ---------------- |
 | 1   | Burning hands  | 11  | Invisibility     |
@@ -77,3 +85,5 @@ Spell-infused creatures do not require components to cast their spells. They typ
 | 8   | Thunderwave    | 18  | Gaseous form     |
 | 9   | Blur           | 19  | Lightning bolt   |
 | 10  | Darkness       | 20  | Fireball         |
+
+^spell-infused-monsters

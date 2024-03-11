@@ -1,5 +1,3 @@
-# Monster Roles
-
 Thinking about the roles that creatures play in combat helps to create better encounters. A monster who has tons of hit points can stand up front, soaking up damage while the more vulnerable evil wizard launches devastating spells from behind cover. Skirmisher monsters can dart in from the sides and back away, forcing the characters to spread out and leaving them open to an ambusher. Foes of different roles complement each other, creating an effective team.
 
 Monsters in 5e don't have defined roles with connections to specific mechanics and tactics, as the creatures in some fantasy RPGs do. However, many 5e foes either already fit a specific role or are flexible enough to allow us to assign roles to them. For example, a harpy is a highly effective controller, and a spy is an excellent skirmisher or ambusher. We can also modify monsters to enable them to play a role. By assigning a role to a foe, you enable a specific set of tactics that allow you to challenge the characters more effectively.

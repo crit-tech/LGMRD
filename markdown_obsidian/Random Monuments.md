@@ -1,8 +1,8 @@
-# Random Monuments
-
 Filling the various chambers and locations in your game with interesting features is always a challenge — and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
 
 ## 1d20 Origins
+
+`dice: [[Random Monuments#^1d20-origins]]`
 
 1. Draconic
 2. Dwarven
@@ -25,7 +25,11 @@ Filling the various chambers and locations in your game with interesting feature
 19. Elemental
 20. Gnomish
 
+^1d20-origins
+
 ## 1d20 Conditions
+
+`dice: [[Random Monuments#^1d20-conditions]]`
 
 1. Crumbling
 2. Sunken
@@ -48,7 +52,11 @@ Filling the various chambers and locations in your game with interesting feature
 19. Decorated
 20. Floating
 
+^1d20-conditions
+
 ## 1d20 Unusual Effects
+
+`dice: [[Random Monuments#^1d20-unusual-effects]]`
 
 1. Undeath
 2. Fire
@@ -71,7 +79,11 @@ Filling the various chambers and locations in your game with interesting feature
 19. Thunder
 20. Tentacles
 
+^1d20-unusual-effects
+
 ## 100 Monument Structures
+
+`dice: [[Random Monuments#^100-monument-structures]]`
 
 1. Aerie
 2. Altar
@@ -173,3 +185,5 @@ Filling the various chambers and locations in your game with interesting feature
 98. Waymarker
 99. Well
 100. Windmill
+
+^100-monument-structures

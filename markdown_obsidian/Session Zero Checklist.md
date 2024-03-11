@@ -1,5 +1,3 @@
-# Session Zero Checklist
-
 Session zero is a vital tool for getting players and GMs on the same page about a new campaign. A session zero takes place before the first session of a campaign. This special session gives you time to ensure that the players are on board with the themes of the campaign, and that their characters will integrate well together and with the adventures to come.
 
 The following guidelines take you step-by-step through a session zero.
@@ -36,6 +34,8 @@ If desired, you can connect the characters together with individual relationship
 
 ## Relationships
 
+`dice: [[Session Zero Checklist#^relationships]]`
+
 1. Adopted siblings
 2. Mentor and student
 3. Friendly rivals
@@ -56,6 +56,8 @@ If desired, you can connect the characters together with individual relationship
 18. Savior and saved
 19. Business partners
 20. Master and servant
+
+^relationships
 
 ## Run a Short Adventure
 

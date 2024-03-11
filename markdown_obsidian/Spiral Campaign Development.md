@@ -1,5 +1,3 @@
-# Spiral Campaign Development
-
 Spiral campaign development builds campaign worlds starting in the area immediately surrounding the characters, then spirals out, expanding the world as the characters experience it. This section offers suggestions and inspiration for building a spiral campaign.
 
 ## Campaign Pitch
@@ -7,6 +5,8 @@ Spiral campaign development builds campaign worlds starting in the area immediat
 Start off by describing the central theme of your campaign in a single sentence. This campaign pitch becomes the main focus of the campaign, and might be given to the players during your session zero so they can build their characters around it. Use the following campaign pitches as a starting point for a campaign, or as inspiration for pitches of your own.
 
 ## Campaign Pitches
+
+`dice: [[Spiral Campaign Development#^campaign-pitches]]`
 
 1. Prevent the summoning of the Dragon Queen
 2. Prevent the coming of the Black Moon
@@ -29,6 +29,8 @@ Start off by describing the central theme of your campaign in a single sentence.
 19. Slay the ancient dragon Larthyx Flametongue
 20. End the dark pact of Karthyn the archdevil
 
+^campaign-pitches
+
 ## Six Truths
 
 Once you have your pitch, identify six truths that set your campaign apart from others, then share them with your players. Here are six example truths for a campaign built around the coming of the Black Moon from above.
@@ -46,6 +48,8 @@ Spiral campaigns begin in a central location, often a small settlement from whic
 
 ## 1d10 Starting Locations
 
+`dice: [[Spiral Campaign Development#^1d10-starting-locations]]`
+
 1. Adventurers' guild
 2. Mining outpost
 3. Recent shipwreck
@@ -57,11 +61,15 @@ Spiral campaigns begin in a central location, often a small settlement from whic
 9. Planar hub city
 10. Crumbling fortress
 
+^1d10-starting-locations
+
 ## Campaign Fronts
 
 Campaign fronts are the external motivators in a campaign. Like a battlefront (from which they're named), a front is a point of conflict that advances and retreats as the campaign develops. Fronts are often villains, but might also be external forces such as natural disasters or grim fate. Campaigns might have up to three fronts at any given time, including any of the following.
 
 ## 1d20 Campaign Fronts
+
+`dice: [[Spiral Campaign Development#^1d20-campaign-fronts]]`
 
 1. Thieves' guild
 2. Dark necromancer
@@ -84,9 +92,13 @@ Campaign fronts are the external motivators in a campaign. Like a battlefront (f
 19. Draconic terror
 20. Undead prince
 
+^1d20-campaign-fronts
+
 ## Local Adventure Locations
 
 As the campaign spirals outward, the characters will become aware of local adventuring locations. Drop three such adventure locations into the areas close by the starting location. And if you need help filling out an adventure location, look to later sections of this document.
+
+`dice: [[Spiral Campaign Development#^local-adventure-locations]]`
 
 1. Ancient crypt
 2. Forgotten sewers
@@ -108,3 +120,5 @@ As the campaign spirals outward, the characters will become aware of local adven
 18. Submerged grotto
 19. Dead hollow tree
 20. Sundered shipwreck
+
+^local-adventure-locations

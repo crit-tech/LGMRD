@@ -1,5 +1,3 @@
-# Monsters and the Tiers of Play
-
 How combat plays out against specific types of monsters in other 5e games changes depending on the level of the characters. Character power progression isn't smooth and linear across levels. Rather, it spikes at particular levels, potentially changing the outcome of a battle dramatically. As an example, the jump from 4th to 5th level gives melee characters twice as many attacks, while spellcasters gain access to spells such as *fireball*, significantly raising a party's damage output overnight. Recognizing when and how these changes take place can help GMs understand and prepare for these shifts in game play.
 
 ## 1st Level

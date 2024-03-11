@@ -1,5 +1,3 @@
-# Zone-Based Combat
-
 Zone-based combat can help GMs run fast, dynamic, and high-action combat without worrying about all the details of tactical combat played out on a grid. It supports multiple combat styles, including pure narrative theater-of-the-mind combat, quickly drawn abstract sketches, or miniatures used with detailed maps or 3D terrain. Using zone-based combat means you have to worry less about the details of a 5-foot-per-square grid and can focus more on big heroic action. Zone-based combat simply requires that the GM and the players work together with the shared goal of creating fantastic stories of high adventure.
 
 ## Zone Rules

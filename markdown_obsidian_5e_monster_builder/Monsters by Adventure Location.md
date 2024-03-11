@@ -1,5 +1,3 @@
-# Monsters by Adventure Location
-
 This section offers quick starting points for building encounters, in the form of tables that cover a broad range of foes in twelve types of common adventure location. The tables serve four purposes:
 
 * They show which creatures might inhabit a particular adventure location.

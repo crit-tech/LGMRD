@@ -1,5 +1,3 @@
-# Treasure Generator
-
 Piles of coins, shining gems, and powerful relics hidden away in the depths of the world await adventurers brave enough to seek them. This section offers a simple set of tables and guidelines that let you quickly reward treasure for your fantasy RPG, and which work well alongside the more detailed treasure rules of the game.
 
 ## Gold Per Level
@@ -21,6 +19,8 @@ As desired, you can augment monetary treasure with consumable magic items from t
 
 ## 1d12 Consumable Treasure
 
+`dice: [[Treasure Generator#^1d12-consumable-treasure]]`
+
 1. *Potion of healing*
 2. *Potion of greater healing*
 3. *Oil of slipperiness*
@@ -34,6 +34,8 @@ As desired, you can augment monetary treasure with consumable magic items from t
 11. *Dust of disappearance*
 12. *Dust of dryness*
 
+^1d12-consumable-treasure
+
 Rather than standard consumable items, you can also award powerful single-use magic items generated using the Spells table from the "Core Adventure Generator" included in this document. You can also use the Condition, Description, and Origin table in that section to give an item a unique flavor.
 
 ## Magical Treasure
@@ -41,6 +43,8 @@ Rather than standard consumable items, you can also award powerful single-use ma
 Permanent magic items can be included with treasure as desired, with the uncommon items on the following table suitable for characters of all levels. Choose specific weapons and armor that fit the proficiencies and desires of the characters. You can use the Condition, Description, and Origin table from the core adventure generator to give such items additional flavor.
 
 ## 40 Magical Treasures
+
+`dice: [[Treasure Generator#^40-magical-treasures]]`
 
 1. *Weapon +1*
 2. *Armor +1*
@@ -82,3 +86,5 @@ Permanent magic items can be included with treasure as desired, with the uncommo
 38. *Stone of good luck*
 39. *Wand of magic missiles*
 40. *Wand of web*
+
+^40-magical-treasures

@@ -1,5 +1,3 @@
-# The Lazy GM's 5e Monster Builder Resource Document
-
 Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.
 
 Updated 18 January 2024

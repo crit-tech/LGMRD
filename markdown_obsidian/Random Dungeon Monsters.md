@@ -1,5 +1,3 @@
-# Random Dungeon Monsters
-
 The following tables let you randomly select monsters based on "dungeon level." Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.
 
 To use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.
@@ -29,6 +27,8 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 1 (CR 1/8—1/4)
 
+`dice: [[Random Dungeon Monsters#^monster-list-1-cr-1814]]`
+
 1. Bandit
 2. Cultist
 3. Flying snake
@@ -50,7 +50,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Swarm of bats
 20. Swarm of rats
 
+^monster-list-1-cr-1814
+
 ## Monster List 2 (CR 1/4—1)
+
+`dice: [[Random Dungeon Monsters#^monster-list-2-cr-141]]`
 
 1. Wolf
 2. Zombie
@@ -73,7 +77,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bugbear
 20. Death dog
 
+^monster-list-2-cr-141
+
 ## Monster List 3 (CR 1—2)
+
+`dice: [[Random Dungeon Monsters#^monster-list-3-cr-12]]`
 
 1. Dire wolf
 2. Duergar
@@ -96,7 +104,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Giant constrictor snake
 20. Gibbering mouther
 
+^monster-list-3-cr-12
+
 ## Monster List 4 (CR 2—3)
+
+`dice: [[Random Dungeon Monsters#^monster-list-4-cr-23]]`
 
 1. Azer
 2. Green dragon wyrmling
@@ -119,7 +131,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Bearded devil
 20. Blue dragon wyrmling
 
+^monster-list-4-cr-23
+
 ## Monster List 5 (CR 3—4)
+
+`dice: [[Random Dungeon Monsters#^monster-list-5-cr-34]]`
 
 1. Doppelganger
 2. Giant scorpion
@@ -142,7 +158,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Ettin
 20. Ghost
 
+^monster-list-5-cr-34
+
 ## Monster List 6 (CR 4—5)
+
+`dice: [[Random Dungeon Monsters#^monster-list-6-cr-45]]`
 
 1. Lamia
 2. Red dragon wyrmling
@@ -165,7 +185,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Shambling mound
 20. Troll
 
+^monster-list-6-cr-45
+
 ## Monster List 7 (CR 5—8)
+
+`dice: [[Random Dungeon Monsters#^monster-list-7-cr-58]]`
 
 1. Salamander
 2. Vampire spawn
@@ -188,7 +212,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Chain devil
 20. Cloaker
 
+^monster-list-7-cr-58
+
 ## Monster List 8 (CR 8—12)
+
+`dice: [[Random Dungeon Monsters#^monster-list-8-cr-812]]`
 
 1. Frost giant
 2. Hezrou
@@ -211,7 +239,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 19. Remorhaz
 20. Archmage
 
+^monster-list-8-cr-812
+
 ## Monster List 9 (CR 12—16)
+
+`dice: [[Random Dungeon Monsters#^monster-list-9-cr-1216]]`
 
 1. Erinyes
 2. Adult white dragon
@@ -226,7 +258,11 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 11. Purple worm
 12. Adult blue dragon
 
+^monster-list-9-cr-1216
+
 ## Monster List 10 (CR 16—24)
+
+`dice: [[Random Dungeon Monsters#^monster-list-10-cr-1624]]`
 
 1. Iron golem
 2. Marilith
@@ -238,3 +274,5 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 8. Lich
 9. Ancient blue dragon
 10. Ancient red dragon
+
+^monster-list-10-cr-1624

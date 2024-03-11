@@ -1,5 +1,3 @@
-# Lazy Solo 5e
-
 These rules let you play a solo game of 5e using lists in this document. With these guidelines, a single character explores a dungeon to complete quests. Let your imagination take over as you fill in the story and details of the quest, location, and adventure.
 
 This scenario begins at 1st level, and your character gains a level after each successful quest.
@@ -24,6 +22,8 @@ Each time your roll comes up 4, 5, 6, or 7, indicated by "QP" below, your quest 
 
 On your fourth roll of quest progress, you reach the final challenge of the quest. If you succeed, you have completed the quest and gain a new level.
 
+`dice: [[Lazy Solo 5e#^exploring-the-dungeon]]`
+
 1. Trap or hazard
 2. Trap or hazard
 3. Monster and harmful monument
@@ -34,6 +34,8 @@ On your fourth roll of quest progress, you reach the final challenge of the ques
 8. Monster and helpful monument
 9. Healing font (restore 2d6 hit points).
 10. Unguarded treasure
+
+^exploring-the-dungeon
 
 ## Traps and Hazards
 
@@ -51,12 +53,16 @@ Each monster encounter includes a helpful, neutral, or harmful monument. Generat
 
 Roll a d6 to determine the effect of the monument.
 
+`dice: [[Lazy Solo 5e#^monuments]]`
+
 1. +1 to AC
 2. +1 to attacks and save DCs
 3. +1 AC and saving throws
 4. +1 temp hit point per character level (minimum 5)
 5. +1d6 damage per five character levels
 6. Advantage on attack rolls
+
+^monuments
 
 Helpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.
 
@@ -66,6 +72,8 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 
 ## 1d8 Treasures
 
+`dice: [[Lazy Solo 5e#^1d8-treasures]]`
+
 1. No treasure
 2. No treasure
 3. 3d12 gp
@@ -74,5 +82,7 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 6. *Potion of healing*
 7. Consumable item
 8. Permanent item
+
+^1d8-treasures
 
 For consumable and permanent items, roll on the tables in the "[Treasure Generator](<Treasure Generator.md>)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.

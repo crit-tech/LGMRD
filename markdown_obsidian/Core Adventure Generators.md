@@ -1,5 +1,3 @@
-# Core Adventure Generators
-
 The tables in this section can help you generate a core fantasy adventure based on the traditional concept of getting hired by a patron or other NPC to take on a quest in a specific location. Often these adventures take place in small settlements surrounded by ancient ruins and monstrous lairs on the edge of civilization.
 
 Use these tables together to generate and inspire full adventures, or use individual tables to fill in the details of other adventures you create or play. This generator (and specifically, the Dungeon Monsters table and the Treasure table) is set up for characters of 1st to 4th level, but can be easily modified for higher-level adventures.
@@ -7,6 +5,9 @@ Use these tables together to generate and inspire full adventures, or use indivi
 ## Patrons and NPCs
 
 Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
+
+**Behavior: **`dice: [[Core Adventure Generators#^patrons-and-npcs]]|Behavior`  
+**Ancestry: **`dice: [[Core Adventure Generators#^patrons-and-npcs]]|Ancestry`
 
 | d20 | Behavior      | Ancestry          |
 | --- | ------------- | ----------------- |
@@ -31,11 +32,15 @@ Use these tables to generate a patron or NPC for your adventure, applying an NPC
 | 19  | Opportunistic | Lycanthrope       |
 | 20  | Soft spoken   | Artifact          |
 
+^patrons-and-npcs
+
 ## Quests
 
 Any quests the characters are asked to fulfill might be distilled down to one of the following starting points.
 
 ## 1d20 Quests
+
+`dice: [[Core Adventure Generators#^1d20-quests]]`
 
 1. Find an item
 2. Kill a villain
@@ -58,9 +63,15 @@ Any quests the characters are asked to fulfill might be distilled down to one of
 19. Discover a monument
 20. Dig up an artifact
 
+^1d20-quests
+
 ## Locations, Monuments, and Items
 
 The location of the quest might also contain specific monuments or items tied to the adventure's goals.
+
+**Location: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Location`  
+**Monument: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Monument`  
+**Item: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Item`
 
 | d20 | Location     | Monument      | Item     |
 | --- | ------------ | ------------- | -------- |
@@ -85,9 +96,15 @@ The location of the quest might also contain specific monuments or items tied to
 | 19  | Cove         | Cage          | Mask     |
 | 20  | Castle       | Brazier       | Necklace |
 
+^locations-monuments-and-items
+
 ## Condition, Description, and Origin
 
 Locations, monuments, or items can be flavored by determining their condition, description, and origin.
+
+**Condition: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Condition`  
+**Description: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Description`  
+**Origin: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Origin`
 
 | d20 | Condition   | Description | Origin     |
 | --- | ----------- | ----------- | ---------- |
@@ -112,11 +129,15 @@ Locations, monuments, or items can be flavored by determining their condition, d
 | 19  | Crystalline | Overgrown   | Ethereal   |
 | 20  | Silvered    | Shattered   | Abyssal    |
 
+^condition-description-and-origin
+
 ## Chambers
 
 Use this list when you need to define the purpose of a chamber in a dungeon, keep, or similar site. Reflavor any chamber to suit the theme of the adventure.
 
 ## 1d20 Chambers
+
+`dice: [[Core Adventure Generators#^1d20-chambers]]`
 
 1. Armory
 2. Prison
@@ -139,11 +160,15 @@ Use this list when you need to define the purpose of a chamber in a dungeon, kee
 19. Bone yard
 20. Scrying chamber
 
+^1d20-chambers
+
 ## Dungeon Discoveries
 
 Add useful discoveries such as the following to your adventure, to create upward beats in the characters' story.
 
 ## 1d20 Discoveries
+
+`dice: [[Core Adventure Generators#^1d20-discoveries]]`
 
 1. Helpful NPC
 2. Holy fountain
@@ -166,6 +191,8 @@ Add useful discoveries such as the following to your adventure, to create upward
 19. Useful machinery
 20. Historical library
 
+^1d20-discoveries
+
 ## Dungeon Monsters
 
 You can add monsters and other foes to your adventure by consulting the following list. Roll a d8 for easy monsters, roll a d12 to expand the range into hard monsters, or roll a d20 to also include dangerous monsters. If you decide to use a monster as a boss monster, give it double hit points and let it take an extra action each turn.
@@ -173,6 +200,8 @@ You can add monsters and other foes to your adventure by consulting the followin
 For foes such as bandits and cultists, you can also roll for ancestry on the NPC creation lists if those foes having a common origin makes sense for your narrative.
 
 ## 1d20 Monsters
+
+`dice: [[Core Adventure Generators#^1d20-monsters]]`
 
 1. Giant rats
 2. Bandits
@@ -195,11 +224,15 @@ For foes such as bandits and cultists, you can also roll for ancestry on the NPC
 19. Hell hounds
 20. Mummies
 
+^1d20-monsters
+
 ## Traps and Hazards
 
 Add traps as they make sense for the adventure. At 1st through 4th level, traps often have a DC of 13, and deal 7 (2d6) damage for easy traps or 11 (2d10) damage for hard traps.
 
 ## 1d20 Traps and Hazards
+
+`dice: [[Core Adventure Generators#^1d20-traps-and-hazards]]`
 
 1. Spiked pit
 2. Lightning blasts
@@ -222,11 +255,15 @@ Add traps as they make sense for the adventure. At 1st through 4th level, traps 
 19. Thick webs
 20. Freezing jets
 
+^1d20-traps-and-hazards
+
 ## Treasure
 
 This list lets you add treasure to the adventure as appropriate. Roll a d10 to determine monetary treasure, or a d20 for monetary and magical treasure.
 
 ## 1d20 Treasures
+
+`dice: [[Core Adventure Generators#^1d20-treasures]]`
 
 1. Coins
 2. Bag of gemstones
@@ -249,11 +286,15 @@ This list lets you add treasure to the adventure as appropriate. Roll a d10 to d
 19. Magic ranged weapon
 20. Magic armor
 
+^1d20-treasures
+
 ## Spells
 
 Some commonly discovered relics might grant a single- use spell, while less common magic items might allow their wielder to cast a spell daily. Use the list of common spells below or choose specialized spells to create unique magic item rewards.
 
 ## 1d20 Spells
+
+`dice: [[Core Adventure Generators#^1d20-spells]]`
 
 1. *Magic missile*
 2. *Burning hands*
@@ -275,3 +316,5 @@ Some commonly discovered relics might grant a single- use spell, while less comm
 18. *Dispel magic*
 19. *Haste*
 20. *Fly*
+
+^1d20-spells
