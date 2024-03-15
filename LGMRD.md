@@ -1164,12 +1164,16 @@ The challenge ratings described in these templates are loose guides, so use your
 
 Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:
 
-| d8 | Elemental Template | d8 | Elemental Template |
-| -- | ------------------ | -- | ------------------ |
-| 1  | Fire               | 5  | Poison             |
-| 2  | Cold               | 6  | Necrotic           |
-| 3  | Lighting           | 7  | Radiant            |
-| 4  | Acid               | 8  | Thunder            |
+| d8 | Elemental Template |
+| -- | ------------------ |
+| 1  | Fire               |
+| 2  | Cold               |
+| 3  | Lighting           |
+| 4  | Acid               |
+| 5  | Poison             |
+| 6  | Necrotic           |
+| 7  | Radiant            |
+| 8  | Thunder            |
 
 Then choose one or more of the following traits to customize your monster, making use of the damage type determined by the elemental template:
 
@@ -1219,18 +1223,28 @@ Some monsters can innately cast magical spells. Spell-infused monsters typically
 
 Spell-infused creatures do not require components to cast their spells. They typically use each of their spells once, recovering the ability to do so when they finish a long rest. Roll for or choose from the table to determine which spells a creature can use. Spells that deal high damage can affect a creature's challenge rating.
 
-| d20 | Spell          | d20 | Spell            |
-| --- | -------------- | --- | ---------------- |
-| 1   | Burning hands  | 11  | Invisibility     |
-| 2   | Magic missile  | 12  | Misty step       |
-| 3   | Disguise self  | 13  | Scorching ray    |
-| 4   | Fog cloud      | 14  | Shatter          |
-| 5   | Shield         | 15  | Spirit guardians |
-| 6   | Inflict wounds | 16  | Dispel magic     |
-| 7   | Faerie fire    | 17  | Fly              |
-| 8   | Thunderwave    | 18  | Gaseous form     |
-| 9   | Blur           | 19  | Lightning bolt   |
-| 10  | Darkness       | 20  | Fireball         |
+| d20 | Spell            |
+| --- | ---------------- |
+| 1   | Burning hands    |
+| 2   | Magic missile    |
+| 3   | Disguise self    |
+| 4   | Fog cloud        |
+| 5   | Shield           |
+| 6   | Inflict wounds   |
+| 7   | Faerie fire      |
+| 8   | Thunderwave      |
+| 9   | Blur             |
+| 10  | Darkness         |
+| 11  | Invisibility     |
+| 12  | Misty step       |
+| 13  | Scorching ray    |
+| 14  | Shatter          |
+| 15  | Spirit guardians |
+| 16  | Dispel magic     |
+| 17  | Fly              |
+| 18  | Gaseous form     |
+| 19  | Lightning bolt   |
+| 20  | Fireball         |
 
 ## <a id="undeadtemplates"></a>Undead Templates
 

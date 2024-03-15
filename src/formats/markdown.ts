@@ -7,19 +7,11 @@ import { defaultHandlers, State } from "hast-util-to-mdast";
 import remarkGfm from "remark-gfm";
 import remarkStringify from "remark-stringify";
 import { Heading as MarkdownHeading } from "mdast";
-import { Root } from "mdast";
 
 import getHtmlPlugin from "../utils/html.js";
 import removePosition from "../utils/removePosition.js";
 import { DocType, OUTPUT_PATH } from "../utils/constants.js";
-
-function getMarkdownPlugin(callback: (tree: Root) => void) {
-  return () => {
-    return (tree: Root) => {
-      callback(tree);
-    };
-  };
-}
+import { getMarkdownPlugin, columnSmasherPlugin } from "../utils/markdown.js";
 
 function getHeadingHandler(tagName: string) {
   return (state: State, node: any) => {
@@ -57,7 +49,7 @@ export async function convertToMarkdown(
     );
   });
 
-  const markdownPlugin = getMarkdownPlugin((tree) => {
+  const saveSyntaxTreePlugin = getMarkdownPlugin((tree) => {
     const treeCopy = removePosition(tree);
     fs.writeFileSync(
       path.join(OUTPUT_PATH, "metadata", `${docType}_mdast.json`),
@@ -77,7 +69,8 @@ export async function convertToMarkdown(
     .use(htmlPlugin)
     .use(rehypeRemark, rehypeRemarkOptions)
     .use(remarkGfm)
-    .use(markdownPlugin)
+    .use(saveSyntaxTreePlugin)
+    .use(columnSmasherPlugin)
     .use(remarkStringify)
     .process(html);
 

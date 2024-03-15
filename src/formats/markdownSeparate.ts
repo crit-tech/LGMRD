@@ -13,7 +13,10 @@ import { visit } from "unist-util-visit";
 
 import { rehypeRemarkOptions } from "./markdown.js";
 import { DocType, MARKDOWN_SEPARATE_PATHS } from "../utils/constants.js";
-import { getAndDeletePreviousMarkdown } from "../utils/markdown.js";
+import {
+  getAndDeletePreviousMarkdown,
+  columnSmasherPlugin,
+} from "../utils/markdown.js";
 
 interface Section {
   sectionName: string;
@@ -59,6 +62,7 @@ export async function convertToMarkdownSeparate(
     .use(rehypeParse)
     .use(rehypeRemark, rehypeRemarkOptions)
     .use(remarkGfm)
+    .use(columnSmasherPlugin)
     .use(sectionCapturePlugin)
     .use(remarkStringify)
     .process(html);

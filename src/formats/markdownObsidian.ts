@@ -3,8 +3,8 @@
 TODO:
 
 - [X] Both - Order the pages by the order they appear in the book
-- [ ] Both - Change detection not working (thinks it's new each time)
-- [ ] LGMRD - Monster templates (has two-column tables)
+- [X] Both - Change detection not working (thinks it's new each time)
+- [X] LGMRD - Monster templates (has two-column tables)
 - [ ] LGMRD - Random items / Potions of healing - has table rows with ranges
 - [ ] LGMMBRD - General purpose statblocks
 - [ ] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
