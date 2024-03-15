@@ -15,6 +15,11 @@ import { rehypeRemarkOptions } from "./markdown.js";
 import { DocType, MARKDOWN_SEPARATE_PATHS } from "../utils/constants.js";
 import { getAndDeletePreviousMarkdown } from "../utils/markdown.js";
 
+interface Section {
+  sectionName: string;
+  nodes: Node[];
+}
+
 export async function convertToMarkdownSeparate(
   docType: DocType,
   html: string
@@ -25,9 +30,10 @@ export async function convertToMarkdownSeparate(
     MARKDOWN_SEPARATE_PATHS[docType]
   );
 
-  const sections: Record<string, Node[]> = {};
-  let currentSection: Node[] = [];
+  const sections: Section[] = [];
   let currentSectionName: string = "index";
+  let currentSection: Section = { sectionName: currentSectionName, nodes: [] };
+  let currentSectionIndex = 0;
 
   const sectionCapturePlugin = () => {
     return (tree: Root) => {
@@ -36,15 +42,16 @@ export async function convertToMarkdownSeparate(
           const heading = node as MarkdownHeading;
           const id = (heading?.children?.[0] as Html)?.value;
           if (heading.depth === 2 && id.startsWith('<a id="')) {
-            sections[currentSectionName] = currentSection;
-            currentSection = [];
+            sections.push(currentSection);
             currentSectionName = /^<a id="(.*?)"/.exec(id)![1];
+            currentSectionIndex++;
+            currentSection = { sectionName: currentSectionName, nodes: [] };
             heading.children.shift();
           }
         }
-        currentSection.push(node);
+        currentSection.nodes.push(node);
       }
-      sections[currentSectionName] = currentSection;
+      sections.push(currentSection);
     };
   };
 
@@ -57,14 +64,14 @@ export async function convertToMarkdownSeparate(
     .process(html);
 
   let newMarkdown = "";
-  for (const sectionName of Object.keys(sections).sort()) {
-    const section = sections[sectionName];
+  sections.map((section, sectionIndex) => {
+    const chapter = (sectionIndex + 1).toString().padStart(2, "0");
     const markdownFilePath = path.join(
       MARKDOWN_SEPARATE_PATHS[docType],
-      `${sectionName}.md`
+      `${chapter}-${section.sectionName}.md`
     );
-    const tree = { type: "root", children: section } as Root;
-    if (sectionName !== "index") {
+    const tree = { type: "root", children: section.nodes } as Root;
+    if (section.sectionName !== "index") {
       visit(tree, "heading", (node: MarkdownHeading) => {
         node.depth = Math.max(node.depth - 1, 1) as 1 | 2 | 3 | 4 | 5 | 6;
       });
@@ -72,15 +79,21 @@ export async function convertToMarkdownSeparate(
     visit(tree, "link", (node: Link) => {
       if (node.url.startsWith("#")) {
         const possibleId = node.url.slice(1);
-        if (possibleId in sections) {
-          node.url = `${possibleId}.md`;
+        const possibleIndex = sections.findIndex(
+          (section) => section.sectionName === possibleId
+        );
+        if (possibleIndex !== -1) {
+          const possibleChapter = (possibleIndex + 1)
+            .toString()
+            .padStart(2, "0");
+          node.url = `${possibleChapter}-${possibleId}.md`;
         }
       }
     });
     const markdown = toMarkdown(tree, { extensions: [gfmToMarkdown()] });
     newMarkdown += "\n" + markdown;
     fs.writeFileSync(markdownFilePath, markdown);
-  }
+  });
 
   process.stdout.write("Done\n");
 

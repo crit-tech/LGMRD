@@ -1,3 +1,16 @@
+/*
+
+TODO:
+
+- [X] Both - Order the pages by the order they appear in the book
+- [ ] Both - Change detection not working (thinks it's new each time)
+- [ ] LGMRD - Monster templates (has two-column tables)
+- [ ] LGMRD - Random items / Potions of healing - has table rows with ranges
+- [ ] LGMMBRD - General purpose statblocks
+- [ ] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
+
+*/
+
 import fs from "fs";
 import path from "path";
 import { unified } from "unified";
@@ -108,11 +121,12 @@ export async function convertToMarkdownObsidian(
 
     const oldTitle = path.basename(file, ".md");
     let title = oldTitle;
+    let chapter = oldTitle.split("-")[0];
     const titleFinderPlugin = () => {
       return (tree: Root) => {
         visit(tree, "heading", (node) => {
           if (node.depth === 1) {
-            title = toString(node);
+            title = chapter + " - " + toString(node);
             return EXIT;
           }
         });

@@ -105,7 +105,7 @@ export async function convertToJson(docType: DocType): Promise<boolean> {
   output.sections = markdownFiles.map((file) => {
     const markdownFilePath = path.join(MARKDOWN_SEPARATE_PATHS[docType], file);
     const markdownFileContent = fs.readFileSync(markdownFilePath, "utf8");
-    const id = path.basename(file, ".md");
+    const id = path.basename(file, ".md").split("-")[1];
     keys.add(id);
     const tree = fromMarkdown(markdownFileContent, {
       extensions: [gfm()],
