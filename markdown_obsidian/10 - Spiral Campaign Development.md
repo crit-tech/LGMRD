@@ -6,7 +6,7 @@ Start off by describing the central theme of your campaign in a single sentence.
 
 ## Campaign Pitches
 
-`dice: [[Spiral Campaign Development#^campaign-pitches]]`
+`dice: [[10 - Spiral Campaign Development#^campaign-pitches]]`
 
 1. Prevent the summoning of the Dragon Queen
 2. Prevent the coming of the Black Moon
@@ -48,7 +48,7 @@ Spiral campaigns begin in a central location, often a small settlement from whic
 
 ## 1d10 Starting Locations
 
-`dice: [[Spiral Campaign Development#^1d10-starting-locations]]`
+`dice: [[10 - Spiral Campaign Development#^1d10-starting-locations]]`
 
 1. Adventurers' guild
 2. Mining outpost
@@ -69,7 +69,7 @@ Campaign fronts are the external motivators in a campaign. Like a battlefront (f
 
 ## 1d20 Campaign Fronts
 
-`dice: [[Spiral Campaign Development#^1d20-campaign-fronts]]`
+`dice: [[10 - Spiral Campaign Development#^1d20-campaign-fronts]]`
 
 1. Thieves' guild
 2. Dark necromancer
@@ -98,7 +98,7 @@ Campaign fronts are the external motivators in a campaign. Like a battlefront (f
 
 As the campaign spirals outward, the characters will become aware of local adventuring locations. Drop three such adventure locations into the areas close by the starting location. And if you need help filling out an adventure location, look to later sections of this document.
 
-`dice: [[Spiral Campaign Development#^local-adventure-locations]]`
+`dice: [[10 - Spiral Campaign Development#^local-adventure-locations]]`
 
 1. Ancient crypt
 2. Forgotten sewers

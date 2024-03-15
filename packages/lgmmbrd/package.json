@@ -8,9 +8,9 @@
       "import": "./index.mjs",
       "require": "./index.cjs"
     },
-    "./bossesandminions/default": {
-      "import": "./sections/bossesandminions/default.mjs",
-      "require": "./sections/bossesandminions/default.cjs"
+    "./index/default": {
+      "import": "./sections/index/default.mjs",
+      "require": "./sections/index/default.cjs"
     },
     "./buildingaquickmonster/columndescriptions": {
       "import": "./sections/buildingaquickmonster/columndescriptions.mjs",
@@ -27,6 +27,66 @@
     "./buildingaquickmonster/usingthetablewithpublishedmonsters": {
       "import": "./sections/buildingaquickmonster/usingthetablewithpublishedmonsters.mjs",
       "require": "./sections/buildingaquickmonster/usingthetablewithpublishedmonsters.cjs"
+    },
+    "./generalusestatblocks/minion": {
+      "import": "./sections/generalusestatblocks/minion.mjs",
+      "require": "./sections/generalusestatblocks/minion.cjs"
+    },
+    "./generalusestatblocks/soldier": {
+      "import": "./sections/generalusestatblocks/soldier.mjs",
+      "require": "./sections/generalusestatblocks/soldier.cjs"
+    },
+    "./generalusestatblocks/brute": {
+      "import": "./sections/generalusestatblocks/brute.mjs",
+      "require": "./sections/generalusestatblocks/brute.cjs"
+    },
+    "./generalusestatblocks/specialist": {
+      "import": "./sections/generalusestatblocks/specialist.mjs",
+      "require": "./sections/generalusestatblocks/specialist.cjs"
+    },
+    "./generalusestatblocks/myrmidon": {
+      "import": "./sections/generalusestatblocks/myrmidon.mjs",
+      "require": "./sections/generalusestatblocks/myrmidon.cjs"
+    },
+    "./generalusestatblocks/sentinel": {
+      "import": "./sections/generalusestatblocks/sentinel.mjs",
+      "require": "./sections/generalusestatblocks/sentinel.cjs"
+    },
+    "./generalusestatblocks/champion": {
+      "import": "./sections/generalusestatblocks/champion.mjs",
+      "require": "./sections/generalusestatblocks/champion.cjs"
+    },
+    "./lightingrods/watchwhatthecharactersbring": {
+      "import": "./sections/lightingrods/watchwhatthecharactersbring.mjs",
+      "require": "./sections/lightingrods/watchwhatthecharactersbring.cjs"
+    },
+    "./lightingrods/telegraphinglightningrods": {
+      "import": "./sections/lightingrods/telegraphinglightningrods.mjs",
+      "require": "./sections/lightingrods/telegraphinglightningrods.cjs"
+    },
+    "./lazytricksforrunningmonsters/quickmonsterstatistics": {
+      "import": "./sections/lazytricksforrunningmonsters/quickmonsterstatistics.mjs",
+      "require": "./sections/lazytricksforrunningmonsters/quickmonsterstatistics.cjs"
+    },
+    "./lazytricksforrunningmonsters/tenusefulmonsterfeatures": {
+      "import": "./sections/lazytricksforrunningmonsters/tenusefulmonsterfeatures.mjs",
+      "require": "./sections/lazytricksforrunningmonsters/tenusefulmonsterfeatures.cjs"
+    },
+    "./lazytricksforrunningmonsters/usingaverages": {
+      "import": "./sections/lazytricksforrunningmonsters/usingaverages.mjs",
+      "require": "./sections/lazytricksforrunningmonsters/usingaverages.cjs"
+    },
+    "./lazytricksforrunningmonsters/otherlazymonstertricks": {
+      "import": "./sections/lazytricksforrunningmonsters/otherlazymonstertricks.mjs",
+      "require": "./sections/lazytricksforrunningmonsters/otherlazymonstertricks.cjs"
+    },
+    "./monsterroles/definingroles": {
+      "import": "./sections/monsterroles/definingroles.mjs",
+      "require": "./sections/monsterroles/definingroles.cjs"
+    },
+    "./bossesandminions/default": {
+      "import": "./sections/bossesandminions/default.mjs",
+      "require": "./sections/bossesandminions/default.cjs"
     },
     "./combatencounterchecklist/default": {
       "import": "./sections/combatencounterchecklist/default.mjs",
@@ -68,37 +128,21 @@
       "import": "./sections/combatencounterchecklist/agoal.mjs",
       "require": "./sections/combatencounterchecklist/agoal.cjs"
     },
-    "./generalusestatblocks/minion": {
-      "import": "./sections/generalusestatblocks/minion.mjs",
-      "require": "./sections/generalusestatblocks/minion.cjs"
+    "./monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations": {
+      "import": "./sections/monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations.mjs",
+      "require": "./sections/monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations.cjs"
     },
-    "./generalusestatblocks/soldier": {
-      "import": "./sections/generalusestatblocks/soldier.mjs",
-      "require": "./sections/generalusestatblocks/soldier.cjs"
+    "./monstercombinationsforahardchallenge/fourcharacters": {
+      "import": "./sections/monstercombinationsforahardchallenge/fourcharacters.mjs",
+      "require": "./sections/monstercombinationsforahardchallenge/fourcharacters.cjs"
     },
-    "./generalusestatblocks/brute": {
-      "import": "./sections/generalusestatblocks/brute.mjs",
-      "require": "./sections/generalusestatblocks/brute.cjs"
+    "./monstercombinationsforahardchallenge/fivecharacters": {
+      "import": "./sections/monstercombinationsforahardchallenge/fivecharacters.mjs",
+      "require": "./sections/monstercombinationsforahardchallenge/fivecharacters.cjs"
     },
-    "./generalusestatblocks/specialist": {
-      "import": "./sections/generalusestatblocks/specialist.mjs",
-      "require": "./sections/generalusestatblocks/specialist.cjs"
-    },
-    "./generalusestatblocks/myrmidon": {
-      "import": "./sections/generalusestatblocks/myrmidon.mjs",
-      "require": "./sections/generalusestatblocks/myrmidon.cjs"
-    },
-    "./generalusestatblocks/sentinel": {
-      "import": "./sections/generalusestatblocks/sentinel.mjs",
-      "require": "./sections/generalusestatblocks/sentinel.cjs"
-    },
-    "./generalusestatblocks/champion": {
-      "import": "./sections/generalusestatblocks/champion.mjs",
-      "require": "./sections/generalusestatblocks/champion.cjs"
-    },
-    "./index/default": {
-      "import": "./sections/index/default.mjs",
-      "require": "./sections/index/default.cjs"
+    "./monstercombinationsforahardchallenge/sixcharacters": {
+      "import": "./sections/monstercombinationsforahardchallenge/sixcharacters.mjs",
+      "require": "./sections/monstercombinationsforahardchallenge/sixcharacters.cjs"
     },
     "./lazyencounterbenchmark/usingthebenchmark": {
       "import": "./sections/lazyencounterbenchmark/usingthebenchmark.mjs",
@@ -119,70 +163,6 @@
     "./lazyencounterbenchmark/otherconsiderations": {
       "import": "./sections/lazyencounterbenchmark/otherconsiderations.mjs",
       "require": "./sections/lazyencounterbenchmark/otherconsiderations.cjs"
-    },
-    "./lazytricksforrunningmonsters/quickmonsterstatistics": {
-      "import": "./sections/lazytricksforrunningmonsters/quickmonsterstatistics.mjs",
-      "require": "./sections/lazytricksforrunningmonsters/quickmonsterstatistics.cjs"
-    },
-    "./lazytricksforrunningmonsters/tenusefulmonsterfeatures": {
-      "import": "./sections/lazytricksforrunningmonsters/tenusefulmonsterfeatures.mjs",
-      "require": "./sections/lazytricksforrunningmonsters/tenusefulmonsterfeatures.cjs"
-    },
-    "./lazytricksforrunningmonsters/usingaverages": {
-      "import": "./sections/lazytricksforrunningmonsters/usingaverages.mjs",
-      "require": "./sections/lazytricksforrunningmonsters/usingaverages.cjs"
-    },
-    "./lazytricksforrunningmonsters/otherlazymonstertricks": {
-      "import": "./sections/lazytricksforrunningmonsters/otherlazymonstertricks.mjs",
-      "require": "./sections/lazytricksforrunningmonsters/otherlazymonstertricks.cjs"
-    },
-    "./lightingrods/watchwhatthecharactersbring": {
-      "import": "./sections/lightingrods/watchwhatthecharactersbring.mjs",
-      "require": "./sections/lightingrods/watchwhatthecharactersbring.cjs"
-    },
-    "./lightingrods/telegraphinglightningrods": {
-      "import": "./sections/lightingrods/telegraphinglightningrods.mjs",
-      "require": "./sections/lightingrods/telegraphinglightningrods.cjs"
-    },
-    "./monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations": {
-      "import": "./sections/monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations.mjs",
-      "require": "./sections/monstercombinationsforahardchallenge/hardchallengelevelmonstercombinations.cjs"
-    },
-    "./monstercombinationsforahardchallenge/fourcharacters": {
-      "import": "./sections/monstercombinationsforahardchallenge/fourcharacters.mjs",
-      "require": "./sections/monstercombinationsforahardchallenge/fourcharacters.cjs"
-    },
-    "./monstercombinationsforahardchallenge/fivecharacters": {
-      "import": "./sections/monstercombinationsforahardchallenge/fivecharacters.mjs",
-      "require": "./sections/monstercombinationsforahardchallenge/fivecharacters.cjs"
-    },
-    "./monstercombinationsforahardchallenge/sixcharacters": {
-      "import": "./sections/monstercombinationsforahardchallenge/sixcharacters.mjs",
-      "require": "./sections/monstercombinationsforahardchallenge/sixcharacters.cjs"
-    },
-    "./monsterroles/definingroles": {
-      "import": "./sections/monsterroles/definingroles.mjs",
-      "require": "./sections/monsterroles/definingroles.cjs"
-    },
-    "./monstersandthetiersofplay/1stlevel": {
-      "import": "./sections/monstersandthetiersofplay/1stlevel.mjs",
-      "require": "./sections/monstersandthetiersofplay/1stlevel.cjs"
-    },
-    "./monstersandthetiersofplay/2ndthrough4thlevel": {
-      "import": "./sections/monstersandthetiersofplay/2ndthrough4thlevel.mjs",
-      "require": "./sections/monstersandthetiersofplay/2ndthrough4thlevel.cjs"
-    },
-    "./monstersandthetiersofplay/5thto10thlevel": {
-      "import": "./sections/monstersandthetiersofplay/5thto10thlevel.mjs",
-      "require": "./sections/monstersandthetiersofplay/5thto10thlevel.cjs"
-    },
-    "./monstersandthetiersofplay/11thto16thlevel": {
-      "import": "./sections/monstersandthetiersofplay/11thto16thlevel.mjs",
-      "require": "./sections/monstersandthetiersofplay/11thto16thlevel.cjs"
-    },
-    "./monstersandthetiersofplay/17thto20thlevel": {
-      "import": "./sections/monstersandthetiersofplay/17thto20thlevel.mjs",
-      "require": "./sections/monstersandthetiersofplay/17thto20thlevel.cjs"
     },
     "./monstersbyadventurelocation/default": {
       "import": "./sections/monstersbyadventurelocation/default.mjs",
@@ -235,6 +215,26 @@
     "./monstersbyadventurelocation/sunkengrotto": {
       "import": "./sections/monstersbyadventurelocation/sunkengrotto.mjs",
       "require": "./sections/monstersbyadventurelocation/sunkengrotto.cjs"
+    },
+    "./monstersandthetiersofplay/1stlevel": {
+      "import": "./sections/monstersandthetiersofplay/1stlevel.mjs",
+      "require": "./sections/monstersandthetiersofplay/1stlevel.cjs"
+    },
+    "./monstersandthetiersofplay/2ndthrough4thlevel": {
+      "import": "./sections/monstersandthetiersofplay/2ndthrough4thlevel.mjs",
+      "require": "./sections/monstersandthetiersofplay/2ndthrough4thlevel.cjs"
+    },
+    "./monstersandthetiersofplay/5thto10thlevel": {
+      "import": "./sections/monstersandthetiersofplay/5thto10thlevel.mjs",
+      "require": "./sections/monstersandthetiersofplay/5thto10thlevel.cjs"
+    },
+    "./monstersandthetiersofplay/11thto16thlevel": {
+      "import": "./sections/monstersandthetiersofplay/11thto16thlevel.mjs",
+      "require": "./sections/monstersandthetiersofplay/11thto16thlevel.cjs"
+    },
+    "./monstersandthetiersofplay/17thto20thlevel": {
+      "import": "./sections/monstersandthetiersofplay/17thto20thlevel.mjs",
+      "require": "./sections/monstersandthetiersofplay/17thto20thlevel.cjs"
     }
   },
   "scripts": {

@@ -6,7 +6,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Weapon Types
 
-`dice: [[Random Items#^1d20-weapon-types]]`
+`dice: [[30 - Random Items#^1d20-weapon-types]]`
 
 1. Dagger
 2. Mace
@@ -33,7 +33,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Item Origins
 
-`dice: [[Random Items#^1d20-item-origins]]`
+`dice: [[30 - Random Items#^1d20-item-origins]]`
 
 1. Draconic
 2. Dwarven
@@ -60,7 +60,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Item Conditions
 
-`dice: [[Random Items#^1d20-item-conditions]]`
+`dice: [[30 - Random Items#^1d20-item-conditions]]`
 
 1. Grimy
 2. Chipped
@@ -87,7 +87,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d12 Armor Types
 
-`dice: [[Random Items#^1d12-armor-types]]`
+`dice: [[30 - Random Items#^1d12-armor-types]]`
 
 1. Leather
 2. Studded leather
@@ -106,7 +106,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 50 Mundane Items
 
-`dice: [[Random Items#^50-mundane-items]]`
+`dice: [[30 - Random Items#^50-mundane-items]]`
 
 1. Amulet
 2. Arrowhead
@@ -163,7 +163,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 50 Spell Effect
 
-`dice: [[Random Items#^50-spell-effect]]`
+`dice: [[30 - Random Items#^50-spell-effect]]`
 
 1. *Acid arrow*
 2. *Acid splash*
@@ -220,9 +220,9 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## Potions of Healing
 
-**Potion of: **`dice: [[Random Items#^potions-of-healing]]|Potion of`  
-**Rarity: **`dice: [[Random Items#^potions-of-healing]]|Rarity`  
-**HP Regained: **`dice: [[Random Items#^potions-of-healing]]|HP Regained`
+**Potion of: **`dice: [[30 - Random Items#^potions-of-healing]]|Potion of`  
+**Rarity: **`dice: [[30 - Random Items#^potions-of-healing]]|Rarity`  
+**HP Regained: **`dice: [[30 - Random Items#^potions-of-healing]]|HP Regained`
 
 | d20     | Potion of        | Rarity    | HP Regained |
 | ------- | ---------------- | --------- | ----------- |

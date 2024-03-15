@@ -25,7 +25,7 @@ import("@crit-tech/lgmmbrd").then((lgmmbrd) => {
 Or, you can just import specific sections (see `package.json` for the full list of exported sections):
 
 ```js
-import data from "@crit-tech/lgmmbrd/bossesandminions/default";
+import data from "@crit-tech/lgmmbrd/index/default";
 
 console.log(data);
 ```
@@ -41,7 +41,7 @@ console.log(lgmmbrd);
 Or, you can just import specific sections (see `package.json` for the full list of exported sections):
 
 ```js
-const data = require("@crit-tech/lgmmbrd/bossesandminions/default");
+const data = require("@crit-tech/lgmmbrd/index/default");
 
 console.log(data);
 ```

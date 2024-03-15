@@ -34,7 +34,7 @@ If desired, you can connect the characters together with individual relationship
 
 ## Relationships
 
-`dice: [[Session Zero Checklist#^relationships]]`
+`dice: [[07 - Session Zero Checklist#^relationships]]`
 
 1. Adopted siblings
 2. Mentor and student

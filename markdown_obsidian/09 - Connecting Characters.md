@@ -8,7 +8,7 @@ For single-session games, consider establishing a single group relationship for 
 
 ## Group Connections
 
-`dice: [[Connecting Characters#^group-connections]]`
+`dice: [[09 - Connecting Characters#^group-connections]]`
 
 1. Mercenary company
 2. Self-employed investigators
@@ -35,7 +35,7 @@ For single-session games, consider establishing a single group relationship for 
 
 ## Character Connections
 
-`dice: [[Connecting Characters#^character-connections]]`
+`dice: [[09 - Connecting Characters#^character-connections]]`
 
 1. Sibling of
 2. Saved by

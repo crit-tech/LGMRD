@@ -4,7 +4,7 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 
 ## 1d20 Flavors
 
-`dice: [[Random Traps#^1d20-flavors]]`
+`dice: [[28 - Random Traps#^1d20-flavors]]`
 
 1. Fiery
 2. Freezing
@@ -31,7 +31,7 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 
 ## 1d20 Types
 
-`dice: [[Random Traps#^1d20-types]]`
+`dice: [[28 - Random Traps#^1d20-types]]`
 
 1. Bolts
 2. Spears
@@ -58,7 +58,7 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 
 ## 1d20 Triggers
 
-`dice: [[Random Traps#^1d20-triggers]]`
+`dice: [[28 - Random Traps#^1d20-triggers]]`
 
 1. Door
 2. Floor plate

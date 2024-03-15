@@ -20,7 +20,7 @@ export default {
       type: "paragraph",
       order: 0,
       markdown:
-        "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.\n\nIf an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](lazycombatencounterbuilding.md) later in this document.",
+        "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.\n\nIf an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](16-lazycombatencounterbuilding.md) later in this document.",
     },
   ],
   order: 4,

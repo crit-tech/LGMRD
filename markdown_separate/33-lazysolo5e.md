@@ -6,13 +6,13 @@ This scenario begins at 1st level, and your character gains a level after each s
 
 ## Building the Quest
 
-First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](coreadventuregenerators.md)" section of this document. Choose a name and any other details from the "[NPC Generator](npcgenerator.md)" section.
+First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section of this document. Choose a name and any other details from the "[NPC Generator](26-npcgenerator.md)" section.
 
-Next, roll on the Quests in "[Core Adventure Generators](coreadventuregenerators.md)". Determine the location by rolling on the Condition, Description, Origin, and Location table.
+Next, roll on the Quests in "[Core Adventure Generators](25-coreadventuregenerators.md)". Determine the location by rolling on the Condition, Description, Origin, and Location table.
 
 Choose a map for the location from your favorite online source of maps or any other maps you have on hand. Choose a map that fits the location. Maps with fifteen or more rooms work best for adventures created with these guidelines.
 
-You can then fill in additional quest details from the other tables in "[Core Adventure Generators](coreadventuregenerators.md)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.
+You can then fill in additional quest details from the other tables in "[Core Adventure Generators](25-coreadventuregenerators.md)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.
 
 Choose a starting room on the map that makes sense.
 
@@ -37,17 +37,17 @@ On your fourth roll of quest progress, you reach the final challenge of the ques
 
 ## Traps and Hazards
 
-Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.
+Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.
 
 ## Monster Encounter
 
-Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.
+Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](32-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.
 
 Assume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster's Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.
 
 ## Monuments
 
-Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](coreadventuregenerators.md)" section.
+Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section.
 
 Roll a d6 to determine the effect of the monument.
 
@@ -75,4 +75,4 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 7. Consumable item
 8. Permanent item
 
-For consumable and permanent items, roll on the tables in the "[Treasure Generator](treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.
+For consumable and permanent items, roll on the tables in the "[Treasure Generator](27-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.

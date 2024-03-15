@@ -6,7 +6,7 @@ The following prompts don't create specific secrets and clues. Rather, the quest
 
 Use character secrets to tie the characters to the world around them. These sorts of secrets might be revealed by NPCs, old journals or letters, suddenly recalled memories, or prophetic dreams.
 
-`dice: [[Creating Secrets and Clues#^character-secrets]]`
+`dice: [[05 - Creating Secrets and Clues#^character-secrets]]`
 
 1. What family history might be revealed?
 2. What ties the character to this location?
@@ -27,7 +27,7 @@ Use historical secrets to give the characters meaningful and useful information 
 
 Historical secrets might be found as mosaics in ancient tombs, statues in old ruins, dusty tomes in ancient libraries, markings on strange weapons, or tales shared among elderly villagers.
 
-`dice: [[Creating Secrets and Clues#^historical-secrets]]`
+`dice: [[05 - Creating Secrets and Clues#^historical-secrets]]`
 
 1. What dead god has a connection to the area?
 2. What armies once battled here?
@@ -48,7 +48,7 @@ Use NPC and villain secrets to reveal information about these NPCs to the charac
 
 Characters might learn NPC or villain secrets from a villain's herald or sidekick, rumors at a local pub, recovered journals, a minion's last words, captured letters, or town gossip.
 
-`dice: [[Creating Secrets and Clues#^npc-and-villain-secrets]]`
+`dice: [[05 - Creating Secrets and Clues#^npc-and-villain-secrets]]`
 
 1. What dark history follows the NPC?
 2. What makes the NPC think they're right?
@@ -69,7 +69,7 @@ Use plot and story secrets to teach characters about the larger events going on 
 
 Characters might learn these secrets from quest-giving NPCs, notes found on defeated foes, dreams or portents from the gods, NPCs fleeing a disaster, arcane feedback from an object, or psychic projections.
 
-`dice: [[Creating Secrets and Clues#^plot-and-story-secrets]]`
+`dice: [[05 - Creating Secrets and Clues#^plot-and-story-secrets]]`
 
 1. What villainous event will soon come to pass?
 2. What disaster is about to befall the land?

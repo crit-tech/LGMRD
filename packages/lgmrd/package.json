@@ -8,6 +8,114 @@
       "import": "./index.mjs",
       "require": "./index.cjs"
     },
+    "./index/default": {
+      "import": "./sections/index/default.mjs",
+      "require": "./sections/index/default.cjs"
+    },
+    "./index/tableofcontents": {
+      "import": "./sections/index/tableofcontents.mjs",
+      "require": "./sections/index/tableofcontents.cjs"
+    },
+    "./eightsteps/default": {
+      "import": "./sections/eightsteps/default.mjs",
+      "require": "./sections/eightsteps/default.cjs"
+    },
+    "./eightsteps/reviewthecharacters": {
+      "import": "./sections/eightsteps/reviewthecharacters.mjs",
+      "require": "./sections/eightsteps/reviewthecharacters.cjs"
+    },
+    "./eightsteps/createastrongstart": {
+      "import": "./sections/eightsteps/createastrongstart.mjs",
+      "require": "./sections/eightsteps/createastrongstart.cjs"
+    },
+    "./eightsteps/outlinepotentialscenes": {
+      "import": "./sections/eightsteps/outlinepotentialscenes.mjs",
+      "require": "./sections/eightsteps/outlinepotentialscenes.cjs"
+    },
+    "./eightsteps/definesecretsandclues": {
+      "import": "./sections/eightsteps/definesecretsandclues.mjs",
+      "require": "./sections/eightsteps/definesecretsandclues.cjs"
+    },
+    "./eightsteps/developfantasticlocations": {
+      "import": "./sections/eightsteps/developfantasticlocations.mjs",
+      "require": "./sections/eightsteps/developfantasticlocations.cjs"
+    },
+    "./eightsteps/outlineimportantnpcs": {
+      "import": "./sections/eightsteps/outlineimportantnpcs.mjs",
+      "require": "./sections/eightsteps/outlineimportantnpcs.cjs"
+    },
+    "./eightsteps/chooserelevantmonsters": {
+      "import": "./sections/eightsteps/chooserelevantmonsters.mjs",
+      "require": "./sections/eightsteps/chooserelevantmonsters.cjs"
+    },
+    "./eightsteps/selectmagicitemrewards": {
+      "import": "./sections/eightsteps/selectmagicitemrewards.mjs",
+      "require": "./sections/eightsteps/selectmagicitemrewards.cjs"
+    },
+    "./eightsteps/thelazyrpgprepchecklistandonlineplay": {
+      "import": "./sections/eightsteps/thelazyrpgprepchecklistandonlineplay.mjs",
+      "require": "./sections/eightsteps/thelazyrpgprepchecklistandonlineplay.cjs"
+    },
+    "./eightsteps/the5-minutereducedchecklist": {
+      "import": "./sections/eightsteps/the5-minutereducedchecklist.mjs",
+      "require": "./sections/eightsteps/the5-minutereducedchecklist.cjs"
+    },
+    "./prepprocess/thelazyrpgpreptoolkit": {
+      "import": "./sections/prepprocess/thelazyrpgpreptoolkit.mjs",
+      "require": "./sections/prepprocess/thelazyrpgpreptoolkit.cjs"
+    },
+    "./prepprocess/buildingalazycampaign": {
+      "import": "./sections/prepprocess/buildingalazycampaign.mjs",
+      "require": "./sections/prepprocess/buildingalazycampaign.cjs"
+    },
+    "./prepprocess/runningyourgame": {
+      "import": "./sections/prepprocess/runningyourgame.mjs",
+      "require": "./sections/prepprocess/runningyourgame.cjs"
+    },
+    "./prepprocess/thinkingaboutyourgame": {
+      "import": "./sections/prepprocess/thinkingaboutyourgame.mjs",
+      "require": "./sections/prepprocess/thinkingaboutyourgame.cjs"
+    },
+    "./prepprocess/embracethegmstruths": {
+      "import": "./sections/prepprocess/embracethegmstruths.mjs",
+      "require": "./sections/prepprocess/embracethegmstruths.cjs"
+    },
+    "./prepprocess/lazyrpgtricks": {
+      "import": "./sections/prepprocess/lazyrpgtricks.mjs",
+      "require": "./sections/prepprocess/lazyrpgtricks.cjs"
+    },
+    "./strongstarts/citiesandtowns": {
+      "import": "./sections/strongstarts/citiesandtowns.mjs",
+      "require": "./sections/strongstarts/citiesandtowns.cjs"
+    },
+    "./strongstarts/sewers": {
+      "import": "./sections/strongstarts/sewers.mjs",
+      "require": "./sections/strongstarts/sewers.cjs"
+    },
+    "./strongstarts/wilderness": {
+      "import": "./sections/strongstarts/wilderness.mjs",
+      "require": "./sections/strongstarts/wilderness.cjs"
+    },
+    "./strongstarts/dungeonscavesandcaverns": {
+      "import": "./sections/strongstarts/dungeonscavesandcaverns.mjs",
+      "require": "./sections/strongstarts/dungeonscavesandcaverns.cjs"
+    },
+    "./creatingsecrets/charactersecrets": {
+      "import": "./sections/creatingsecrets/charactersecrets.mjs",
+      "require": "./sections/creatingsecrets/charactersecrets.cjs"
+    },
+    "./creatingsecrets/historicalsecrets": {
+      "import": "./sections/creatingsecrets/historicalsecrets.mjs",
+      "require": "./sections/creatingsecrets/historicalsecrets.cjs"
+    },
+    "./creatingsecrets/npcandvillainsecrets": {
+      "import": "./sections/creatingsecrets/npcandvillainsecrets.mjs",
+      "require": "./sections/creatingsecrets/npcandvillainsecrets.cjs"
+    },
+    "./creatingsecrets/plotandstorysecrets": {
+      "import": "./sections/creatingsecrets/plotandstorysecrets.mjs",
+      "require": "./sections/creatingsecrets/plotandstorysecrets.cjs"
+    },
     "./buildingagroup/findingandmaintainingasolidgroup": {
       "import": "./sections/buildingagroup/findingandmaintainingasolidgroup.mjs",
       "require": "./sections/buildingagroup/findingandmaintainingasolidgroup.cjs"
@@ -36,6 +144,50 @@
       "import": "./sections/buildingagroup/letabsentcharactersfadeintothebackground.mjs",
       "require": "./sections/buildingagroup/letabsentcharactersfadeintothebackground.cjs"
     },
+    "./sessionzerochecklist/writeaone-pageguide": {
+      "import": "./sections/sessionzerochecklist/writeaone-pageguide.mjs",
+      "require": "./sections/sessionzerochecklist/writeaone-pageguide.cjs"
+    },
+    "./sessionzerochecklist/describethetheme": {
+      "import": "./sections/sessionzerochecklist/describethetheme.mjs",
+      "require": "./sections/sessionzerochecklist/describethetheme.cjs"
+    },
+    "./sessionzerochecklist/discusssafetytools": {
+      "import": "./sections/sessionzerochecklist/discusssafetytools.mjs",
+      "require": "./sections/sessionzerochecklist/discusssafetytools.cjs"
+    },
+    "./sessionzerochecklist/decideonagrouppatron": {
+      "import": "./sections/sessionzerochecklist/decideonagrouppatron.mjs",
+      "require": "./sections/sessionzerochecklist/decideonagrouppatron.cjs"
+    },
+    "./sessionzerochecklist/buildcharacterstogether": {
+      "import": "./sections/sessionzerochecklist/buildcharacterstogether.mjs",
+      "require": "./sections/sessionzerochecklist/buildcharacterstogether.cjs"
+    },
+    "./sessionzerochecklist/relationships": {
+      "import": "./sections/sessionzerochecklist/relationships.mjs",
+      "require": "./sections/sessionzerochecklist/relationships.cjs"
+    },
+    "./sessionzerochecklist/runashortadventure": {
+      "import": "./sections/sessionzerochecklist/runashortadventure.mjs",
+      "require": "./sections/sessionzerochecklist/runashortadventure.cjs"
+    },
+    "./safetytools/potentiallysensitivetopics": {
+      "import": "./sections/safetytools/potentiallysensitivetopics.mjs",
+      "require": "./sections/safetytools/potentiallysensitivetopics.cjs"
+    },
+    "./safetytools/hardlinesandoff-screencontent": {
+      "import": "./sections/safetytools/hardlinesandoff-screencontent.mjs",
+      "require": "./sections/safetytools/hardlinesandoff-screencontent.cjs"
+    },
+    "./safetytools/pauseforasecond": {
+      "import": "./sections/safetytools/pauseforasecond.mjs",
+      "require": "./sections/safetytools/pauseforasecond.cjs"
+    },
+    "./safetytools/otherresources": {
+      "import": "./sections/safetytools/otherresources.mjs",
+      "require": "./sections/safetytools/otherresources.cjs"
+    },
     "./connectingcharacters/groupconnections": {
       "import": "./sections/connectingcharacters/groupconnections.mjs",
       "require": "./sections/connectingcharacters/groupconnections.cjs"
@@ -43,6 +195,366 @@
     "./connectingcharacters/characterconnections": {
       "import": "./sections/connectingcharacters/characterconnections.mjs",
       "require": "./sections/connectingcharacters/characterconnections.cjs"
+    },
+    "./spiralcampaigns/campaignpitch": {
+      "import": "./sections/spiralcampaigns/campaignpitch.mjs",
+      "require": "./sections/spiralcampaigns/campaignpitch.cjs"
+    },
+    "./spiralcampaigns/campaignpitches": {
+      "import": "./sections/spiralcampaigns/campaignpitches.mjs",
+      "require": "./sections/spiralcampaigns/campaignpitches.cjs"
+    },
+    "./spiralcampaigns/sixtruths": {
+      "import": "./sections/spiralcampaigns/sixtruths.mjs",
+      "require": "./sections/spiralcampaigns/sixtruths.cjs"
+    },
+    "./spiralcampaigns/startinglocation": {
+      "import": "./sections/spiralcampaigns/startinglocation.mjs",
+      "require": "./sections/spiralcampaigns/startinglocation.cjs"
+    },
+    "./spiralcampaigns/1d10startinglocations": {
+      "import": "./sections/spiralcampaigns/1d10startinglocations.mjs",
+      "require": "./sections/spiralcampaigns/1d10startinglocations.cjs"
+    },
+    "./spiralcampaigns/campaignfronts": {
+      "import": "./sections/spiralcampaigns/campaignfronts.mjs",
+      "require": "./sections/spiralcampaigns/campaignfronts.cjs"
+    },
+    "./spiralcampaigns/1d20campaignfronts": {
+      "import": "./sections/spiralcampaigns/1d20campaignfronts.mjs",
+      "require": "./sections/spiralcampaigns/1d20campaignfronts.cjs"
+    },
+    "./spiralcampaigns/localadventurelocations": {
+      "import": "./sections/spiralcampaigns/localadventurelocations.mjs",
+      "require": "./sections/spiralcampaigns/localadventurelocations.cjs"
+    },
+    "./questtemplates/1killtheboss": {
+      "import": "./sections/questtemplates/1killtheboss.mjs",
+      "require": "./sections/questtemplates/1killtheboss.cjs"
+    },
+    "./questtemplates/2findsomething": {
+      "import": "./sections/questtemplates/2findsomething.mjs",
+      "require": "./sections/questtemplates/2findsomething.cjs"
+    },
+    "./questtemplates/3rescuesomeone": {
+      "import": "./sections/questtemplates/3rescuesomeone.mjs",
+      "require": "./sections/questtemplates/3rescuesomeone.cjs"
+    },
+    "./questtemplates/4killthelieutenants": {
+      "import": "./sections/questtemplates/4killthelieutenants.mjs",
+      "require": "./sections/questtemplates/4killthelieutenants.cjs"
+    },
+    "./questtemplates/5destroysomething": {
+      "import": "./sections/questtemplates/5destroysomething.mjs",
+      "require": "./sections/questtemplates/5destroysomething.cjs"
+    },
+    "./questtemplates/6stealsomething": {
+      "import": "./sections/questtemplates/6stealsomething.mjs",
+      "require": "./sections/questtemplates/6stealsomething.cjs"
+    },
+    "./questtemplates/7clearthedangers": {
+      "import": "./sections/questtemplates/7clearthedangers.mjs",
+      "require": "./sections/questtemplates/7clearthedangers.cjs"
+    },
+    "./questtemplates/8collectthekeys": {
+      "import": "./sections/questtemplates/8collectthekeys.mjs",
+      "require": "./sections/questtemplates/8collectthekeys.cjs"
+    },
+    "./questtemplates/9defendalocation": {
+      "import": "./sections/questtemplates/9defendalocation.mjs",
+      "require": "./sections/questtemplates/9defendalocation.cjs"
+    },
+    "./questtemplates/10endtheritual": {
+      "import": "./sections/questtemplates/10endtheritual.mjs",
+      "require": "./sections/questtemplates/10endtheritual.cjs"
+    },
+    "./toolsforimprov/difficultychecks": {
+      "import": "./sections/toolsforimprov/difficultychecks.mjs",
+      "require": "./sections/toolsforimprov/difficultychecks.cjs"
+    },
+    "./toolsforimprov/improviseddamage": {
+      "import": "./sections/toolsforimprov/improviseddamage.mjs",
+      "require": "./sections/toolsforimprov/improviseddamage.cjs"
+    },
+    "./toolsforimprov/improvisedstatistics": {
+      "import": "./sections/toolsforimprov/improvisedstatistics.mjs",
+      "require": "./sections/toolsforimprov/improvisedstatistics.cjs"
+    },
+    "./toolsforimprov/otherimprovtricks": {
+      "import": "./sections/toolsforimprov/otherimprovtricks.mjs",
+      "require": "./sections/toolsforimprov/otherimprovtricks.cjs"
+    },
+    "./toolsforimprov/deadlyencounterbenchmark": {
+      "import": "./sections/toolsforimprov/deadlyencounterbenchmark.mjs",
+      "require": "./sections/toolsforimprov/deadlyencounterbenchmark.cjs"
+    },
+    "./toolsforimprov/runninghordes": {
+      "import": "./sections/toolsforimprov/runninghordes.mjs",
+      "require": "./sections/toolsforimprov/runninghordes.cjs"
+    },
+    "./toolsforimprov/names": {
+      "import": "./sections/toolsforimprov/names.mjs",
+      "require": "./sections/toolsforimprov/names.cjs"
+    },
+    "./quicktricks/startwithinspiration": {
+      "import": "./sections/quicktricks/startwithinspiration.mjs",
+      "require": "./sections/quicktricks/startwithinspiration.cjs"
+    },
+    "./quicktricks/useindexcardsforinitiative": {
+      "import": "./sections/quicktricks/useindexcardsforinitiative.mjs",
+      "require": "./sections/quicktricks/useindexcardsforinitiative.cjs"
+    },
+    "./quicktricks/averagehandfulsofdice": {
+      "import": "./sections/quicktricks/averagehandfulsofdice.mjs",
+      "require": "./sections/quicktricks/averagehandfulsofdice.cjs"
+    },
+    "./quicktricks/usepassivescores": {
+      "import": "./sections/quicktricks/usepassivescores.mjs",
+      "require": "./sections/quicktricks/usepassivescores.cjs"
+    },
+    "./quicktricks/campsitestories": {
+      "import": "./sections/quicktricks/campsitestories.mjs",
+      "require": "./sections/quicktricks/campsitestories.cjs"
+    },
+    "./quicktricks/passivemonsterinitiative": {
+      "import": "./sections/quicktricks/passivemonsterinitiative.mjs",
+      "require": "./sections/quicktricks/passivemonsterinitiative.cjs"
+    },
+    "./quicktricks/starsandwishes": {
+      "import": "./sections/quicktricks/starsandwishes.mjs",
+      "require": "./sections/quicktricks/starsandwishes.cjs"
+    },
+    "./quicktricks/offercinematicadvantage": {
+      "import": "./sections/quicktricks/offercinematicadvantage.mjs",
+      "require": "./sections/quicktricks/offercinematicadvantage.cjs"
+    },
+    "./quicktricks/otherquicktricks": {
+      "import": "./sections/quicktricks/otherquicktricks.mjs",
+      "require": "./sections/quicktricks/otherquicktricks.cjs"
+    },
+    "./wildernesstravel/characterroles": {
+      "import": "./sections/wildernesstravel/characterroles.mjs",
+      "require": "./sections/wildernesstravel/characterroles.cjs"
+    },
+    "./wildernesstravel/groupstealth": {
+      "import": "./sections/wildernesstravel/groupstealth.mjs",
+      "require": "./sections/wildernesstravel/groupstealth.cjs"
+    },
+    "./wildernesstravel/creatingthewilderness": {
+      "import": "./sections/wildernesstravel/creatingthewilderness.mjs",
+      "require": "./sections/wildernesstravel/creatingthewilderness.cjs"
+    },
+    "./quickencounterbuilding/forcharactersof1stlevel": {
+      "import": "./sections/quickencounterbuilding/forcharactersof1stlevel.mjs",
+      "require": "./sections/quickencounterbuilding/forcharactersof1stlevel.cjs"
+    },
+    "./quickencounterbuilding/forcharactersof2ndto4thlevel": {
+      "import": "./sections/quickencounterbuilding/forcharactersof2ndto4thlevel.mjs",
+      "require": "./sections/quickencounterbuilding/forcharactersof2ndto4thlevel.cjs"
+    },
+    "./quickencounterbuilding/forcharactersof5thto20thlevel": {
+      "import": "./sections/quickencounterbuilding/forcharactersof5thto20thlevel.mjs",
+      "require": "./sections/quickencounterbuilding/forcharactersof5thto20thlevel.cjs"
+    },
+    "./lazycombatencounterbuilding/startwiththestory": {
+      "import": "./sections/lazycombatencounterbuilding/startwiththestory.mjs",
+      "require": "./sections/lazycombatencounterbuilding/startwiththestory.cjs"
+    },
+    "./lazycombatencounterbuilding/averagecharacterhitpoints": {
+      "import": "./sections/lazycombatencounterbuilding/averagecharacterhitpoints.mjs",
+      "require": "./sections/lazycombatencounterbuilding/averagecharacterhitpoints.cjs"
+    },
+    "./lazycombatencounterbuilding/potentialdeadliness": {
+      "import": "./sections/lazycombatencounterbuilding/potentialdeadliness.mjs",
+      "require": "./sections/lazycombatencounterbuilding/potentialdeadliness.cjs"
+    },
+    "./lazycombatencounterbuilding/charactercapabilitiesvary": {
+      "import": "./sections/lazycombatencounterbuilding/charactercapabilitiesvary.mjs",
+      "require": "./sections/lazycombatencounterbuilding/charactercapabilitiesvary.cjs"
+    },
+    "./lazycombatencounterbuilding/scalingforhigherlevels": {
+      "import": "./sections/lazycombatencounterbuilding/scalingforhigherlevels.mjs",
+      "require": "./sections/lazycombatencounterbuilding/scalingforhigherlevels.cjs"
+    },
+    "./totmguidelines1/summaryguidelinesforthegm": {
+      "import": "./sections/totmguidelines1/summaryguidelinesforthegm.mjs",
+      "require": "./sections/totmguidelines1/summaryguidelinesforthegm.cjs"
+    },
+    "./totmguidelines1/summaryguidelinesforplayers": {
+      "import": "./sections/totmguidelines1/summaryguidelinesforplayers.mjs",
+      "require": "./sections/totmguidelines1/summaryguidelinesforplayers.cjs"
+    },
+    "./totmguidelines1/movementdistanceandrange": {
+      "import": "./sections/totmguidelines1/movementdistanceandrange.mjs",
+      "require": "./sections/totmguidelines1/movementdistanceandrange.cjs"
+    },
+    "./totmguidelines1/positioningopportunityattacksandcover": {
+      "import": "./sections/totmguidelines1/positioningopportunityattacksandcover.mjs",
+      "require": "./sections/totmguidelines1/positioningopportunityattacksandcover.cjs"
+    },
+    "./totmguidelines1/areasofeffect": {
+      "import": "./sections/totmguidelines1/areasofeffect.mjs",
+      "require": "./sections/totmguidelines1/areasofeffect.cjs"
+    },
+    "./totmguidelines1/locationsfeaturesenvironmentandterrain": {
+      "import": "./sections/totmguidelines1/locationsfeaturesenvironmentandterrain.mjs",
+      "require": "./sections/totmguidelines1/locationsfeaturesenvironmentandterrain.cjs"
+    },
+    "./totmguidelines1/randomlyselectedtargets": {
+      "import": "./sections/totmguidelines1/randomlyselectedtargets.mjs",
+      "require": "./sections/totmguidelines1/randomlyselectedtargets.cjs"
+    },
+    "./totmguidelines1/physicaltraitsandidentifyingenemies": {
+      "import": "./sections/totmguidelines1/physicaltraitsandidentifyingenemies.mjs",
+      "require": "./sections/totmguidelines1/physicaltraitsandidentifyingenemies.cjs"
+    },
+    "./totmguidelines1/goingbigwithdescriptions": {
+      "import": "./sections/totmguidelines1/goingbigwithdescriptions.mjs",
+      "require": "./sections/totmguidelines1/goingbigwithdescriptions.cjs"
+    },
+    "./totm2/coreprinciples": {
+      "import": "./sections/totm2/coreprinciples.mjs",
+      "require": "./sections/totm2/coreprinciples.cjs"
+    },
+    "./totm2/commonunderstandings": {
+      "import": "./sections/totm2/commonunderstandings.mjs",
+      "require": "./sections/totm2/commonunderstandings.cjs"
+    },
+    "./totm2/playeradvice": {
+      "import": "./sections/totm2/playeradvice.mjs",
+      "require": "./sections/totm2/playeradvice.cjs"
+    },
+    "./totm2/gmadvice": {
+      "import": "./sections/totm2/gmadvice.mjs",
+      "require": "./sections/totm2/gmadvice.cjs"
+    },
+    "./totm2/onetoolofmany": {
+      "import": "./sections/totm2/onetoolofmany.mjs",
+      "require": "./sections/totm2/onetoolofmany.cjs"
+    },
+    "./zonebasedcombat/zonerules": {
+      "import": "./sections/zonebasedcombat/zonerules.mjs",
+      "require": "./sections/zonebasedcombat/zonerules.cjs"
+    },
+    "./zonebasedcombat/areasofeffectinzones": {
+      "import": "./sections/zonebasedcombat/areasofeffectinzones.mjs",
+      "require": "./sections/zonebasedcombat/areasofeffectinzones.cjs"
+    },
+    "./zonebasedcombat/handlingedgecases": {
+      "import": "./sections/zonebasedcombat/handlingedgecases.mjs",
+      "require": "./sections/zonebasedcombat/handlingedgecases.cjs"
+    },
+    "./monsterdifficultydials/hitpointdial": {
+      "import": "./sections/monsterdifficultydials/hitpointdial.mjs",
+      "require": "./sections/monsterdifficultydials/hitpointdial.cjs"
+    },
+    "./monsterdifficultydials/numberofmonstersdial": {
+      "import": "./sections/monsterdifficultydials/numberofmonstersdial.mjs",
+      "require": "./sections/monsterdifficultydials/numberofmonstersdial.cjs"
+    },
+    "./monsterdifficultydials/damagedial": {
+      "import": "./sections/monsterdifficultydials/damagedial.mjs",
+      "require": "./sections/monsterdifficultydials/damagedial.cjs"
+    },
+    "./monsterdifficultydials/numberofattacksdial": {
+      "import": "./sections/monsterdifficultydials/numberofattacksdial.mjs",
+      "require": "./sections/monsterdifficultydials/numberofattacksdial.cjs"
+    },
+    "./monsterdifficultydials/mixandmatch": {
+      "import": "./sections/monsterdifficultydials/mixandmatch.mjs",
+      "require": "./sections/monsterdifficultydials/mixandmatch.cjs"
+    },
+    "./monstertemplates/challengeratingincrease?": {
+      "import": "./sections/monstertemplates/challengeratingincrease?.mjs",
+      "require": "./sections/monstertemplates/challengeratingincrease?.cjs"
+    },
+    "./monstertemplates/elementalmonsters": {
+      "import": "./sections/monstertemplates/elementalmonsters.mjs",
+      "require": "./sections/monstertemplates/elementalmonsters.cjs"
+    },
+    "./monstertemplates/diremonsters": {
+      "import": "./sections/monstertemplates/diremonsters.mjs",
+      "require": "./sections/monstertemplates/diremonsters.cjs"
+    },
+    "./monstertemplates/fiendishmonsters": {
+      "import": "./sections/monstertemplates/fiendishmonsters.mjs",
+      "require": "./sections/monstertemplates/fiendishmonsters.cjs"
+    },
+    "./monstertemplates/spell-infusedmonsters": {
+      "import": "./sections/monstertemplates/spell-infusedmonsters.mjs",
+      "require": "./sections/monstertemplates/spell-infusedmonsters.cjs"
+    },
+    "./undeadtemplates/undeadtemplates": {
+      "import": "./sections/undeadtemplates/undeadtemplates.mjs",
+      "require": "./sections/undeadtemplates/undeadtemplates.cjs"
+    },
+    "./undeadtemplates/skeleton": {
+      "import": "./sections/undeadtemplates/skeleton.mjs",
+      "require": "./sections/undeadtemplates/skeleton.cjs"
+    },
+    "./undeadtemplates/zombie": {
+      "import": "./sections/undeadtemplates/zombie.mjs",
+      "require": "./sections/undeadtemplates/zombie.cjs"
+    },
+    "./undeadtemplates/ghoul": {
+      "import": "./sections/undeadtemplates/ghoul.mjs",
+      "require": "./sections/undeadtemplates/ghoul.cjs"
+    },
+    "./undeadtemplates/wight": {
+      "import": "./sections/undeadtemplates/wight.mjs",
+      "require": "./sections/undeadtemplates/wight.cjs"
+    },
+    "./undeadtemplates/wraith": {
+      "import": "./sections/undeadtemplates/wraith.mjs",
+      "require": "./sections/undeadtemplates/wraith.cjs"
+    },
+    "./undeadtemplates/vampirespawn": {
+      "import": "./sections/undeadtemplates/vampirespawn.mjs",
+      "require": "./sections/undeadtemplates/vampirespawn.cjs"
+    },
+    "./undeadtemplates/powerfulundeadtemplates": {
+      "import": "./sections/undeadtemplates/powerfulundeadtemplates.mjs",
+      "require": "./sections/undeadtemplates/powerfulundeadtemplates.cjs"
+    },
+    "./undeadtemplates/abilitymodifications": {
+      "import": "./sections/undeadtemplates/abilitymodifications.mjs",
+      "require": "./sections/undeadtemplates/abilitymodifications.cjs"
+    },
+    "./runninghordes/poolingdamage": {
+      "import": "./sections/runninghordes/poolingdamage.mjs",
+      "require": "./sections/runninghordes/poolingdamage.cjs"
+    },
+    "./runninghordes/determinetargets": {
+      "import": "./sections/runninghordes/determinetargets.mjs",
+      "require": "./sections/runninghordes/determinetargets.cjs"
+    },
+    "./runninghordes/adjudicatingattacksandsavingthrows": {
+      "import": "./sections/runninghordes/adjudicatingattacksandsavingthrows.mjs",
+      "require": "./sections/runninghordes/adjudicatingattacksandsavingthrows.cjs"
+    },
+    "./runninghordes/adjudicatingareasofeffect": {
+      "import": "./sections/runninghordes/adjudicatingareasofeffect.mjs",
+      "require": "./sections/runninghordes/adjudicatingareasofeffect.cjs"
+    },
+    "./runninghordes/tipsandtricks": {
+      "import": "./sections/runninghordes/tipsandtricks.mjs",
+      "require": "./sections/runninghordes/tipsandtricks.cjs"
+    },
+    "./stresseffects/usingstresseffects": {
+      "import": "./sections/stresseffects/usingstresseffects.mjs",
+      "require": "./sections/stresseffects/usingstresseffects.cjs"
+    },
+    "./stresseffects/stressresults": {
+      "import": "./sections/stresseffects/stressresults.mjs",
+      "require": "./sections/stresseffects/stressresults.cjs"
+    },
+    "./stresseffects/1d20stressresults": {
+      "import": "./sections/stresseffects/1d20stressresults.mjs",
+      "require": "./sections/stresseffects/1d20stressresults.cjs"
+    },
+    "./stresseffects/long-termeffects": {
+      "import": "./sections/stresseffects/long-termeffects.mjs",
+      "require": "./sections/stresseffects/long-termeffects.cjs"
     },
     "./coreadventuregenerators/patronsandnpcs": {
       "import": "./sections/coreadventuregenerators/patronsandnpcs.mjs",
@@ -112,162 +624,6 @@
       "import": "./sections/coreadventuregenerators/1d20spells.mjs",
       "require": "./sections/coreadventuregenerators/1d20spells.cjs"
     },
-    "./creatingsecrets/charactersecrets": {
-      "import": "./sections/creatingsecrets/charactersecrets.mjs",
-      "require": "./sections/creatingsecrets/charactersecrets.cjs"
-    },
-    "./creatingsecrets/historicalsecrets": {
-      "import": "./sections/creatingsecrets/historicalsecrets.mjs",
-      "require": "./sections/creatingsecrets/historicalsecrets.cjs"
-    },
-    "./creatingsecrets/npcandvillainsecrets": {
-      "import": "./sections/creatingsecrets/npcandvillainsecrets.mjs",
-      "require": "./sections/creatingsecrets/npcandvillainsecrets.cjs"
-    },
-    "./creatingsecrets/plotandstorysecrets": {
-      "import": "./sections/creatingsecrets/plotandstorysecrets.mjs",
-      "require": "./sections/creatingsecrets/plotandstorysecrets.cjs"
-    },
-    "./eightsteps/default": {
-      "import": "./sections/eightsteps/default.mjs",
-      "require": "./sections/eightsteps/default.cjs"
-    },
-    "./eightsteps/reviewthecharacters": {
-      "import": "./sections/eightsteps/reviewthecharacters.mjs",
-      "require": "./sections/eightsteps/reviewthecharacters.cjs"
-    },
-    "./eightsteps/createastrongstart": {
-      "import": "./sections/eightsteps/createastrongstart.mjs",
-      "require": "./sections/eightsteps/createastrongstart.cjs"
-    },
-    "./eightsteps/outlinepotentialscenes": {
-      "import": "./sections/eightsteps/outlinepotentialscenes.mjs",
-      "require": "./sections/eightsteps/outlinepotentialscenes.cjs"
-    },
-    "./eightsteps/definesecretsandclues": {
-      "import": "./sections/eightsteps/definesecretsandclues.mjs",
-      "require": "./sections/eightsteps/definesecretsandclues.cjs"
-    },
-    "./eightsteps/developfantasticlocations": {
-      "import": "./sections/eightsteps/developfantasticlocations.mjs",
-      "require": "./sections/eightsteps/developfantasticlocations.cjs"
-    },
-    "./eightsteps/outlineimportantnpcs": {
-      "import": "./sections/eightsteps/outlineimportantnpcs.mjs",
-      "require": "./sections/eightsteps/outlineimportantnpcs.cjs"
-    },
-    "./eightsteps/chooserelevantmonsters": {
-      "import": "./sections/eightsteps/chooserelevantmonsters.mjs",
-      "require": "./sections/eightsteps/chooserelevantmonsters.cjs"
-    },
-    "./eightsteps/selectmagicitemrewards": {
-      "import": "./sections/eightsteps/selectmagicitemrewards.mjs",
-      "require": "./sections/eightsteps/selectmagicitemrewards.cjs"
-    },
-    "./eightsteps/thelazyrpgprepchecklistandonlineplay": {
-      "import": "./sections/eightsteps/thelazyrpgprepchecklistandonlineplay.mjs",
-      "require": "./sections/eightsteps/thelazyrpgprepchecklistandonlineplay.cjs"
-    },
-    "./eightsteps/the5-minutereducedchecklist": {
-      "import": "./sections/eightsteps/the5-minutereducedchecklist.mjs",
-      "require": "./sections/eightsteps/the5-minutereducedchecklist.cjs"
-    },
-    "./index/default": {
-      "import": "./sections/index/default.mjs",
-      "require": "./sections/index/default.cjs"
-    },
-    "./index/tableofcontents": {
-      "import": "./sections/index/tableofcontents.mjs",
-      "require": "./sections/index/tableofcontents.cjs"
-    },
-    "./lazycombatencounterbuilding/startwiththestory": {
-      "import": "./sections/lazycombatencounterbuilding/startwiththestory.mjs",
-      "require": "./sections/lazycombatencounterbuilding/startwiththestory.cjs"
-    },
-    "./lazycombatencounterbuilding/averagecharacterhitpoints": {
-      "import": "./sections/lazycombatencounterbuilding/averagecharacterhitpoints.mjs",
-      "require": "./sections/lazycombatencounterbuilding/averagecharacterhitpoints.cjs"
-    },
-    "./lazycombatencounterbuilding/potentialdeadliness": {
-      "import": "./sections/lazycombatencounterbuilding/potentialdeadliness.mjs",
-      "require": "./sections/lazycombatencounterbuilding/potentialdeadliness.cjs"
-    },
-    "./lazycombatencounterbuilding/charactercapabilitiesvary": {
-      "import": "./sections/lazycombatencounterbuilding/charactercapabilitiesvary.mjs",
-      "require": "./sections/lazycombatencounterbuilding/charactercapabilitiesvary.cjs"
-    },
-    "./lazycombatencounterbuilding/scalingforhigherlevels": {
-      "import": "./sections/lazycombatencounterbuilding/scalingforhigherlevels.mjs",
-      "require": "./sections/lazycombatencounterbuilding/scalingforhigherlevels.cjs"
-    },
-    "./lazysolo5e/buildingthequest": {
-      "import": "./sections/lazysolo5e/buildingthequest.mjs",
-      "require": "./sections/lazysolo5e/buildingthequest.cjs"
-    },
-    "./lazysolo5e/exploringthedungeon": {
-      "import": "./sections/lazysolo5e/exploringthedungeon.mjs",
-      "require": "./sections/lazysolo5e/exploringthedungeon.cjs"
-    },
-    "./lazysolo5e/trapsandhazards": {
-      "import": "./sections/lazysolo5e/trapsandhazards.mjs",
-      "require": "./sections/lazysolo5e/trapsandhazards.cjs"
-    },
-    "./lazysolo5e/monsterencounter": {
-      "import": "./sections/lazysolo5e/monsterencounter.mjs",
-      "require": "./sections/lazysolo5e/monsterencounter.cjs"
-    },
-    "./lazysolo5e/monuments": {
-      "import": "./sections/lazysolo5e/monuments.mjs",
-      "require": "./sections/lazysolo5e/monuments.cjs"
-    },
-    "./lazysolo5e/treasure": {
-      "import": "./sections/lazysolo5e/treasure.mjs",
-      "require": "./sections/lazysolo5e/treasure.cjs"
-    },
-    "./lazysolo5e/1d8treasures": {
-      "import": "./sections/lazysolo5e/1d8treasures.mjs",
-      "require": "./sections/lazysolo5e/1d8treasures.cjs"
-    },
-    "./monsterdifficultydials/hitpointdial": {
-      "import": "./sections/monsterdifficultydials/hitpointdial.mjs",
-      "require": "./sections/monsterdifficultydials/hitpointdial.cjs"
-    },
-    "./monsterdifficultydials/numberofmonstersdial": {
-      "import": "./sections/monsterdifficultydials/numberofmonstersdial.mjs",
-      "require": "./sections/monsterdifficultydials/numberofmonstersdial.cjs"
-    },
-    "./monsterdifficultydials/damagedial": {
-      "import": "./sections/monsterdifficultydials/damagedial.mjs",
-      "require": "./sections/monsterdifficultydials/damagedial.cjs"
-    },
-    "./monsterdifficultydials/numberofattacksdial": {
-      "import": "./sections/monsterdifficultydials/numberofattacksdial.mjs",
-      "require": "./sections/monsterdifficultydials/numberofattacksdial.cjs"
-    },
-    "./monsterdifficultydials/mixandmatch": {
-      "import": "./sections/monsterdifficultydials/mixandmatch.mjs",
-      "require": "./sections/monsterdifficultydials/mixandmatch.cjs"
-    },
-    "./monstertemplates/challengeratingincrease?": {
-      "import": "./sections/monstertemplates/challengeratingincrease?.mjs",
-      "require": "./sections/monstertemplates/challengeratingincrease?.cjs"
-    },
-    "./monstertemplates/elementalmonsters": {
-      "import": "./sections/monstertemplates/elementalmonsters.mjs",
-      "require": "./sections/monstertemplates/elementalmonsters.cjs"
-    },
-    "./monstertemplates/diremonsters": {
-      "import": "./sections/monstertemplates/diremonsters.mjs",
-      "require": "./sections/monstertemplates/diremonsters.cjs"
-    },
-    "./monstertemplates/fiendishmonsters": {
-      "import": "./sections/monstertemplates/fiendishmonsters.mjs",
-      "require": "./sections/monstertemplates/fiendishmonsters.cjs"
-    },
-    "./monstertemplates/spell-infusedmonsters": {
-      "import": "./sections/monstertemplates/spell-infusedmonsters.mjs",
-      "require": "./sections/monstertemplates/spell-infusedmonsters.cjs"
-    },
     "./npcgenerator/names": {
       "import": "./sections/npcgenerator/names.mjs",
       "require": "./sections/npcgenerator/names.cjs"
@@ -304,117 +660,105 @@
       "import": "./sections/npcgenerator/1d20professions.mjs",
       "require": "./sections/npcgenerator/1d20professions.cjs"
     },
-    "./prepprocess/thelazyrpgpreptoolkit": {
-      "import": "./sections/prepprocess/thelazyrpgpreptoolkit.mjs",
-      "require": "./sections/prepprocess/thelazyrpgpreptoolkit.cjs"
+    "./treasuregenerator/goldperlevel": {
+      "import": "./sections/treasuregenerator/goldperlevel.mjs",
+      "require": "./sections/treasuregenerator/goldperlevel.cjs"
     },
-    "./prepprocess/buildingalazycampaign": {
-      "import": "./sections/prepprocess/buildingalazycampaign.mjs",
-      "require": "./sections/prepprocess/buildingalazycampaign.cjs"
+    "./treasuregenerator/consumabletreasure": {
+      "import": "./sections/treasuregenerator/consumabletreasure.mjs",
+      "require": "./sections/treasuregenerator/consumabletreasure.cjs"
     },
-    "./prepprocess/runningyourgame": {
-      "import": "./sections/prepprocess/runningyourgame.mjs",
-      "require": "./sections/prepprocess/runningyourgame.cjs"
+    "./treasuregenerator/1d12consumabletreasure": {
+      "import": "./sections/treasuregenerator/1d12consumabletreasure.mjs",
+      "require": "./sections/treasuregenerator/1d12consumabletreasure.cjs"
     },
-    "./prepprocess/thinkingaboutyourgame": {
-      "import": "./sections/prepprocess/thinkingaboutyourgame.mjs",
-      "require": "./sections/prepprocess/thinkingaboutyourgame.cjs"
+    "./treasuregenerator/magicaltreasure": {
+      "import": "./sections/treasuregenerator/magicaltreasure.mjs",
+      "require": "./sections/treasuregenerator/magicaltreasure.cjs"
     },
-    "./prepprocess/embracethegmstruths": {
-      "import": "./sections/prepprocess/embracethegmstruths.mjs",
-      "require": "./sections/prepprocess/embracethegmstruths.cjs"
+    "./treasuregenerator/40magicaltreasures": {
+      "import": "./sections/treasuregenerator/40magicaltreasures.mjs",
+      "require": "./sections/treasuregenerator/40magicaltreasures.cjs"
     },
-    "./prepprocess/lazyrpgtricks": {
-      "import": "./sections/prepprocess/lazyrpgtricks.mjs",
-      "require": "./sections/prepprocess/lazyrpgtricks.cjs"
+    "./randomtraps/1d20flavors": {
+      "import": "./sections/randomtraps/1d20flavors.mjs",
+      "require": "./sections/randomtraps/1d20flavors.cjs"
     },
-    "./questtemplates/1killtheboss": {
-      "import": "./sections/questtemplates/1killtheboss.mjs",
-      "require": "./sections/questtemplates/1killtheboss.cjs"
+    "./randomtraps/1d20types": {
+      "import": "./sections/randomtraps/1d20types.mjs",
+      "require": "./sections/randomtraps/1d20types.cjs"
     },
-    "./questtemplates/2findsomething": {
-      "import": "./sections/questtemplates/2findsomething.mjs",
-      "require": "./sections/questtemplates/2findsomething.cjs"
+    "./randomtraps/1d20triggers": {
+      "import": "./sections/randomtraps/1d20triggers.mjs",
+      "require": "./sections/randomtraps/1d20triggers.cjs"
     },
-    "./questtemplates/3rescuesomeone": {
-      "import": "./sections/questtemplates/3rescuesomeone.mjs",
-      "require": "./sections/questtemplates/3rescuesomeone.cjs"
+    "./randomtraps/damageseveritybylevel": {
+      "import": "./sections/randomtraps/damageseveritybylevel.mjs",
+      "require": "./sections/randomtraps/damageseveritybylevel.cjs"
     },
-    "./questtemplates/4killthelieutenants": {
-      "import": "./sections/questtemplates/4killthelieutenants.mjs",
-      "require": "./sections/questtemplates/4killthelieutenants.cjs"
+    "./randomtraps/trapsavedcsandattackbonuses": {
+      "import": "./sections/randomtraps/trapsavedcsandattackbonuses.mjs",
+      "require": "./sections/randomtraps/trapsavedcsandattackbonuses.cjs"
     },
-    "./questtemplates/5destroysomething": {
-      "import": "./sections/questtemplates/5destroysomething.mjs",
-      "require": "./sections/questtemplates/5destroysomething.cjs"
+    "./randommonuments/1d20origins": {
+      "import": "./sections/randommonuments/1d20origins.mjs",
+      "require": "./sections/randommonuments/1d20origins.cjs"
     },
-    "./questtemplates/6stealsomething": {
-      "import": "./sections/questtemplates/6stealsomething.mjs",
-      "require": "./sections/questtemplates/6stealsomething.cjs"
+    "./randommonuments/1d20conditions": {
+      "import": "./sections/randommonuments/1d20conditions.mjs",
+      "require": "./sections/randommonuments/1d20conditions.cjs"
     },
-    "./questtemplates/7clearthedangers": {
-      "import": "./sections/questtemplates/7clearthedangers.mjs",
-      "require": "./sections/questtemplates/7clearthedangers.cjs"
+    "./randommonuments/1d20unusualeffects": {
+      "import": "./sections/randommonuments/1d20unusualeffects.mjs",
+      "require": "./sections/randommonuments/1d20unusualeffects.cjs"
     },
-    "./questtemplates/8collectthekeys": {
-      "import": "./sections/questtemplates/8collectthekeys.mjs",
-      "require": "./sections/questtemplates/8collectthekeys.cjs"
+    "./randommonuments/100monumentstructures": {
+      "import": "./sections/randommonuments/100monumentstructures.mjs",
+      "require": "./sections/randommonuments/100monumentstructures.cjs"
     },
-    "./questtemplates/9defendalocation": {
-      "import": "./sections/questtemplates/9defendalocation.mjs",
-      "require": "./sections/questtemplates/9defendalocation.cjs"
+    "./randomitems/1d20weapontypes": {
+      "import": "./sections/randomitems/1d20weapontypes.mjs",
+      "require": "./sections/randomitems/1d20weapontypes.cjs"
     },
-    "./questtemplates/10endtheritual": {
-      "import": "./sections/questtemplates/10endtheritual.mjs",
-      "require": "./sections/questtemplates/10endtheritual.cjs"
+    "./randomitems/1d20itemorigins": {
+      "import": "./sections/randomitems/1d20itemorigins.mjs",
+      "require": "./sections/randomitems/1d20itemorigins.cjs"
     },
-    "./quickencounterbuilding/forcharactersof1stlevel": {
-      "import": "./sections/quickencounterbuilding/forcharactersof1stlevel.mjs",
-      "require": "./sections/quickencounterbuilding/forcharactersof1stlevel.cjs"
+    "./randomitems/1d20itemconditions": {
+      "import": "./sections/randomitems/1d20itemconditions.mjs",
+      "require": "./sections/randomitems/1d20itemconditions.cjs"
     },
-    "./quickencounterbuilding/forcharactersof2ndto4thlevel": {
-      "import": "./sections/quickencounterbuilding/forcharactersof2ndto4thlevel.mjs",
-      "require": "./sections/quickencounterbuilding/forcharactersof2ndto4thlevel.cjs"
+    "./randomitems/1d12armortypes": {
+      "import": "./sections/randomitems/1d12armortypes.mjs",
+      "require": "./sections/randomitems/1d12armortypes.cjs"
     },
-    "./quickencounterbuilding/forcharactersof5thto20thlevel": {
-      "import": "./sections/quickencounterbuilding/forcharactersof5thto20thlevel.mjs",
-      "require": "./sections/quickencounterbuilding/forcharactersof5thto20thlevel.cjs"
+    "./randomitems/50mundaneitems": {
+      "import": "./sections/randomitems/50mundaneitems.mjs",
+      "require": "./sections/randomitems/50mundaneitems.cjs"
     },
-    "./quicktricks/startwithinspiration": {
-      "import": "./sections/quicktricks/startwithinspiration.mjs",
-      "require": "./sections/quicktricks/startwithinspiration.cjs"
+    "./randomitems/50spelleffect": {
+      "import": "./sections/randomitems/50spelleffect.mjs",
+      "require": "./sections/randomitems/50spelleffect.cjs"
     },
-    "./quicktricks/useindexcardsforinitiative": {
-      "import": "./sections/quicktricks/useindexcardsforinitiative.mjs",
-      "require": "./sections/quicktricks/useindexcardsforinitiative.cjs"
+    "./randomitems/potionsofhealing": {
+      "import": "./sections/randomitems/potionsofhealing.mjs",
+      "require": "./sections/randomitems/potionsofhealing.cjs"
     },
-    "./quicktricks/averagehandfulsofdice": {
-      "import": "./sections/quicktricks/averagehandfulsofdice.mjs",
-      "require": "./sections/quicktricks/averagehandfulsofdice.cjs"
+    "./randomtownevents/1d20townsentiments": {
+      "import": "./sections/randomtownevents/1d20townsentiments.mjs",
+      "require": "./sections/randomtownevents/1d20townsentiments.cjs"
     },
-    "./quicktricks/usepassivescores": {
-      "import": "./sections/quicktricks/usepassivescores.mjs",
-      "require": "./sections/quicktricks/usepassivescores.cjs"
+    "./randomtownevents/1d20mundaneevents": {
+      "import": "./sections/randomtownevents/1d20mundaneevents.mjs",
+      "require": "./sections/randomtownevents/1d20mundaneevents.cjs"
     },
-    "./quicktricks/campsitestories": {
-      "import": "./sections/quicktricks/campsitestories.mjs",
-      "require": "./sections/quicktricks/campsitestories.cjs"
+    "./randomtownevents/1d20notableweathercondtions": {
+      "import": "./sections/randomtownevents/1d20notableweathercondtions.mjs",
+      "require": "./sections/randomtownevents/1d20notableweathercondtions.cjs"
     },
-    "./quicktricks/passivemonsterinitiative": {
-      "import": "./sections/quicktricks/passivemonsterinitiative.mjs",
-      "require": "./sections/quicktricks/passivemonsterinitiative.cjs"
-    },
-    "./quicktricks/starsandwishes": {
-      "import": "./sections/quicktricks/starsandwishes.mjs",
-      "require": "./sections/quicktricks/starsandwishes.cjs"
-    },
-    "./quicktricks/offercinematicadvantage": {
-      "import": "./sections/quicktricks/offercinematicadvantage.mjs",
-      "require": "./sections/quicktricks/offercinematicadvantage.cjs"
-    },
-    "./quicktricks/otherquicktricks": {
-      "import": "./sections/quicktricks/otherquicktricks.mjs",
-      "require": "./sections/quicktricks/otherquicktricks.cjs"
+    "./randomtownevents/1d20fantasticevents": {
+      "import": "./sections/randomtownevents/1d20fantasticevents.mjs",
+      "require": "./sections/randomtownevents/1d20fantasticevents.cjs"
     },
     "./randomdungeonmonsters/default": {
       "import": "./sections/randomdungeonmonsters/default.mjs",
@@ -460,377 +804,33 @@
       "import": "./sections/randomdungeonmonsters/monsterlist10.mjs",
       "require": "./sections/randomdungeonmonsters/monsterlist10.cjs"
     },
-    "./randomitems/1d20weapontypes": {
-      "import": "./sections/randomitems/1d20weapontypes.mjs",
-      "require": "./sections/randomitems/1d20weapontypes.cjs"
-    },
-    "./randomitems/1d20itemorigins": {
-      "import": "./sections/randomitems/1d20itemorigins.mjs",
-      "require": "./sections/randomitems/1d20itemorigins.cjs"
-    },
-    "./randomitems/1d20itemconditions": {
-      "import": "./sections/randomitems/1d20itemconditions.mjs",
-      "require": "./sections/randomitems/1d20itemconditions.cjs"
-    },
-    "./randomitems/1d12armortypes": {
-      "import": "./sections/randomitems/1d12armortypes.mjs",
-      "require": "./sections/randomitems/1d12armortypes.cjs"
-    },
-    "./randomitems/50mundaneitems": {
-      "import": "./sections/randomitems/50mundaneitems.mjs",
-      "require": "./sections/randomitems/50mundaneitems.cjs"
-    },
-    "./randomitems/50spelleffect": {
-      "import": "./sections/randomitems/50spelleffect.mjs",
-      "require": "./sections/randomitems/50spelleffect.cjs"
-    },
-    "./randomitems/potionsofhealing": {
-      "import": "./sections/randomitems/potionsofhealing.mjs",
-      "require": "./sections/randomitems/potionsofhealing.cjs"
-    },
-    "./randommonuments/1d20origins": {
-      "import": "./sections/randommonuments/1d20origins.mjs",
-      "require": "./sections/randommonuments/1d20origins.cjs"
-    },
-    "./randommonuments/1d20conditions": {
-      "import": "./sections/randommonuments/1d20conditions.mjs",
-      "require": "./sections/randommonuments/1d20conditions.cjs"
-    },
-    "./randommonuments/1d20unusualeffects": {
-      "import": "./sections/randommonuments/1d20unusualeffects.mjs",
-      "require": "./sections/randommonuments/1d20unusualeffects.cjs"
-    },
-    "./randommonuments/100monumentstructures": {
-      "import": "./sections/randommonuments/100monumentstructures.mjs",
-      "require": "./sections/randommonuments/100monumentstructures.cjs"
-    },
-    "./randomtownevents/1d20townsentiments": {
-      "import": "./sections/randomtownevents/1d20townsentiments.mjs",
-      "require": "./sections/randomtownevents/1d20townsentiments.cjs"
-    },
-    "./randomtownevents/1d20mundaneevents": {
-      "import": "./sections/randomtownevents/1d20mundaneevents.mjs",
-      "require": "./sections/randomtownevents/1d20mundaneevents.cjs"
-    },
-    "./randomtownevents/1d20notableweathercondtions": {
-      "import": "./sections/randomtownevents/1d20notableweathercondtions.mjs",
-      "require": "./sections/randomtownevents/1d20notableweathercondtions.cjs"
-    },
-    "./randomtownevents/1d20fantasticevents": {
-      "import": "./sections/randomtownevents/1d20fantasticevents.mjs",
-      "require": "./sections/randomtownevents/1d20fantasticevents.cjs"
-    },
-    "./randomtraps/1d20flavors": {
-      "import": "./sections/randomtraps/1d20flavors.mjs",
-      "require": "./sections/randomtraps/1d20flavors.cjs"
-    },
-    "./randomtraps/1d20types": {
-      "import": "./sections/randomtraps/1d20types.mjs",
-      "require": "./sections/randomtraps/1d20types.cjs"
-    },
-    "./randomtraps/1d20triggers": {
-      "import": "./sections/randomtraps/1d20triggers.mjs",
-      "require": "./sections/randomtraps/1d20triggers.cjs"
-    },
-    "./randomtraps/damageseveritybylevel": {
-      "import": "./sections/randomtraps/damageseveritybylevel.mjs",
-      "require": "./sections/randomtraps/damageseveritybylevel.cjs"
-    },
-    "./randomtraps/trapsavedcsandattackbonuses": {
-      "import": "./sections/randomtraps/trapsavedcsandattackbonuses.mjs",
-      "require": "./sections/randomtraps/trapsavedcsandattackbonuses.cjs"
-    },
-    "./runninghordes/poolingdamage": {
-      "import": "./sections/runninghordes/poolingdamage.mjs",
-      "require": "./sections/runninghordes/poolingdamage.cjs"
-    },
-    "./runninghordes/determinetargets": {
-      "import": "./sections/runninghordes/determinetargets.mjs",
-      "require": "./sections/runninghordes/determinetargets.cjs"
-    },
-    "./runninghordes/adjudicatingattacksandsavingthrows": {
-      "import": "./sections/runninghordes/adjudicatingattacksandsavingthrows.mjs",
-      "require": "./sections/runninghordes/adjudicatingattacksandsavingthrows.cjs"
-    },
-    "./runninghordes/adjudicatingareasofeffect": {
-      "import": "./sections/runninghordes/adjudicatingareasofeffect.mjs",
-      "require": "./sections/runninghordes/adjudicatingareasofeffect.cjs"
-    },
-    "./runninghordes/tipsandtricks": {
-      "import": "./sections/runninghordes/tipsandtricks.mjs",
-      "require": "./sections/runninghordes/tipsandtricks.cjs"
-    },
-    "./safetytools/potentiallysensitivetopics": {
-      "import": "./sections/safetytools/potentiallysensitivetopics.mjs",
-      "require": "./sections/safetytools/potentiallysensitivetopics.cjs"
-    },
-    "./safetytools/hardlinesandoff-screencontent": {
-      "import": "./sections/safetytools/hardlinesandoff-screencontent.mjs",
-      "require": "./sections/safetytools/hardlinesandoff-screencontent.cjs"
-    },
-    "./safetytools/pauseforasecond": {
-      "import": "./sections/safetytools/pauseforasecond.mjs",
-      "require": "./sections/safetytools/pauseforasecond.cjs"
-    },
-    "./safetytools/otherresources": {
-      "import": "./sections/safetytools/otherresources.mjs",
-      "require": "./sections/safetytools/otherresources.cjs"
-    },
-    "./sessionzerochecklist/writeaone-pageguide": {
-      "import": "./sections/sessionzerochecklist/writeaone-pageguide.mjs",
-      "require": "./sections/sessionzerochecklist/writeaone-pageguide.cjs"
-    },
-    "./sessionzerochecklist/describethetheme": {
-      "import": "./sections/sessionzerochecklist/describethetheme.mjs",
-      "require": "./sections/sessionzerochecklist/describethetheme.cjs"
-    },
-    "./sessionzerochecklist/discusssafetytools": {
-      "import": "./sections/sessionzerochecklist/discusssafetytools.mjs",
-      "require": "./sections/sessionzerochecklist/discusssafetytools.cjs"
-    },
-    "./sessionzerochecklist/decideonagrouppatron": {
-      "import": "./sections/sessionzerochecklist/decideonagrouppatron.mjs",
-      "require": "./sections/sessionzerochecklist/decideonagrouppatron.cjs"
-    },
-    "./sessionzerochecklist/buildcharacterstogether": {
-      "import": "./sections/sessionzerochecklist/buildcharacterstogether.mjs",
-      "require": "./sections/sessionzerochecklist/buildcharacterstogether.cjs"
-    },
-    "./sessionzerochecklist/relationships": {
-      "import": "./sections/sessionzerochecklist/relationships.mjs",
-      "require": "./sections/sessionzerochecklist/relationships.cjs"
-    },
-    "./sessionzerochecklist/runashortadventure": {
-      "import": "./sections/sessionzerochecklist/runashortadventure.mjs",
-      "require": "./sections/sessionzerochecklist/runashortadventure.cjs"
-    },
-    "./spiralcampaigns/campaignpitch": {
-      "import": "./sections/spiralcampaigns/campaignpitch.mjs",
-      "require": "./sections/spiralcampaigns/campaignpitch.cjs"
-    },
-    "./spiralcampaigns/campaignpitches": {
-      "import": "./sections/spiralcampaigns/campaignpitches.mjs",
-      "require": "./sections/spiralcampaigns/campaignpitches.cjs"
-    },
-    "./spiralcampaigns/sixtruths": {
-      "import": "./sections/spiralcampaigns/sixtruths.mjs",
-      "require": "./sections/spiralcampaigns/sixtruths.cjs"
-    },
-    "./spiralcampaigns/startinglocation": {
-      "import": "./sections/spiralcampaigns/startinglocation.mjs",
-      "require": "./sections/spiralcampaigns/startinglocation.cjs"
-    },
-    "./spiralcampaigns/1d10startinglocations": {
-      "import": "./sections/spiralcampaigns/1d10startinglocations.mjs",
-      "require": "./sections/spiralcampaigns/1d10startinglocations.cjs"
-    },
-    "./spiralcampaigns/campaignfronts": {
-      "import": "./sections/spiralcampaigns/campaignfronts.mjs",
-      "require": "./sections/spiralcampaigns/campaignfronts.cjs"
-    },
-    "./spiralcampaigns/1d20campaignfronts": {
-      "import": "./sections/spiralcampaigns/1d20campaignfronts.mjs",
-      "require": "./sections/spiralcampaigns/1d20campaignfronts.cjs"
-    },
-    "./spiralcampaigns/localadventurelocations": {
-      "import": "./sections/spiralcampaigns/localadventurelocations.mjs",
-      "require": "./sections/spiralcampaigns/localadventurelocations.cjs"
-    },
-    "./stresseffects/usingstresseffects": {
-      "import": "./sections/stresseffects/usingstresseffects.mjs",
-      "require": "./sections/stresseffects/usingstresseffects.cjs"
-    },
-    "./stresseffects/stressresults": {
-      "import": "./sections/stresseffects/stressresults.mjs",
-      "require": "./sections/stresseffects/stressresults.cjs"
-    },
-    "./stresseffects/1d20stressresults": {
-      "import": "./sections/stresseffects/1d20stressresults.mjs",
-      "require": "./sections/stresseffects/1d20stressresults.cjs"
-    },
-    "./stresseffects/long-termeffects": {
-      "import": "./sections/stresseffects/long-termeffects.mjs",
-      "require": "./sections/stresseffects/long-termeffects.cjs"
-    },
-    "./strongstarts/citiesandtowns": {
-      "import": "./sections/strongstarts/citiesandtowns.mjs",
-      "require": "./sections/strongstarts/citiesandtowns.cjs"
-    },
-    "./strongstarts/sewers": {
-      "import": "./sections/strongstarts/sewers.mjs",
-      "require": "./sections/strongstarts/sewers.cjs"
-    },
-    "./strongstarts/wilderness": {
-      "import": "./sections/strongstarts/wilderness.mjs",
-      "require": "./sections/strongstarts/wilderness.cjs"
-    },
-    "./strongstarts/dungeonscavesandcaverns": {
-      "import": "./sections/strongstarts/dungeonscavesandcaverns.mjs",
-      "require": "./sections/strongstarts/dungeonscavesandcaverns.cjs"
-    },
-    "./toolsforimprov/difficultychecks": {
-      "import": "./sections/toolsforimprov/difficultychecks.mjs",
-      "require": "./sections/toolsforimprov/difficultychecks.cjs"
-    },
-    "./toolsforimprov/improviseddamage": {
-      "import": "./sections/toolsforimprov/improviseddamage.mjs",
-      "require": "./sections/toolsforimprov/improviseddamage.cjs"
-    },
-    "./toolsforimprov/improvisedstatistics": {
-      "import": "./sections/toolsforimprov/improvisedstatistics.mjs",
-      "require": "./sections/toolsforimprov/improvisedstatistics.cjs"
-    },
-    "./toolsforimprov/otherimprovtricks": {
-      "import": "./sections/toolsforimprov/otherimprovtricks.mjs",
-      "require": "./sections/toolsforimprov/otherimprovtricks.cjs"
-    },
-    "./toolsforimprov/deadlyencounterbenchmark": {
-      "import": "./sections/toolsforimprov/deadlyencounterbenchmark.mjs",
-      "require": "./sections/toolsforimprov/deadlyencounterbenchmark.cjs"
-    },
-    "./toolsforimprov/runninghordes": {
-      "import": "./sections/toolsforimprov/runninghordes.mjs",
-      "require": "./sections/toolsforimprov/runninghordes.cjs"
-    },
-    "./toolsforimprov/names": {
-      "import": "./sections/toolsforimprov/names.mjs",
-      "require": "./sections/toolsforimprov/names.cjs"
-    },
-    "./totm2/coreprinciples": {
-      "import": "./sections/totm2/coreprinciples.mjs",
-      "require": "./sections/totm2/coreprinciples.cjs"
-    },
-    "./totm2/commonunderstandings": {
-      "import": "./sections/totm2/commonunderstandings.mjs",
-      "require": "./sections/totm2/commonunderstandings.cjs"
-    },
-    "./totm2/playeradvice": {
-      "import": "./sections/totm2/playeradvice.mjs",
-      "require": "./sections/totm2/playeradvice.cjs"
-    },
-    "./totm2/gmadvice": {
-      "import": "./sections/totm2/gmadvice.mjs",
-      "require": "./sections/totm2/gmadvice.cjs"
-    },
-    "./totm2/onetoolofmany": {
-      "import": "./sections/totm2/onetoolofmany.mjs",
-      "require": "./sections/totm2/onetoolofmany.cjs"
-    },
-    "./totmguidelines1/summaryguidelinesforthegm": {
-      "import": "./sections/totmguidelines1/summaryguidelinesforthegm.mjs",
-      "require": "./sections/totmguidelines1/summaryguidelinesforthegm.cjs"
-    },
-    "./totmguidelines1/summaryguidelinesforplayers": {
-      "import": "./sections/totmguidelines1/summaryguidelinesforplayers.mjs",
-      "require": "./sections/totmguidelines1/summaryguidelinesforplayers.cjs"
-    },
-    "./totmguidelines1/movementdistanceandrange": {
-      "import": "./sections/totmguidelines1/movementdistanceandrange.mjs",
-      "require": "./sections/totmguidelines1/movementdistanceandrange.cjs"
-    },
-    "./totmguidelines1/positioningopportunityattacksandcover": {
-      "import": "./sections/totmguidelines1/positioningopportunityattacksandcover.mjs",
-      "require": "./sections/totmguidelines1/positioningopportunityattacksandcover.cjs"
-    },
-    "./totmguidelines1/areasofeffect": {
-      "import": "./sections/totmguidelines1/areasofeffect.mjs",
-      "require": "./sections/totmguidelines1/areasofeffect.cjs"
-    },
-    "./totmguidelines1/locationsfeaturesenvironmentandterrain": {
-      "import": "./sections/totmguidelines1/locationsfeaturesenvironmentandterrain.mjs",
-      "require": "./sections/totmguidelines1/locationsfeaturesenvironmentandterrain.cjs"
-    },
-    "./totmguidelines1/randomlyselectedtargets": {
-      "import": "./sections/totmguidelines1/randomlyselectedtargets.mjs",
-      "require": "./sections/totmguidelines1/randomlyselectedtargets.cjs"
-    },
-    "./totmguidelines1/physicaltraitsandidentifyingenemies": {
-      "import": "./sections/totmguidelines1/physicaltraitsandidentifyingenemies.mjs",
-      "require": "./sections/totmguidelines1/physicaltraitsandidentifyingenemies.cjs"
-    },
-    "./totmguidelines1/goingbigwithdescriptions": {
-      "import": "./sections/totmguidelines1/goingbigwithdescriptions.mjs",
-      "require": "./sections/totmguidelines1/goingbigwithdescriptions.cjs"
-    },
-    "./treasuregenerator/goldperlevel": {
-      "import": "./sections/treasuregenerator/goldperlevel.mjs",
-      "require": "./sections/treasuregenerator/goldperlevel.cjs"
-    },
-    "./treasuregenerator/consumabletreasure": {
-      "import": "./sections/treasuregenerator/consumabletreasure.mjs",
-      "require": "./sections/treasuregenerator/consumabletreasure.cjs"
-    },
-    "./treasuregenerator/1d12consumabletreasure": {
-      "import": "./sections/treasuregenerator/1d12consumabletreasure.mjs",
-      "require": "./sections/treasuregenerator/1d12consumabletreasure.cjs"
-    },
-    "./treasuregenerator/magicaltreasure": {
-      "import": "./sections/treasuregenerator/magicaltreasure.mjs",
-      "require": "./sections/treasuregenerator/magicaltreasure.cjs"
-    },
-    "./treasuregenerator/40magicaltreasures": {
-      "import": "./sections/treasuregenerator/40magicaltreasures.mjs",
-      "require": "./sections/treasuregenerator/40magicaltreasures.cjs"
-    },
-    "./undeadtemplates/undeadtemplates": {
-      "import": "./sections/undeadtemplates/undeadtemplates.mjs",
-      "require": "./sections/undeadtemplates/undeadtemplates.cjs"
-    },
-    "./undeadtemplates/skeleton": {
-      "import": "./sections/undeadtemplates/skeleton.mjs",
-      "require": "./sections/undeadtemplates/skeleton.cjs"
-    },
-    "./undeadtemplates/zombie": {
-      "import": "./sections/undeadtemplates/zombie.mjs",
-      "require": "./sections/undeadtemplates/zombie.cjs"
-    },
-    "./undeadtemplates/ghoul": {
-      "import": "./sections/undeadtemplates/ghoul.mjs",
-      "require": "./sections/undeadtemplates/ghoul.cjs"
-    },
-    "./undeadtemplates/wight": {
-      "import": "./sections/undeadtemplates/wight.mjs",
-      "require": "./sections/undeadtemplates/wight.cjs"
-    },
-    "./undeadtemplates/wraith": {
-      "import": "./sections/undeadtemplates/wraith.mjs",
-      "require": "./sections/undeadtemplates/wraith.cjs"
-    },
-    "./undeadtemplates/vampirespawn": {
-      "import": "./sections/undeadtemplates/vampirespawn.mjs",
-      "require": "./sections/undeadtemplates/vampirespawn.cjs"
-    },
-    "./undeadtemplates/powerfulundeadtemplates": {
-      "import": "./sections/undeadtemplates/powerfulundeadtemplates.mjs",
-      "require": "./sections/undeadtemplates/powerfulundeadtemplates.cjs"
-    },
-    "./undeadtemplates/abilitymodifications": {
-      "import": "./sections/undeadtemplates/abilitymodifications.mjs",
-      "require": "./sections/undeadtemplates/abilitymodifications.cjs"
-    },
-    "./wildernesstravel/characterroles": {
-      "import": "./sections/wildernesstravel/characterroles.mjs",
-      "require": "./sections/wildernesstravel/characterroles.cjs"
-    },
-    "./wildernesstravel/groupstealth": {
-      "import": "./sections/wildernesstravel/groupstealth.mjs",
-      "require": "./sections/wildernesstravel/groupstealth.cjs"
-    },
-    "./wildernesstravel/creatingthewilderness": {
-      "import": "./sections/wildernesstravel/creatingthewilderness.mjs",
-      "require": "./sections/wildernesstravel/creatingthewilderness.cjs"
-    },
-    "./zonebasedcombat/zonerules": {
-      "import": "./sections/zonebasedcombat/zonerules.mjs",
-      "require": "./sections/zonebasedcombat/zonerules.cjs"
-    },
-    "./zonebasedcombat/areasofeffectinzones": {
-      "import": "./sections/zonebasedcombat/areasofeffectinzones.mjs",
-      "require": "./sections/zonebasedcombat/areasofeffectinzones.cjs"
-    },
-    "./zonebasedcombat/handlingedgecases": {
-      "import": "./sections/zonebasedcombat/handlingedgecases.mjs",
-      "require": "./sections/zonebasedcombat/handlingedgecases.cjs"
+    "./lazysolo5e/buildingthequest": {
+      "import": "./sections/lazysolo5e/buildingthequest.mjs",
+      "require": "./sections/lazysolo5e/buildingthequest.cjs"
+    },
+    "./lazysolo5e/exploringthedungeon": {
+      "import": "./sections/lazysolo5e/exploringthedungeon.mjs",
+      "require": "./sections/lazysolo5e/exploringthedungeon.cjs"
+    },
+    "./lazysolo5e/trapsandhazards": {
+      "import": "./sections/lazysolo5e/trapsandhazards.mjs",
+      "require": "./sections/lazysolo5e/trapsandhazards.cjs"
+    },
+    "./lazysolo5e/monsterencounter": {
+      "import": "./sections/lazysolo5e/monsterencounter.mjs",
+      "require": "./sections/lazysolo5e/monsterencounter.cjs"
+    },
+    "./lazysolo5e/monuments": {
+      "import": "./sections/lazysolo5e/monuments.mjs",
+      "require": "./sections/lazysolo5e/monuments.cjs"
+    },
+    "./lazysolo5e/treasure": {
+      "import": "./sections/lazysolo5e/treasure.mjs",
+      "require": "./sections/lazysolo5e/treasure.cjs"
+    },
+    "./lazysolo5e/1d8treasures": {
+      "import": "./sections/lazysolo5e/1d8treasures.mjs",
+      "require": "./sections/lazysolo5e/1d8treasures.cjs"
     }
   },
   "scripts": {

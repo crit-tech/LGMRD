@@ -1,5 +1,3 @@
-# The Lazy GM's 5e Monster Builder Resource Document
-
 Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.
 
 Updated 18 January 2024
@@ -18,14 +16,14 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 
 ### Table of Contents
 
-* [Building a Quick Monster](buildingaquickmonster.md)
-* [General-Use Combat Stat Blocks](generalusestatblocks.md)
-* [Lazy Tricks for Running Monsters](lazytricksforrunningmonsters.md)
-* [Lightning Rods](lightingrods.md)
-* [Monster Roles](monsterroles.md)
-* [Bosses and Minions](bossesandminions.md)
-* [The Combat Encounter Checklist](combatencounterchecklist.md)
-* [Monster Combinations for a Hard Challenge](monstercombinationsforahardchallenge.md)
-* [The Lazy Encounter Benchmark](lazyencounterbenchmark.md)
-* [Monsters by Adventure Location](monstersbyadventurelocation.md)
-* [Monsters and the Tiers of Play](monstersandthetiersofplay.md)
+* [Building a Quick Monster](<02 - Building a Quick Monster.md>)
+* [General-Use Combat Stat Blocks](<03 - General-Use Combat Stat Blocks.md>)
+* [Lazy Tricks for Running Monsters](<05 - Lazy Tricks for Running Monsters.md>)
+* [Lightning Rods](<04 - Lightning Rods.md>)
+* [Monster Roles](<06 - Monster Roles.md>)
+* [Bosses and Minions](<07 - Bosses and Minions.md>)
+* [The Combat Encounter Checklist](<08 - The Combat Encounter Checklist.md>)
+* [Monster Combinations for a Hard Challenge](<09 - Monster Combinations for a Hard Challenge.md>)
+* [The Lazy Encounter Benchmark](<10 - The Lazy Encounter Benchmark.md>)
+* [Monsters by Adventure Location](<11 - Monsters by Adventure Location.md>)
+* [Monsters and the Tiers of Play](<12 - Monsters and the Tiers of Play.md>)

@@ -4,7 +4,7 @@ A strong start kicks your game off in the middle of the action. It helps the pla
 
 In a settlement, a strong start can make use of either combat or roleplaying.
 
-`dice: [[Example Strong Starts#^cities-and-towns]]`
+`dice: [[04 - Example Strong Starts#^cities-and-towns]]`
 
 1. The characters interrupt bandits breaking into a shop.
 2. Something slithers out of a nearby sewer.
@@ -23,7 +23,7 @@ In a settlement, a strong start can make use of either combat or roleplaying.
 
 A session that starts in a sewer can make use of numerous monsters and hazards.
 
-`dice: [[Example Strong Starts#^sewers]]`
+`dice: [[04 - Example Strong Starts#^sewers]]`
 
 1. A flood of poisonous water flows past the characters' position.
 2. The sewer collapses into deeper tunnels sealed up for centuries.
@@ -42,7 +42,7 @@ A session that starts in a sewer can make use of numerous monsters and hazards.
 
 Wilderness locations can involve either action or mystery in a strong start.
 
-`dice: [[Example Strong Starts#^wilderness]]`
+`dice: [[04 - Example Strong Starts#^wilderness]]`
 
 1. A nearby tree opens up, and a satyr steps through and says "Hi!"
 2. A rampaging werebear storms through the area, mistaking the characters for the hunters who killed their mate.
@@ -61,7 +61,7 @@ Wilderness locations can involve either action or mystery in a strong start.
 
 Subterranean adventures lend themselves to the widest possible range of strong starts.
 
-`dice: [[Example Strong Starts#^dungeons-caves-and-caverns]]`
+`dice: [[04 - Example Strong Starts#^dungeons-caves-and-caverns]]`
 
 1. A vampire appears from a sudden rise of mist, introduces herself, and asks the characters for a favor.
 2. An ancient statue turns its head toward the characters and whispers a valuable secret.

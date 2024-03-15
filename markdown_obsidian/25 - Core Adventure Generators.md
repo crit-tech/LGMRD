@@ -6,8 +6,8 @@ Use these tables together to generate and inspire full adventures, or use indivi
 
 Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
 
-**Behavior: **`dice: [[Core Adventure Generators#^patrons-and-npcs]]|Behavior`  
-**Ancestry: **`dice: [[Core Adventure Generators#^patrons-and-npcs]]|Ancestry`
+**Behavior: **`dice: [[25 - Core Adventure Generators#^patrons-and-npcs]]|Behavior`  
+**Ancestry: **`dice: [[25 - Core Adventure Generators#^patrons-and-npcs]]|Ancestry`
 
 | d20 | Behavior      | Ancestry          |
 | --- | ------------- | ----------------- |
@@ -40,7 +40,7 @@ Any quests the characters are asked to fulfill might be distilled down to one of
 
 ## 1d20 Quests
 
-`dice: [[Core Adventure Generators#^1d20-quests]]`
+`dice: [[25 - Core Adventure Generators#^1d20-quests]]`
 
 1. Find an item
 2. Kill a villain
@@ -69,9 +69,9 @@ Any quests the characters are asked to fulfill might be distilled down to one of
 
 The location of the quest might also contain specific monuments or items tied to the adventure's goals.
 
-**Location: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Location`  
-**Monument: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Monument`  
-**Item: **`dice: [[Core Adventure Generators#^locations-monuments-and-items]]|Item`
+**Location: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Location`  
+**Monument: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Monument`  
+**Item: **`dice: [[25 - Core Adventure Generators#^locations-monuments-and-items]]|Item`
 
 | d20 | Location     | Monument      | Item     |
 | --- | ------------ | ------------- | -------- |
@@ -102,9 +102,9 @@ The location of the quest might also contain specific monuments or items tied to
 
 Locations, monuments, or items can be flavored by determining their condition, description, and origin.
 
-**Condition: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Condition`  
-**Description: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Description`  
-**Origin: **`dice: [[Core Adventure Generators#^condition-description-and-origin]]|Origin`
+**Condition: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Condition`  
+**Description: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Description`  
+**Origin: **`dice: [[25 - Core Adventure Generators#^condition-description-and-origin]]|Origin`
 
 | d20 | Condition   | Description | Origin     |
 | --- | ----------- | ----------- | ---------- |
@@ -137,7 +137,7 @@ Use this list when you need to define the purpose of a chamber in a dungeon, kee
 
 ## 1d20 Chambers
 
-`dice: [[Core Adventure Generators#^1d20-chambers]]`
+`dice: [[25 - Core Adventure Generators#^1d20-chambers]]`
 
 1. Armory
 2. Prison
@@ -168,7 +168,7 @@ Add useful discoveries such as the following to your adventure, to create upward
 
 ## 1d20 Discoveries
 
-`dice: [[Core Adventure Generators#^1d20-discoveries]]`
+`dice: [[25 - Core Adventure Generators#^1d20-discoveries]]`
 
 1. Helpful NPC
 2. Holy fountain
@@ -201,7 +201,7 @@ For foes such as bandits and cultists, you can also roll for ancestry on the NPC
 
 ## 1d20 Monsters
 
-`dice: [[Core Adventure Generators#^1d20-monsters]]`
+`dice: [[25 - Core Adventure Generators#^1d20-monsters]]`
 
 1. Giant rats
 2. Bandits
@@ -232,7 +232,7 @@ Add traps as they make sense for the adventure. At 1st through 4th level, traps 
 
 ## 1d20 Traps and Hazards
 
-`dice: [[Core Adventure Generators#^1d20-traps-and-hazards]]`
+`dice: [[25 - Core Adventure Generators#^1d20-traps-and-hazards]]`
 
 1. Spiked pit
 2. Lightning blasts
@@ -263,7 +263,7 @@ This list lets you add treasure to the adventure as appropriate. Roll a d10 to d
 
 ## 1d20 Treasures
 
-`dice: [[Core Adventure Generators#^1d20-treasures]]`
+`dice: [[25 - Core Adventure Generators#^1d20-treasures]]`
 
 1. Coins
 2. Bag of gemstones
@@ -294,7 +294,7 @@ Some commonly discovered relics might grant a single- use spell, while less comm
 
 ## 1d20 Spells
 
-`dice: [[Core Adventure Generators#^1d20-spells]]`
+`dice: [[25 - Core Adventure Generators#^1d20-spells]]`
 
 1. *Magic missile*
 2. *Burning hands*
