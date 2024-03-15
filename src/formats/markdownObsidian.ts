@@ -7,7 +7,7 @@ TODO:
 - [X] LGMRD - Monster templates (has two-column tables)
 - [ ] LGMRD - Random items / Potions of healing - has table rows with ranges
 - [ ] LGMMBRD - General purpose statblocks
-- [ ] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
+- [X] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
 
 */
 

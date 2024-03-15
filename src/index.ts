@@ -69,8 +69,8 @@ async function createOutput(docType: DocType) {
 }
 
 async function run() {
-  await createOutput("LGMRD");
-  // await createOutput("5e_Monster_Builder");
+  // await createOutput("LGMRD");
+  await createOutput("5e_Monster_Builder");
 }
 
 run();

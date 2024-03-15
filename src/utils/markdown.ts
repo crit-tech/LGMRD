@@ -36,7 +36,7 @@ export function getAndDeletePreviousMarkdown(folder: string): string {
 }
 
 const isDieRoll = (cell: TableCell) =>
-  cell.children[0].type === "text" && cell.children[0].value.startsWith("d");
+  cell.children[0]?.type === "text" && cell.children[0]?.value.startsWith("d");
 
 export const columnSmasherPlugin = getMarkdownPlugin((tree) => {
   const tables: Table[] = [];
@@ -44,6 +44,7 @@ export const columnSmasherPlugin = getMarkdownPlugin((tree) => {
     tables.push(node);
   });
 
+  // For each table, if the first and third columns are die rolls, combine them
   for (const table of tables) {
     const headerRow = table.children[0];
     if (headerRow.children.length !== 4) continue;
