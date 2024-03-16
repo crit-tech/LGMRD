@@ -220,9 +220,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## Potions of Healing
 
-**Potion of: **`dice: [[30 - Random Items#^potions-of-healing]]|Potion of`  
-**Rarity: **`dice: [[30 - Random Items#^potions-of-healing]]|Rarity`  
-**HP Regained: **`dice: [[30 - Random Items#^potions-of-healing]]|HP Regained`
+**Roll: **`dice: 1d20`
 
 | d20     | Potion of        | Rarity    | HP Regained |
 | ------- | ---------------- | --------- | ----------- |

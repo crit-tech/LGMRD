@@ -5,7 +5,7 @@ TODO:
 - [X] Both - Order the pages by the order they appear in the book
 - [X] Both - Change detection not working (thinks it's new each time)
 - [X] LGMRD - Monster templates (has two-column tables)
-- [ ] LGMRD - Random items / Potions of healing - has table rows with ranges
+- [X] LGMRD - Random items / Potions of healing - has table rows with ranges
 - [ ] LGMMBRD - General purpose statblocks
 - [X] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
 
@@ -176,6 +176,7 @@ export async function convertToMarkdownObsidian(
       return (tree: Root) => {
         const diceRolls: {
           diceRoll: string;
+          customDiceRoll: boolean;
           parent: Parent;
           table: Parent;
           headings: string[];
@@ -194,42 +195,61 @@ export async function convertToMarkdownObsidian(
           }
 
           const tableId = updateRollableTable(node, ancestors, tableIds);
-          const diceRoll = `dice: [[${path.basename(
-            file,
-            ".md"
-          )}#^${tableId}]]`;
+          let diceRoll = `dice: [[${path.basename(file, ".md")}#^${tableId}]]`;
+          let customDiceRoll = false;
+
+          // Custom dice rolls
+          if (tableId === "potions-of-healing") {
+            diceRoll = `dice: 1d20`;
+            customDiceRoll = true;
+          }
 
           diceRolls.push({
             diceRoll,
+            customDiceRoll,
             parent: ancestors[0],
             table: node,
             headings,
           });
         });
 
-        for (const { diceRoll, parent, table, headings } of diceRolls) {
+        for (const {
+          diceRoll,
+          customDiceRoll,
+          parent,
+          table,
+          headings,
+        } of diceRolls) {
           const indexOfSelf = parent.children.indexOf(table as RootContent);
 
           const paragraphChildren: (Text | InlineCode | Strong)[] = [];
-          for (let i = 0; i < headings.length; i++) {
+          const addDiceRoll = (label: string, diceRoll: string) => {
             paragraphChildren.push({
               type: "strong",
               children: [
                 {
                   type: "text",
-                  value: `${headings[i]}: `,
+                  value: `${label}: `,
                 },
               ],
             });
             paragraphChildren.push({
               type: "inlineCode",
-              value: `${diceRoll}|${headings[i]}`,
+              value: diceRoll,
             });
-            if (i < headings.length - 1) {
-              paragraphChildren.push({
-                type: "text",
-                value: "  \n",
-              });
+          };
+
+          if (customDiceRoll) {
+            addDiceRoll("Roll", diceRoll);
+          } else {
+            for (let i = 0; i < headings.length; i++) {
+              addDiceRoll(headings[i], `${diceRoll}|${headings[i]}`);
+              if (i < headings.length - 1) {
+                paragraphChildren.push({
+                  type: "text",
+                  value: "  \n",
+                });
+              }
             }
           }
 
