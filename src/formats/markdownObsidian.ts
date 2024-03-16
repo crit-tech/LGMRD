@@ -1,18 +1,7 @@
-/*
-
-TODO:
-
-- [X] Both - Order the pages by the order they appear in the book
-- [X] Both - Change detection not working (thinks it's new each time)
-- [X] LGMRD - Monster templates (has two-column tables)
-- [X] LGMRD - Random items / Potions of healing - has table rows with ranges
-- [ ] LGMMBRD - General purpose statblocks
-- [X] LGMMBRD - Monsters by Adventure Location has broken tables (also for regular markdown)
-
-*/
-
 import fs from "fs";
 import path from "path";
+
+import AdmZip from "adm-zip";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
@@ -37,6 +26,7 @@ import slugify from "slugify";
 
 import {
   DocType,
+  OUTPUT_PATH,
   MARKDOWN_SEPARATE_PATHS,
   MARKDOWN_OBSIDIAN_PATHS,
 } from "../utils/constants.js";
@@ -98,8 +88,7 @@ function updateRollableTable(
 }
 
 export async function convertToMarkdownObsidian(
-  docType: DocType,
-  html: string
+  docType: DocType
 ): Promise<boolean> {
   process.stdout.write(`Converting ${docType} to Markdown (Obsidian)...`);
 
@@ -321,6 +310,31 @@ export async function convertToMarkdownObsidian(
     fs.writeFileSync(file, content);
     newMarkdown += "\n" + content;
   }
+
+  // Copy all files from obsidian_statblocks to output folder
+  if (docType === "5e_Monster_Builder") {
+    const obsidianStatblocksPath = path.join(
+      OUTPUT_PATH,
+      "obsidian_statblocks"
+    );
+    const outputObsidianStatblocksPath = path.join(
+      MARKDOWN_OBSIDIAN_PATHS[docType],
+      "Statblocks"
+    );
+    fs.mkdirSync(outputObsidianStatblocksPath, { recursive: true });
+
+    const obsidianStatblocksFiles = fs.readdirSync(obsidianStatblocksPath);
+    for (const file of obsidianStatblocksFiles) {
+      const filePath = path.join(obsidianStatblocksPath, file);
+      const outputFilePath = path.join(outputObsidianStatblocksPath, file);
+      fs.copyFileSync(filePath, outputFilePath);
+    }
+  }
+
+  const outputZipPath = path.join(OUTPUT_PATH, `${docType}_obsidian.zip`);
+  const zip = new AdmZip();
+  zip.addLocalFolder(MARKDOWN_OBSIDIAN_PATHS[docType]);
+  zip.writeZip(outputZipPath);
 
   process.stdout.write("Done\n");
 

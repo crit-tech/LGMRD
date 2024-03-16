@@ -52,10 +52,7 @@ async function createOutput(docType: DocType) {
     logUpdate(docType, "markdown_separate");
   }
 
-  const markdownObsidianUpdated = await convertToMarkdownObsidian(
-    docType,
-    html
-  );
+  const markdownObsidianUpdated = await convertToMarkdownObsidian(docType);
   if (markdownObsidianUpdated) {
     logUpdate(docType, "markdown_obsidian");
   }
@@ -69,7 +66,7 @@ async function createOutput(docType: DocType) {
 }
 
 async function run() {
-  // await createOutput("LGMRD");
+  await createOutput("LGMRD");
   await createOutput("5e_Monster_Builder");
 }
 

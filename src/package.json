@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/crit-tech/LGMRD#readme",
   "devDependencies": {
+    "@types/adm-zip": "^0.5.5",
     "@types/mdast": "^4.0.3",
     "@types/semver": "^7.5.0",
     "@types/unist": "^3.0.2",
@@ -27,6 +28,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "adm-zip": "^0.5.12",
     "cheerio": "^1.0.0-rc.12",
     "hast-util-to-html": "^9.0.0",
     "hast-util-to-mdast": "^10.1.0",
