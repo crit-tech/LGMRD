@@ -25,7 +25,7 @@ import {
 
 const NEW_MAJOR_VERSIONS: Record<DocType, string> = {
   LGMRD: "3.0.0",
-  "5e_Monster_Builder": "2.0.0",
+  "5e_Monster_Builder": "3.0.0",
 };
 
 interface SubSectionBase {
