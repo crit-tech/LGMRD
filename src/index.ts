@@ -25,19 +25,19 @@ async function createOutput(docType: DocType) {
     logUpdate(docType, "html");
   }
 
-  // if (
-  //   html !== prevHtml ||
-  //   !fs.existsSync(path.join(OUTPUT_PATH, `${docType}.pdf`))
-  // ) {
-  //   await convertToPdf(docType, html);
-  //   logUpdate(docType, "pdf");
-  // }
+  if (
+    html !== prevHtml ||
+    !fs.existsSync(path.join(OUTPUT_PATH, `${docType}.pdf`))
+  ) {
+    await convertToPdf(docType, html);
+    logUpdate(docType, "pdf");
+  }
 
-  // const epubPath = path.join(OUTPUT_PATH, `${docType}.epub`);
-  // if (html !== prevHtml || !fs.existsSync(epubPath)) {
-  //   await convertToEpub(docType, filePath, epubPath);
-  //   logUpdate(docType, "epub");
-  // }
+  const epubPath = path.join(OUTPUT_PATH, `${docType}.epub`);
+  if (html !== prevHtml || !fs.existsSync(epubPath)) {
+    await convertToEpub(docType, filePath, epubPath);
+    logUpdate(docType, "epub");
+  }
 
   const markdownUpdated = await convertToMarkdown(docType, html);
   if (markdownUpdated) {
@@ -57,12 +57,12 @@ async function createOutput(docType: DocType) {
     logUpdate(docType, "markdown_obsidian");
   }
 
-  // const jsonUpdated = await convertToJson(docType);
-  // if (jsonUpdated) {
-  //   logUpdate(docType, "json");
-  // }
+  const jsonUpdated = await convertToJson(docType);
+  if (jsonUpdated) {
+    logUpdate(docType, "json");
+  }
 
-  // await publishJsonPackage(docType);
+  await publishJsonPackage(docType);
 }
 
 async function run() {

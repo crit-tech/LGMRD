@@ -331,10 +331,12 @@ export async function convertToMarkdownObsidian(
     }
   }
 
-  const outputZipPath = path.join(OUTPUT_PATH, `${docType}_obsidian.zip`);
-  const zip = new AdmZip();
-  zip.addLocalFolder(MARKDOWN_OBSIDIAN_PATHS[docType]);
-  zip.writeZip(outputZipPath);
+  if (previousMarkdown !== newMarkdown) {
+    const outputZipPath = path.join(OUTPUT_PATH, `${docType}_obsidian.zip`);
+    const zip = new AdmZip();
+    zip.addLocalFolder(MARKDOWN_OBSIDIAN_PATHS[docType]);
+    zip.writeZip(outputZipPath);
+  }
 
   process.stdout.write("Done\n");
 
