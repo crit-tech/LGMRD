@@ -27,29 +27,27 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "* A pair of skeletons rises from a pile of crawling claws.",
+            "<ul><li>A pair of <strong>skeletons</strong> rises from a pile of crawling claws.</li></ul>",
         },
         {
           level: "2nd to 4th",
-          example_encounters: "- A lost ghost wanders, surrounded by specters.",
+          example_encounters:
+            "<ul><li>A lost <strong>ghost</strong> wanders, surrounded by specters.</li><li>A <strong>bone naga</strong> rises from an obsidian sarcophagus to command a host of skeletons.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
         {
-          item: "A bone naga rises from an obsidian sarcophagus to command a host of skeletons.                                  |\n| 5th to 10th  | * A mummy lord entombed in a cold-iron sarcophagus is guarded by mummies and wights.",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>A <strong>mummy lord</strong> entombed in a cold-iron sarcophagus is guarded by mummies and wights.</li><li>A pair of <strong>wraiths</strong> float above unholy urns surrounded by vengeful specters.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
         {
-          item: "A pair of wraiths float above unholy urns surrounded by vengeful specters. |\n| 11th to 16th | - A vampire in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.                                                                           |\n| 17th to 20th | * A lich in an unhallowed laboratory is protected by loyal death knights and iron golems.                                                                             |",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>A <strong>vampire</strong> in a gilded tomb is guarded by howling dire wolves and served by vampire spawn.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>A <strong>lich</strong> in an unhallowed laboratory is protected by loyal death knights and iron golems.</li></ul>",
         },
       ],
     },

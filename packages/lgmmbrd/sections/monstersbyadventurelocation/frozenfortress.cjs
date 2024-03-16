@@ -27,16 +27,17 @@ module.exports = {
         {
           level: "5th to 10th",
           example_encounters:
-            "* Frost giant hunters enjoy the sport of their remorhaz pet stalking commoners.",
+            "<ul><li><strong>Frost giant</strong> hunters enjoy the sport of their remorhaz pet stalking commoners.</li><li>The bone-cluttered cave of an <strong>abominable yeti</strong> is guarded by winter wolves.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
         {
-          item: "The bone-cluttered cave of an abominable yeti is guarded by winter wolves. |\n| 11th to 16th | - An adult white dragon is served by loyal frost giants.                                                                                                         |\n| 17th to 20th | * An ancient white dragon lairing atop an inaccessible peak is worshiped by generations of abominable yetis.                                                     |",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>An <strong>adult white dragon</strong> is served by loyal frost giants.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>An <strong>ancient white dragon</strong> lairing atop an inaccessible peak is worshiped by generations of abominable yetis.</li></ul>",
         },
       ],
     },

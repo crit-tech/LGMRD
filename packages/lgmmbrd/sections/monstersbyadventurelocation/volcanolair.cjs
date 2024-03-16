@@ -27,16 +27,17 @@ module.exports = {
         {
           level: "5th to 10th",
           example_encounters:
-            "* A fire giant with pet hell hounds commands an azer to dig for them.",
+            "<ul><li>A <strong>fire giant</strong> with pet hell hounds commands an azer to dig for them.</li><li>A trapped <strong>efreeti</strong> uses fire elementals to fight for freedom.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
         {
-          item: "A trapped efreeti uses fire elementals to fight for freedom. |\n| 11th to 16th | - An adult red dragon served by salamanders demands fealty from the characters.                                                          |\n| 17th to 20th | * An ancient red dragon worshiped by fire giants awakens from slumber.                                                                   |",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>An <strong>adult red dragon</strong> served by salamanders demands fealty from the characters.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>An <strong>ancient red dragon</strong> worshiped by fire giants awakens from slumber.</li></ul>",
         },
       ],
     },

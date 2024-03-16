@@ -27,40 +27,17 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "* A giant rat and the swarm of rats that travels with them are feeding on a dead body.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        {
-          item: "A thug and a pack of bandit toadies are waiting for someone to rob.                                                                                                                   |\n| 2nd to 4th  | - A spy assisted by thugs has been hired to steal something from the characters.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
-        {
-          item: "A bandit captain with berserker bodyguards and bandit followers is easily insulted.",
+            "<ul><li>A <strong>giant rat</strong> and the swarm of rats that travels with them are feeding on a dead body.</li><li>A <strong>thug</strong> and a pack of bandit toadies are waiting for someone to rob.</li></ul>",
         },
         {
-          item: "A cult fanatic leads cultists who have summoned ravenous dretches into the world.                 |\n| 5th to 10th | * A mage commanding veterans is seeking something the characters seek as well.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 3,
-      data: [
-        {
-          item: "A bandit captain protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.",
+          level: "2nd to 4th",
+          example_encounters:
+            "<ul><li>A <strong>spy</strong> assisted by thugs has been hired to steal something from the characters.</li><li>A <strong>bandit captain</strong> with berserker bodyguards and bandit followers is easily insulted.</li><li>A <strong>cult fanatic</strong> leads cultists who have summoned ravenous dretches into the world.</li></ul>",
         },
         {
-          item: "A careful assassin backed up by spies and thugs hunts the characters. |",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>A <strong>mage</strong> commanding veterans is seeking something the characters seek as well.</li><li>A <strong>bandit captain</strong> protected by hired gladiators and veterans seeks the characters with an offer they can't refuse.</li><li>A careful <strong>assassin</strong> backed up by spies and thugs hunts the characters.</li></ul>",
         },
       ],
     },

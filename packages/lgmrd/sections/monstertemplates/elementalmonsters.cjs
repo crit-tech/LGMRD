@@ -27,10 +27,14 @@ module.exports = {
       order: 1,
       headers: { d8: "d8", elemental_template: "Elemental Template" },
       data: [
-        { d8: "1", elemental_template: "Fire", item: "Poison" },
-        { d8: "2", elemental_template: "Cold", item: "Necrotic" },
-        { d8: "3", elemental_template: "Lighting", item: "Radiant" },
-        { d8: "4", elemental_template: "Acid", item: "Thunder" },
+        { d8: "1", elemental_template: "Fire" },
+        { d8: "2", elemental_template: "Cold" },
+        { d8: "3", elemental_template: "Lighting" },
+        { d8: "4", elemental_template: "Acid" },
+        { d8: "5", elemental_template: "Poison" },
+        { d8: "6", elemental_template: "Necrotic" },
+        { d8: "7", elemental_template: "Radiant" },
+        { d8: "8", elemental_template: "Thunder" },
       ],
     },
     {

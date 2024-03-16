@@ -27,45 +27,27 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "* A thug leads bandits intending to rob a caravan.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        {
-          item: "A vengeful shadow shifts in the darkness among a handful of arisen skeletons.                                                                                                                                                                                                                                                                 |\n| 2nd to 4th   | - A pair of bugbear entrepreneurs use goblin actors as bait to seek adventurers as prey.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
-        {
-          item: "A sorrowful banshee orders specters to recreate their former beautiful life.",
+            "<ul><li>A <strong>thug</strong> leads bandits intending to rob a caravan.</li><li>A vengeful <strong>shadow</strong> shifts in the darkness among a handful of arisen skeletons.</li></ul>",
         },
         {
-          item: "A gnoll pack lord bounty hunter leads gnolls and hyenas after an escaped prisoner.",
-        },
-        { item: "A death dog protected by wolves lairs in a ruined cave." },
-        {
-          item: "A lamia served by jackalweres dwells in an illusory paradise. |\n| 5th to 10th  | * A wise bugbear chief leads bugbear and goblin soldiers from an obsidian throne.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 3,
-      data: [
-        { item: "A cyclops matriarch leads fanatically loyal ogres." },
-        {
-          item: "A solitary medusa dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.",
+          level: "2nd to 4th",
+          example_encounters:
+            "<ul><li>A pair of <strong>bugbear</strong> entrepreneurs use goblin actors as bait to seek adventurers as prey.</li><li>A sorrowful <strong>banshee</strong> orders specters to recreate their former beautiful life.</li><li>A <strong>gnoll pack lord</strong> bounty hunter leads gnolls and hyenas after an escaped prisoner.</li><li>A <strong>death dog</strong> protected by wolves lairs in a ruined cave.</li><li>A <strong>lamia</strong> served by jackalweres dwells in an illusory paradise.</li></ul>",
         },
         {
-          item: "A noble oni in a posh den is guarded by loyal spirit naga storytellers.                                                                    |\n| 11th to 16th | - An adult blue dragon is guarded by clay golems in a jeweled lair.                                                                                                                                                                                                                                                                                                                                    |\n| 17th to 20th | * An ancient blue dragon protected by stone golems and air elementals dwells in the shattered remains of a tower.                                                                                                                                                                                                                                                                                      |",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>A wise <strong>bugbear chief</strong> leads bugbear and goblin soldiers from an obsidian throne.</li><li>A <strong>cyclops</strong> matriarch leads fanatically loyal ogres.</li><li>A solitary <strong>medusa</strong> dwells in a mausoleum, surrounded by petrified heroes and protected by death dogs.</li><li>A noble <strong>oni</strong> in a posh den is guarded by loyal spirit naga storytellers.</li></ul>",
+        },
+        {
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>An <strong>adult blue dragon</strong> is guarded by clay golems in a jeweled lair.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>An <strong>ancient blue dragon</strong> protected by stone golems and air elementals dwells in the shattered remains of a tower.</li></ul>",
         },
       ],
     },

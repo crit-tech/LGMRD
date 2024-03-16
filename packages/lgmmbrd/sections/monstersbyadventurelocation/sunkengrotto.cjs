@@ -27,33 +27,22 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "* A lizardfolk hunter is teaching their trained giant crabs how to hunt.",
+            "<ul><li>A <strong>lizardfolk</strong> hunter is teaching their trained giant crabs how to hunt.</li></ul>",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "- A sea hag commands loyal kuo-toa to set up an effigy to a fictitious god.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        {
-          item: "A lizard king with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.                                                                |\n| 5th to 10th  | * An aboleth in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
-        {
-          item: "A sahuagin baron watches a pack of sahuagin fight water weirds.",
+            "<ul><li>A <strong>sea hag</strong> commands loyal kuo-toa to set up an effigy to a fictitious god.</li><li>A <strong>lizard king</strong> with a lizardfolk shaman advisor commands a clan of lizardfolk from a coral throne.</li></ul>",
         },
         {
-          item: "A corrupt sahuagin priestess feeds sacrificial victims to giant crocodiles. |\n| 11th to 16th | - A kraken rules a deep-sea trench, surrounded by reverent water elementals.                                                                                                                                                                       |",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>An <strong>aboleth</strong> in a swirling pool is guarded by chuuls and worshiped by enthralled veterans.</li><li>A <strong>sahuagin baron</strong> watches a pack of sahuagin fight water weirds.</li><li>A corrupt <strong>sahuagin priestess</strong> feeds sacrificial victims to giant crocodiles.</li></ul>",
+        },
+        {
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>A <strong>kraken</strong> rules a deep-sea trench, surrounded by reverent water elementals.</li></ul>",
         },
       ],
     },

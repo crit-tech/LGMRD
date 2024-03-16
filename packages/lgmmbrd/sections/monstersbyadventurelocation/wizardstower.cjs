@@ -27,26 +27,27 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "* A loyal imp commands a squad of guardian flying swords.",
+            "<ul><li>A loyal <strong>imp</strong> commands a squad of guardian flying swords.</li></ul>",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "- A summoned succubus or incubus directs animated armor serving as guards.",
+            "<ul><li>A summoned <strong>succubus</strong> or <strong>incubus</strong> directs animated armor serving as guards.</li></ul>",
         },
         {
           level: "5th to 10th",
           example_encounters:
-            "* Apprentice mages command elementals and flesh golems.",
+            "<ul><li>Apprentice <strong>mages</strong> command elementals and flesh golems.</li><li>An important chamber is guarded by two <strong>flameskulls</strong> and a number of helmed horrors.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
         {
-          item: "An important chamber is guarded by two flameskulls and a number of helmed horrors. |\n| 11th to 16th | - An impatient archmage is protected by two stone golems in an arcane laboratory.                                                                |\n| 17th to 20th | * A lich studies the multiverse while protected by bound balors and iron golems.                                                                 |",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>An impatient <strong>archmage</strong> is protected by two stone golems in an arcane laboratory.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>A <strong>lich</strong> studies the multiverse while protected by bound balors and iron golems.</li></ul>",
         },
       ],
     },

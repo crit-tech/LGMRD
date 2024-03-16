@@ -27,37 +27,17 @@ export default {
         {
           level: "1st",
           example_encounters:
-            "* A cockatrice pecks at a crumbling statue, while stirges linger above.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        {
-          item: "A giant bat surrounded by swarms of bats skulks in the shadows.                                                                                       |\n| 2nd to 4th  | - Darkmantles and piercers lurk in pools of shadow.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
-        {
-          item: "A worg-riding goblin boss commands a squad of goblin hunters.                                                                                                             |\n| 5th to 10th | * Basilisks and cockatrices lair in a hall full of petrified adventurers.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 3,
-      data: [
-        {
-          item: "A cloaker lurks above a pack of hook horrors disemboweling a dead bulette.",
+            "<ul><li>A <strong>cockatrice</strong> pecks at a crumbling statue, while stirges linger above.</li><li>A <strong>giant bat</strong> surrounded by swarms of bats skulks in the shadows.</li></ul>",
         },
         {
-          item: "Ropers and darkmantles hang above a waterfall, competing for prey. |",
+          level: "2nd to 4th",
+          example_encounters:
+            "<ul><li><strong>Darkmantles</strong> and piercers lurk in pools of shadow.</li><li>A worg-riding <strong>goblin boss</strong> commands a squad of goblin hunters.</li></ul>",
+        },
+        {
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li><strong>Basilisks</strong> and cockatrices lair in a hall full of petrified adventurers.</li><li>A <strong>cloaker</strong> lurks above a pack of hook horrors disemboweling a dead bulette.</li><li><strong>Ropers</strong> and darkmantles hang above a waterfall, competing for prey.</li></ul>",
         },
       ],
     },

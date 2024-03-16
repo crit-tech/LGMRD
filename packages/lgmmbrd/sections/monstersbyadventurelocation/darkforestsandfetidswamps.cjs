@@ -27,37 +27,27 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "* An elf cultist hunts prey with bloodthirsty wolves.",
+            "<ul><li>An elf <strong>cultist</strong> hunts prey with bloodthirsty wolves.</li></ul>",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "- Two ettercaps and their giant spiders stalk adventurers.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        { item: "An ettin warlord commands a host of orc mercenaries." },
-        {
-          item: "A green hag lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.",
+            "<ul><li>Two <strong>ettercaps</strong> and their giant spiders stalk adventurers.</li><li>An <strong>ettin</strong> warlord commands a host of orc mercenaries.</li><li>A <strong>green hag</strong> lurks in an old hut with a pet giant toad, and is guarded by loyal bullywugs.</li><li>A <strong>werewolf</strong> prowls the shadows with their dire wolf companions.</li></ul>",
         },
         {
-          item: "A werewolf prowls the shadows with their dire wolf companions. |\n| 5th to 10th  | * An orc war chief commands a force of ettin and orc scouts based in a ruined keep.                                                                                                                                                                                                        |\n| 11th to 16th | - An adult black dragon commands a host of trolls made loyal through fear.",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>An <strong>orc war chief</strong> commands a force of ettin and orc scouts based in a ruined keep.</li></ul>",
         },
         {
-          item: "An adult green dragon lurks in a dead forest, protected by shambling mounds.                                                                                                                              |\n| 17th to 20th | * An ancient black dragon dwells in a sunken bog filled with giant crocodiles.",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li>An <strong>adult black dragon</strong> commands a host of trolls made loyal through fear.</li><li>An <strong>adult green dragon</strong> lurks in a dead forest, protected by shambling mounds.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
         {
-          item: "An ancient green dragon rules from an ancient wooden throne guarded by loyal treants.                                                                                                                 |",
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li>An <strong>ancient black dragon</strong> dwells in a sunken bog filled with giant crocodiles.</li><li>An <strong>ancient green dragon</strong> rules from an ancient wooden throne guarded by loyal treants.</li></ul>",
         },
       ],
     },

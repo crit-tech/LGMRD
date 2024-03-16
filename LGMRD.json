@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.2.0",
   "sections": [
     {
       "id": "index",
@@ -3308,23 +3308,35 @@
               "data": [
                 {
                   "d8": "1",
-                  "elemental_template": "Fire",
-                  "item": "Poison"
+                  "elemental_template": "Fire"
                 },
                 {
                   "d8": "2",
-                  "elemental_template": "Cold",
-                  "item": "Necrotic"
+                  "elemental_template": "Cold"
                 },
                 {
                   "d8": "3",
-                  "elemental_template": "Lighting",
-                  "item": "Radiant"
+                  "elemental_template": "Lighting"
                 },
                 {
                   "d8": "4",
-                  "elemental_template": "Acid",
-                  "item": "Thunder"
+                  "elemental_template": "Acid"
+                },
+                {
+                  "d8": "5",
+                  "elemental_template": "Poison"
+                },
+                {
+                  "d8": "6",
+                  "elemental_template": "Necrotic"
+                },
+                {
+                  "d8": "7",
+                  "elemental_template": "Radiant"
+                },
+                {
+                  "d8": "8",
+                  "elemental_template": "Thunder"
                 }
               ]
             },
@@ -3479,53 +3491,83 @@
               "data": [
                 {
                   "d20": "1",
-                  "spell": "Burning hands",
-                  "item": "Invisibility"
+                  "spell": "Burning hands"
                 },
                 {
                   "d20": "2",
-                  "spell": "Magic missile",
-                  "item": "Misty step"
+                  "spell": "Magic missile"
                 },
                 {
                   "d20": "3",
-                  "spell": "Disguise self",
-                  "item": "Scorching ray"
+                  "spell": "Disguise self"
                 },
                 {
                   "d20": "4",
-                  "spell": "Fog cloud",
-                  "item": "Shatter"
+                  "spell": "Fog cloud"
                 },
                 {
                   "d20": "5",
-                  "spell": "Shield",
-                  "item": "Spirit guardians"
+                  "spell": "Shield"
                 },
                 {
                   "d20": "6",
-                  "spell": "Inflict wounds",
-                  "item": "Dispel magic"
+                  "spell": "Inflict wounds"
                 },
                 {
                   "d20": "7",
-                  "spell": "Faerie fire",
-                  "item": "Fly"
+                  "spell": "Faerie fire"
                 },
                 {
                   "d20": "8",
-                  "spell": "Thunderwave",
-                  "item": "Gaseous form"
+                  "spell": "Thunderwave"
                 },
                 {
                   "d20": "9",
-                  "spell": "Blur",
-                  "item": "Lightning bolt"
+                  "spell": "Blur"
                 },
                 {
                   "d20": "10",
-                  "spell": "Darkness",
-                  "item": "Fireball"
+                  "spell": "Darkness"
+                },
+                {
+                  "d20": "11",
+                  "spell": "Invisibility"
+                },
+                {
+                  "d20": "12",
+                  "spell": "Misty step"
+                },
+                {
+                  "d20": "13",
+                  "spell": "Scorching ray"
+                },
+                {
+                  "d20": "14",
+                  "spell": "Shatter"
+                },
+                {
+                  "d20": "15",
+                  "spell": "Spirit guardians"
+                },
+                {
+                  "d20": "16",
+                  "spell": "Dispel magic"
+                },
+                {
+                  "d20": "17",
+                  "spell": "Fly"
+                },
+                {
+                  "d20": "18",
+                  "spell": "Gaseous form"
+                },
+                {
+                  "d20": "19",
+                  "spell": "Lightning bolt"
+                },
+                {
+                  "d20": "20",
+                  "spell": "Fireball"
                 }
               ]
             }

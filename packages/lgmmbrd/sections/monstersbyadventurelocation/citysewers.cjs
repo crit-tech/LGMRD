@@ -27,27 +27,12 @@ module.exports = {
         {
           level: "1st",
           example_encounters:
-            "* A wandering zombie is covered by a swarm of rats.",
+            "<ul><li>A wandering <strong>zombie</strong> is covered by a swarm of rats.</li></ul>",
         },
         {
           level: "2nd to 4th",
           example_encounters:
-            "- An erudite ghast weaves fantastic tales to their ravenous ghoul followers.",
-        },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
-        {
-          item: "A spy is guarded by unscrupulous bandits while awaiting the arrival of a contact.",
-        },
-        {
-          item: "An otyugh luxuriates in a watery pit, surrounded by concealed gray oozes.",
-        },
-        {
-          item: "Wererats try to be intimidating by threatening to feed prisoners to their giant rat pets. |",
+            "<ul><li>An erudite <strong>ghast</strong> weaves fantastic tales to their ravenous ghoul followers.</li><li>A <strong>spy</strong> is guarded by unscrupulous bandits while awaiting the arrival of a contact.</li><li>An <strong>otyugh</strong> luxuriates in a watery pit, surrounded by concealed gray oozes.</li><li><strong>Wererats</strong> try to be intimidating by threatening to feed prisoners to their giant rat pets.</li></ul>",
         },
       ],
     },

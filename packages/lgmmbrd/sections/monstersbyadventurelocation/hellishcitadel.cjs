@@ -27,25 +27,22 @@ module.exports = {
         {
           level: "2nd to 4th",
           example_encounters:
-            "* A bearded devil draws lemures through a portal connected to the river Styx.",
+            "<ul><li>A <strong>bearded devil</strong> draws lemures through a portal connected to the river Styx.</li><li>A <strong>barbed devil</strong> and a host of imps keep watch on enemy forces.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 1,
-      data: [
         {
-          item: "A barbed devil and a host of imps keep watch on enemy forces.        |\n| 5th to 10th  | - An armored erinyes commanding a host of spined devils prepares for war.",
+          level: "5th to 10th",
+          example_encounters:
+            "<ul><li>An armored <strong>erinyes</strong> commanding a host of spined devils prepares for war.</li><li>A <strong>horned devil</strong> leading bearded devil soldiers guards an oracular sphere.</li></ul>",
         },
-      ],
-    },
-    {
-      type: "table",
-      order: 2,
-      data: [
         {
-          item: "A horned devil leading bearded devil soldiers guards an oracular sphere. |\n| 11th to 16th | * Ice devil wardens and bone devil guards protect a valuable prisoner.                                                                                   |\n| 17th to 20th | - Pit fiend commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.                                              |",
+          level: "11th to 16th",
+          example_encounters:
+            "<ul><li><strong>Ice devil</strong> wardens and bone devil guards protect a valuable prisoner.</li></ul>",
+        },
+        {
+          level: "17th to 20th",
+          example_encounters:
+            "<ul><li><strong>Pit fiend</strong> commanders and horned devil lieutenants use scrying crystals to get the drop on the characters.</li></ul>",
         },
       ],
     },
