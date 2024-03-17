@@ -2,17 +2,15 @@ This is the [The Lazy GM's 5e Monster Builder Resource Document](https://github.
 
 LGMMBRD is officially pronounced "Lymm Bard".
 
-## Dice Roller plugin
-
-Many of the Markdown files assume that you have the [Dice Roller](https://plugins.javalent.com/Dice+Roller/Dice+Roller) plugin installed. If you don't have it installed, you can still use the LGMRD, but you won't be able to roll dice directly from the document.
-
-Dice rolls are inserted before all random tables.
-
 ## Fantasy Statblocks plugin
 
 In the Statblocks folder, there are statblocks in a format that can be used with the [Fantasy Statblocks](https://plugins.javalent.com/statblocks) plugin. If you don't have it installed, you can still use the rest of the LGMMBRD, but you won't be able to see the statblocks in a nice format.
 
 These can also be imported into your [Bestiary](https://plugins.javalent.com/statblocks/readme/bestiary#Accessing%20the%20bestiary).
+
+## Force note view mode by front matter
+
+Install this plugin to force the view of the content to always be in preview mode. The files already have `obsidianUIMode` set to `preview` in the front matter.
 
 ## Attribution
 
