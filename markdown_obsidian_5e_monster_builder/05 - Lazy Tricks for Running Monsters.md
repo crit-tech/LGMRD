@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 This section presents a number of tricks and tips that can help you more easily prepare and run monsters during your games. We call them "lazy tricks" not because they're about cheating or doing less work overall, but because they're meant to let you quickly accomplish things when your game is in progress and you don't have a lot of extra time.
 
 ## Quick Monster Statistics

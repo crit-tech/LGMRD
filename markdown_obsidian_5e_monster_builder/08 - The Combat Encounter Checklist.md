@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Sometimes all a game needs is an interesting location and some cool monsters to fight, setting up a combat encounter that a GM might build right at the table. The characters go somewhere, everyone decides it's time for a fun fight, and you whip something up. Or you determine that, given the circumstances going on in the story, it's time for the characters to run into some opposition, and you're off to the races.
 
 Sometimes we need more, though, particularly for big set-piece battles or boss fights. When it's time to build an interesting and dynamic encounter, the following checklist can help determine what options a big combat might need:

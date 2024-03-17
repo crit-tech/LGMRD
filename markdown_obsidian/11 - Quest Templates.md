@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs. This section offers ten quest templates you can customize for your own adventures. If generating a random adventure, just roll a d10 to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators found later in this document.
 
 ## 1. Kill the Boss

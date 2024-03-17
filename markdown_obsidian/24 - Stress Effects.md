@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 The guidelines in this section replace the madness rules found in other books. The concept of "madness" has long been used to malign and marginalize complex psychological symptoms and the individuals coping with them.
 
 This new approach works with explicitly supernatural hindrances to break away from those stereotypes.

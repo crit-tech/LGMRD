@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Secrets and clues are short pieces of information the characters might discover during an adventure. Secrets and clues are initially written without regard to the method by which they might be discovered. Instead, we improvise their discovery as the characters engage with the adventure's locations and NPCs.
 
 The following prompts don't create specific secrets and clues. Rather, the questions they ask are meant to inspire the creation of your own secrets for your campaign. Keep in mind that secrets are meant to serve you. Don't overthink them or worry about making them perfect. There's no wrong way to use secrets and clues as long as they help you run your game.

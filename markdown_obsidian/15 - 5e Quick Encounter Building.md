@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 When building encounters, start by choosing the type and number of monsters that make sense for the situation. Then use the following guidelines to compare the challenge rating of the monsters, the level of the characters, and the ratio of monsters to characters. If the quantity of monsters or their challenge rating is beyond the indicated guidelines, the encounter might be deadly. Be especially careful with potentially deadly encounters when the characters are 1st level.
 
 ## For Characters of 1st Level

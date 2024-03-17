@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 When characters rise above 4th level, their ability to deal with powerful foes makes a huge jump. But challenging characters of 5th level and higher isn't just about making things hard. It's easy for GMs to fall into the trap of thwarting the coolest things the heroes can do, by giving monsters immunities to certain conditions, increasing their hit points to offset the high damage a character can deal, or running monsters with tactics clearly built to bypass the characters' best attacks. But thwarting the characters' best features can be frustrating to the players, for obvious reasons.
 
 So instead of shutting down the characters, build your encounters around monsters specifically designed to show off—by eating up—the characters' cool new capabilities as they rise in level. You can think of these monsters as "lightning rods"—intended victims ready to take the full effect of a character's most powerful attacks and features.

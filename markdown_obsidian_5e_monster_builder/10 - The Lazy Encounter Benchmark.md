@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 This section sets out a simple calculation you can keep in your head to give you a gauge of the difficulty of an encounter. This "lazy encounter benchmark" isn't perfect or precise. Rather, it's a tool for getting a rough sense of the potential challenge of a combat encounter–and for recognizing when an encounter crosses over from challenging to potentially deadly. Think of it like a tachometer measuring how fast the engine is running in a car. If you go beyond the limit defined by the benchmark, you're "in the red"–pushing to a point where your encounter might be more than the characters can handle.
 
 ## Using the Benchmark

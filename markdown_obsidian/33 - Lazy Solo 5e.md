@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 These rules let you play a solo game of 5e using lists in this document. With these guidelines, a single character explores a dungeon to complete quests. Let your imagination take over as you fill in the story and details of the quest, location, and adventure.
 
 This scenario begins at 1st level, and your character gains a level after each successful quest.

@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 The following guidelines can help Gamemasters run combat in the "theater of the mind," without the need for a gridded battle map or miniatures. This style of combat takes the emphasis away from tactical features such as distance, range, and the specific size of areas of effect. Instead, it focuses on the in-game action, the intent of the characters, and what happens in the story.
 
 This style of combat works just like any other scene in your game. On each player's turn, you describe the current situation, the players describe their intent, and you adjudicate what happens as a result.

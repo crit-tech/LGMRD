@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 The following lists allow you to generate useful relics and objects, from mundane discoveries to powerful magical artifacts. If you want to come up with an interesting magic weapon, for example, you might roll on the Item Condition, Item Origin, Weapon, and Spell Effect tables. If you just want a weird mundane item, roll on the Item Condition, Item Origin, and Mundane Item tables without adding any effect.
 
 Some strange relics might allow a single use of a powerful magical spell. Roll on the Item Condition, Item Origin, Mundane Item, and Spell Effect table to generate a unique single-use magical relic.

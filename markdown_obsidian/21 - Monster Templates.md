@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 The following monster templates can help you customize existing monsters into new unique variants that can fit a variety of locations and circumstances. With just a few templates in hand, your core monster books can become much more useful.
 
 ## Challenge Rating Increase?

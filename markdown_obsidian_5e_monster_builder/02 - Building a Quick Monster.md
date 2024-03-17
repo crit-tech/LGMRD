@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Sometimes you need a monster right now but you don't have the right one handy. Maybe the creature you're imagining doesn't exist in any given book of published monsters, or you simply don't have the time to look it up. Maybe you're in the middle of your game and want some quick statistics for a creature you didn't think you'd need. For all these problems, this section offers solutions.
 
 The core tool for building a quick monster for a 5e game is the Monster Statistics by Challenge Rating table, which offers you a set of statistics that can be used to build and run a quick monster of any challenge rating (CR). You then have two paths for customizing a monster built from these baseline statistics—with flavor and description during the game, or with a refinement of the creature's mechanics.

@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Whenever the characters enter a new town or start a new session there, adding some detail and context to the setting can help bring things to life. These "Town Events" lists help determine what might be going on in a town, how the townsfolk are currently feeling, what the weather is, and what mundane or fantastic event might be taking place.
 
 ## 1d20 Town Sentiments

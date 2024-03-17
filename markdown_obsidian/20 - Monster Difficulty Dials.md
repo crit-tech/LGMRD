@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Balancing combat encounters is notoriously difficult. Different groups of characters can bring very different capabilities to each battle, even at the same level. However, because monsters as they are typically presented are the average of their type, you can adjust the averages to subtly or dramatically change the difficulty of a given monster or group of monsters. By turning these "difficulty dials" for monsters, you can easily shift the tone of combat even in the middle of a battle.
 
 ## "Hit Point" Dial

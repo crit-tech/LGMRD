@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 A strong start kicks your game off in the middle of the action. It helps the players to let go of the real world and fall into the story unfolding at the table. Depending on where your adventure takes place, you can use any of the following strong starts in your own game, whether running a single-session adventure or a longer campaign.
 
 ## Cities and Towns

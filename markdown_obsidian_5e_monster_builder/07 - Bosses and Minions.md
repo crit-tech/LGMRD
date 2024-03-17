@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 When creating a boss battle, thinking about which bosses pair well with which minions can be a great starting point. You can use the table below to match up minions and bosses in a number of classic adventure environments.
 
 | Boss CR | Boss                 | Environments                         | Minions                                                               |

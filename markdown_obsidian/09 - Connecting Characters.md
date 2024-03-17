@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 During your session zero of a new campaign, or if you're running a single-session one-shot game, consider establishing connections between the characters to help build a cohesive bond between them before the game begins. This can help prevent ham-fisted and convoluted attempts to build a story that connects the characters, when all the players already know perfectly well that they're coming together simply for the adventure.
 
 This section presents two potential approaches to connecting characters. First, all the characters can be previously connected through a single organization, faction, or patron, using ideas from the Group Connections table. Alternatively, each character can establish a connection to one or more other characters through a personal relationship and history, using ideas from the Character Connections table. Players can work together to come up with these shared histories based on the overall themes of the campaign, or the group can randomly select potential relationships and tweak the results as desired.

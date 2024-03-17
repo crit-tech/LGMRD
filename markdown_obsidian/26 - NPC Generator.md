@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 NPCs bring our game worlds to life. You can use the generator in this section to quickly build NPCs to drop into your game, rolling on the tables below to generate baseline characteristics. To really bring the NPC to life, you can then model their personality and roleplaying off characters from your favorite books, TV shows, or movies, switching up gender and other traits to make them feel fresh.
 
 ## Names

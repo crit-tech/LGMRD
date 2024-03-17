@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 For a typical game session, the Lazy RPG Prep checklist looks like this:
 
 * Review the characters

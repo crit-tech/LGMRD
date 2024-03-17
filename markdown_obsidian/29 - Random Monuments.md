@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Filling the various chambers and locations in your game with interesting features is always a challenge — and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
 
 ## 1d20 Origins

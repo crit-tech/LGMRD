@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 Use these lists to generate simple or complex traps, incorporating multiple features, plus energy damage or conditions.
 
 To generate a simple trap, just roll on the Type list and the Trigger table. For a more dangerous trap, add an effect from the Flavor table to put a unique twist on the damage or impose a debilitating condition. For a really devious trap, you can roll on the Flavor table and Type table twice, combining features into deadly combinations such as 'sleep-inducing bolos and thunderous crushing pillars, triggered by an onyx demon's skull.'

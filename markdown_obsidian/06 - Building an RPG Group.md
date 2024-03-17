@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 ## Finding and Maintaining a Solid Group
 
 Finding and maintaining a solid group for roleplaying gaming remains the most difficult task for many GMs. This section offers suggestions for finding players that fit well with your group, and for keeping that group going for years to come.

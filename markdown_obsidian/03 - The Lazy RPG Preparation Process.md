@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 ## The Lazy RPG Prep Toolkit
 
 * Dice, pencils, and dry-erase markers

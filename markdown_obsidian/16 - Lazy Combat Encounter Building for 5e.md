@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
 
 ## Start with the Story

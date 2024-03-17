@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 The following tables let you randomly select monsters based on "dungeon level." Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.
 
 To use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.

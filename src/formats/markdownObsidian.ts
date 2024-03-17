@@ -306,7 +306,8 @@ export async function convertToMarkdownObsidian(
       .use(remarkStringify)
       .process(markdownFileContent);
 
-    const content = data.toString().replace(/&#x20;/g, " ");
+    const frontMatter = `---\nobsidianUIMode: preview\n---\n\n`;
+    const content = frontMatter + data.toString().replace(/&#x20;/g, " ");
     fs.writeFileSync(file, content);
     newMarkdown += "\n" + content;
   }
