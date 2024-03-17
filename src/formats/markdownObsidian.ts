@@ -316,7 +316,8 @@ export async function convertToMarkdownObsidian(
   if (docType === "5e_Monster_Builder") {
     const obsidianStatblocksPath = path.join(
       OUTPUT_PATH,
-      "obsidian_statblocks"
+      "obsidian_assets",
+      "Statblocks"
     );
     const outputObsidianStatblocksPath = path.join(
       MARKDOWN_OBSIDIAN_PATHS[docType],
@@ -331,6 +332,18 @@ export async function convertToMarkdownObsidian(
       fs.copyFileSync(filePath, outputFilePath);
     }
   }
+
+  // Copy readme
+  const readmePath = path.join(
+    OUTPUT_PATH,
+    "obsidian_assets",
+    `Readme-${docType}.md`
+  );
+  const outputReadmePath = path.join(
+    MARKDOWN_OBSIDIAN_PATHS[docType],
+    "00 - READ ME FIRST.md"
+  );
+  fs.copyFileSync(readmePath, outputReadmePath);
 
   if (previousMarkdown !== newMarkdown) {
     const outputZipPath = path.join(OUTPUT_PATH, `${docType}_obsidian.zip`);
