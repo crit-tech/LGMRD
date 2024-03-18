@@ -8,6 +8,10 @@ Many of the Markdown files assume that you have the [Dice Roller](https://plugin
 
 Dice rolls are inserted before all random tables.
 
+## Force note view mode by front matter
+
+Install this plugin to force the view of the content to always be in preview mode. The files already have `obsidianUIMode` set to `preview` in the front matter.
+
 ## Attribution
 
 This work includes material taken from The Lazy GM's Resource Document by Michael E. Shea of [SlyFlourish.com](https://www.slyflourish.com) and vailable at https://slyflourish.com/lazy_gm_resource_document.html. The Lazy GM's Resource Document is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
