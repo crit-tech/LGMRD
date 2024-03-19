@@ -108,7 +108,7 @@ export async function convertToMarkdownObsidian(
     MARKDOWN_SEPARATE_PATHS[docType]
   );
 
-  let newMarkdown = "\n" + sourceReadmeContent + "\n";
+  let newMarkdown = "\n" + sourceReadmeContent;
   const titleMap = new Map<string, string>();
   const obsidianMarkdownFiles: string[] = [];
 
@@ -356,8 +356,8 @@ export async function convertToMarkdownObsidian(
 
   process.stdout.write("Done\n");
 
-  // fs.writeFileSync("OLD.md", previousMarkdown);
-  // fs.writeFileSync("NEW.md", newMarkdown);
+  // fs.writeFileSync(`OLD_${docType}.md`, previousMarkdown);
+  // fs.writeFileSync(`NEW_${docType}.md`, newMarkdown);
 
   return previousMarkdown !== newMarkdown;
 }
