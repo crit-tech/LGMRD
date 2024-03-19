@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 This is the [Lazy GM's Resource Document](https://github.com/crit-tech/LGMRD?tab=readme-ov-file) (LGMRD) in Markdown format for use in [Obsidian](https://obsidian.md).
 
 LGMRD is officially pronounced "Lymm Grid".

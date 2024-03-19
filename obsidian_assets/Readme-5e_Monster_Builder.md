@@ -1,3 +1,7 @@
+---
+obsidianUIMode: preview
+---
+
 This is the [The Lazy GM's 5e Monster Builder Resource Document](https://github.com/crit-tech/LGMRD?tab=readme-ov-file) (LGMMBRD) in Markdown format for use in [Obsidian](https://obsidian.md).
 
 LGMMBRD is officially pronounced "Lymm Bard".

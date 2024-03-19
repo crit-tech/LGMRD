@@ -92,6 +92,14 @@ export async function convertToMarkdownObsidian(
 ): Promise<boolean> {
   process.stdout.write(`Converting ${docType} to Markdown (Obsidian)...`);
 
+  const sourceReadmePath = path.join(
+    OUTPUT_PATH,
+    "obsidian_assets",
+    `Readme-${docType}.md`
+  );
+  const sourceReadmeContent = fs.readFileSync(sourceReadmePath, "utf8");
+  const frontMatter = `---\nobsidianUIMode: preview\n---\n\n`;
+
   const previousMarkdown = getAndDeletePreviousMarkdown(
     MARKDOWN_OBSIDIAN_PATHS[docType]
   );
@@ -100,7 +108,7 @@ export async function convertToMarkdownObsidian(
     MARKDOWN_SEPARATE_PATHS[docType]
   );
 
-  let newMarkdown = "";
+  let newMarkdown = "\n" + sourceReadmeContent + "\n";
   const titleMap = new Map<string, string>();
   const obsidianMarkdownFiles: string[] = [];
 
@@ -306,7 +314,6 @@ export async function convertToMarkdownObsidian(
       .use(remarkStringify)
       .process(markdownFileContent);
 
-    const frontMatter = `---\nobsidianUIMode: preview\n---\n\n`;
     const content = frontMatter + data.toString().replace(/&#x20;/g, " ");
     fs.writeFileSync(file, content);
     newMarkdown += "\n" + content;
@@ -334,16 +341,11 @@ export async function convertToMarkdownObsidian(
   }
 
   // Copy readme
-  const readmePath = path.join(
-    OUTPUT_PATH,
-    "obsidian_assets",
-    `Readme-${docType}.md`
-  );
   const outputReadmePath = path.join(
     MARKDOWN_OBSIDIAN_PATHS[docType],
     "00 - READ ME FIRST.md"
   );
-  fs.copyFileSync(readmePath, outputReadmePath);
+  fs.copyFileSync(sourceReadmePath, outputReadmePath);
 
   if (previousMarkdown !== newMarkdown) {
     const outputZipPath = path.join(OUTPUT_PATH, `${docType}_obsidian.zip`);
@@ -353,6 +355,9 @@ export async function convertToMarkdownObsidian(
   }
 
   process.stdout.write("Done\n");
+
+  // fs.writeFileSync("OLD.md", previousMarkdown);
+  // fs.writeFileSync("NEW.md", newMarkdown);
 
   return previousMarkdown !== newMarkdown;
 }
