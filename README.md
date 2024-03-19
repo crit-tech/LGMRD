@@ -13,7 +13,7 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 - [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Thu, 08 Feb 2024 02:14:22 GMT</span>**
 - [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Fri, 15 Mar 2024 02:49:44 GMT</span>**
 - [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Fri, 15 Mar 2024 02:49:44 GMT</span>**
-- [Markdown for Obsidian](https://raw.githubusercontent.com/crit-tech/LGMRD/main/LGMRD_obsidian.zip) **Updated: <span id="markdown_obsidian-last-updated">Mon, 18 Mar 2024 00:55:40 GMT</span>**
+- [Markdown for Obsidian](https://raw.githubusercontent.com/crit-tech/LGMRD/main/LGMRD_obsidian.zip) **Updated: <span id="markdown_obsidian-last-updated">Tue, 19 Mar 2024 00:54:23 GMT</span>**
 - [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Sat, 16 Mar 2024 23:46:01 GMT</span>**
 - [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Sat, 16 Mar 2024 23:46:01 GMT</span>**
 - [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Thu, 08 Feb 2024 02:14:24 GMT</span>**
