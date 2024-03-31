@@ -41,7 +41,7 @@ Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Ge
 
 ## Monster Encounter
 
-Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](32-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.
+Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](33-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.
 
 Assume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster's Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.
 

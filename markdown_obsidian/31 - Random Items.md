@@ -10,7 +10,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Weapon Types
 
-`dice: [[30 - Random Items#^1d20-weapon-types]]`
+`dice: [[31 - Random Items#^1d20-weapon-types]]`
 
 1. Dagger
 2. Mace
@@ -37,7 +37,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Item Origins
 
-`dice: [[30 - Random Items#^1d20-item-origins]]`
+`dice: [[31 - Random Items#^1d20-item-origins]]`
 
 1. Draconic
 2. Dwarven
@@ -64,7 +64,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d20 Item Conditions
 
-`dice: [[30 - Random Items#^1d20-item-conditions]]`
+`dice: [[31 - Random Items#^1d20-item-conditions]]`
 
 1. Grimy
 2. Chipped
@@ -91,7 +91,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 1d12 Armor Types
 
-`dice: [[30 - Random Items#^1d12-armor-types]]`
+`dice: [[31 - Random Items#^1d12-armor-types]]`
 
 1. Leather
 2. Studded leather
@@ -110,7 +110,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 50 Mundane Items
 
-`dice: [[30 - Random Items#^50-mundane-items]]`
+`dice: [[31 - Random Items#^50-mundane-items]]`
 
 1. Amulet
 2. Arrowhead
@@ -167,7 +167,7 @@ Also included is a table noting the four types of *healing potions* and how many
 
 ## 50 Spell Effect
 
-`dice: [[30 - Random Items#^50-spell-effect]]`
+`dice: [[31 - Random Items#^50-spell-effect]]`
 
 1. *Acid arrow*
 2. *Acid splash*

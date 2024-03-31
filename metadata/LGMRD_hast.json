@@ -257,13 +257,7 @@
             },
             {
               "type": "text",
-              "value": "\n  \n  "
-            },
-            {
-              "type": "element",
-              "tagName": "p",
-              "properties": {},
-              "children": []
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -272,7 +266,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "This work includes material taken from the "
+                  "value": "\n    This work includes material taken from the "
                 },
                 {
                   "type": "element",
@@ -326,19 +320,13 @@
                 },
                 {
                   "type": "text",
-                  "value": "."
+                  "value": ".\n  "
                 }
               ]
             },
             {
-              "type": "element",
-              "tagName": "p",
-              "properties": {},
-              "children": []
-            },
-            {
               "type": "text",
-              "value": "\n  \n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -989,7 +977,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "    \n    "
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -1426,6 +1414,38 @@
                         {
                           "type": "text",
                           "value": "Random Monuments"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n    "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "\n      "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "a",
+                      "properties": {
+                        "href": "#randomchambers"
+                      },
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "Random Chambers"
                         }
                       ]
                     },
@@ -7559,7 +7579,7 @@
             },
             {
               "type": "text",
-              "value": "\n  \n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -24092,7 +24112,7 @@
             },
             {
               "type": "text",
-              "value": "\n\t"
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -24452,7 +24472,7 @@
             },
             {
               "type": "text",
-              "value": "\n    "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -24467,7 +24487,7 @@
             },
             {
               "type": "text",
-              "value": "\n\n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -24812,7 +24832,7 @@
             },
             {
               "type": "text",
-              "value": "\n    "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -24827,7 +24847,7 @@
             },
             {
               "type": "text",
-              "value": "\n\n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -25172,7 +25192,7 @@
             },
             {
               "type": "text",
-              "value": "\n    "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -25187,7 +25207,7 @@
             },
             {
               "type": "text",
-              "value": "\n\n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -25959,7 +25979,7 @@
             },
             {
               "type": "text",
-              "value": "\n    "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -26319,7 +26339,7 @@
             },
             {
               "type": "text",
-              "value": "\n      "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -26334,7 +26354,7 @@
             },
             {
               "type": "text",
-              "value": "\n\n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -26679,7 +26699,7 @@
             },
             {
               "type": "text",
-              "value": "\n      "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -26694,7 +26714,7 @@
             },
             {
               "type": "text",
-              "value": "\n\n  "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -27365,7 +27385,7 @@
             },
             {
               "type": "text",
-              "value": "\n    "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -27704,7 +27724,7 @@
             },
             {
               "type": "text",
-              "value": "\n      "
+              "value": "\n  "
             },
             {
               "type": "element",
@@ -31390,7 +31410,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31405,7 +31425,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31420,7 +31440,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31435,7 +31455,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31450,7 +31470,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31465,7 +31485,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31480,7 +31500,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31495,7 +31515,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31510,7 +31530,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31525,7 +31545,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31540,7 +31560,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31555,7 +31575,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31570,7 +31590,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31585,7 +31605,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31600,7 +31620,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31615,7 +31635,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31630,7 +31650,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31645,7 +31665,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31660,7 +31680,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31675,7 +31695,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31684,13 +31704,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Carriage "
+                      "value": "Carriage"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31705,7 +31725,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31720,7 +31740,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31729,13 +31749,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Cenotaph "
+                      "value": "Cenotaph"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31750,7 +31770,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31765,7 +31785,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31780,7 +31800,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31795,7 +31815,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31810,7 +31830,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31825,7 +31845,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31840,7 +31860,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31855,7 +31875,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31870,7 +31890,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31885,7 +31905,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31900,7 +31920,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31915,7 +31935,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31930,7 +31950,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31945,7 +31965,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31960,7 +31980,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31975,7 +31995,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -31990,7 +32010,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32005,7 +32025,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32020,7 +32040,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32035,7 +32055,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32050,7 +32070,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32065,7 +32085,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32080,7 +32100,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32095,7 +32115,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32110,7 +32130,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32125,7 +32145,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32140,7 +32160,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32155,7 +32175,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32170,7 +32190,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32185,7 +32205,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32200,7 +32220,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32215,7 +32235,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32230,7 +32250,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32245,7 +32265,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32260,7 +32280,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32275,7 +32295,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32290,7 +32310,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32305,7 +32325,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32320,7 +32340,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32335,7 +32355,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32344,13 +32364,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Obelisk "
+                      "value": "Obelisk"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32365,7 +32385,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32380,7 +32400,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32389,13 +32409,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Oubliette "
+                      "value": "Oubliette"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32410,7 +32430,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32425,7 +32445,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32440,7 +32460,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32455,7 +32475,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32470,7 +32490,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32485,7 +32505,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32500,7 +32520,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32515,7 +32535,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32530,7 +32550,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32545,7 +32565,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32560,7 +32580,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32569,13 +32589,13 @@
                   "children": [
                     {
                       "type": "text",
-                      "value": "Shipwreck "
+                      "value": "Shipwreck"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32590,7 +32610,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32605,7 +32625,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32620,7 +32640,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32635,7 +32655,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32650,7 +32670,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32665,7 +32685,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32680,7 +32700,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32695,7 +32715,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32710,7 +32730,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32725,7 +32745,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32740,7 +32760,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32755,7 +32775,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32770,7 +32790,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32785,7 +32805,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32800,7 +32820,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32815,7 +32835,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32830,7 +32850,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32845,7 +32865,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32860,7 +32880,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32875,7 +32895,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "\n\t"
+                  "value": "\n    "
                 },
                 {
                   "type": "element",
@@ -32885,6 +32905,5003 @@
                     {
                       "type": "text",
                       "value": "Windmill"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h2",
+              "properties": {
+                "id": "randomchambers"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Random Chambers"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "These pages contain lists of chambers for fifteen common “dungeons”. Use these chambers to fill out rooms in larger locations or inspire your own ideas. Flavor chambers with further details as needed from other random tables."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "These lists are ordered with typical rooms lower in the list and fantastic or dangerous rooms higher on the list. Roll a smaller die for more typical rooms and a larger die for more fantastic or dangeorus rooms."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Beasts Den"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sleeping den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Drinking pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dining chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bone pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Nursery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Vermin nest"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Rain tunnels"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Deep rift"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cleaning chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasure heap"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret exit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mudslide"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Livestock prison"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Squirming midden"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Maze for prey"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret tunnels"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Primeval shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Trophy chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hunter’s perch"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ancestral tomb"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Castle"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dining hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Throne room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Kitchens"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Royal bedrooms"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guard barracks"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Knight barracks"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Smithy"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Training yard"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Strategy hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Trophy room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Religious shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Prison cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hall of tapestries"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact gallery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Menagerie"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Apothecary chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Torture chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Oubliette"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Caverns"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Waterfall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Large pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Natural columns"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Beast’s den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Deep shaft"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Underground rift"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bridged chasm"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crystal chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Spiraling steps"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mushroom grove"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Forgotten statue"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lava pools"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Insect nests"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Stone rings"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crumbling sinkhole"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Abandoned village"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Acidic stalactites"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Petrified victims"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hall of bones"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Primeval shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Derelict Ship"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crew quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Captain quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Officer quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Helm"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Storage hold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Officer mess"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crew mess"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Pantry"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guest quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Navigator’s room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Galley"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Medical bay"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cellblock"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Observation room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bilge"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Head"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Captain’s hold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasure hold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Dragon's Lair"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sleeping chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasure vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Waterfall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Audience hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Egg hatchery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Elemental pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Private entrance"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Livestock pen"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Observation roost"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bathing pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Scrying chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Private library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact museum"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Servant quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dungeon cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Trapped maze"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Draconic altar"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guardian chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Trophy hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Forgotten Vaults"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "False treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "True treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Living pillars"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dead god’s shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Primordial seal"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Devil’s pentacle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Planar fissure"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Living artifact"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Demon’s prison"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Draconic skeleton"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guardian chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Vampire sarcophagus"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Antediluvian obelisk"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Soul vessel vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Annihilation Sphere"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lich’s throne"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Godling cylinder"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Titan’s cell"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Angelic armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Manor"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Main foyer"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Master bedroom"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guest bedrooms"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Kitchen"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dining hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Study"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Servant quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Pantry"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bathing room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guard quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Servant’s dining room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Greenhouse"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Master closet"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Art gallery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Menagerie"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hidden library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Family altar"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hidden Saferoom"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Mines"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Deep shafts"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Heavy equipment"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Narrow tunnels"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dining hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Runoff drain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Miners’ barracks"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Foreman quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Spiral dig"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gemstone treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Collapsed tunnels"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cart depot"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Yawning sinkhole"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Drilling chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lava chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Buried shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mushroom farm"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Beast warrens"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Refuse pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Forgotten vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bestial bloodbath"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Necropolis"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fetid pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Imperial crypt"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Charnel pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Embalming room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Chamber of urns"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gilded burial hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Candlelit shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Throne of bones"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Historian’s tomb"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Everburning firepit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guardian chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Huge sarcophagus"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dragon crypt"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Tower of sepulchers"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Flesh laboratory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Titan’s grave"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Entombed ship"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Oracular sphere"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ghostly gateway"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cold-iron prison"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Prison"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Low-security cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "High-security cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sewage drains"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Kitchens"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dining hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Warden’s office"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Chapel"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hospital"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Storage vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guard post"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guard barracks"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Isolation cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Torture chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sunken cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Beast pens"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Burial pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Laboratory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Cesspit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Oubliette"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Sewers"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Slimy sluice"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Swirling detritus"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Deep drain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Roaring drain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Echoing cistern"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Maintenance vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Abandoned hovel"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Broken machines"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Pipe network"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Bone pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hidden stash"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Discarded statues"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Thieves’ den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mushroom grove"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Corpse pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Beast’s lair"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mummified beast"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shattered portal"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hag’s lair"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Sunken Grotto"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Glowing pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Coral pillars"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crystal cave"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Deep fissure"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Blackwater pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Seaweed grove"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Driftwood wreck"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shark den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Frozen statues"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lost treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Watery archway"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ziggurat altar"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Coral graveyard"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hag’s effigy"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hydra’s den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Egg hatchery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lava tubes"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sacrificial ledge"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ruined temple"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sunken throne"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Thieves' Den"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Throne room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Thieves’ quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Master’s quarters"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Fighting pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Meeting room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mess hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guildmaster’s office"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Practice room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sewer entrance"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Main treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Gambling den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Seedy tavern"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sunken cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Murder hallway"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Shrine of blood"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret den"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Piranha pool"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Underworld pit"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Unholy Temple"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Vesting rooms"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Audience chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Feasting hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Priest dormitory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Art gallery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Grim fountain"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Profane shrine"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Preparation room"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact museum"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Blessed armory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Torture chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Summoning circle"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sacrificial well"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Dungeon cells"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Hidden treasury"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Isolation chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Sacrilegious library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Private altar"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Unholy ossuary"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Reliquary chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n  "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "h3",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "Wizard's Lair"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "ol",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Audience hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Main library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Secret library"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Wizard’s bedroom"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Scrying chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Guardians’ hall"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Meditation chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Treasure vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Artifact museum"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Summoning chamber"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Mirror prison"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Planar portal"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Crystal vault"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Advisor’s cell"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Alchemical lab"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Multiverse orrery"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Menagerie"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Flesh laboratory"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Ooze vaults"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "\n    "
+                },
+                {
+                  "type": "element",
+                  "tagName": "li",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "Lightning chamber"
                     }
                   ]
                 },

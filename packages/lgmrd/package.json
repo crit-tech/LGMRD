@@ -1,6 +1,6 @@
 {
   "name": "@crit-tech/lgmrd",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "The Lazy GM's Resource Document as JSON",
   "private": false,
   "exports": {
@@ -715,6 +715,66 @@
     "./randommonuments/100monumentstructures": {
       "import": "./sections/randommonuments/100monumentstructures.mjs",
       "require": "./sections/randommonuments/100monumentstructures.cjs"
+    },
+    "./randomchambers/beastsden": {
+      "import": "./sections/randomchambers/beastsden.mjs",
+      "require": "./sections/randomchambers/beastsden.cjs"
+    },
+    "./randomchambers/castle": {
+      "import": "./sections/randomchambers/castle.mjs",
+      "require": "./sections/randomchambers/castle.cjs"
+    },
+    "./randomchambers/caverns": {
+      "import": "./sections/randomchambers/caverns.mjs",
+      "require": "./sections/randomchambers/caverns.cjs"
+    },
+    "./randomchambers/derelictship": {
+      "import": "./sections/randomchambers/derelictship.mjs",
+      "require": "./sections/randomchambers/derelictship.cjs"
+    },
+    "./randomchambers/dragonslair": {
+      "import": "./sections/randomchambers/dragonslair.mjs",
+      "require": "./sections/randomchambers/dragonslair.cjs"
+    },
+    "./randomchambers/forgottenvaults": {
+      "import": "./sections/randomchambers/forgottenvaults.mjs",
+      "require": "./sections/randomchambers/forgottenvaults.cjs"
+    },
+    "./randomchambers/manor": {
+      "import": "./sections/randomchambers/manor.mjs",
+      "require": "./sections/randomchambers/manor.cjs"
+    },
+    "./randomchambers/mines": {
+      "import": "./sections/randomchambers/mines.mjs",
+      "require": "./sections/randomchambers/mines.cjs"
+    },
+    "./randomchambers/necropolis": {
+      "import": "./sections/randomchambers/necropolis.mjs",
+      "require": "./sections/randomchambers/necropolis.cjs"
+    },
+    "./randomchambers/prison": {
+      "import": "./sections/randomchambers/prison.mjs",
+      "require": "./sections/randomchambers/prison.cjs"
+    },
+    "./randomchambers/sewers": {
+      "import": "./sections/randomchambers/sewers.mjs",
+      "require": "./sections/randomchambers/sewers.cjs"
+    },
+    "./randomchambers/sunkengrotto": {
+      "import": "./sections/randomchambers/sunkengrotto.mjs",
+      "require": "./sections/randomchambers/sunkengrotto.cjs"
+    },
+    "./randomchambers/thievesden": {
+      "import": "./sections/randomchambers/thievesden.mjs",
+      "require": "./sections/randomchambers/thievesden.cjs"
+    },
+    "./randomchambers/unholytemple": {
+      "import": "./sections/randomchambers/unholytemple.mjs",
+      "require": "./sections/randomchambers/unholytemple.cjs"
+    },
+    "./randomchambers/wizardslair": {
+      "import": "./sections/randomchambers/wizardslair.mjs",
+      "require": "./sections/randomchambers/wizardslair.cjs"
     },
     "./randomitems/1d20weapontypes": {
       "import": "./sections/randomitems/1d20weapontypes.mjs",
