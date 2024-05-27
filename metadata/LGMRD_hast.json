@@ -184,7 +184,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "Updated 10 September 2023"
+                  "value": "Updated 26 May 2023"
                 }
               ]
             },
@@ -11590,6 +11590,2284 @@
             {
               "type": "text",
               "value": "\n  "
+            },
+            {
+              "type": "element",
+              "tagName": "p",
+              "properties": {},
+              "children": [
+                {
+                  "type": "text",
+                  "value": "The following table summarizes the Lazy Encounter Benchmark for three, four, five, or six 1st to 20th level characters. It includes the total monster CR for a potentially deadly encounter and the maximum CR for any single creature in a battle. At 11th level and above, it includes the lower and higher benchmarks described above."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n  \n  "
+            },
+            {
+              "type": "element",
+              "tagName": "table",
+              "properties": {
+                "border": 1,
+                "style": "text-align: center;",
+                "align": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "value": "\n  "
+                },
+                {
+                  "type": "element",
+                  "tagName": "tbody",
+                  "properties": {},
+                  "children": [
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {
+                            "colSpan": "6"
+                          },
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Lazy Encounter Benchmark for Potentially Deadly Encounters"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Char Lvl / Num Chars"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "th",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "Max Single Monster CR"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "1"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "0.5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "3"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "5"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "10"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "13"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "6"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "9"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "12"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "9"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "7"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "11"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "21"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "11"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "8"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "12"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "16"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "24"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "12"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "9"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "23"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "27"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "10"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "25"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "30"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "11"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "17-25"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "22-33"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "28-41"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "33-50"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "17"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "12"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18-27"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "24-36"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "30-45"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "36-54"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "13"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20-29"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "26-39"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "33-49"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "39-59"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "14"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "21-32"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "28-42"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "35-53"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "42-63"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "21"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "23-34"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "30-45"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "38-56"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "45-68"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "23"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "16"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "24-36"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "32-48"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "40-60"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "48-72"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "24"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "17"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "26-51"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "34-68"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "43-85"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "51-102"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "26"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "18"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "27-54"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "36-72"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "45-90"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "54-108"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "27"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "19"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "29-57"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "38-76"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "48-95"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "57-114"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "29"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n  "
+                    },
+                    {
+                      "type": "element",
+                      "tagName": "tr",
+                      "properties": {},
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "20"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "30-60"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "40-80"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "50-100"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "60-120"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n    "
+                        },
+                        {
+                          "type": "element",
+                          "tagName": "td",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text",
+                              "value": "30"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "value": "\n  "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "\n\n  \n  "
             },
             {
               "type": "element",

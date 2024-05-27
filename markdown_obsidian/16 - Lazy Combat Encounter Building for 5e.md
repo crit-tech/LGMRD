@@ -51,3 +51,29 @@ As characters reach 11th level and higher, the deadly encounter benchmark become
 At 11th level and higher, an encounter might be deadly if the total of all the monsters' challenge ratings is greater than three quarters of the total of all the characters' levels, or if it is equal to the total of their levels if the characters are 17th level or higher.
 
 This sets up encounters of a much greater challenge than the baseline benchmark, but it might work more accurately for higher-powered characters.
+
+The following table summarizes the Lazy Encounter Benchmark for three, four, five, or six 1st to 20th level characters. It includes the total monster CR for a potentially deadly encounter and the maximum CR for any single creature in a battle. At 11th level and above, it includes the lower and higher benchmarks described above.
+
+| Lazy Encounter Benchmark for Potentially Deadly Encounters |       |       |        |        |                       |
+| ---------------------------------------------------------- | ----- | ----- | ------ | ------ | --------------------- |
+| Char Lvl / Num Chars                                       | 3     | 4     | 5      | 6      | Max Single Monster CR |
+| 1                                                          | 1     | 1     | 1      | 2      | 0.5                   |
+| 2                                                          | 2     | 2     | 3      | 3      | 2                     |
+| 3                                                          | 2     | 3     | 4      | 5      | 3                     |
+| 4                                                          | 3     | 4     | 5      | 6      | 4                     |
+| 5                                                          | 8     | 10    | 13     | 15     | 8                     |
+| 6                                                          | 9     | 12    | 15     | 18     | 9                     |
+| 7                                                          | 11    | 14    | 18     | 21     | 11                    |
+| 8                                                          | 12    | 16    | 20     | 24     | 12                    |
+| 9                                                          | 14    | 18    | 23     | 27     | 14                    |
+| 10                                                         | 15    | 20    | 25     | 30     | 15                    |
+| 11                                                         | 17-25 | 22-33 | 28-41  | 33-50  | 17                    |
+| 12                                                         | 18-27 | 24-36 | 30-45  | 36-54  | 18                    |
+| 13                                                         | 20-29 | 26-39 | 33-49  | 39-59  | 20                    |
+| 14                                                         | 21-32 | 28-42 | 35-53  | 42-63  | 21                    |
+| 15                                                         | 23-34 | 30-45 | 38-56  | 45-68  | 23                    |
+| 16                                                         | 24-36 | 32-48 | 40-60  | 48-72  | 24                    |
+| 17                                                         | 26-51 | 34-68 | 43-85  | 51-102 | 26                    |
+| 18                                                         | 27-54 | 36-72 | 45-90  | 54-108 | 27                    |
+| 19                                                         | 29-57 | 38-76 | 48-95  | 57-114 | 29                    |
+| 20                                                         | 30-60 | 40-80 | 50-100 | 60-120 | 30                    |
