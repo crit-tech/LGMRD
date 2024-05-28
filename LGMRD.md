@@ -930,7 +930,7 @@ To use this benchmark for characters of 1st through 4th level, add up the challe
 
 Each time the characters gain a new level, calculate this deadly benchmark score and jot it down in your preparation notes so you have it on hand. If you find that the characters in your game often have an easy time with potentially deadly encounters, treat the characters as though they are one or more levels higher. This will raise the benchmark at which an encounter might become deadly, making the calculation more accurate.
 
-This benchmark assumes multiple monsters, and doesn't work well for gauging combat against a single monster. For legendary monsters-those with legendary actions and possibly lair actions-an encounter is generally deadly if the monster's challenge rating is 5 or more higher than the characters' average level.
+This baseline assumes multiple monsters. A single monster may be deadly if it's challenge rating is equal to the average level of the characters or 1.5× the average level of the characters if they're above 5th level.
 
 ### Character Capabilities Vary
 

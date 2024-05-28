@@ -9560,7 +9560,7 @@
       "children": [
         {
           "type": "text",
-          "value": "This benchmark assumes multiple monsters, and doesn't work well for gauging combat against a single monster. For legendary monsters-those with legendary actions and possibly lair actions-an encounter is generally deadly if the monster's challenge rating is 5 or more higher than the characters' average level."
+          "value": "This baseline assumes multiple monsters. A single monster may be deadly if it's challenge rating is equal to the average level of the characters or 1.5× the average level of the characters if they're above 5th level."
         }
       ]
     },
