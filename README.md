@@ -10,14 +10,14 @@ LGMRD is officially pronounced "Lymm Grid" and LGMMBRD "Lymm Bard".
 
 ### The Lazy GM's Resource Document
 
-- [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Tue, 28 May 2024 00:59:16 GMT</span>**
-- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Tue, 28 May 2024 00:59:20 GMT</span>**
-- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Tue, 28 May 2024 00:59:20 GMT</span>**
-- [Markdown for Obsidian](https://raw.githubusercontent.com/crit-tech/LGMRD/main/LGMRD_obsidian.zip) **Updated: <span id="markdown_obsidian-last-updated">Tue, 28 May 2024 00:59:21 GMT</span>**
-- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Tue, 28 May 2024 00:59:21 GMT</span>**
-- [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Tue, 28 May 2024 00:59:21 GMT</span>**
-- [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Tue, 28 May 2024 00:59:18 GMT</span>**
-- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Tue, 28 May 2024 00:59:19 GMT</span>**
+- [HTML](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.html) **Updated: <span id="html-last-updated">Sun, 29 Dec 2024 20:41:51 GMT</span>**
+- [All-in-one Markdown](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.md) **Updated: <span id="markdown-last-updated">Sun, 29 Dec 2024 20:41:54 GMT</span>**
+- [Separate Markdown](https://github.com/crit-tech/LGMRD/tree/main/markdown_separate) files **Updated: <span id="markdown_separate-last-updated">Sun, 29 Dec 2024 20:41:55 GMT</span>**
+- [Markdown for Obsidian](https://raw.githubusercontent.com/crit-tech/LGMRD/main/LGMRD_obsidian.zip) **Updated: <span id="markdown_obsidian-last-updated">Sun, 29 Dec 2024 20:41:55 GMT</span>**
+- [JSON](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.json) **Updated: <span id="json-last-updated">Sun, 29 Dec 2024 20:41:56 GMT</span>**
+- [NPM](https://www.npmjs.com/package/@crit-tech/lgmrd) **Updated: <span id="json-last-updated">Sun, 29 Dec 2024 20:41:56 GMT</span>**
+- [PDF](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.pdf) **Updated: <span id="pdf-last-updated">Sun, 29 Dec 2024 20:41:53 GMT</span>**
+- [EPUB](https://github.com/crit-tech/LGMRD/blob/main/LGMRD.epub) **Updated: <span id="epub-last-updated">Sun, 29 Dec 2024 20:41:54 GMT</span>**
 - [BRAILLE](https://github.com/crit-tech/LGMRD/blob/main/The_Lazy_GMs_Resource_Document.brf) **Updated: <span id="braille-last-updated">Thu, 08 Feb 2024 02:14:25 GMT</span>**
 
 ### The Lazy GM's 5e Monster Builder Resource Document

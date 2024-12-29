@@ -592,6 +592,14 @@
       "import": "./sections/coreadventuregenerators/1d20discoveries.mjs",
       "require": "./sections/coreadventuregenerators/1d20discoveries.cjs"
     },
+    "./coreadventuregenerators/dungeonwalldecorations": {
+      "import": "./sections/coreadventuregenerators/dungeonwalldecorations.mjs",
+      "require": "./sections/coreadventuregenerators/dungeonwalldecorations.cjs"
+    },
+    "./coreadventuregenerators/1d10walldecorations": {
+      "import": "./sections/coreadventuregenerators/1d10walldecorations.mjs",
+      "require": "./sections/coreadventuregenerators/1d10walldecorations.cjs"
+    },
     "./coreadventuregenerators/dungeonmonsters": {
       "import": "./sections/coreadventuregenerators/dungeonmonsters.mjs",
       "require": "./sections/coreadventuregenerators/dungeonmonsters.cjs"
@@ -891,6 +899,50 @@
     "./lazysolo5e/1d8treasures": {
       "import": "./sections/lazysolo5e/1d8treasures.mjs",
       "require": "./sections/lazysolo5e/1d8treasures.cjs"
+    },
+    "./villageofwhitesparrow/usingwhitesparrowinyourcampaign": {
+      "import": "./sections/villageofwhitesparrow/usingwhitesparrowinyourcampaign.mjs",
+      "require": "./sections/villageofwhitesparrow/usingwhitesparrowinyourcampaign.cjs"
+    },
+    "./villageofwhitesparrow/notablenpcsofwhitesparrow": {
+      "import": "./sections/villageofwhitesparrow/notablenpcsofwhitesparrow.mjs",
+      "require": "./sections/villageofwhitesparrow/notablenpcsofwhitesparrow.cjs"
+    },
+    "./villageofwhitesparrow/notablelocationsofwhitesparrow": {
+      "import": "./sections/villageofwhitesparrow/notablelocationsofwhitesparrow.mjs",
+      "require": "./sections/villageofwhitesparrow/notablelocationsofwhitesparrow.cjs"
+    },
+    "./thenightblade/adventuresummary": {
+      "import": "./sections/thenightblade/adventuresummary.mjs",
+      "require": "./sections/thenightblade/adventuresummary.cjs"
+    },
+    "./thenightblade/notablenpcs": {
+      "import": "./sections/thenightblade/notablenpcs.mjs",
+      "require": "./sections/thenightblade/notablenpcs.cjs"
+    },
+    "./thenightblade/secretsandclues": {
+      "import": "./sections/thenightblade/secretsandclues.mjs",
+      "require": "./sections/thenightblade/secretsandclues.cjs"
+    },
+    "./thenightblade/customizingtheadventure": {
+      "import": "./sections/thenightblade/customizingtheadventure.mjs",
+      "require": "./sections/thenightblade/customizingtheadventure.cjs"
+    },
+    "./thenightblade/start": {
+      "import": "./sections/thenightblade/start.mjs",
+      "require": "./sections/thenightblade/start.cjs"
+    },
+    "./thenightblade/notablelocations": {
+      "import": "./sections/thenightblade/notablelocations.mjs",
+      "require": "./sections/thenightblade/notablelocations.cjs"
+    },
+    "./thenightblade/concludingtheadventure": {
+      "import": "./sections/thenightblade/concludingtheadventure.mjs",
+      "require": "./sections/thenightblade/concludingtheadventure.cjs"
+    },
+    "./thenightblade/expandingtheadventure": {
+      "import": "./sections/thenightblade/expandingtheadventure.mjs",
+      "require": "./sections/thenightblade/expandingtheadventure.cjs"
     }
   },
   "scripts": {

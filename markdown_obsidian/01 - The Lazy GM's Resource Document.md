@@ -4,7 +4,7 @@ obsidianUIMode: preview
 
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
-Updated 26 May 2023
+Updated 24 December 2024
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
@@ -55,3 +55,5 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 * [Random Town Events](<32 - Random Town Events.md>)
 * [Random Dungeon Monsters](<33 - Random Dungeon Monsters.md>)
 * [Lazy Solo 5e](<34 - Lazy Solo 5e.md>)
+* [The Village of Whitesparrow](<35 - The Village of Whitesparrow.md>)
+* [The Night Blade](<36 - The Night Blade.md>)

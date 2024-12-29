@@ -43,5 +43,5 @@ export default {
       ],
     },
   ],
-  order: 10,
+  order: 12,
 };

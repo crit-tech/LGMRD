@@ -166,6 +166,23 @@ Add useful discoveries such as the following to your adventure, to create upward
 19. Useful machinery
 20. Historical library
 
+## Dungeon Wall Decorations
+
+Types of wall decorations that might reveal secrets and clues.
+
+## 1d10 Wall Decorations
+
+1. Relief
+2. Frieze
+3. Mural
+4. Fresco
+5. Mosaic
+6. Runic carvings
+7. Encaustic painting
+8. Gilded Engravings
+9. Marouflage
+10. Sgraffito
+
 ## Dungeon Monsters
 
 You can add monsters and other foes to your adventure by consulting the following list. Roll a d8 for easy monsters, roll a d12 to expand the range into hard monsters, or roll a d20 to also include dangerous monsters. If you decide to use a monster as a boss monster, give it double hit points and let it take an extra action each turn.

@@ -2,7 +2,7 @@
 
 Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
 
-Updated 26 May 2023
+Updated 24 December 2024
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
@@ -53,6 +53,8 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 * [Random Town Events](#randomtownevents)
 * [Random Dungeon Monsters](#randomdungeonmonsters)
 * [Lazy Solo 5e](#lazysolo5e)
+* [The Village of Whitesparrow](#villageofwhitesparrow)
+* [The Night Blade](#thenightblade)
 
 ## <a id="eightsteps"></a>The Eight Steps of Lazy RPG Prep
 
@@ -1626,6 +1628,23 @@ Add useful discoveries such as the following to your adventure, to create upward
 19. Useful machinery
 20. Historical library
 
+### Dungeon Wall Decorations
+
+Types of wall decorations that might reveal secrets and clues.
+
+### 1d10 Wall Decorations
+
+1. Relief
+2. Frieze
+3. Mural
+4. Fresco
+5. Mosaic
+6. Runic carvings
+7. Encaustic painting
+8. Gilded Engravings
+9. Marouflage
+10. Sgraffito
+
 ### Dungeon Monsters
 
 You can add monsters and other foes to your adventure by consulting the following list. Roll a d8 for easy monsters, roll a d12 to expand the range into hard monsters, or roll a d20 to also include dangerous monsters. If you decide to use a monster as a boss monster, give it double hit points and let it take an extra action each turn.
@@ -3170,3 +3189,246 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 8. Permanent item
 
 For consumable and permanent items, roll on the tables in the "[Treasure Generator](#treasuregenerator)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.
+
+## <a id="villageofwhitesparrow"></a>The Village of Whitesparrow
+
+The following village description and adventure from *[Sly Flourish's Fantastic Adventures](https://shop.slyflourish.com/products/fantastic-adventures)* are released under the same Creative Commons license as the rest of this document. These sections give RPG publishers a small village setting and starter adventure under an open license and royalty free. Please note that the rest of *Fantastic Adventures* has not been released under this license.
+
+Nestled between mountains to the east and west and swampland and forest to the south, the village of Whitesparrow serves as respite for those who travel along the modest trade route running through the surrounding valley. An old keep overlooks this village of five hundred people from an adjacent hill, with banners depicting the settlement’s namesake bird fluttering from its square turrets.
+
+After the keep, a great hand carved of black stone is Whitesparrow’s second-most-visible landmark, rising up at the center of the village with its thumb and five fingers splayed out. The area around the hand is a great dig, where previous generations tried and failed to excavate whatever lay beneath it.
+
+An open-air stone temple, a two-story inn built atop steaming hot springs, and an outfitters’ shop stand among two dozen other buildings that make up the heart of the village, while farmhouses dot the neighboring hillsides, surrounded by broad fields of crops.
+
+**Area Aspects:** Cyclopean hand, old keep, outfitters, open-air temple, hot spring inn
+
+### Using Whitesparrow in Your Campaign
+
+The village of Whitesparrow serves as the hub for\
+the adventures in this book, so as to save on the space required to write a new starting location for each adventure, and to give the characters a well-defined home base. The design of the village is both straightforward and spare, featuring an inn, a tavern, an outfitters, a sheriff, and the village lord. Whitesparrow has thus been designed to fit easily into any fantasy world—but also to be completely replaceable with any settlement of your choice from your own campaign word, another published adventure, or a larger published campaign setting. Use the village as is, modify it to suit your own campaign, or throw it out and replace it completely.\
+It’s up to you.
+
+### Notable NPCs of Whitesparrow
+
+**Sheriff Ruth Willowmane**: Sheriff Ruth Willow-mane is the true protector and unofficial leader of the village. The middle-aged sheriff has served the people of Whitesparrow for twenty years, after serving as a soldier for fifteen years before that. She has a good heart and loves the people of the village, who always look to her when trouble arises. She typically has little patience for adventurers, seeing them as disruptive influences on the normal flow of village life—and fearing the trouble they often bring with them. Still, she understands that the threats represented by the odd events that often transpire around the village require special skills to deal with, and she looks to those with a proven ability to handle themselves to deal with those threats.
+
+The sheriff has eight guards under her employ and can call upon another twelve conscripted guards when needed.
+
+**Lord Marlin Whitesparrow**: Lord Marlin White-sparrow is the young lord of the village and the lands around it. He resides in the old castle that sits on a hill above the village, an inheritance passed down through his family for generations. Marlin’s father died in his fifties and left his thirty-year old son in charge. Despite his young age, Lord Whitesparrow is a well-respected leader, though he has little patience for the daily drudgery of village life.
+
+Marlin has no wife or children, but the lord has adopted his young nephew Pennin as ward after the boy’s parents died of influenza when he was a baby. Pennin will succeed Marlin if the lord dies. If both die, the Whitesparrow line is broken and Sheriff Ruth Willowmane becomes the new elected leader of the village.
+
+**Amanda Jess**: Owner of the Summerspring Inn and the Evershady Tavern, Amanda Jess is the dominant entrepreneur in Whitesparrow. She has three sons—Kinzlow, Balaham, and Wess—who work at the tavern and inn. Amanda enjoys meeting visitors to Whitesparrow, and she has an eye for people. She has a knack for knowing exactly what questions to ask in order to dig deep into newcomers’ backgrounds, and always seeks a way to find opportunities for business. Some whisper that Amanda was once a spy for a powerful organization before she retired to the quiet life of Whitesparrow.
+
+**Gavun Grayhorn**: A former adventurer, Gavun is the proprietor of Grayhorn Outfitters. He once traveled far and wide across many lands, but fortune always eluded him. When one adventure left him the only survivor of his group, Gavun retired to start his business and serve the many trading caravans passing through the local area—just as those caravans began to turn to safer paths that took them away from Whitesparrow. Such is the luck of Gavun Grayhorn. He runs the shop with his wife Arianne, whose family has dwelled in Whitesparrow for generations.
+
+**Elovyn Sorrowsong**: An elf priest of the Temple of Light, Elovyn found herself out of political favor in her homeland and was sent on a one-hundred-year pilgrimage into the lands of humankind. Though she still resents being sent on the pilgrimage, and the decades she has spent in Whitesparrow as a result, she has come to care very much for the people of the village. She greatly enjoys the empowerment that comes with being Whitesparrow’s only elf in a position of authority. Because of this, she is initially distrustful of other elves who visit the village, afraid they will take away from her mystique.
+
+**Philcock Deadcleft**: The manager of the Summer-spring Inn and a longtime employee of Amanda Jess, Deadcleft is a small, ugly rumormonger who spies on his patrons. Yet for reasons unknown, Amanda has always protected and defended him. Deadcleft wears clothes of noble cut but in poor condition, and always smells terrible.
+
+### Notable Locations of Whitesparrow
+
+#### The Cyclopean Palm
+
+**Area Aspects:** Titanic six-fingered hand rising out of the ground, unknown and indestructible substance, deep excavations, rumored staircase
+
+> *A great hand carved of smooth black stone rises in the center of the village, its palm facing the sky and its thumb and five fingers splayed out. The cyclopean stonework is nearly forty feet high—tall enough that buildings have been constructed around it and a tavern sits underneath the shade of the back of the hand. Deep clefts have been dug in around the hand’s wrist, confirming that it is attached to a forearm descending far beneath the ground.*
+
+The age of the stone hand jutting out of the ground has never been accurately determined, and its origin remains unknown. Its stone is seemingly impervious to damage, and resembles no other type of local rock. A number of explorers and miners have tried to dig out the rest of this amazing construction over the years. However, most such attempts were abandoned when their crews began to complain of nightmares filled with strange buzzing sounds. Some of the clefts left behind by these excavation efforts still exist, with old rope ladders leading down roughly one hundred feet to the bend at the elbow of the arm.
+
+A rumor continuously floats around Whitesparrow talking of how the hand’s wrist is hollow, and of a staircase carved into it that leads down below the surface. A chamber within the arm is said to be the boundary between two worlds. However, most pass this rumor off as a fantasy, spoken of by drunkards and sketched onto false maps sold for a few silver to travelers awed by the spectacle of the cyclopean palm.
+
+#### The Evershady Tavern
+
+**Area Aspects:** Continual shade under the cyclopean palm, indoor and outdoor tables, circular bar around the wrist
+
+> *Underneath the great palm rests the building and outdoor eatery that is the Evershady Tavern. A half-circle bar has been built around the wrist of the upthrust hand, and numerous tables rest beneath the shade of the palm. Ropes and nets filled with foodstuffs hang from the hand’s splayed fingers.*
+
+The enterprising Amanda Jess built this tavern four decades earlier, and has since turned it into an enduring and profitable business. The tavern serves travelers and workers for miles around, featuring a spiced lamb stew known far and wide as one of the best dishes in the local area. The recipe is kept secret, but some think that the proximity of the tavern’s kitchens to the cyclopean palm plays some part in its potency. The vast cellars below the tavern were dug out by various expeditions seeking the secrets of the cyclopean palm, but which never uncovered anything but bankruptcy and madness.
+
+#### The Summerspring Inn
+
+**Area Aspects:** Underground hot springs, creaking and rotting wood, large support beams
+
+> *This large, two-story building seems to sit slightly askew, supported at its corners by heavy beams that keep it from collapsing completely. Whenever the wind blows, the whole building makes a deep creaking sound, like someone trying to get comfortable in a tilting chair.*
+
+The Summerspring Inn’s most notable feature is the hot springs on which it sits—and which are also the cause of its potential demise. The continual humidity has soaked into the wood of the building, rotting much of it and putting the entire structure on the edge of collapse. Maintaining the inn is now a full-time endeavor, and workers are continually reinforcing beams and adding new supports where the floors have begun to sag.
+
+The lower rooms of the inn include their own stone hot baths, continually fed by the slightly sulfuric-smelling hot springs. Some of those springs have unexpectedly gone dry over the years, leaving a network of caverns below the inn said to contain untouched gemstone deposits, lost relics, and secret horrors. Amanda Jess owns this inn as well as the Evershady Tavern, but she relegates the inn’s daily management to Philcock Deadcleft.
+
+#### Grayhorn Outfitters
+
+**Area Aspects:** Shop and stables, huge horns above door, clutter and mess
+
+> *A pair of huge black horns protrudes out from above the heavy wooden door of this large shop. A horseshoe, a bundle of rope, and a pickaxe are carved into the sign that hangs overhead. One side of the building features a stable with twelve stalls, presently holding four well-worked draft horses and a beautiful white stallion.*
+
+Gavun Grayhorn’s shop is a cluttered mess holding all forms of tack and equipment, including both adventuring and exploration gear. Gavun reluctantly brings out arms and armor if asked, though he doesn’t seem very fond of such items. If asked about the horns above the door, he says he found them out in the woods, attached to the skull of some unknown herbivore. In reality, they are the horns of the black dragon that slew Gavun’s companions when he was an adventurer—in response to which he took bloody revenge by feeding the dragon a dead yak concealing six pots of alchemist’s fire. The dragon’s lair still holds the remains of Gavun’s companions and their equipment, all of which he hopes to recover some day—were it not for the monsters that have since taken up residence within the abandoned lair.
+
+#### The Temple of Light
+
+**Area Aspects:** Open-air nave, statues of elves with hands raised to the sky, floating orb
+
+> *The central nave of this large circular temple is open to the sky above and adorned by five ancient statues of elf men and women—including a statue depicting the goddess of light—their faces and arms held up to the sky. An orb hangs in midair in the center of the open nave, glowing with scintillating colors. Rings of stone pews face a central fountain beneath the orb, which bubbles with warm water. A small circular house sits nearby, artfully decorated with symbols of the sun.*
+
+Once an elven site, the temple has stood here for centuries, and was abandoned after the elves left this region to the human settlers who came after them. The main chamber of the temple is open to the sky through a stone entryway, while the stone rooms around it are roofed of clay and slate to protect the temple’s ceremonial items. A collapsed floor in the back of one storeroom of the temple leads into catacombs last explored centuries ago.
+
+The scintillating orb has been present in the temple for as long as anyone can remember. Four years ago, enterprising thieves tried to steal the orb armed with an exceptionally tall ladder—only to have the lead thief disappear as soon as her fingers touched the orb, never to be seen again.
+
+A nearby home is the residence of the temple’s current priest, Elovyn Sorrowsong.
+
+#### Whitesparrow Keep
+
+**Area Aspects:** Stone three-story keep, switchback cobblestone road, enormous stone birdbath
+
+> *A switchback cobblestone road leads up to the court-yard of Whitesparrow Keep, which stands majestically atop a rocky hill above the village. A large, still pool of water sits in the center of the keep’s main courtyard, with a granite statue of a sparrow sitting atop a rock in the pool’s center. Dozens of birds sit on perches around the pool’s edge, drinking from the pool and splashing about. The keep beyond stands three stories tall, with square turrets in the front and a pitched roof in the back.*
+
+Not counting the temple, Whitesparrow keep is the oldest structure in the village, having survived numerous wars and other notable catastrophes. As castles go, it is not terribly large, although numerous subbasements lead deep into the rocky hill upon which the keep is built. Local rumors talk of how most of those subbasements haven’t been explored for hundreds of years.
+
+## <a id="thenightblade"></a>The Night Blade
+
+Ralavaz the Night Blade, a notorious bandit chieftain, has been released from prison. Rumors mark him as having returned to the hideout from which he and his band once operated—a ruined watchtower where a new group of bandits now preys upon the folk of Whitesparrow and the surrounding vale.
+
+When Ralavaz and his younger brother Gardren led the Night Blade bandits, they were well known in the village of Whitesparrow for their dastardly deeds—including a murder for which Ralavaz was never convicted. Gardren and the rest of the Night Blades were killed when Ralavaz was captured and imprisoned. But Sheriff Ruth Willowmane believes that Ralavaz’s return means the Night Blades are back—and that attacks against wagons and travelers around the village will get worse unless the bandit chieftain is stopped for good.
+
+### Adventure Summary
+
+This adventure begins when the party is attacked by members of the new Night Blades. After the fight, the characters investigate the scene of battle to learn more about the bandits. Sheriff Willowmane then recruits the characters to hunt down the new Night Blades and bring Ralavaz to justice.
+
+In Whitesparrow, the characters speak to the villagers to learn more of the history of Ralavaz and the Night Blades. They then make their way through a huge expanse of tangleweed to reach the Lonely Torch—the ruined watchtower that once served the Night Blades as a headquarters. But as they explore the ruins of the tower and face off against the new group of bandits dwelling there, the characters discover that Ralavaz has been imprisoned by his brother Gardren, disfigured but still alive. Learning that Ralavaz has changed his ways and is now trying to turn his brother away from a life of evil, the characters must make a choice about who to save, who to kill, and who to bring back to Whitesparrow to face justice.
+
+**Monsters:** Bandits (6), shambling mound, guards (2), stirges (10), thugs (2), swarm of rats, bandit captain
+
+### Notable NPCs
+
+**Sheriff Ruth Willowmane:** Sheriff of the village of Whitesparrow, Ruth knows that her younger brother, Dronder Willowmane, was slain by Ralavaz eleven years earlier. But a lack of evidence meant that the bandit chieftain never paid the price for the crime.
+
+**Gardren the Night Lord:** The younger of the brothers who once led the Night Blades, Gardren is thought by most folk to be dead. Ten years ago, the first incarnation of the Night Blades were cornered in a barn near the Lonely Torch watchtower. Angry villagers set the structure ablaze, and only Ralavaz is thought to have made it out alive. Gardren still lives, however, and is secretly leading a new gang of Night Blades when his brother returns.
+
+Disfigured by the fire, Gardren doesn’t lead the gang for treasure or profit. Rather, he wants to see the folk of Whitesparrow destroyed in the name of his dead friends and the injury done to him. Among his many dark hobbies, Gardren has learned how to tame stirges—or at least to prevent them from attacking him. He has a particularly nasty pet stirge he calls Heartspine, who is always with him.
+
+**Ralavaz the Night Blade:** Ralavaz is the elder of the brothers who led the Night Blades ten years ago, and the only known survivor of the fire that wiped the bandits out. Having saved a noble’s son during a prison riot while awaiting execution, Ralavaz had his sentence commuted, and was recently released after ten years instead of paying with his life for his crimes. He has returned to the ruined tower known as the Lonely Torch, where new members of the Night Blade bandits now dwell. Unknown to most people, Ralavaz has repented his old ways and become a follower of the goddess of light. He wishes to ask his brother’s forgiveness, and to turn Gardren away from murder and banditry.
+
+### Secrets and Clues
+
+* Ten years ago, Ralavaz, Gardren, and the rest of the Night Blades were trapped in a barn near the Lonely Torch. When angry villagers set the barn ablaze, only Ralavaz made it out, with Gardren and the rest of the trapped Night Blades dying in the fire.
+
+* In former days, many young men and women who could not make a living in Whitesparrow fell to banditry under the flag of the Night Blades.
+
+* The original Night Blades used the ruined watchtower known as the Lonely Torch for their headquarters. The site is overgrown with an invasive poisonous tangleweed, which covers most of the hills around the tower.
+
+* A witness claims to have seen Night Blade bandits pissing on their own boots before making their way up to the Lonely Torch.
+
+* Dousing one’s boots with urine protects against the worst effects of the tangleweed and allows creatures to move through it.
+
+* When the Night Blades were destroyed, the area around Whitesparrow was relatively free from bandit attacks for many years. Over the past year, a new group of bandits has appeared at the Lonely Torch, slowly building power by recruiting independent bandits to their cause—or slitting their throats.
+
+* A masked figure called the Night Lord has recently been revealed as the leader of this new group of bandits, making many see the group as a new incarnation of the Night Blades.
+
+* The Night Lord has been seen with some sort of red bird perched on his shoulder.
+
+* The Night Lord wears a golden mask, whose edges reveal that the skin of his neck is horribly scarred.
+
+* A cloud of bats has been seen flying over the Lonely Torch. Witnesses have reported seeing the bats descend on a large elk that wandered too close to the tangleweed, swarming it and leaving only a bloodless, wrinkled husk behind.
+
+* A few weeks ago, a number of villagers saw someone they swear was Ralavaz the Night Blade returning to the Lonely Torch.
+
+### Customizing the Adventure
+
+You can customize this adventure by replacing either Gardren or Ralavaz with NPCs from your campaign, or from the backgrounds of the characters. Gardren, Ralavaz, or both might have some relationship to one or more of the player characters, either by blood or by having crossed paths in the past. It might even be the case that, before his incarceration, Ralavaz had murdered a character’s family member, companion, or friend.
+
+The Night Blades can be customized to represent a particular faction of bandits from your own game world. Add details to the tower and the chambers below it to highlight a previous empire or some other layer of the history of your campaign. Customize the initial story hook by switching out the quest giver to an NPC the characters have worked with in the past. Any NPC who has reason to see the Night Blades (or the equivalent bandit group from your own campaign) as a threat could send the characters in to cut them down.
+
+### Start
+
+> *Light rain falls, and a gloomy mist covers the landscape. A large tree has fallen across the road, crushing a wagon under its great weight. More fallen trees lie at the sides of the road.*
+
+Six **bandits** (Artur, Dobarn, Kirci, Dorra, Rhuda and Tasty Pete) lurk at the sides of the road, hiding near the fallen trees and ready to rob passersby. If the characters approach the wagon, one of the bandits shouts out,
+
+> *“Your weapons and belongings! Drop them to the ground, and in the name of the Night Blades, we’ll spare your lives!”*
+
+If convinced or goaded into speaking, the bandits reveal that they are eager to look good in the eyes of their leader the Night Lord, who waits for their return at the Lonely Torch.
+
+When the battle is over, the characters can approach local villagers in Whitesparrow to learn some of the information regarding the Night Blades given in the “Secrets and Clues” section. Eventually, the party is approached by Sheriff Willowmane, who hires the characters to root out the Night Blades and bring their newly returned leader Ralavaz to justice.
+
+#### Customizing the Bandits
+
+This adventure includes battles against a lot of bandits. To keep things fresh, we’ve included a few names for these bandits. Feel free to customize those foes by changing their appearance, gender, or weapons, and to substitute names of your own. Consider tying some of these bandits to NPCs the characters might know or have met. Describe some as being small and fast and others as large and strong. Do what you can to make each bandit unique and interesting.
+
+[![](https://slyflourish.com/images/Night_Blades_30_x_25.jpg)](https://slyflourish.com/images/Night_Blades_30_x_25.jpg)
+
+Night Blade Map by Chris Wilson released under a [CC0 License](https://creativecommons.org/public-domain/cc0/) and available for Commercial Use.
+
+### Notable Locations
+
+#### The Tangles
+
+**Area Aspects:** Poisonous tangleweed, sinkholes, statues of ancient lords
+
+> *A narrow path leads up a rocky slope to the broken stone walls of the Lonely Torch watchtower. A two-foot-thick carpet of glistening green-and-violet weeds and thorny brambles surrounds the stony hill on which the tower sits. Statues of forgotten nobility peer out from the tangled vines.*
+
+Tangleweed is an invasive, poisonous plant that can lash out against creatures passing close by. Any creature that moves through the tangleweed without protection must succeed on a DC 13 Constitution saving throw or take 7 (2d6) poison damage and be poisoned for 1 hour. A character with a medical background can spend 10 minutes to aid the victim and attempt a DC 12 Wisdom (Medicine) check. On a success, the afflicted character is no longer poisoned. Covering one’s boots in urine repels the tangleweed and negates the need for a saving throw.
+
+A **shambling mound** (known as Strangleberries by the Night Blades) might be seen wandering through the tangleweed, but this creature is generally not aggressive. Like the tangleweed, it can be repelled by urine.
+
+#### Shattered Door
+
+**Area Aspects:** Ironbound wooden door, grinning gargoyle, narrow arrow slits
+
+> *The thin path rising through the tangleweed leads up to an ironbound wooden door at the front of the ruined tower. A stone gargoyle juts out from above the door, its mouth open to reveal that its tongue has been broken off. Arrow slits are cut into the rough stone walls of the tower, angled toward the path where it leads up to the door.*
+
+Two Night Blade **guards** (Osgood and Pulk) are meant to watch over this door by peering out the arrow slits from inside the tower. However, they are often either too drunk or too engaged in a game of knucklebones to notice anyone who doesn’t make a lot of noise while approaching. The door is strong ironbound oak and is barred from the inside. The magic that once animated the door’s gargoyle guardian has faded, but the residual spark of that magic allows the gargoyle to speak. The gargoyle is lonely for company, and aware of much of the activity undertaken by those inside\
+the tower. The bandits have long since ignored the chatty guardian.
+
+#### Broken Hall
+
+**Area Aspects:** Collapsed beams, broken floor, headless statue of warrior
+
+> *Large oaken beams have collapsed from where they once supported the vaulted ceiling of this hall. One has smashed through the floor, revealing basement passages below. A large headless statue of a warrior, its greatsword clasped hilt-up in its hands, stands at the far side of the hall. A stone staircase leads up to the higher floors of the tower.*
+
+In addition to the guards described above, four Night Blade **bandits** (Sanda Sixtoes, Polard the Mule, Julette, and Longtooth) sometimes reside in this hall when preparing for an imminent attack, or when they need to get out of the stagnant air in the basement levels. They avoid the stirges above, which they call “the Night Lord’s children.” While in this hall, the characters might hear commotion from below but they hear nothing but silence from above.
+
+#### Shadowed Reaches
+
+**Area Aspects:** Hanging curtains of moss, collapsed walls, painted ceiling
+
+> *Sections of the walls of this upper level of the tower have collapsed from centuries of decay. Much of the stone ceiling has likewise fallen, leaving the tower open to the elements above. An old yet still beautiful fresco painting covers what remains of the ceiling, but much of it is shrouded by curtains of moss.*
+
+Ten **stirges** lurk behind the cover of the moss, hoping that living creatures will come close enough to feed their insatiable appetites. The Night Blades know to stay out of this chamber, since only Gardren is safe from attack by these monsters.
+
+#### Sunken Cellars
+
+**Area Aspects:** Crumbling stone ceiling, wooden beam supports, ragged bedrolls and hammocks
+
+> *The floor of the tower has collapsed, revealing stairs leading to a series of stone chambers below. Cracked wooden support beams hold up the crumbling stone ceiling of the main chamber, whose walls are lined with hammocks and bedrolls. A stone door, carved with an artful depiction of hooded priests, stands at the opposite end of the hall, while a natural tunnel leads off to the right.*
+
+Depending on the time of day, four Night Blade **bandits** (Terra, Duke, Ashe Dragonknuckle, and Two-Cups) and two **thugs** (Victor and Kingsteeth) might be sleeping here. They are generally not alert unless a significant amount of noise has been made upstairs. The carved doorway leads into the lost shrine, while the natural tunnel leads to the mud pit.
+
+#### Mud Pit
+
+**Area Aspects:** Slick mud walls, mud pool floor, drainpipe, knotted rope
+
+> *A narrow walkway leads to the lip of a ten-foot-deep pit filled with mud. An ancient drainpipe roughly two feet in diameter is closed off by steel bars and trickles fetid water into the pool. A knotted rope hangs from an iron hook hammered into the natural stone wall.*
+
+Two Night Blade **bandits** (Pelpe and Klive Yellowriver) guard this cavern while Ralavaz languishes in the mud, imprisoned and tormented here by his brother Gardren until he comes to his senses and demonstrates a willingness to return to his former life as a bandit and murderer. One of the bandits has a large bag filled with a **swarm of rats**, which he uses to torment Ralavaz. If attacked, the bandit dumps out this bag to add to the chaos.
+
+If Ralavaz is rescued, he reveals that he returned to the Lonely Torch after finding out that his brother Gardren was alive and leading a new group of Night Blades. Ralavaz had hoped to turn Gardren away from murder and banditry, but his failure to do so saw him incarcerated here.
+
+#### Lost Throne
+
+**Area Aspects:** Kneeling armored statues, stone throne on dais, burning stone braziers, wide well leading down into shadow
+
+> *Two hulking statues of faceless armored knights kneel in the corners of the room, facing the center of the chamber and a well there that leads down into the shadowy depths. A stone throne sits upon a raised dais opposite the door.*
+
+Gardren, a **bandit captain**, and four Night Blade **bandits** (Avrin, Ragia, Thorn, and Sasha) are usually found in this hall, sorting through recently stolen goods or planning their next attacks. Gardren’s pet stirge Heartspine hides in the corner and attacks any character who attacks its master. This stirge has 10 hit points and a Dexterity (Stealth) modifier of +5.
+
+Gardren wields a *+1 shortsword* called *Nightculler*—a silvered weapon with a draconic pommel and a line of black onyx along the fuller of the blade. A character attuned to the sword is able to cast the darkness spell, requiring no components. Once this feature is used, it can’t be used again until the next dawn.
+
+### Concluding the Adventure
+
+This adventure concludes when the characters have removed Gardren and decided what to do with Ralavaz. Still wracked by guilt over his previous life and feeling responsible for the behavior of his brother, Ralavaz is willing to accept whatever punishment the characters or the folk of Whitesparrow seek for him.
+
+### Expanding the Adventure
+
+The tower can have numerous hidden chambers beneath its upper levels, accessed by way of the hole in the throne room and expanding in multiple directions beneath the rocky hill. You can also replace the tower with the “Dark Abbey” location from *Sly Flourish’s Fantastic Locations*, dropping in many additional areas for the characters to explore.
+
+It’s also possible that the story of Ralavaz and Gardren doesn’t end with this adventure. Depending on how Ralavaz wants to make amends for his past crimes, he might have his own quests that he hopes to have the characters follow.

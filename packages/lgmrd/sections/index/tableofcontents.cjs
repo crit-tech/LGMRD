@@ -53,6 +53,8 @@ module.exports = {
         { item: "Random Town Events" },
         { item: "Random Dungeon Monsters" },
         { item: "Lazy Solo 5e" },
+        { item: "The Village of Whitesparrow" },
+        { item: "The Night Blade" },
       ],
     },
   ],

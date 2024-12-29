@@ -23,5 +23,5 @@ export default {
         "Some commonly discovered relics might grant a single- use spell, while less common magic items might allow their wielder to cast a spell daily. Use the list of common spells below or choose specialized spells to create unique magic item rewards.",
     },
   ],
-  order: 15,
+  order: 17,
 };

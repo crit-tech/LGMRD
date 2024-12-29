@@ -23,5 +23,5 @@ export default {
         "Add traps as they make sense for the adventure. At 1st through 4th level, traps often have a DC of 13, and deal 7 (2d6) damage for easy traps or 11 (2d10) damage for hard traps.",
     },
   ],
-  order: 11,
+  order: 13,
 };

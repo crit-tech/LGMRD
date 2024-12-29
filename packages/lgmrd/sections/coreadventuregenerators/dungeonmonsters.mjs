@@ -23,5 +23,5 @@ export default {
         "You can add monsters and other foes to your adventure by consulting the following list. Roll a d8 for easy monsters, roll a d12 to expand the range into hard monsters, or roll a d20 to also include dangerous monsters. If you decide to use a monster as a boss monster, give it double hit points and let it take an extra action each turn.\n\nFor foes such as bandits and cultists, you can also roll for ancestry on the NPC creation lists if those foes having a common origin makes sense for your narrative.",
     },
   ],
-  order: 9,
+  order: 11,
 };
