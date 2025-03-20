@@ -16,9 +16,9 @@ jobs:
           ref: main
       - uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "22"
           registry-url: "https://registry.npmjs.org"
-      - run: cd src && npm ci && npm start
+      - run: cd src && npm install -g pnpm && pnpm install && pnpm start
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       - uses: EndBug/add-and-commit@v9
