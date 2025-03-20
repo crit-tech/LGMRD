@@ -39,7 +39,7 @@ export async function convertToPdf(
     `\n\n${printCss}\n\n</style>`
   );
 
-  const browser = await puppeteer.launch({ headless: "new" });
+  const browser = await puppeteer.launch({ headless: "shell", args: ["--no-sandbox"] });
   const page = await browser.newPage();
   await page.setContent(styledHtml, { waitUntil: "domcontentloaded" });
   await page.pdf({
