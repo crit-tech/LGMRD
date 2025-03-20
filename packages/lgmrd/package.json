@@ -784,6 +784,10 @@
       "import": "./sections/randomchambers/wizardslair.mjs",
       "require": "./sections/randomchambers/wizardslair.cjs"
     },
+    "./randomconnectors/default": {
+      "import": "./sections/randomconnectors/default.mjs",
+      "require": "./sections/randomconnectors/default.cjs"
+    },
     "./randomitems/1d20weapontypes": {
       "import": "./sections/randomitems/1d20weapontypes.mjs",
       "require": "./sections/randomitems/1d20weapontypes.cjs"

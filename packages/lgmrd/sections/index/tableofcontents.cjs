@@ -49,6 +49,7 @@ module.exports = {
         { item: "Random Traps" },
         { item: "Random Monuments" },
         { item: "Random Chambers" },
+        { item: "Random Underground Connectors" },
         { item: "Random Items" },
         { item: "Random Town Events" },
         { item: "Random Dungeon Monsters" },

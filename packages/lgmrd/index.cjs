@@ -13,7 +13,7 @@
  */
 
 module.exports = {
-  version: "3.6.0",
+  version: "3.7.0",
   sections: [
     {
       id: "index",
@@ -29,7 +29,7 @@ module.exports = {
               type: "paragraph",
               order: 0,
               markdown:
-                '> This work includes material taken from the [Lazy GM\'s Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by Michael E. Shea of [SlyFlourish.com](https://slyflourish.com), available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).\n\nThis work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at <https://dnd.wizards.com/resources/systems-reference-document>. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at <https://creativecommons.org/licenses/by/4.0/legalcode>.\n\nThe publication and release of this document is made possible by [patrons of Sly Flourish](https://www.patreon.com/slyflourish). Thank you for your support!\n\nThis document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.\n\nYou can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech\'s LGMRD Github Repo](https://github.com/crit-tech/LGMRD).',
+                '> This work includes material taken from the [Lazy GM\'s Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by Michael E. Shea of [SlyFlourish.com](https://slyflourish.com), available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).\n\nThis work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at <https://dnd.wizards.com/resources/systems-reference-document>. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at <https://creativecommons.org/licenses/by/4.0/legalcode>.\n\nThe publication and release of this document is made possible by [patrons of Sly Flourish](https://www.patreon.com/slyflourish). Thank you for your support!\n\nThis document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.\n\nYou can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech\'s LGMRD Github Repo](https://github.com/crit-tech/LGMRD) and can [download a zip file containing all these formats](https://slyflourish_content.s3.amazonaws.com/lazy_gm_cc_docs_multiformat.zip).',
             },
           ],
           order: 0,
@@ -71,6 +71,7 @@ module.exports = {
                 { item: "Random Traps" },
                 { item: "Random Monuments" },
                 { item: "Random Chambers" },
+                { item: "Random Underground Connectors" },
                 { item: "Random Items" },
                 { item: "Random Town Events" },
                 { item: "Random Dungeon Monsters" },
@@ -5433,6 +5434,62 @@ module.exports = {
       ],
     },
     {
+      id: "randomconnectors",
+      title: "Random Connectors",
+      intro:
+        "The following list contains connections between locations in a large underground realm. Roll once or twice to build connections between locations in the underworld.",
+      subsections: [
+        {
+          id: "default",
+          title: "",
+          content: [
+            {
+              type: "table",
+              order: 0,
+              data: [
+                { item_num: 1, item: "Long-abandoned sewers" },
+                { item_num: 2, item: "Ancient burial chambers" },
+                { item_num: 3, item: "Underground river" },
+                { item_num: 4, item: "Tunnels carved by ancient laborers" },
+                { item_num: 5, item: "Massive worm-carved passageways" },
+                {
+                  item_num: 6,
+                  item: "Narrow pathway alongside a deep fissure",
+                },
+                {
+                  item_num: 7,
+                  item: "Tunnels illuminated with phosphorescent fungi",
+                },
+                { item_num: 8, item: "Spiraling shaft" },
+                { item_num: 9, item: "Abandoned mine tunnels" },
+                {
+                  item_num: 10,
+                  item: "Primeval tunnels adorned with thousands of handprints",
+                },
+                { item_num: 11, item: "Smooth tunnels bored out with magic" },
+                { item_num: 12, item: "Natural tunnel strewn with webs" },
+                { item_num: 13, item: "Underwater passage" },
+                { item_num: 14, item: "Moss-covered natural tunnel" },
+                {
+                  item_num: 15,
+                  item: "Collapsing sinkhole leading to tunnel network",
+                },
+                { item_num: 16, item: "Ice tunnel" },
+                { item_num: 17, item: "Cooled lava flow" },
+                { item_num: 18, item: "Huge bridge over a deep chasm" },
+                { item_num: 19, item: "Otherworldly passage" },
+                {
+                  item_num: 20,
+                  item: "Massive platforms crossing a bottomless pit",
+                },
+              ],
+            },
+          ],
+          order: 0,
+        },
+      ],
+    },
+    {
       id: "randomitems",
       title: "Random Items",
       intro:
@@ -6302,7 +6359,7 @@ module.exports = {
               type: "paragraph",
               order: 0,
               markdown:
-                'Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](33-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.\n\nAssume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster\'s Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.',
+                'Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](34-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.\n\nAssume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster\'s Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.',
             },
           ],
           order: 3,
