@@ -16,7 +16,7 @@ The publication and release of this document is made possible by [patrons of Sly
 
 This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
 
-You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD).
+You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD) and can [download a zip file containing all these formats](https://slyflourish_content.s3.amazonaws.com/lazy_gm_cc_docs_multiformat.zip).
 
 ## Table of Contents
 
@@ -49,6 +49,7 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 * [Random Traps](#randomtraps)
 * [Random Monuments](#randommonuments)
 * [Random Chambers](#randomchambers)
+* [Random Underground Connectors](#randomconnectors)
 * [Random Items](#randomitems)
 * [Random Town Events](#randomtownevents)
 * [Random Dungeon Monsters](#randomdungeonmonsters)
@@ -2566,6 +2567,31 @@ These lists are ordered with typical rooms lower in the list and fantastic or da
 18. Flesh laboratory
 19. Ooze vaults
 20. Lightning chamber
+
+## <a id="randomconnectors"></a>Random Connectors
+
+The following list contains connections between locations in a large underground realm. Roll once or twice to build connections between locations in the underworld.
+
+1. Long-abandoned sewers
+2. Ancient burial chambers
+3. Underground river
+4. Tunnels carved by ancient laborers
+5. Massive worm-carved passageways
+6. Narrow pathway alongside a deep fissure
+7. Tunnels illuminated with phosphorescent fungi
+8. Spiraling shaft
+9. Abandoned mine tunnels
+10. Primeval tunnels adorned with thousands of handprints
+11. Smooth tunnels bored out with magic
+12. Natural tunnel strewn with webs
+13. Underwater passage
+14. Moss-covered natural tunnel
+15. Collapsing sinkhole leading to tunnel network
+16. Ice tunnel
+17. Cooled lava flow
+18. Huge bridge over a deep chasm
+19. Otherworldly passage
+20. Massive platforms crossing a bottomless pit
 
 ## <a id="randomitems"></a>Random Items
 

@@ -31,7 +31,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 1 (CR 1/8—1/4)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-1-cr-1814]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-1-cr-1814]]`
 
 1. Bandit
 2. Cultist
@@ -58,7 +58,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 2 (CR 1/4—1)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-2-cr-141]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-2-cr-141]]`
 
 1. Wolf
 2. Zombie
@@ -85,7 +85,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 3 (CR 1—2)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-3-cr-12]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-3-cr-12]]`
 
 1. Dire wolf
 2. Duergar
@@ -112,7 +112,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 4 (CR 2—3)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-4-cr-23]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-4-cr-23]]`
 
 1. Azer
 2. Green dragon wyrmling
@@ -139,7 +139,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 5 (CR 3—4)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-5-cr-34]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-5-cr-34]]`
 
 1. Doppelganger
 2. Giant scorpion
@@ -166,7 +166,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 6 (CR 4—5)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-6-cr-45]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-6-cr-45]]`
 
 1. Lamia
 2. Red dragon wyrmling
@@ -193,7 +193,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 7 (CR 5—8)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-7-cr-58]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-7-cr-58]]`
 
 1. Salamander
 2. Vampire spawn
@@ -220,7 +220,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 8 (CR 8—12)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-8-cr-812]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-8-cr-812]]`
 
 1. Frost giant
 2. Hezrou
@@ -247,7 +247,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 9 (CR 12—16)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-9-cr-1216]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-9-cr-1216]]`
 
 1. Erinyes
 2. Adult white dragon
@@ -266,7 +266,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ## Monster List 10 (CR 16—24)
 
-`dice: [[33 - Random Dungeon Monsters#^monster-list-10-cr-1624]]`
+`dice: [[34 - Random Dungeon Monsters#^monster-list-10-cr-1624]]`
 
 1. Iron golem
 2. Marilith

@@ -6,7 +6,7 @@ Whenever the characters enter a new town or start a new session there, adding so
 
 ## 1d20 Town Sentiments
 
-`dice: [[32 - Random Town Events#^1d20-town-sentiments]]`
+`dice: [[33 - Random Town Events#^1d20-town-sentiments]]`
 
 1. Happy
 2. Elated
@@ -33,7 +33,7 @@ Whenever the characters enter a new town or start a new session there, adding so
 
 ## 1d20 Mundane Events
 
-`dice: [[32 - Random Town Events#^1d20-mundane-events]]`
+`dice: [[33 - Random Town Events#^1d20-mundane-events]]`
 
 1. Wedding
 2. Funeral
@@ -60,7 +60,7 @@ Whenever the characters enter a new town or start a new session there, adding so
 
 ## 1d20 Notable Weather Condtions
 
-`dice: [[32 - Random Town Events#^1d20-notable-weather-condtions]]`
+`dice: [[33 - Random Town Events#^1d20-notable-weather-condtions]]`
 
 1. Fog
 2. Heavy mist
@@ -87,7 +87,7 @@ Whenever the characters enter a new town or start a new session there, adding so
 
 ## 1d20 Fantastic Events
 
-`dice: [[32 - Random Town Events#^1d20-fantastic-events]]`
+`dice: [[33 - Random Town Events#^1d20-fantastic-events]]`
 
 1. The stars have disappeared from the sky
 2. An unexpected solar eclipse

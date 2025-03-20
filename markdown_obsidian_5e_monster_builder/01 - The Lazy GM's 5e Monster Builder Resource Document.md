@@ -16,7 +16,7 @@ This work includes material taken from the System Reference Document 5.1 ("SRD 5
 
 This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
 
-You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD).
+You can find several versions of this document including EPUB, Markdown, JSON, and braille on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD) and can [download a zip file containing all these formats](https://slyflourish_content.s3.amazonaws.com/lazy_gm_cc_docs_multiformat.zip).
 
 ### Table of Contents
 

@@ -1,4 +1,6 @@
-# Lazy Solo 5e
+---
+obsidianUIMode: preview
+---
 
 These rules let you play a solo game of 5e using lists in this document. With these guidelines, a single character explores a dungeon to complete quests. Let your imagination take over as you fill in the story and details of the quest, location, and adventure.
 
@@ -6,13 +8,13 @@ This scenario begins at 1st level, and your character gains a level after each s
 
 ## Building the Quest
 
-First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section of this document. Choose a name and any other details from the "[NPC Generator](26-npcgenerator.md)" section.
+First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](<25 - Core Adventure Generators.md>)" section of this document. Choose a name and any other details from the "[NPC Generator](<26 - NPC Generator.md>)" section.
 
-Next, roll on the Quests in "[Core Adventure Generators](25-coreadventuregenerators.md)". Determine the location by rolling on the Condition, Description, Origin, and Location table.
+Next, roll on the Quests in "[Core Adventure Generators](<25 - Core Adventure Generators.md>)". Determine the location by rolling on the Condition, Description, Origin, and Location table.
 
 Choose a map for the location from your favorite online source of maps or any other maps you have on hand. Choose a map that fits the location. Maps with fifteen or more rooms work best for adventures created with these guidelines.
 
-You can then fill in additional quest details from the other tables in "[Core Adventure Generators](25-coreadventuregenerators.md)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.
+You can then fill in additional quest details from the other tables in "[Core Adventure Generators](<25 - Core Adventure Generators.md>)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.
 
 Choose a starting room on the map that makes sense.
 
@@ -23,6 +25,8 @@ Each time you enter a chamber, roll to determine what you find there.
 Each time your roll comes up 4, 5, 6, or 7, indicated by "QP" below, your quest progresses one step. You might acquire a needed key or face a villain's lieutenant. You decide what type of progress you make.
 
 On your fourth roll of quest progress, you reach the final challenge of the quest. If you succeed, you have completed the quest and gain a new level.
+
+`dice: [[35 - Lazy Solo 5e#^exploring-the-dungeon]]`
 
 1. Trap or hazard
 2. Trap or hazard
@@ -35,21 +39,25 @@ On your fourth roll of quest progress, you reach the final challenge of the ques
 9. Healing font (restore 2d6 hit points).
 10. Unguarded treasure
 
+^exploring-the-dungeon
+
 ## Traps and Hazards
 
-Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.
+Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](<25 - Core Adventure Generators.md>)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.
 
 ## Monster Encounter
 
-Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](33-randomdungeonmonsters.md)" section, selecting a dungeon level equal to your character level.
+Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](<34 - Random Dungeon Monsters.md>)" section, selecting a dungeon level equal to your character level.
 
 Assume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster's Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.
 
 ## Monuments
 
-Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section.
+Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](<25 - Core Adventure Generators.md>)" section.
 
 Roll a d6 to determine the effect of the monument.
+
+`dice: [[35 - Lazy Solo 5e#^monuments]]`
 
 1. +1 to AC
 2. +1 to attacks and save DCs
@@ -58,6 +66,8 @@ Roll a d6 to determine the effect of the monument.
 5. +1d6 damage per five character levels
 6. Advantage on attack rolls
 
+^monuments
+
 Helpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.
 
 ## Treasure
@@ -65,6 +75,8 @@ Helpful monuments provide this benefit to your character. Harmful monuments prov
 When you defeat a monster or enter a chamber with unguarded treasure, roll on the following list:
 
 ## 1d8 Treasures
+
+`dice: [[35 - Lazy Solo 5e#^1d8-treasures]]`
 
 1. No treasure
 2. No treasure
@@ -75,4 +87,6 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 7. Consumable item
 8. Permanent item
 
-For consumable and permanent items, roll on the tables in the "[Treasure Generator](27-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.
+^1d8-treasures
+
+For consumable and permanent items, roll on the tables in the "[Treasure Generator](<27 - Treasure Generator.md>)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.

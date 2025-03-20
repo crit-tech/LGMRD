@@ -462,7 +462,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "You can find several versions of this document including EPUB, Markdown, and JSON on "
+                  "value": "You can find several versions of this document including EPUB, Markdown, JSON, and braille on "
                 },
                 {
                   "type": "element",
@@ -474,6 +474,23 @@
                     {
                       "type": "text",
                       "value": "Crit.Tech's LGMRD Github Repo"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": " and can "
+                },
+                {
+                  "type": "element",
+                  "tagName": "a",
+                  "properties": {
+                    "href": "https://slyflourish_content.s3.amazonaws.com/lazy_gm_cc_docs_multiformat.zip"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "download a zip file containing all these formats"
                     }
                   ]
                 },

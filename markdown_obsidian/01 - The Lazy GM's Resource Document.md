@@ -18,7 +18,7 @@ The publication and release of this document is made possible by [patrons of Sly
 
 This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
 
-You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD).
+You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD) and can [download a zip file containing all these formats](https://slyflourish_content.s3.amazonaws.com/lazy_gm_cc_docs_multiformat.zip).
 
 ## Table of Contents
 
@@ -51,9 +51,10 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 * [Random Traps](<28 - Random Traps.md>)
 * [Random Monuments](<29 - Random Monuments.md>)
 * [Random Chambers](<30 - Random Chambers.md>)
-* [Random Items](<31 - Random Items.md>)
-* [Random Town Events](<32 - Random Town Events.md>)
-* [Random Dungeon Monsters](<33 - Random Dungeon Monsters.md>)
-* [Lazy Solo 5e](<34 - Lazy Solo 5e.md>)
-* [The Village of Whitesparrow](<35 - The Village of Whitesparrow.md>)
-* [The Night Blade](<36 - The Night Blade.md>)
+* [Random Underground Connectors](<31 - Random Connectors.md>)
+* [Random Items](<32 - Random Items.md>)
+* [Random Town Events](<33 - Random Town Events.md>)
+* [Random Dungeon Monsters](<34 - Random Dungeon Monsters.md>)
+* [Lazy Solo 5e](<35 - Lazy Solo 5e.md>)
+* [The Village of Whitesparrow](<36 - The Village of Whitesparrow.md>)
+* [The Night Blade](<37 - The Night Blade.md>)
