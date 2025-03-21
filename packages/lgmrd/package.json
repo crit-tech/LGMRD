@@ -332,18 +332,6 @@
       "import": "./sections/quicktricks/otherquicktricks.mjs",
       "require": "./sections/quicktricks/otherquicktricks.cjs"
     },
-    "./wildernesstravel/characterroles": {
-      "import": "./sections/wildernesstravel/characterroles.mjs",
-      "require": "./sections/wildernesstravel/characterroles.cjs"
-    },
-    "./wildernesstravel/groupstealth": {
-      "import": "./sections/wildernesstravel/groupstealth.mjs",
-      "require": "./sections/wildernesstravel/groupstealth.cjs"
-    },
-    "./wildernesstravel/creatingthewilderness": {
-      "import": "./sections/wildernesstravel/creatingthewilderness.mjs",
-      "require": "./sections/wildernesstravel/creatingthewilderness.cjs"
-    },
     "./quickencounterbuilding/forcharactersof1stlevel": {
       "import": "./sections/quickencounterbuilding/forcharactersof1stlevel.mjs",
       "require": "./sections/quickencounterbuilding/forcharactersof1stlevel.cjs"
@@ -723,6 +711,18 @@
     "./randommonuments/100monumentstructures": {
       "import": "./sections/randommonuments/100monumentstructures.mjs",
       "require": "./sections/randommonuments/100monumentstructures.cjs"
+    },
+    "./wildernesstravel/characterroles": {
+      "import": "./sections/wildernesstravel/characterroles.mjs",
+      "require": "./sections/wildernesstravel/characterroles.cjs"
+    },
+    "./wildernesstravel/groupstealth": {
+      "import": "./sections/wildernesstravel/groupstealth.mjs",
+      "require": "./sections/wildernesstravel/groupstealth.cjs"
+    },
+    "./wildernesstravel/creatingthewilderness": {
+      "import": "./sections/wildernesstravel/creatingthewilderness.mjs",
+      "require": "./sections/wildernesstravel/creatingthewilderness.cjs"
     },
     "./randomchambers/beastsden": {
       "import": "./sections/randomchambers/beastsden.mjs",

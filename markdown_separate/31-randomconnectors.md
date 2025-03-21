@@ -1,4 +1,4 @@
-# Random Connectors
+# Random Underground Connectors
 
 The following list contains connections between locations in a large underground realm. Roll once or twice to build connections between locations in the underworld.
 

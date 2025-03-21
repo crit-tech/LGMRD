@@ -20,7 +20,7 @@ module.exports = {
       type: "paragraph",
       order: 0,
       markdown:
-        'Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.',
+        'Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](24-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.',
     },
   ],
   order: 2,

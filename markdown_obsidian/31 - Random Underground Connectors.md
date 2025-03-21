@@ -4,7 +4,7 @@ obsidianUIMode: preview
 
 The following list contains connections between locations in a large underground realm. Roll once or twice to build connections between locations in the underworld.
 
-`dice: [[31 - Random Connectors#^random-connectors]]`
+`dice: [[31 - Random Underground Connectors#^random-underground-connectors]]`
 
 1. Long-abandoned sewers
 2. Ancient burial chambers
@@ -27,4 +27,4 @@ The following list contains connections between locations in a large underground
 19. Otherworldly passage
 20. Massive platforms crossing a bottomless pit
 
-^random-connectors
+^random-underground-connectors

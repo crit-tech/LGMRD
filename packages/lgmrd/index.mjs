@@ -13,7 +13,7 @@
  */
 
 export default {
-  version: "3.7.0",
+  version: "3.8.0",
   sections: [
     {
       id: "index",
@@ -55,7 +55,6 @@ export default {
                 { item: "Tools for 5e Improvisation" },
                 { item: "Quick Tricks for Lazier 5e Games" },
                 { item: "5e Quick Encounter Building" },
-                { item: "Wilderness Travel and Exploration" },
                 { item: "Lazy Combat Encounter Building for 5e" },
                 { item: "Theater of the Mind Guidelines (Extended)" },
                 { item: "Theater of the Mind Guidelines (Abbreviated)" },
@@ -70,6 +69,7 @@ export default {
                 { item: "Treasure Generator" },
                 { item: "Random Traps" },
                 { item: "Random Monuments" },
+                { item: "Wilderness Travel and Exploration" },
                 { item: "Random Chambers" },
                 { item: "Random Underground Connectors" },
                 { item: "Random Items" },
@@ -203,7 +203,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                "What monsters are the characters most likely to face? What monsters make sense for a specific location and situation? We're using the term \"monster\" loosely here, so as to include enemy NPCs as well as truly monstrous foes. Whatever type of enemy you need, reading through books of monsters can give you the fuel to choose the right creatures for the right situation.\n\nAdditionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](16-lazycombatencounterbuilding.md) for more information.",
+                "What monsters are the characters most likely to face? What monsters make sense for a specific location and situation? We're using the term \"monster\" loosely here, so as to include enemy NPCs as well as truly monstrous foes. Whatever type of enemy you need, reading through books of monsters can give you the fuel to choose the right creatures for the right situation.\n\nAdditionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](15-lazycombatencounterbuilding.md) for more information.",
             },
           ],
           order: 7,
@@ -1835,7 +1835,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.\n\nIf an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](16-lazycombatencounterbuilding.md) later in this document.",
+                "Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is \"balanced\" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.\n\nIf an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](15-lazycombatencounterbuilding.md) later in this document.",
             },
           ],
           order: 4,
@@ -1848,7 +1848,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](23-runninghordes.md)" later in this document.',
+                'When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](22-runninghordes.md)" later in this document.',
             },
           ],
           order: 5,
@@ -1861,7 +1861,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'You can never have enough names on hand while improvising your game. Here are a few you can use whenever an NPC, location, business, or other part of your game needs a name.\n\nFirst Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope\n\nLast Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](26-npcgenerator.md)" section later in this document.',
+                'You can never have enough names on hand while improvising your game. Here are a few you can use whenever an NPC, location, business, or other part of your game needs a name.\n\nFirst Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope\n\nLast Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](25-npcgenerator.md)" section later in this document.',
             },
           ],
           order: 6,
@@ -2021,53 +2021,6 @@ export default {
             },
           ],
           order: 8,
-        },
-      ],
-    },
-    {
-      id: "wildernesstravel",
-      title: "Wilderness Travel and Exploration",
-      intro:
-        "This section offers a systematic approach for handling travel through wild lands filled with potential dangers, and can be used with both point crawls (see the previous page) or hex crawls.\n\nAs the characters travel overland, they undertake specific activities related to the journey. Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.",
-      subsections: [
-        {
-          id: "characterroles",
-          title: "Character Roles",
-          content: [
-            {
-              type: "paragraph",
-              order: 0,
-              markdown:
-                "When the characters choose to travel through the wilderness, each player chooses a role for their character to take on. If two characters feel like good choices for a particular role, one character can use the Help action to assist the other, granting advantage on the check.\n\n### Trailhand\n\n**Applicable Skills:** Nature, Survival\n\nA trailhand ensures that the party follows the right path to reach an intended destination, masterfully navigating the natural or constructed paths that crisscross the wilds. With a successful check, the characters stay on the correct paths. On a failure, they might become lost, stumbling into a hostile area or losing resources. Characters might also be subject to exhaustion as they try to make their way back to the correct path, or might find it difficult to take a short or long rest until they do.\n\n### Scout\n\n**Applicable Skills:** Insight, Investigation, Nature, Perception, Survival\n\nA scout keeps an eye out for potentially hostile creatures during the characters' journey. These might be creatures stalking the characters, creatures that have earlier crossed the characters' path, or creatures that are traveling in the same direction and overtake the party. With a successful check, the characters spot the potentially hostile creatures and can plan their response. On a failure, the scout might unknowingly lead the party into a hostile encounter or an ambush.\n\n### Quartermaster\n\n**Applicable Skills:** Medicine, Survival\n\nA quartermaster ensures that the characters remain well fed and hydrated during their journey. They ensure that provisions remain unspoiled, and help forage for additional resources along the way. Shorter journeys might not require a character to take on this role.\n\nWith a successful check, the characters have plenty of food and water for the journey, with provisions remaining unspoiled. On a failure, the characters might lose precious resources of food and water (potentially leading to exhaustion), or need to spend additional time searching for resources.",
-            },
-          ],
-          order: 0,
-        },
-        {
-          id: "groupstealth",
-          title: "Group Stealth",
-          content: [
-            {
-              type: "paragraph",
-              order: 0,
-              markdown:
-                "If the characters decide to move stealthily through the wilderness, doing so doubles the length of their travel time and might impose disadvantage on other checks at your discretion. To move stealthily through the wilderness, the characters make a group Dexterity (Stealth) check and compare that result to the passive Wisdom (Perception) scores of any potentially hostile creatures that might spot or hear them.",
-            },
-          ],
-          order: 1,
-        },
-        {
-          id: "creatingthewilderness",
-          title: "Creating the Wilderness",
-          content: [
-            {
-              type: "paragraph",
-              order: 0,
-              markdown:
-                "When an adventure sees the characters trekking across the wilds, use the following steps to create an adventure framework for that wilderness journey. You can use random tables to generate locations for wilderness journeys, including encounter ideas and suggestions for landmarks.\n\n### Determine the Weather\n\nChoose or randomly select potential weather for the characters' journey. Weather mostly adds to the in-world atmosphere, but harsh weather can change the DCs of the characters' activities as they travel if you wish.\n\n### Determine Potential Encounters\n\nAs the characters travel through the wilderness, choose or randomly select potential encounters. These might be face-to-face encounters with denizens of the wilderness, but not all such encounters need to be hostile. The characters could run into friendly travelers, fearful monsters, weak foes, or signs of a previous battle. Likewise, they might spot the tracks of creatures recently passed by, or that are heading in the party's direction.\n\n### Place Notable Landmarks\n\nUse notable landmarks to mark key points along the characters' journey. Such landmarks can serve as a backdrop for random encounters or as places to rest. They might also serve as a source of secrets and clues that the characters can discover.",
-            },
-          ],
-          order: 2,
         },
       ],
     },
@@ -4931,6 +4884,53 @@ export default {
       ],
     },
     {
+      id: "wildernesstravel",
+      title: "Wilderness Travel and Exploration",
+      intro:
+        "This section offers a systematic approach for handling travel through wild lands filled with potential dangers, and can be used with both point crawls (see the previous page) or hex crawls.\n\nAs the characters travel overland, they undertake specific activities related to the journey. Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.",
+      subsections: [
+        {
+          id: "characterroles",
+          title: "Character Roles",
+          content: [
+            {
+              type: "paragraph",
+              order: 0,
+              markdown:
+                "When the characters choose to travel through the wilderness, each player chooses a role for their character to take on. If two characters feel like good choices for a particular role, one character can use the Help action to assist the other, granting advantage on the check.\n\n### Trailhand\n\n**Applicable Skills:** Nature, Survival\n\nA trailhand ensures that the party follows the right path to reach an intended destination, masterfully navigating the natural or constructed paths that crisscross the wilds. With a successful check, the characters stay on the correct paths. On a failure, they might become lost, stumbling into a hostile area or losing resources. Characters might also be subject to exhaustion as they try to make their way back to the correct path, or might find it difficult to take a short or long rest until they do.\n\n### Scout\n\n**Applicable Skills:** Insight, Investigation, Nature, Perception, Survival\n\nA scout keeps an eye out for potentially hostile creatures during the characters' journey. These might be creatures stalking the characters, creatures that have earlier crossed the characters' path, or creatures that are traveling in the same direction and overtake the party. With a successful check, the characters spot the potentially hostile creatures and can plan their response. On a failure, the scout might unknowingly lead the party into a hostile encounter or an ambush.\n\n### Quartermaster\n\n**Applicable Skills:** Medicine, Survival\n\nA quartermaster ensures that the characters remain well fed and hydrated during their journey. They ensure that provisions remain unspoiled, and help forage for additional resources along the way. Shorter journeys might not require a character to take on this role.\n\nWith a successful check, the characters have plenty of food and water for the journey, with provisions remaining unspoiled. On a failure, the characters might lose precious resources of food and water (potentially leading to exhaustion), or need to spend additional time searching for resources.",
+            },
+          ],
+          order: 0,
+        },
+        {
+          id: "groupstealth",
+          title: "Group Stealth",
+          content: [
+            {
+              type: "paragraph",
+              order: 0,
+              markdown:
+                "If the characters decide to move stealthily through the wilderness, doing so doubles the length of their travel time and might impose disadvantage on other checks at your discretion. To move stealthily through the wilderness, the characters make a group Dexterity (Stealth) check and compare that result to the passive Wisdom (Perception) scores of any potentially hostile creatures that might spot or hear them.",
+            },
+          ],
+          order: 1,
+        },
+        {
+          id: "creatingthewilderness",
+          title: "Creating the Wilderness",
+          content: [
+            {
+              type: "paragraph",
+              order: 0,
+              markdown:
+                "When an adventure sees the characters trekking across the wilds, use the following steps to create an adventure framework for that wilderness journey. You can use random tables to generate locations for wilderness journeys, including encounter ideas and suggestions for landmarks.\n\n### Determine the Weather\n\nChoose or randomly select potential weather for the characters' journey. Weather mostly adds to the in-world atmosphere, but harsh weather can change the DCs of the characters' activities as they travel if you wish.\n\n### Determine Potential Encounters\n\nAs the characters travel through the wilderness, choose or randomly select potential encounters. These might be face-to-face encounters with denizens of the wilderness, but not all such encounters need to be hostile. The characters could run into friendly travelers, fearful monsters, weak foes, or signs of a previous battle. Likewise, they might spot the tracks of creatures recently passed by, or that are heading in the party's direction.\n\n### Place Notable Landmarks\n\nUse notable landmarks to mark key points along the characters' journey. Such landmarks can serve as a backdrop for random encounters or as places to rest. They might also serve as a source of secrets and clues that the characters can discover.",
+            },
+          ],
+          order: 2,
+        },
+      ],
+    },
+    {
       id: "randomchambers",
       title: "Random Chambers",
       intro:
@@ -5435,7 +5435,7 @@ export default {
     },
     {
       id: "randomconnectors",
-      title: "Random Connectors",
+      title: "Random Underground Connectors",
       intro:
         "The following list contains connections between locations in a large underground realm. Roll once or twice to build connections between locations in the underworld.",
       subsections: [
@@ -5946,7 +5946,7 @@ export default {
       id: "randomdungeonmonsters",
       title: "Random Dungeon Monsters",
       intro:
-        "The following tables let you randomly select monsters based on \"dungeon level.\" Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.\n\nTo use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.\n\nOnce you have a dungeon level selected, roll a d20 and look across to see which monster table you should use. For example, if the characters are on dungeon level 4 and you roll a 12, you'll use monster table 3. Then go to the indicated monster table and roll a d20 again, to determine which monster might show up. Using the above example, consulting monster table 3 and rolling a 3 gives a result of 'Ghoul.' Instead of using dungeon levels, you can just jump to whichever monster table feels right for the circumstances. If you know you're looking for a monster with a challenge rating of 4 or 5, just roll on Monster Table 6. You can also use these tables to quickly look up monsters at particular challenge ratings. Even if you absolutely hate random encounters, you can use the tables to generate encounter ideas you might never think of otherwise.\n\nThere are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.\n\nBefore the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the \"[5e Quick Encounter Building](15-quickencounterbuilding.md)\" section of this document.",
+        "The following tables let you randomly select monsters based on \"dungeon level.\" Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.\n\nTo use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.\n\nOnce you have a dungeon level selected, roll a d20 and look across to see which monster table you should use. For example, if the characters are on dungeon level 4 and you roll a 12, you'll use monster table 3. Then go to the indicated monster table and roll a d20 again, to determine which monster might show up. Using the above example, consulting monster table 3 and rolling a 3 gives a result of 'Ghoul.' Instead of using dungeon levels, you can just jump to whichever monster table feels right for the circumstances. If you know you're looking for a monster with a challenge rating of 4 or 5, just roll on Monster Table 6. You can also use these tables to quickly look up monsters at particular challenge ratings. Even if you absolutely hate random encounters, you can use the tables to generate encounter ideas you might never think of otherwise.\n\nThere are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.\n\nBefore the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the \"[5e Quick Encounter Building](14-quickencounterbuilding.md)\" section of this document.",
       subsections: [
         {
           id: "default",
@@ -6304,7 +6304,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section of this document. Choose a name and any other details from the "[NPC Generator](26-npcgenerator.md)" section.\n\nNext, roll on the Quests in "[Core Adventure Generators](25-coreadventuregenerators.md)". Determine the location by rolling on the Condition, Description, Origin, and Location table.\n\nChoose a map for the location from your favorite online source of maps or any other maps you have on hand. Choose a map that fits the location. Maps with fifteen or more rooms work best for adventures created with these guidelines.\n\nYou can then fill in additional quest details from the other tables in "[Core Adventure Generators](25-coreadventuregenerators.md)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.\n\nChoose a starting room on the map that makes sense.',
+                'First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](24-coreadventuregenerators.md)" section of this document. Choose a name and any other details from the "[NPC Generator](25-npcgenerator.md)" section.\n\nNext, roll on the Quests in "[Core Adventure Generators](24-coreadventuregenerators.md)". Determine the location by rolling on the Condition, Description, Origin, and Location table.\n\nChoose a map for the location from your favorite online source of maps or any other maps you have on hand. Choose a map that fits the location. Maps with fifteen or more rooms work best for adventures created with these guidelines.\n\nYou can then fill in additional quest details from the other tables in "[Core Adventure Generators](24-coreadventuregenerators.md)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.\n\nChoose a starting room on the map that makes sense.',
             },
           ],
           order: 0,
@@ -6346,7 +6346,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.',
+                'Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](24-coreadventuregenerators.md)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.',
             },
           ],
           order: 2,
@@ -6372,7 +6372,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](25-coreadventuregenerators.md)" section.\n\nRoll a d6 to determine the effect of the monument.\n\nHelpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.',
+                'Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](24-coreadventuregenerators.md)" section.\n\nRoll a d6 to determine the effect of the monument.\n\nHelpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.',
             },
             {
               type: "table",
@@ -6427,7 +6427,7 @@ export default {
               type: "paragraph",
               order: 0,
               markdown:
-                'For consumable and permanent items, roll on the tables in the "[Treasure Generator](27-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.',
+                'For consumable and permanent items, roll on the tables in the "[Treasure Generator](26-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.',
             },
           ],
           order: 6,

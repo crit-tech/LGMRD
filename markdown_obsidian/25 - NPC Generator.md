@@ -16,7 +16,7 @@ Use the following table to choose a random ancestry for your NPC.
 
 ## 1d10 Ancestries
 
-`dice: [[26 - NPC Generator#^1d10-ancestries]]`
+`dice: [[25 - NPC Generator#^1d10-ancestries]]`
 
 1. Human
 2. Elf
@@ -37,7 +37,7 @@ An NPC's worldview can help determine how they initially react to the characters
 
 ## 1d20 Worldviews
 
-`dice: [[26 - NPC Generator#^1d20-worldviews]]`
+`dice: [[25 - NPC Generator#^1d20-worldviews]]`
 
 1. Surly
 2. Friendly
@@ -68,7 +68,7 @@ NPCs will often be most easily remembered by the players based on some unique as
 
 ## 1d20 Appearances and Mannerisms
 
-`dice: [[26 - NPC Generator#^1d20-appearances-and-mannerisms]]`
+`dice: [[25 - NPC Generator#^1d20-appearances-and-mannerisms]]`
 
 1. Wild hair
 2. Scarred cheek
@@ -99,7 +99,7 @@ Assign a profession to your NPC to add color to their stat block. The commoner i
 
 ## 1d20 Professions
 
-`dice: [[26 - NPC Generator#^1d20-professions]]`
+`dice: [[25 - NPC Generator#^1d20-professions]]`
 
 1. Farmer
 2. Blacksmith

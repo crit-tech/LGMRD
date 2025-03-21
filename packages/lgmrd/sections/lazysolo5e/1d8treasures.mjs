@@ -34,7 +34,7 @@ export default {
       type: "paragraph",
       order: 0,
       markdown:
-        'For consumable and permanent items, roll on the tables in the "[Treasure Generator](27-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.',
+        'For consumable and permanent items, roll on the tables in the "[Treasure Generator](26-treasuregenerator.md)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.',
     },
   ],
   order: 6,

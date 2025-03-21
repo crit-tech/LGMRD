@@ -12,7 +12,7 @@ The challenge ratings described in these templates are loose guides, so use your
 
 Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:
 
-**Elemental Template: **`dice: [[21 - Monster Templates#^elemental-monsters]]|Elemental Template`
+**Elemental Template: **`dice: [[20 - Monster Templates#^elemental-monsters]]|Elemental Template`
 
 | d8 | Elemental Template |
 | -- | ------------------ |
@@ -75,7 +75,7 @@ Some monsters can innately cast magical spells. Spell-infused monsters typically
 
 Spell-infused creatures do not require components to cast their spells. They typically use each of their spells once, recovering the ability to do so when they finish a long rest. Roll for or choose from the table to determine which spells a creature can use. Spells that deal high damage can affect a creature's challenge rating.
 
-**Spell: **`dice: [[21 - Monster Templates#^spell-infused-monsters]]|Spell`
+**Spell: **`dice: [[20 - Monster Templates#^spell-infused-monsters]]|Spell`
 
 | d20 | Spell            |
 | --- | ---------------- |

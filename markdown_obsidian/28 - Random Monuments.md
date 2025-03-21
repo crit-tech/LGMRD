@@ -6,7 +6,7 @@ Filling the various chambers and locations in your game with interesting feature
 
 ## 1d20 Origins
 
-`dice: [[29 - Random Monuments#^1d20-origins]]`
+`dice: [[28 - Random Monuments#^1d20-origins]]`
 
 1. Draconic
 2. Dwarven
@@ -33,7 +33,7 @@ Filling the various chambers and locations in your game with interesting feature
 
 ## 1d20 Conditions
 
-`dice: [[29 - Random Monuments#^1d20-conditions]]`
+`dice: [[28 - Random Monuments#^1d20-conditions]]`
 
 1. Crumbling
 2. Sunken
@@ -60,7 +60,7 @@ Filling the various chambers and locations in your game with interesting feature
 
 ## 1d20 Unusual Effects
 
-`dice: [[29 - Random Monuments#^1d20-unusual-effects]]`
+`dice: [[28 - Random Monuments#^1d20-unusual-effects]]`
 
 1. Undeath
 2. Fire
@@ -87,7 +87,7 @@ Filling the various chambers and locations in your game with interesting feature
 
 ## 100 Monument Structures
 
-`dice: [[29 - Random Monuments#^100-monument-structures]]`
+`dice: [[28 - Random Monuments#^100-monument-structures]]`
 
 1. Aerie
 2. Altar

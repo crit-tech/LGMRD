@@ -23,7 +23,7 @@ As desired, you can augment monetary treasure with consumable magic items from t
 
 ## 1d12 Consumable Treasure
 
-`dice: [[27 - Treasure Generator#^1d12-consumable-treasure]]`
+`dice: [[26 - Treasure Generator#^1d12-consumable-treasure]]`
 
 1. *Potion of healing*
 2. *Potion of greater healing*
@@ -48,7 +48,7 @@ Permanent magic items can be included with treasure as desired, with the uncommo
 
 ## 40 Magical Treasures
 
-`dice: [[27 - Treasure Generator#^40-magical-treasures]]`
+`dice: [[26 - Treasure Generator#^40-magical-treasures]]`
 
 1. *Weapon +1*
 2. *Armor +1*

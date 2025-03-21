@@ -41,7 +41,7 @@ Whenever a character witnesses a potential stress event, you can ask for a Chari
 
 ## 1d20 Stress Results
 
-`dice: [[24 - Stress Effects#^1d20-stress-results]]`
+`dice: [[23 - Stress Effects#^1d20-stress-results]]`
 
 1. You slip into a mental vision of a restful place.
 2. You whisper in a tongue no mortal understands.
