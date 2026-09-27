@@ -84,6 +84,9 @@ importers:
       '@types/adm-zip':
         specifier: ^0.5.5
         version: 0.5.7
+      '@types/hast':
+        specifier: ^3.0.4
+        version: 3.0.4
       '@types/mdast':
         specifier: ^4.0.3
         version: 4.0.4

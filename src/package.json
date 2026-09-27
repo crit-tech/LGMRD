@@ -21,6 +21,7 @@
   "homepage": "https://github.com/crit-tech/LGMRD#readme",
   "devDependencies": {
     "@types/adm-zip": "^0.5.5",
+    "@types/hast": "^3.0.4",
     "@types/mdast": "^4.0.3",
     "@types/semver": "^7.5.0",
     "@types/unist": "^3.0.2",
