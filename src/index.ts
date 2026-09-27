@@ -62,12 +62,36 @@ async function createOutput(docType: DocType) {
     logUpdate(docType, "json");
   }
 
-  await publishJsonPackage(docType);
 }
 
 async function run() {
-  await createOutput("LGMRD");
-  await createOutput("5e_Monster_Builder");
+  const docTypes: DocType[] = ["LGMRD", "5e_Monster_Builder"];
+  for (const docType of docTypes) {
+    await createOutput(docType);
+  }
+
+  // Publish after all outputs are generated so a publish failure doesn't
+  // prevent the other document from being built.
+  const publishErrors: unknown[] = [];
+  for (const docType of docTypes) {
+    try {
+      await publishJsonPackage(docType);
+    } catch (error) {
+      console.error(error instanceof Error ? error.message : error);
+      publishErrors.push(error);
+    }
+  }
+
+  // Tell the workflow the generated files are complete and safe to commit,
+  // even if publishing failed below.
+  if (process.env.GITHUB_OUTPUT) {
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, "outputs_generated=true\n");
+  }
+
+  if (publishErrors.length > 0) {
+    console.error(`${publishErrors.length} package(s) failed to publish`);
+    process.exitCode = 1;
+  }
 }
 
 run();

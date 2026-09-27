@@ -140,8 +140,11 @@ export async function publishJsonPackage(docType: DocType): Promise<void> {
   await new Promise((resolve) => npmPublish.on("exit", resolve));
 
   if (npmPublish.exitCode !== 0) {
-    console.error(`npm publish failed for ${packageName}`);
+    // revert the version so the next run tries to publish again
     packageJson.version = previousVersion;
     await fs.writeFile(packageJsonPath, JSON.stringify(packageJson, null, 2));
+    throw new Error(
+      `npm publish failed for ${packageName} (exit code ${npmPublish.exitCode})`
+    );
   }
 }
