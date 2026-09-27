@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  basic-ftp: 5.3.1
+
 importers:
 
   .:
@@ -393,8 +396,8 @@ packages:
       bare-events:
         optional: true
 
-  basic-ftp@5.0.5:
-    resolution: {integrity: sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==}
+  basic-ftp@5.3.1:
+    resolution: {integrity: sha512-bopVNp6ugyA150DDuZfPFdt1KZ5a94ZDiwX4hMgZDzF+GttD80lEy8kj98kbyhLXnPvhtIo93mdnLIjpCAeeOw==}
     engines: {node: '>=10.0.0'}
 
   boolbase@1.0.0:
@@ -1356,7 +1359,7 @@ snapshots:
       bare-events: 2.5.4
     optional: true
 
-  basic-ftp@5.0.5: {}
+  basic-ftp@5.3.1: {}
 
   boolbase@1.0.0: {}
 
@@ -1586,7 +1589,7 @@ snapshots:
 
   get-uri@6.0.4:
     dependencies:
-      basic-ftp: 5.0.5
+      basic-ftp: 5.3.1
       data-uri-to-buffer: 6.0.2
       debug: 4.4.0
     transitivePeerDependencies:

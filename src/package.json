@@ -57,6 +57,9 @@
   "pnpm": {
     "onlyBuiltDependencies": [
       "puppeteer"
-    ]
+    ],
+    "overrides": {
+      "basic-ftp": "5.3.1"
+    }
   }
 }
